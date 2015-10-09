@@ -1,0 +1,382 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niedernhausener Straße 15 - 19, 60326 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.63803,50.10761,0],"name":"F-GO1146","engineType":"CE","vin":"WME4513341K747774","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.74215,50.12206,0],"name":"F-GO1209","engineType":"CE","vin":"WME4513341K747350","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Römischer Ring, 60327 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.63313,50.1097,0],"name":"F-GO1034","engineType":"CE","vin":"WME4513341K740972","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Offenbacher Landstraße 142 - 144, 60599 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[8.70255,50.10044,0],"name":"F-GO1027","engineType":"CE","vin":"WME4513341K741202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.74298,50.12254,0],"name":"F-GO1071","engineType":"CE","vin":"WME4513341K742643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Bornheimer Landwehr 74, 60385 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.71373,50.12237,0],"name":"F-GO1149","engineType":"CE","vin":"WME4513341K746710","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Domitianstraße 29, 60439 Frankfurt am Main","city":"frankfurt","fuel":42,"exterior":"GOOD","coordinates":[8.6423,50.15932,0],"name":"F-GO1062","engineType":"CE","vin":"WME4513341K742468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Augustenburgstraße 18, 60488 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62388,50.15238,0],"name":"F-GO1169","engineType":"CE","vin":"WME4513341K747991","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"In der Römerstadt 131, 60439 Frankfurt am Main","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.63656,50.15378,0],"name":"F-GO1188","engineType":"CE","vin":"WME4513341K749782","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Gerhard-Domagk-Straße 2, 60438 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[8.6255,50.17733,0],"name":"F-GO1187","engineType":"CE","vin":"WME4513341K749848","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Gerauer Straße 50, 60528 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"GOOD","coordinates":[8.64526,50.08205,0],"name":"F-GO1063","engineType":"CE","vin":"WME4513341K740846","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Wasserpark 3, 60389 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.69863,50.13766,0],"name":"F-GO1035","engineType":"CE","vin":"WME4513341K740957","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Eppsteiner Straße 56, 60323 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.66346,50.12001,0],"name":"F-GO1080","engineType":"CE","vin":"WME4513341K743540","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Wormser Straße 22, 60598 Frankfurt am Main","city":"frankfurt","fuel":48,"exterior":"GOOD","coordinates":[8.6825,50.09184,0],"name":"F-GO1159","engineType":"CE","vin":"WME4513341K743888","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Fischstein 2 - 12, 60488 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":75,"exterior":"GOOD","coordinates":[8.62516,50.13076,0],"name":"F-GO1029","engineType":"CE","vin":"WME4513341K741084","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Europa-Allee 64, 60327 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"GOOD","coordinates":[8.62539,50.10754,0],"name":"F-GO1032","engineType":"CE","vin":"WME4513341K741044","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Unter den Kastanien 14, 60596 Frankfurt am Main","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.66848,50.09199,0],"name":"F-GO1079","engineType":"CE","vin":"WME4513341K743718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sudermannstraße 34, 60431 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.65636,50.14092,0],"name":"F-GO1170","engineType":"CE","vin":"WME4513341K747809","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Frauenlobstraße 40, 60487 Frankfurt am Main","city":"frankfurt","fuel":51,"exterior":"GOOD","coordinates":[8.65252,50.12919,0],"name":"F-GO1184","engineType":"CE","vin":"WME4513341K746363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"FRAPORT Terminal 1 Ankunft P29 Ausgang 0","city":"frankfurt","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[8.56656,50.04943,0],"name":"F-GO1086","engineType":"CE","vin":"WME4513341K745489","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Dielmannstraße 61, 60599 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.69896,50.09754,0],"name":"F-GO1054","engineType":"CE","vin":"WME4513341K744021","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Thorwaldsenstraße 6, 60596 Frankfurt am Main","city":"frankfurt","fuel":48,"exterior":"GOOD","coordinates":[8.67737,50.09846,0],"name":"F-GO1173","engineType":"CE","vin":"WME4513341K747654","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schleswiger Straße 20, 60435 Frankfurt am Main","city":"frankfurt","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[8.67971,50.14266,0],"name":"F-GO1039","engineType":"CE","vin":"WME4513341K740821","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schwanheimer Straße 152, 60528 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"GOOD","coordinates":[8.63338,50.08777,0],"name":"F-GO1158","engineType":"CE","vin":"WME4513341K744073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Prozessionsweg 5, 60438 Frankfurt am Main","city":"frankfurt","fuel":66,"exterior":"GOOD","coordinates":[8.64102,50.1773,0],"name":"F-GO1047","engineType":"CE","vin":"WME4513341K745050","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Hinterm Bachberg 10, 60435 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[8.68851,50.1575,0],"name":"F-GO1205","engineType":"CE","vin":"WME4513341K747544","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Pariser Straße, 60327 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.62527,50.10839,0],"name":"F-GO1090","engineType":"CE","vin":"WME4513341K743672","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Quirinsstraße 11, 60599 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.69407,50.10031,0],"name":"F-GO1196","engineType":"CE","vin":"WME4513341K747796","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Stresemannallee 63, 60596 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.67131,50.09325,0],"name":"F-GO1201","engineType":"CE","vin":"WME4513341K747723","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Mörfelder Landstraße 187, 60598 Frankfurt am Main","city":"frankfurt","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[8.67603,50.09215,0],"name":"F-GO1157","engineType":"CE","vin":"WME4513341K744111","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Uni Campus Westend","city":"frankfurt","fuel":69,"exterior":"GOOD","coordinates":[8.66552,50.12381,0],"name":"F-GO1131","engineType":"CE","vin":"WME4513341K745164","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Die Bitz 2, 60488 Frankfurt am Main","city":"frankfurt","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[8.62158,50.14679,0],"name":"F-GO1127","engineType":"CE","vin":"WME4513341K747046","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Polizeimeister-Kaspar-Straße 4 - 12, 60320 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.6749,50.13384,0],"name":"F-GO1210","engineType":"CE","vin":"WME4513341K747561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Biedenkopfer Weg 43, 60489 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[8.60325,50.12102,0],"name":"F-GO1126","engineType":"CE","vin":"WME4513341K747051","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Letzter Hasenpfad 36, 60598 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.68365,50.09242,0],"name":"F-GO1048","engineType":"CE","vin":"WME4513341K744598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Stockborn 5, 60439 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62434,50.15402,0],"name":"F-GO1009","engineType":"CE","vin":"WME4513341K745908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Johann-Beyer-Weg 5, 60438 Frankfurt am Main","city":"frankfurt","fuel":60,"exterior":"GOOD","coordinates":[8.62635,50.18218,0],"name":"F-GO1172","engineType":"CE","vin":"WME4513341K747711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schwalbacher Straße 44, 65760 Eschborn","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.56006,50.14303,0],"name":"F-GO1056","engineType":"CE","vin":"WME4513341K743758","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Friedrich-Naumann-Straße 28, 60486 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[8.63163,50.11286,0],"name":"F-GO1030","engineType":"CE","vin":"WME4513341K741069","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Seckbacher Landstraße 56, 60389 Frankfurt am Main","city":"frankfurt","fuel":60,"exterior":"GOOD","coordinates":[8.71188,50.13416,0],"name":"F-GO1179","engineType":"CE","vin":"WME4513341K747259","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Altenhainer Straße 4, 60327 Frankfurt am Main","city":"frankfurt","fuel":36,"exterior":"GOOD","coordinates":[8.63366,50.10662,0],"name":"F-GO1161","engineType":"CE","vin":"WME4513341K743559","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niedwiesenstraße 44, 60431 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"GOOD","coordinates":[8.6515,50.1558,0],"name":"F-GO1024","engineType":"CE","vin":"WME4513341K741753","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Altenhöferallee 183, 60438 Frankfurt am Main","city":"frankfurt","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[8.62461,50.18338,0],"name":"F-GO1040","engineType":"CE","vin":"WME4513341K744351","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"PH Alt-Sachsenhausen(5.Etage)Walter-Kolb-Straße 16","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.68498,50.10538,0],"name":"F-GO1143","engineType":"CE","vin":"WME4513341K743639","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Stierstädter Straße 12 - 14, 60488 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.60994,50.14899,0],"name":"F-GO1116","engineType":"CE","vin":"WME4513341K743770","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schlossstraße 21, 60486 Frankfurt am Main","city":"frankfurt","fuel":45,"exterior":"GOOD","coordinates":[8.63778,50.12281,0],"name":"F-GO1152","engineType":"CE","vin":"WME4513341K745046","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Westring 28, 60488 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.6137,50.13355,0],"name":"F-GO1006","engineType":"CE","vin":"WME4513341K746088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Altenhöferallee 171 - 187, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[8.62459,50.18364,0],"name":"F-GO1021","engineType":"CE","vin":"WME4513341K743788","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Hohen Weg 13 - 19, 60488 Frankfurt am Main","city":"frankfurt","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[8.62977,50.13036,0],"name":"F-GO1094","engineType":"CE","vin":"WME4513341K743190","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ehingerstraße 26, 60326 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.6263,50.10003,0],"name":"F-GO1043","engineType":"CE","vin":"WME4513341K745561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Wendelsweg 89, 60599 Frankfurt am Main","city":"frankfurt","fuel":36,"exterior":"GOOD","coordinates":[8.69922,50.09742,0],"name":"F-GO1130","engineType":"CE","vin":"WME4513341K745582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schweizer Straße 108, 60594 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.6839,50.09783,0],"name":"F-GO1148","engineType":"CE","vin":"WME4513341K747298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Seehofstraße 41, 60594 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.69829,50.1027,0],"name":"F-GO1185","engineType":"CE","vin":"WME4513341K744676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.74162,50.12182,0],"name":"F-GO1098","engineType":"CE","vin":"WME4513341K742940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Freihofstraße 17, 60385 Frankfurt am Main","city":"frankfurt","fuel":45,"exterior":"GOOD","coordinates":[8.71285,50.1304,0],"name":"F-GO1051","engineType":"CE","vin":"WME4513341K742880","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Heerstraße 242, 60488 Frankfurt am Main","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.60289,50.14332,0],"name":"F-GO1020","engineType":"CE","vin":"WME4513341K744543","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Uni Campus Riedberg","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.6329,50.17239,0],"name":"F-GO1137","engineType":"CE","vin":"WME4513341K744568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Eytelweinstraße 3, 60314 Frankfurt am Main","city":"frankfurt","fuel":21,"exterior":"GOOD","coordinates":[8.70657,50.10977,0],"name":"F-GO1114","engineType":"CE","vin":"WME4513341K744155","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Dammgraben 59, 60486 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":51,"exterior":"GOOD","coordinates":[8.63428,50.11064,0],"name":"F-GO1112","engineType":"CE","vin":"WME4513341K747410","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Friesengasse 27, 60487 Frankfurt am Main","city":"frankfurt","fuel":45,"exterior":"GOOD","coordinates":[8.6378,50.12361,0],"name":"F-GO1160","engineType":"CE","vin":"WME4513341K743648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Mailänder Straße 11, 60598 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.68902,50.09132,0],"name":"F-GO1110","engineType":"CE","vin":"WME4513341K741244","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Theobald-Ziegler-Straße 3, 60435 Frankfurt am Main","city":"frankfurt","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[8.69112,50.14754,0],"name":"F-GO1093","engineType":"CE","vin":"WME4513341K743435","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Kleyerstraße 89, 60326 Frankfurt am Main","city":"frankfurt","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[8.62574,50.09522,0],"name":"F-GO1138","engineType":"CE","vin":"WME4513341K744558","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"PH Konstabler (5.Etage), Töngesgasse 8","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.68481,50.11356,0],"name":"F-GO1083","engineType":"CE","vin":"WME4513341K743118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"An der Festeburg 16, 60389 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.70612,50.14419,0],"name":"F-GO1128","engineType":"CE","vin":"WME4513341K746544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Römischer Ring 10 - 14, 60486 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":78,"exterior":"GOOD","coordinates":[8.63469,50.10969,0],"name":"F-GO1183","engineType":"CE","vin":"WME4513341K746392","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Kransberger Weg 5, 60439 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[8.62725,50.15531,0],"name":"F-GO1091","engineType":"CE","vin":"WME4513341K743549","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Gablonzer Straße 21, 60598 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.67127,50.08487,0],"name":"F-GO1140","engineType":"CE","vin":"WME4513341K744017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Gerauer Straße 52, 60528 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64553,50.08171,0],"name":"F-GO1076","engineType":"CE","vin":"WME4513341K745666","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Lötzener Straße 33, 60487 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62371,50.12524,0],"name":"F-GO1084","engineType":"CE","vin":"WME4513341K742527","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ostbahnhofstraße 9, 60314 Frankfurt am Main","city":"frankfurt","fuel":69,"exterior":"GOOD","coordinates":[8.70467,50.11305,0],"name":"F-GO1134","engineType":"CE","vin":"WME4513341K747648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Willy-Berking-Straße, 60488 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.60897,50.14906,0],"name":"F-GO1154","engineType":"CE","vin":"WME4513341K744604","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schloßstraße 19, 60486 Frankfurt am Main","city":"frankfurt","fuel":93,"exterior":"GOOD","coordinates":[8.63757,50.12291,0],"name":"F-GO1175","engineType":"CE","vin":"WME4513341K747533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Kreuznacher Straße 41, 60486 Frankfurt am Main","city":"frankfurt","fuel":48,"exterior":"GOOD","coordinates":[8.64098,50.118,0],"name":"F-GO1133","engineType":"CE","vin":"WME4513341K744159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sophienstraße 25, 60487 Frankfurt am Main","city":"frankfurt","fuel":36,"exterior":"GOOD","coordinates":[8.64972,50.12341,0],"name":"F-GO1203","engineType":"CE","vin":"WME4513341K747576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Augustusstraße 12, 60439 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"GOOD","coordinates":[8.64368,50.16047,0],"name":"F-GO1150","engineType":"CE","vin":"WME4513341K746072","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Konstantinstraße 19, 60439 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[8.63863,50.15616,0],"name":"F-GO1117","engineType":"CE","vin":"WME4513341K743729","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Frankenallee 236 - 240, 60326 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[8.62521,50.10288,0],"name":"F-GO1082","engineType":"CE","vin":"WME4513341K743137","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Hohen Weg 31, 60488 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[8.628,50.13375,0],"name":"F-GO1164","engineType":"CE","vin":"WME4513341K742818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Wendelsweg 89, 60599 Frankfurt am Main","city":"frankfurt","fuel":36,"exterior":"GOOD","coordinates":[8.69966,50.0973,0],"name":"F-GO1192","engineType":"CE","vin":"WME4513341K747995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Oskar-Sommer-Straße 12, 60596 Frankfurt am Main","city":"frankfurt","fuel":84,"exterior":"GOOD","coordinates":[8.67286,50.0968,0],"name":"F-GO1036","engineType":"CE","vin":"WME4513341K740921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"PH Konstabler (5.Etage), Töngesgasse 8","city":"frankfurt","fuel":48,"exterior":"GOOD","coordinates":[8.68481,50.11356,0],"name":"F-GO1167","engineType":"CE","vin":"WME4513341K749820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schubertstraße 19, 60325 Frankfurt am Main","city":"frankfurt","fuel":15,"exterior":"GOOD","coordinates":[8.65778,50.11786,0],"name":"F-GO1120","engineType":"CE","vin":"WME4513341K743393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Intzestraße 34, 60314 Frankfurt am Main","city":"frankfurt","fuel":12,"exterior":"GOOD","coordinates":[8.72872,50.11532,0],"name":"F-GO1180","engineType":"CE","vin":"WME4513341K747229","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Tucholskystraße 6, 60598 Frankfurt am Main","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.68787,50.09765,0],"name":"F-GO1194","engineType":"CE","vin":"WME4513341K747852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Heilmannstraße 64, 60439 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.62284,50.15668,0],"name":"F-GO1028","engineType":"CE","vin":"WME4513341K741125","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Stresemannallee 78, 60598 Frankfurt am Main","city":"frankfurt","fuel":42,"exterior":"GOOD","coordinates":[8.67153,50.089,0],"name":"F-GO1061","engineType":"CE","vin":"WME4513341K742492","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Zum Laurenburger Hof 38 - 56, 60594 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.70509,50.10514,0],"name":"F-GO1106","engineType":"CE","vin":"WME4513341K742511","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Heinrich-Limpert-Weg 9 - 13, 60599 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.69571,50.09179,0],"name":"F-GO1198","engineType":"CE","vin":"WME4513341K747752","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Maastrichter Ring, 60327 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"GOOD","coordinates":[8.62759,50.10923,0],"name":"F-GO1104","engineType":"CE","vin":"WME4513341K742594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Guiollettstraße 53 - 57, 60325 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.66253,50.11468,0],"name":"F-GO1168","engineType":"CE","vin":"WME4513341K749773","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Eckenheimer Landstraße 190, 60320 Frankfurt am Main","city":"frankfurt","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[8.68425,50.13357,0],"name":"F-GO1044","engineType":"CE","vin":"WME4513341K745507","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Wiesenrain 14, 60431 Frankfurt am Main","city":"frankfurt","fuel":15,"exterior":"GOOD","coordinates":[8.6473,50.14302,0],"name":"F-GO1174","engineType":"CE","vin":"WME4513341K747613","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Hannah-Arendt-Straße 26 - 38, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64105,50.17981,0],"name":"F-GO1165","engineType":"CE","vin":"WME4513341K742778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Friesengasse 31, 60487 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.63747,50.12341,0],"name":"F-GO1005","engineType":"CE","vin":"WME4513341K742474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sudermannstraße 4, 60431 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.65902,50.13958,0],"name":"F-GO1153","engineType":"CE","vin":"WME4513341K744708","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Falkstraße 71, 60487 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64536,50.12483,0],"name":"F-GO1072","engineType":"CE","vin":"WME4513341K742449","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Pissarroweg 9, 60438 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[8.64379,50.17785,0],"name":"F-GO1077","engineType":"CE","vin":"WME4513341K745132","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Homburger Landstraße 187, 60435 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[8.69128,50.15346,0],"name":"F-GO1074","engineType":"CE","vin":"WME4513341K740999","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Appelsgasse 13, 60487 Frankfurt am Main","city":"frankfurt","fuel":24,"exterior":"GOOD","coordinates":[8.63771,50.12464,0],"name":"F-GO1075","engineType":"CE","vin":"WME4513341K746947","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Freiherr-vom-Stein-Straße 49, 60323 Frankfurt am Main","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.66372,50.12175,0],"name":"F-GO1182","engineType":"CE","vin":"WME4513341K747199","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Leonardo-da-Vinci-Allee 20, 60486 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.6211,50.11389,0],"name":"F-GO1065","engineType":"CE","vin":"WME4513341K745988","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niddagaustraße 93, 60489 Frankfurt am Main","city":"frankfurt","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[8.61648,50.13154,0],"name":"F-GO1101","engineType":"CE","vin":"WME4513341K742901","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Brahmsstraße 18, 60318 Frankfurt am Main","city":"frankfurt","fuel":27,"exterior":"GOOD","coordinates":[8.68783,50.1302,0],"name":"F-GO1129","engineType":"CE","vin":"WME4513341K746386","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Huswertstraße 25, 60435 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.69418,50.15784,0],"name":"F-GO1208","engineType":"CE","vin":"WME4513341K747383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Eckenheimer Landstraße 291, 60320 Frankfurt am Main","city":"frankfurt","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[8.68464,50.13806,0],"name":"F-GO1193","engineType":"CE","vin":"WME4513341K747874","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ludwig-Erhard-Straße 10, 65760 Eschborn","city":"frankfurt","fuel":42,"exterior":"GOOD","coordinates":[8.55379,50.14567,0],"name":"F-GO1125","engineType":"CE","vin":"WME4513341K747555","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niedwiesenstraße 78, 60431 Frankfurt am Main","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.6486,50.1532,0],"name":"F-GO1073","engineType":"CE","vin":"WME4513341K742337","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Montgolfier-Allee 20, 60486 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"GOOD","coordinates":[8.62047,50.11269,0],"name":"F-GO1151","engineType":"CE","vin":"WME4513341K745158","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Lötzener Straße 31 - 33, 60487 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.62254,50.12518,0],"name":"F-GO1191","engineType":"CE","vin":"WME4513341K749534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niedwiesenstraße 78, 60431 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64903,50.15354,0],"name":"F-GO1186","engineType":"CE","vin":"WME4513341K743484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Arthur-von-Weinberg-Straße 12, 60438 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62373,50.17768,0],"name":"F-GO1070","engineType":"CE","vin":"WME4513341K742843","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Valentin-Senger-Straße 40 - 54, 60389 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.70227,50.14018,0],"name":"F-GO1103","engineType":"CE","vin":"WME4513341K742600","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Hauptstraße 155 - 171, 65760 Eschborn (Umkreis 100m)","city":"frankfurt","fuel":75,"exterior":"GOOD","coordinates":[8.55591,50.14833,0],"name":"F-GO1122","engineType":"CE","vin":"WME4513341K743008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ammelburgstraße 34, 60320 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.6755,50.13841,0],"name":"F-GO1145","engineType":"CE","vin":"WME4513341K743525","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Brüder-Grimm-Straße 54 - 66, 60385 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[8.7108,50.12017,0],"name":"F-GO1107","engineType":"CE","vin":"WME4513341K741770","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Offenbacher Landstraße 142 - 144, 60599 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.70275,50.10033,0],"name":"F-GO1121","engineType":"CE","vin":"WME4513341K743175","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"A5\/E451, 61440 Oberursel","city":"frankfurt","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[8.61606,50.17668,0],"name":"F-GO1033","engineType":"CE","vin":"WME4513341K741028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.74235,50.1223,0],"name":"F-GO1085","engineType":"CE","vin":"WME4513341K742418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Westerbachstraße 48, 60489 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.5974,50.12289,0],"name":"F-GO1155","engineType":"CE","vin":"WME4513341K744539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Weilburger Straße 56 - 66, 60326 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.6355,50.09806,0],"name":"F-GO1195","engineType":"CE","vin":"WME4513341K747848","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Wasserpark 2, 60389 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.6984,50.13759,0],"name":"F-GO1212","engineType":"CE","vin":"WME4513341K748562","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Frankenallee 106, 60326 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64034,50.10462,0],"name":"F-GO1031","engineType":"CE","vin":"WME4513341K741055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Hauptstraße 81, 65760 Eschborn","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.56104,50.14467,0],"name":"F-GO1045","engineType":"CE","vin":"WME4513341K745214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Karlsbader Straße 6, 60598 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.67294,50.08662,0],"name":"F-GO1003","engineType":"CE","vin":"WME4513341K745923","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Wasserpark 2, 60389 Frankfurt am Main","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.69851,50.13762,0],"name":"F-GO1109","engineType":"CE","vin":"WME4513341K741277","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Stiftung-Waisenhaus-Weg 13 - 19, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":69,"exterior":"GOOD","coordinates":[8.62781,50.18129,0],"name":"F-GO1018","engineType":"CE","vin":"WME4513341K745565","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Wingertstraße 10, 60316 Frankfurt am Main","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.70159,50.11979,0],"name":"F-GO1102","engineType":"CE","vin":"WME4513341K742794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Lahnstraße 72, 60326 Frankfurt am Main","city":"frankfurt","fuel":24,"exterior":"GOOD","coordinates":[8.63217,50.10078,0],"name":"F-GO1177","engineType":"CE","vin":"WME4513341K747403","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Gundhofstraße 28, 60528 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64766,50.07921,0],"name":"F-GO1055","engineType":"CE","vin":"WME4513341K743784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"PH Alt-Sachsenhausen(5.Etage)Walter-Kolb-Straße 16","city":"frankfurt","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[8.68498,50.10538,0],"name":"F-GO1096","engineType":"CE","vin":"WME4513341K743069","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schwalbacher Straße 48, 65760 Eschborn","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.55914,50.14328,0],"name":"F-GO1095","engineType":"CE","vin":"WME4513341K743112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Fischstein 51, 60487 Frankfurt am Main","city":"frankfurt","fuel":24,"exterior":"GOOD","coordinates":[8.62331,50.1289,0],"name":"F-GO1004","engineType":"CE","vin":"WME4513341K743086","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Stiftung-Waisenhaus-Weg 2 - 14, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":45,"exterior":"GOOD","coordinates":[8.62695,50.18076,0],"name":"F-GO1178","engineType":"CE","vin":"WME4513341K747381","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Riedbergallee 57, 60438 Frankfurt am Main","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.63414,50.17919,0],"name":"F-GO1189","engineType":"CE","vin":"WME4513341K749759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Johann-Beyer-Weg 11, 60438 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62678,50.18229,0],"name":"F-GO1089","engineType":"CE","vin":"WME4513341K743747","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Giessener Straße 20, 60435 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.69437,50.13878,0],"name":"F-GO1081","engineType":"CE","vin":"WME4513341K743530","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Stiegelschlag 13, 60385 Frankfurt am Main","city":"frankfurt","fuel":42,"exterior":"GOOD","coordinates":[8.71471,50.13365,0],"name":"F-GO1123","engineType":"CE","vin":"WME4513341K747985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":66,"exterior":"GOOD","coordinates":[8.74223,50.12212,0],"name":"F-GO1142","engineType":"CE","vin":"WME4513341K743762","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Lyoner Straße 21, 60528 Frankfurt am Main","city":"frankfurt","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[8.62393,50.08141,0],"name":"F-GO1115","engineType":"CE","vin":"WME4513341K743929","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Augustusstraße 12, 60439 Frankfurt am Main","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.64362,50.16042,0],"name":"F-GO1041","engineType":"CE","vin":"WME4513341K745996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Konrad-Brosswitz-Straße 30, 60487 Frankfurt am Main","city":"frankfurt","fuel":15,"exterior":"GOOD","coordinates":[8.64091,50.12606,0],"name":"F-GO1144","engineType":"CE","vin":"WME4513341K743608","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Friedrichstraße 12, 60323 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.66637,50.1217,0],"name":"F-GO1066","engineType":"CE","vin":"WME4513341K745861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ludwig-Reinheimer-Straße 2 - 12, 60439 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.64134,50.16384,0],"name":"F-GO1197","engineType":"CE","vin":"WME4513341K747792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Felix-Wankel-Straße, 60314 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.74189,50.12209,0],"name":"F-GO1097","engineType":"CE","vin":"WME4513341K743061","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Franz-Werfel-Straße 16, 60431 Frankfurt am Main","city":"frankfurt","fuel":90,"exterior":"GOOD","coordinates":[8.65628,50.13867,0],"name":"F-GO1046","engineType":"CE","vin":"WME4513341K745108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Zur Kalbacher Höhe 6, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":18,"exterior":"GOOD","coordinates":[8.63704,50.17842,0],"name":"F-GO1087","engineType":"CE","vin":"WME4513341K744612","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Emil-Sulzbach-Straße 15, 60486 Frankfurt am Main","city":"frankfurt","fuel":96,"exterior":"GOOD","coordinates":[8.6486,50.11522,0],"name":"F-GO1019","engineType":"CE","vin":"WME4513341K744572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Werrastraße 27, 60486 Frankfurt am Main","city":"frankfurt","fuel":81,"exterior":"GOOD","coordinates":[8.63972,50.12044,0],"name":"F-GO1007","engineType":"CE","vin":"WME4513341K743123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Praunheimer Landstraße 211, 60488 Frankfurt am Main","city":"frankfurt","fuel":24,"exterior":"GOOD","coordinates":[8.62429,50.14636,0],"name":"F-GO1023","engineType":"CE","vin":"WME4513341K742435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sudermannstraße 16, 60431 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.65817,50.14053,0],"name":"F-GO1136","engineType":"CE","vin":"WME4513341K744592","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Boskoopstraße 6, 60435 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"GOOD","coordinates":[8.69937,50.15758,0],"name":"F-GO1156","engineType":"CE","vin":"WME4513341K744149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Mailänder Straße 7, 60598 Frankfurt am Main","city":"frankfurt","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[8.68985,50.09163,0],"name":"F-GO1038","engineType":"CE","vin":"WME4513341K740874","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Maastrichter Ring, 60486 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62748,50.10942,0],"name":"F-GO1213","engineType":"CE","vin":"WME4513341K747689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Burgfriedenstraße 4, 60489 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.61189,50.12484,0],"name":"F-GO1171","engineType":"CE","vin":"WME4513341K747757","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ringelstraße 50, 60385 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.70986,50.12689,0],"name":"F-GO1069","engineType":"CE","vin":"WME4513341K744962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Bonifatiusbrunnen 9, 60439 Frankfurt am Main","city":"frankfurt","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[8.64134,50.17534,0],"name":"F-GO1026","engineType":"CE","vin":"WME4513341K741224","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sachsenhäuser Landwehrweg 208, 60598 Frankfurt am Main","city":"frankfurt","fuel":60,"exterior":"GOOD","coordinates":[8.69076,50.0882,0],"name":"F-GO1216","engineType":"CE","vin":"WME4513341K747358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Schmittener Straße 1, 60489 Frankfurt am Main","city":"frankfurt","fuel":66,"exterior":"GOOD","coordinates":[8.61737,50.13028,0],"name":"F-GO1058","engineType":"CE","vin":"WME4513341K743467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Varrentrappstraße 57 - 75, 60486 Frankfurt am Main (Umkreis 300m)","city":"frankfurt","fuel":45,"exterior":"GOOD","coordinates":[8.64881,50.11632,0],"name":"F-GO1053","engineType":"CE","vin":"WME4513341K744180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Röderbergweg 266, 60385 Frankfurt am Main","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.71738,50.12106,0],"name":"F-GO1113","engineType":"CE","vin":"WME4513341K747265","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"FRAPORT Terminal 1 Ankunft P29 Ausgang 0","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.56656,50.04943,0],"name":"F-GO1105","engineType":"CE","vin":"WME4513341K742535","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Maastrichter Ring, 60486 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.62563,50.10926,0],"name":"F-GO1064","engineType":"CE","vin":"WME4513341K747076","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Lersnerstraße 12, 60322 Frankfurt am Main","city":"frankfurt","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[8.68073,50.1245,0],"name":"F-GO1215","engineType":"CE","vin":"WME4513341K749508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Bremer Straße 4, 60322 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"GOOD","coordinates":[8.67064,50.12552,0],"name":"F-GO1207","engineType":"CE","vin":"WME4513341K747484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Rosa-Marx-Weg 2, 60314 Frankfurt am Main","city":"frankfurt","fuel":57,"exterior":"GOOD","coordinates":[8.69984,50.10857,0],"name":"F-GO1050","engineType":"CE","vin":"WME4513341K743048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Idsteiner Straße 20, 60326 Frankfurt am Main","city":"frankfurt","fuel":90,"exterior":"GOOD","coordinates":[8.63443,50.10604,0],"name":"F-GO1059","engineType":"CE","vin":"WME4513341K742705","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Zum Apothekerhof 7, 60594 Frankfurt am Main","city":"frankfurt","fuel":81,"exterior":"GOOD","coordinates":[8.69804,50.10538,0],"name":"F-GO1118","engineType":"CE","vin":"WME4513341K743692","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Sonnemannstraße 77, 60314 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.70372,50.1112,0],"name":"F-GO1199","engineType":"CE","vin":"WME4513341K747740","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Augustusstraße 16, 60439 Frankfurt am Main","city":"frankfurt","fuel":75,"exterior":"GOOD","coordinates":[8.64338,50.15999,0],"name":"F-GO1132","engineType":"CE","vin":"WME4513341K745058","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Wiesenrain 10, 60431 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64741,50.14393,0],"name":"F-GO1147","engineType":"CE","vin":"WME4513341K747308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Wismarer Straße 9, 60323 Frankfurt am Main","city":"frankfurt","fuel":39,"exterior":"GOOD","coordinates":[8.66703,50.13036,0],"name":"F-GO1124","engineType":"CE","vin":"WME4513341K747717","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Am Bornheimer Hang 4, 60386 Frankfurt am Main","city":"frankfurt","fuel":69,"exterior":"GOOD","coordinates":[8.72268,50.12458,0],"name":"F-GO1025","engineType":"CE","vin":"WME4513341K741263","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Prozessionsweg 40, 60438 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.64258,50.17802,0],"name":"F-GO1049","engineType":"CE","vin":"WME4513341K744314","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ostparkstraße 16, 60385 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[8.71882,50.12185,0],"name":"F-GO1022","engineType":"CE","vin":"WME4513341K743505","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Carl-Goerdeler-Straße 9, 60320 Frankfurt am Main","city":"frankfurt","fuel":33,"exterior":"GOOD","coordinates":[8.67146,50.14074,0],"name":"F-GO1218","engineType":"CE","vin":"WME4513341K747321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Renoirallee 75, 60438 Frankfurt am Main","city":"frankfurt","fuel":18,"exterior":"GOOD","coordinates":[8.64508,50.17786,0],"name":"F-GO1092","engineType":"CE","vin":"WME4513341K743534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Prozessionsweg 20 - 58, 60438 Frankfurt am Main (Umkreis 100m)","city":"frankfurt","fuel":72,"exterior":"GOOD","coordinates":[8.64227,50.17789,0],"name":"F-GO1068","engineType":"CE","vin":"WME4513341K745001","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Landgraf-Philipp-Straße 33, 60431 Frankfurt am Main","city":"frankfurt","fuel":96,"exterior":"GOOD","coordinates":[8.65913,50.15251,0],"name":"F-GO1162","engineType":"CE","vin":"WME4513341K743473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Im Geeren 87, 60433 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[8.66471,50.1616,0],"name":"F-GO1202","engineType":"CE","vin":"WME4513341K747638","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"An der Sandelmühle 50, 60439 Frankfurt am Main","city":"frankfurt","fuel":30,"exterior":"GOOD","coordinates":[8.65026,50.16169,0],"name":"F-GO1135","engineType":"CE","vin":"WME4513341K747587","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Langweidenstraße 35, 60488 Frankfurt am Main","city":"frankfurt","fuel":69,"exterior":"GOOD","coordinates":[8.63045,50.13356,0],"name":"F-GO1078","engineType":"CE","vin":"WME4513341K743735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Uni Campus Riedberg","city":"frankfurt","fuel":21,"exterior":"GOOD","coordinates":[8.6329,50.17239,0],"name":"F-GO1042","engineType":"CE","vin":"WME4513341K745586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Bottenhorner Weg 50, 60489 Frankfurt am Main","city":"frankfurt","fuel":12,"exterior":"GOOD","coordinates":[8.5993,50.11888,0],"name":"F-GO1119","engineType":"CE","vin":"WME4513341K743586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Ringelstraße 9, 60385 Frankfurt am Main","city":"frankfurt","fuel":63,"exterior":"GOOD","coordinates":[8.70909,50.1232,0],"name":"F-GO1057","engineType":"CE","vin":"WME4513341K743742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Bernadottestraße 94, 60439 Frankfurt am Main","city":"frankfurt","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[8.62729,50.1547,0],"name":"F-GO1190","engineType":"CE","vin":"WME4513341K749750","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Niddagaustraße 15, 60489 Frankfurt am Main","city":"frankfurt","fuel":87,"exterior":"GOOD","coordinates":[8.61032,50.12732,0],"name":"F-GO1099","engineType":"CE","vin":"WME4513341K742906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Erntestraße 4, 60327 Frankfurt am Main","city":"frankfurt","fuel":96,"exterior":"GOOD","coordinates":[8.63903,50.09515,0],"name":"F-GO1214","engineType":"CE","vin":"WME4513341K744173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"PH Am Gericht (7.Etage), Klapperfeldstraße 8","city":"frankfurt","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[8.69027,50.1157,0],"name":"F-GO1217","engineType":"CE","vin":"WME4513341K747312","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Inheidener Straße 69, 60385 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.71683,50.13148,0],"name":"F-GO1166","engineType":"CE","vin":"WME4513341K751107","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","smartPhoneRequired":false,"address":"Karl-Flesch-Straße 25, 60385 Frankfurt am Main","city":"frankfurt","fuel":100,"exterior":"GOOD","coordinates":[8.71791,50.12521,0],"name":"F-GO1015","engineType":"CE","vin":"WME4513341K745660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

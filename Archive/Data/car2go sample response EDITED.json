@@ -1,0 +1,19 @@
+{
+	"placemarks": [
+		{
+			"address": "Kent Ln 1440, 78703 Austin",
+			"coordinates": [
+				-97.76779,
+				30.28729,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "CSF 9069",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7EK733766"
+		}
+	]
+}

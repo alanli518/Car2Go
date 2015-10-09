@@ -1,0 +1,752 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hausman St 130, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93897,40.727,0],"name":"GTS3716","engineType":"CE","vin":"WMEEJ3BAXFK798614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 4th St 164, 11218 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.97743,40.64842,0],"name":"GTS3780","engineType":"CE","vin":"WMEEJ3BAXFK799066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"I-278, 11102 Queens","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.92329,40.77499,0],"name":"GTP 8937","engineType":"CE","vin":"WMEEJ3BA8FK798353","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"66th St 1544, 11219 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.99661,40.62203,0],"name":"GSW 7850","engineType":"CE","vin":"WMEEJ3BA9FK796255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th St 610, 11220 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-74.00561,40.64587,0],"name":"GSW 7828","engineType":"CE","vin":"WMEEJ3BA5FK795183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"66th St 1772, 11204 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-73.99144,40.61888,0],"name":"GTR 8257","engineType":"CE","vin":"WMEEJ3BA7FK797503","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave 27, 11101 Queens","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.93531,40.75401,0],"name":"GTR 8222","engineType":"CE","vin":"WMEEJ3BA2FK797652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"President St 989, 11225 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95985,40.6692,0],"name":"GSW 7803","engineType":"CE","vin":"WMEEJ3BA1FK796430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd St 1868, 11223 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.97086,40.60399,0],"name":"GTR 8186","engineType":"CE","vin":"WMEEJ3BA4FK797572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 2832, 11224 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-74.00309,40.57619,0],"name":"GTR 8269","engineType":"CE","vin":"WMEEJ3BA8FK796666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 725, 11221 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.93251,40.68601,0],"name":"GSW 7872","engineType":"CE","vin":"WMEEJ3BAXFK797155","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd St 21, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.9152,40.78018,0],"name":"GSW 7767","engineType":"CE","vin":"WMEEJ3BA9FK795770","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McGuinness Blvd 408, 11222 Brooklyn","city":"newyorkcity","fuel":87,"exterior":"GOOD","coordinates":[-73.95266,40.737,0],"name":"GSW 7818","engineType":"CE","vin":"WMEEJ3BA2FK795836","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 24th St 3067, 11224 Brooklyn","city":"newyorkcity","fuel":15,"exterior":"GOOD","coordinates":[-73.9905,40.57255,0],"name":"GSW 7800","engineType":"CE","vin":"WMEEJ3BA4FK796292","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Johns Pl 644, 11216 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95686,40.67229,0],"name":"GTC 4854","engineType":"CE","vin":"WMEEJ3BA9FK797017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Newkirk Ave 627, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.96969,40.6325,0],"name":"GTR 8260","engineType":"CE","vin":"WMEEJ3BA7FK798246","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st St 27, 11102 Queens","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.93618,40.77542,0],"name":"GUM  8131","engineType":"CE","vin":"WMEEJ3BA5FK800379","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neptune Ave 3187, 11224 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.9989,40.57749,0],"name":"GTS3743","engineType":"CE","vin":"WMEEJ3BA4FK799208","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"85th St 1118, 11228 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-74.0173,40.61707,0],"name":"GTC 4855","engineType":"CE","vin":"WMEEJ3BA9FK796336","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th St 29, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93293,40.77239,0],"name":"GTP 8876","engineType":"CE","vin":"WMEEJ3BA4FK797149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th St 545, 11215 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-73.97761,40.66589,0],"name":"HAR 7946","engineType":"CE","vin":"WMEEJ3BA6EK774955","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson Ave 275, 11216 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-73.94672,40.68369,0],"name":"HAR 7956","engineType":"CE","vin":"WMEEJ3BA4EK768605","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay 17th St 156, 11214 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00676,40.60451,0],"name":"GTR 8194","engineType":"CE","vin":"WMEEJ3BA3FK797014","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beadel St 93, 11222 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.9371,40.72189,0],"name":"GTR 8271","engineType":"CE","vin":"WMEEJ3BA8FK797428","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wyckoff Ave 88, 11237 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.91962,40.7046,0],"name":"GTR 8180","engineType":"CE","vin":"WMEEJ3BA1FK797125","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th Ave 7986, 11228 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-74.01476,40.62025,0],"name":"GSW 7821","engineType":"CE","vin":"WMEEJ3BAXFK797396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"48th St 1040, 11219 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.9973,40.63897,0],"name":"GTP 8892","engineType":"CE","vin":"WMEEJ3BA1FK795133","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Classon Ave 150, 11205 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.96147,40.69548,0],"name":"GSW 7774","engineType":"CE","vin":"WMEEJ3BA4FK796065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"63rd St 1244, 11219 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-74.00148,40.62789,0],"name":"GTR 8217","engineType":"CE","vin":"WMEEJ3BAXFK797365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th Ave 6579, 11219 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-74.00858,40.62946,0],"name":"GTS3641","engineType":"CE","vin":"WMEEJ3BA4FK798978","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"17th St 302, 11215 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"GOOD","coordinates":[-73.98977,40.66278,0],"name":"GTS3758","engineType":"CE","vin":"WMEEJ3BA5FK798388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue O 263, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97377,40.6114,0],"name":"GTP 8913","engineType":"CE","vin":"WMEEJ3BA2FK797649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minna St 250, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.98671,40.64437,0],"name":"GUM  8166","engineType":"CE","vin":"WMEEJ3BA0FK800144","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave 6386, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00305,40.62805,0],"name":"HAR 7941","engineType":"CE","vin":"WMEEJ3BA4EK764571","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave 626, 11232 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-74.00881,40.65708,0],"name":"HAR 7908","engineType":"CE","vin":"WMEEJ3BA9EK774058","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd Ave 26, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91576,40.77634,0],"name":"GTS3748","engineType":"CE","vin":"WMEEJ3BAXFK799049","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crescent St 22, 11105 Queens","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.91654,40.77707,0],"name":"GTP 9006","engineType":"CE","vin":"WMEEJ3BA6FK796651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Christoforo Colombo Blvd, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96927,40.63456,0],"name":"HAR 7925","engineType":"CE","vin":"WMEEJ3BA9EK770575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"61st St 35, 11377 Queens","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.90146,40.74969,0],"name":"HAR 7980","engineType":"CE","vin":"WMEEJ3BA3EK769308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 18th St 536, 11226 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.96095,40.63799,0],"name":"HAR 7919","engineType":"CE","vin":"WMEEJ3BA1EK770490","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"45th Ave 11, 11101 Queens","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.9485,40.74754,0],"name":"HAR 7917","engineType":"CE","vin":"WMEEJ3BA4EK766742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skillman Ave 181, 11211 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.94355,40.71602,0],"name":"HAR 7927","engineType":"CE","vin":"WMEEJ3BA7EK769960","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Francis Pl 42, 11216 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.95664,40.6719,0],"name":"GTP 9040","engineType":"CE","vin":"WMEEJ3BA1FK798274","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 5th St 46, 11211 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.967,40.71238,0],"name":"HAR 7938","engineType":"CE","vin":"WMEEJ3BA1EK764463","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Firefighter Thomas McCann Pl, 11377 Queens","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.92154,40.73849,0],"name":"HAR 7937","engineType":"CE","vin":"WMEEJ3BAXEK773114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Berry St 152, 11211 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.96009,40.71769,0],"name":"GTS3719","engineType":"CE","vin":"WMEEJ3BA7FK799011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"79th St 21, 11370 Queens","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.89091,40.77049,0],"name":"HAR 7933","engineType":"CE","vin":"WMEEJ3BA6EK768962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Van Buren St 347, 11221 Brooklyn","city":"newyorkcity","fuel":33,"exterior":"GOOD","coordinates":[-73.93509,40.69104,0],"name":"HAR 7931","engineType":"CE","vin":"WMEEJ3BA8EK775427","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Granite St 37, 11207 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.90755,40.68282,0],"name":"HAR 7935","engineType":"CE","vin":"WMEEJ3BA8EK769532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th Pl 23, 11231 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-74.00108,40.67874,0],"name":"GTS3735","engineType":"CE","vin":"WMEEJ3BA2FK798817","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vernon Blvd 31, 11106 Queens","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.93587,40.76775,0],"name":"GTR 8265","engineType":"CE","vin":"WMEEJ3BA5FK797841","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Flushing Ave 1105, 11237 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.92777,40.70519,0],"name":"HAR 7924","engineType":"CE","vin":"WMEEJ3BA0EK772070","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"41st St 21, 11105 Queens","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.90516,40.77253,0],"name":"HAR 7901","engineType":"CE","vin":"WMEEJ3BA0EK771226","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th St 22, 11105 Queens","city":"newyorkcity","fuel":87,"exterior":"GOOD","coordinates":[-73.9191,40.7803,0],"name":"HAR 7923","engineType":"CE","vin":"WMEEJ3BA0EK768567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Navy St 5, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97869,40.70101,0],"name":"HAR 7915","engineType":"CE","vin":"WMEEJ3BAXEK756815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 9th St 30, 11231 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-74.00522,40.67684,0],"name":"GSW 7839","engineType":"CE","vin":"WMEEJ3BA5FK797158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd St 150, 11232 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"GOOD","coordinates":[-73.99761,40.66204,0],"name":"HAR 7969","engineType":"CE","vin":"WMEEJ3BA0EK764695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Driggs Ave 876, 11211 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.96247,40.70894,0],"name":"HAR 7957","engineType":"CE","vin":"WMEEJ3BAXEK767099","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay 20th St 384, 11214 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00779,40.6001,0],"name":"GTR 8273","engineType":"CE","vin":"WMEEJ3BA8FK797574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"5th Ave, 11232 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-73.99962,40.65531,0],"name":"HAR 7979","engineType":"CE","vin":"WMEEJ3BAXEK774764","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 10th St 852, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96685,40.62807,0],"name":"HAR 7944","engineType":"CE","vin":"WMEEJ3BA3EK773603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"71st St 2139, 11204 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.98709,40.61176,0],"name":"HAR 7930","engineType":"CE","vin":"WMEEJ3BA2EK775083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue K 1371, 11230 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.96211,40.62275,0],"name":"GTR 8224","engineType":"CE","vin":"WMEEJ3BAXFK798063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Johns Pl 776, 11216 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.95251,40.67173,0],"name":"HAR 7943","engineType":"CE","vin":"WMEEJ3BA9EK772584","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tompkins Ave 230, 11216 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.94554,40.69111,0],"name":"GTS3760","engineType":"CE","vin":"WMEEJ3BA6FK798495","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Troutman St 121, 11206 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.9296,40.69971,0],"name":"GTR 8282","engineType":"CE","vin":"WMEEJ3BA9FK796675","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rodney St 323, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95576,40.70949,0],"name":"GTS3770","engineType":"CE","vin":"WMEEJ3BA8FK798983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Flushing Ave 1117, 11237 Brooklyn","city":"newyorkcity","fuel":21,"exterior":"GOOD","coordinates":[-73.92719,40.70536,0],"name":"HAR 7968","engineType":"CE","vin":"WMEEJ3BA4EK766286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 805, 11221 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.92917,40.68649,0],"name":"HAR 7967","engineType":"CE","vin":"WMEEJ3BA3EK768479","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Albany Ave 96, 11213 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.93862,40.67741,0],"name":"HAR 7966","engineType":"CE","vin":"WMEEJ3BA4EK767566","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Narrows Ave 8814, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-74.03986,40.62367,0],"name":"HAR 7952","engineType":"CE","vin":"WMEEJ3BA8EK767845","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd St 1338, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9872,40.63846,0],"name":"GTP 8954","engineType":"CE","vin":"WMEEJ3BA0FK795138","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"56th St 1768, 11204 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.98561,40.62477,0],"name":"GTR 8198","engineType":"CE","vin":"WMEEJ3BA2FK798199","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clinton St 112, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99298,40.69311,0],"name":"HAR 7960","engineType":"CE","vin":"WMEEJ3BA4EK767180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"24th Ave 31, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91508,40.77204,0],"name":"GTP 8981","engineType":"CE","vin":"WMEEJ3BA5FK795720","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Degraw St 146, 11231 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.0014,40.68542,0],"name":"HAR 7965","engineType":"CE","vin":"WMEEJ3BA0EK771338","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 7th St 1984, 11223 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.97899,40.59901,0],"name":"HAR 7976","engineType":"CE","vin":"WMEEJ3BA5EK766975","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grove St 313, 11237 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.91526,40.69884,0],"name":"HAR 7962","engineType":"CE","vin":"WMEEJ3BA7EK771563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th St 25, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.92889,40.7754,0],"name":"HAR 7964","engineType":"CE","vin":"WMEEJ3BAXEK764641","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"72nd St 1170, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-74.00849,40.62373,0],"name":"HAR 7963","engineType":"CE","vin":"WMEEJ3BA8EK764170","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quincy St 267, 11216 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[-73.95011,40.68701,0],"name":"HAR 7971","engineType":"CE","vin":"WMEEJ3BAXEK766261","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Decatur St 117, 11216 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93882,40.68081,0],"name":"HAR 7970","engineType":"CE","vin":"WMEEJ3BAXEK764977","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th Ave 6130, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00366,40.63076,0],"name":"HAR 7961","engineType":"CE","vin":"WMEEJ3BAXEK764669","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brooklyn Queens Connecting Hwy, 11205 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.96749,40.69581,0],"name":"HAR 7920","engineType":"CE","vin":"WMEEJ3BAXEK763022","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St James Pl 262, 11238 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.96363,40.68244,0],"name":"HAR 7950","engineType":"CE","vin":"WMEEJ3BA3EK768451","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Malcolm X Blvd 120, 11221 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.93043,40.68955,0],"name":"GSW 7868","engineType":"CE","vin":"WMEEJ3BA4FK796258","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"67th St 1220, 11219 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"GOOD","coordinates":[-74.00446,40.62585,0],"name":"HAR 7902","engineType":"CE","vin":"WMEEJ3BA9EK756353","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ditmars Blvd 18, 11105 Queens","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.91855,40.78163,0],"name":"HAR 7928","engineType":"CE","vin":"WMEEJ3BA7EK766413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd Rd 19, 11105 Queens","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.92066,40.77892,0],"name":"GSW 7824","engineType":"CE","vin":"WMEEJ3BA3FK795621","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gates Ave 213, 11238 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.95904,40.68522,0],"name":"HAR 7936","engineType":"CE","vin":"WMEEJ3BA6EK764653","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gardner Ave 200, 11237 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92615,40.71378,0],"name":"HAR 7934","engineType":"CE","vin":"WMEEJ3BA6EK764295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd St 31, 11106 Queens","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.93021,40.76466,0],"name":"GTR 8241","engineType":"CE","vin":"WMEEJ3BA4FK797717","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Benson Ave 1467, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-74.01173,40.61005,0],"name":"GUM  8134","engineType":"CE","vin":"WMEEJ3BA2FK800047","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave 8442, 11214 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99954,40.6069,0],"name":"GSW 7750","engineType":"CE","vin":"WMEEJ3BA1FK798212","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harriet Ross Tubman Ave, 11238 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.96307,40.68262,0],"name":"HAR 7942","engineType":"CE","vin":"WMEEJ3BA4EK765042","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 9228, 11228 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-74.02363,40.61287,0],"name":"GSW 7829","engineType":"CE","vin":"WMEEJ3BA6FK795631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stanhope St 1167, 11237 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.91595,40.7052,0],"name":"GSW 7772","engineType":"CE","vin":"WMEEJ3BA4FK795143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"69th St 41, 11377 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.89598,40.74415,0],"name":"GTP 8961","engineType":"CE","vin":"WMEEJ3BA6FK797038","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart St 515, 11221 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93058,40.69621,0],"name":"HAR 7986","engineType":"CE","vin":"WMEEJ3BA3EK763783","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Pky 2440, 11235 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96565,40.59017,0],"name":"GSW 7830","engineType":"CE","vin":"WMEEJ3BA7FK795945","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St 641, 11221 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.93112,40.6877,0],"name":"GTS3718","engineType":"CE","vin":"WMEEJ3BA5FK799055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"84th St 1966, 11214 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.99778,40.60619,0],"name":"HAR 7916","engineType":"CE","vin":"WMEEJ3BA8EK766274","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bainbridge St 541, 11233 Brooklyn","city":"newyorkcity","fuel":24,"exterior":"GOOD","coordinates":[-73.91514,40.68285,0],"name":"HAR 7981","engineType":"CE","vin":"WMEEJ3BAXEK753896","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Inter 6 Ave 6932, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01869,40.63208,0],"name":"HAR 7959","engineType":"CE","vin":"WMEEJ3BAXEK762114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 21, 11105 Queens","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.90961,40.77863,0],"name":"GVK  7090","engineType":"CE","vin":"WMEEJ3BA3FK800493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"67th St 1427, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9999,40.62319,0],"name":"GSW 7801","engineType":"CE","vin":"WMEEJ3BA7FK796206","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"34th St 35, 11106 Queens","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.92645,40.75655,0],"name":"GTR 8249","engineType":"CE","vin":"WMEEJ3BA5FK797631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Douglass St 248, 11217 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"GOOD","coordinates":[-73.98506,40.68056,0],"name":"GUM  8168","engineType":"CE","vin":"WMEEJ3BA6FK800553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 3rd St 1856, 11223 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97573,40.60261,0],"name":"GTS3765","engineType":"CE","vin":"WMEEJ3BA5FK798004","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Powers St 267, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93914,40.71316,0],"name":"GSW 7853","engineType":"CE","vin":"WMEEJ3BA3FK796221","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"48th St 50, 11377 Queens","city":"newyorkcity","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-73.91816,40.73614,0],"name":"GSW 7778","engineType":"CE","vin":"WMEEJ3BA9FK795428","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Barnett Ave 46, 11104 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91662,40.74986,0],"name":"GTS3782","engineType":"CE","vin":"WMEEJ3BA4FK798320","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 4th St 720, 11218 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-73.97475,40.63451,0],"name":"GTS3660","engineType":"CE","vin":"WMEEJ3BA0FK798377","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Baltic St 22, 11201 Brooklyn","city":"newyorkcity","fuel":42,"exterior":"GOOD","coordinates":[-74.00082,40.68829,0],"name":"GSW 7858","engineType":"CE","vin":"WMEEJ3BA8FK796151","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 1169, 11221 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.91688,40.69006,0],"name":"GTS3642","engineType":"CE","vin":"WMEEJ3BA1FK798937","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd St 1128, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.992,40.64132,0],"name":"GTS3763","engineType":"CE","vin":"WMEEJ3BA5FK799136","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Varick Ave 11, 11237 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.92677,40.70612,0],"name":"GTP 9002","engineType":"CE","vin":"WMEEJ3BA2FK797747","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"92nd St 112, 11209 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-74.03778,40.6205,0],"name":"GSW 7860","engineType":"CE","vin":"WMEEJ3BA9FK798507","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hawthorne St 18, 11225 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-73.95972,40.65719,0],"name":"GSW 7779","engineType":"CE","vin":"WMEEJ3BA5FK796415","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Irving Ave 358, 11237 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.91224,40.69784,0],"name":"GTS3707","engineType":"CE","vin":"WMEEJ3BA6FK798934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th St 342, 11215 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.98698,40.66778,0],"name":"GTR 8262","engineType":"CE","vin":"WMEEJ3BA7FK798425","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Degraw St 348, 11231 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99339,40.68307,0],"name":"GTS3662","engineType":"CE","vin":"WMEEJ3BA0FK799173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue U 547, 11223 Brooklyn","city":"newyorkcity","fuel":81,"exterior":"GOOD","coordinates":[-73.96633,40.59783,0],"name":"GTS3717","engineType":"CE","vin":"WMEEJ3BA8FK798711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gates Ave 343, 11216 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9535,40.68592,0],"name":"GTR 8290","engineType":"CE","vin":"WMEEJ3BAXFK797768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave 6762, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00099,40.62311,0],"name":"GTR 8188","engineType":"CE","vin":"WMEEJ3BA5FK797113","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th St 27, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93201,40.77375,0],"name":"GTS3759","engineType":"CE","vin":"WMEEJ3BA5FK798763","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central Ave 286, 11221 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.92216,40.69633,0],"name":"HAR 7940","engineType":"CE","vin":"WMEEJ3BA3EK765176","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brooklyn Queens Expy, 11211 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.94958,40.71684,0],"name":"GTS3695","engineType":"CE","vin":"WMEEJ3BA4FK798317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 9129, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.02251,40.61517,0],"name":"GTP 9033","engineType":"CE","vin":"WMEEJ3BA5FK797306","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 12th St 1090, 11230 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.96376,40.62265,0],"name":"GSW 7775","engineType":"CE","vin":"WMEEJ3BA4FK796194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clara St 180, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.98481,40.64273,0],"name":"GXC 2070","engineType":"CE","vin":"WMEEJ3BA0FK798766","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th Ave 4156, 11219 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.99453,40.64314,0],"name":"GTS3732","engineType":"CE","vin":"WMEEJ3BA1FK799182","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue T 467, 11223 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-73.96798,40.59989,0],"name":"GSW 7826","engineType":"CE","vin":"WMEEJ3BA3FK795876","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"67th St 1738, 11204 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.99293,40.61865,0],"name":"GSW 7809","engineType":"CE","vin":"WMEEJ3BA2FK796128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th St 1342, 11219 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.98942,40.63613,0],"name":"HAR 7955","engineType":"CE","vin":"WMEEJ3BA7EK766668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 26, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92044,40.76993,0],"name":"GTP 8956","engineType":"CE","vin":"WMEEJ3BA4FK795871","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dahlgren Pl 185, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.02606,40.61539,0],"name":"GTS3746","engineType":"CE","vin":"WMEEJ3BAXFK798404","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th St 24, 11102 Queens","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.92335,40.77691,0],"name":"GTP 9020","engineType":"CE","vin":"WMEEJ3BA4FK796681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Troutman St 41, 11206 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.93253,40.69812,0],"name":"HAR 7922","engineType":"CE","vin":"WMEEJ3BAXEK764185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 5th St 1914, 11223 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.968,40.60381,0],"name":"GTR 8192","engineType":"CE","vin":"WMEEJ3BA7FK797050","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd St 92, 11218 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.97959,40.64964,0],"name":"GTP 9034","engineType":"CE","vin":"WMEEJ3BA0FK797035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th St 24, 11102 Queens","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.91794,40.77377,0],"name":"GTP 8998","engineType":"CE","vin":"WMEEJ3BA1FK797738","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Noble St 111, 11222 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.95613,40.72864,0],"name":"GTR 8197","engineType":"CE","vin":"WMEEJ3BA3FK797658","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th St 22, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.90303,40.7699,0],"name":"GTR 8221","engineType":"CE","vin":"WMEEJ3BA2FK797814","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fleet Pl 174, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.98183,40.69223,0],"name":"GSW 7848","engineType":"CE","vin":"WMEEJ3BA9FK796191","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 4th St 153, 11211 Brooklyn","city":"newyorkcity","fuel":30,"exterior":"GOOD","coordinates":[-73.95896,40.71591,0],"name":"GSW 7842","engineType":"CE","vin":"WMEEJ3BA4FK796342","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th St 21, 11105 Queens","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.91223,40.77739,0],"name":"GUM8162","engineType":"CE","vin":"WMEEJ3BAXFK800359","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Madison St 1549, 11237 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91037,40.69777,0],"name":"GTS3773","engineType":"CE","vin":"WMEEJ3BA0FK798461","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"51st St 334, 11220 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-74.01441,40.64667,0],"name":"GTS3651","engineType":"CE","vin":"WMEEJ3BA2FK799093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Benson Ave 1465, 11228 Brooklyn","city":"newyorkcity","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-74.01174,40.61007,0],"name":"GSW 7854","engineType":"CE","vin":"WMEEJ3BA4FK796308","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st St 322, 11215 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.99071,40.65973,0],"name":"GTP 9011","engineType":"CE","vin":"WMEEJ3BA1FK796637","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"30th Dr 23, 11102 Queens","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.92733,40.76744,0],"name":"GTP 8939","engineType":"CE","vin":"WMEEJ3BA6FK795886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave 5457, 11220 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-74.01952,40.64649,0],"name":"GTS3769","engineType":"CE","vin":"WMEEJ3BA1FK798792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Billings Pl 11, 11223 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.97219,40.6034,0],"name":"GVK  7091","engineType":"CE","vin":"WMEEJ3BA7FK800173","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Pl 47, 11101 Queens","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.9331,40.74219,0],"name":"GTR 8218","engineType":"CE","vin":"WMEEJ3BAXFK798208","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Penn St 139, 11211 Brooklyn","city":"newyorkcity","fuel":81,"exterior":"GOOD","coordinates":[-73.95749,40.70269,0],"name":"GTR 8183","engineType":"CE","vin":"WMEEJ3BA1FK797089","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandam St 25, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93688,40.72571,0],"name":"GTP 9016","engineType":"CE","vin":"WMEEJ3BA1FK798257","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Willoughby Ave 763, 11206 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.93815,40.69518,0],"name":"GTS3729","engineType":"CE","vin":"WMEEJ3BA1FK798291","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 7th St 672, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97114,40.6353,0],"name":"GTP 8890","engineType":"CE","vin":"WMEEJ3BA1FK794600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Willoughby Ave 855, 11221 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.93393,40.69566,0],"name":"GTP 8985","engineType":"CE","vin":"WMEEJ3BA9FK796448","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eastern Pky 212, 11225 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.962,40.67128,0],"name":"GTR 8193","engineType":"CE","vin":"WMEEJ3BA2FK798588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"87th St 478, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.02714,40.62109,0],"name":"GTP 8878","engineType":"CE","vin":"WMEEJ3BA6FK797170","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 31, 11106 Queens","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.92548,40.76455,0],"name":"HAR 7913","engineType":"CE","vin":"WMEEJ3BA6EK771991","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Navy St 5, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.979,40.70106,0],"name":"HAR 7985","engineType":"CE","vin":"WMEEJ3BA3EK752878","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Huron St 85, 11222 Brooklyn","city":"newyorkcity","fuel":42,"exterior":"GOOD","coordinates":[-73.95822,40.73274,0],"name":"GTS 3711","engineType":"CE","vin":"WMEEJ3BAXFK798306","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Greenwood Ave 691, 11218 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.97499,40.65179,0],"name":"GTS3730","engineType":"CE","vin":"WMEEJ3BA1FK798484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"43rd St 22, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.90459,40.77072,0],"name":"GSW 7849","engineType":"CE","vin":"WMEEJ3BA9FK796238","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Pl 518, 11238 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.96082,40.67499,0],"name":"GTP 8988","engineType":"CE","vin":"WMEEJ3BA4FK797068","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th St 20, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.90906,40.78003,0],"name":"GSW 7748","engineType":"CE","vin":"WMEEJ3BA0FK797116","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Joy Way, 11207 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-73.91027,40.68846,0],"name":"GTS3702","engineType":"CE","vin":"WMEEJ3BA6FK798996","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 18th St 257, 11226 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.96215,40.6449,0],"name":"GUM  8169","engineType":"CE","vin":"WMEEJ3BA8FK800005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd St 218, 11232 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"GOOD","coordinates":[-73.99468,40.66119,0],"name":"GTS3648","engineType":"CE","vin":"WMEEJ3BA1FK798341","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"64th St 64, 11220 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-74.0247,40.64097,0],"name":"GTR 8220","engineType":"CE","vin":"WMEEJ3BA7FK797047","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Leif Ericson Dr 2690, 11223 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.96985,40.58337,0],"name":"GTR 8219","engineType":"CE","vin":"WMEEJ3BAXFK798287","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 3940, 11232 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.99971,40.64837,0],"name":"GTP 8882","engineType":"CE","vin":"WMEEJ3BA4FK795403","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 2970, 11224 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-74.0026,40.57369,0],"name":"GSW 7811","engineType":"CE","vin":"WMEEJ3BA0FK797679","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th St 218, 11232 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.99346,40.66226,0],"name":"GUM  8125","engineType":"CE","vin":"WMEEJ3BA1FK798811","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bedford Ave 1993, 11225 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95636,40.65621,0],"name":"GTP 8875","engineType":"CE","vin":"WMEEJ3BA4FK798334","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Baltic St 131, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99903,40.68776,0],"name":"GTS3714","engineType":"CE","vin":"WMEEJ3BA9FK799074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pulaski St 85, 11206 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.94806,40.69256,0],"name":"GTP 8953","engineType":"CE","vin":"WMEEJ3BA2FK798235","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"76th St 758, 11228 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-74.01686,40.62491,0],"name":"GUM  8161","engineType":"CE","vin":"WMEEJ3BAXFK800085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Downing St 62, 11238 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.96097,40.68396,0],"name":"HAR 7953","engineType":"CE","vin":"WMEEJ3BA0EK767158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Seeley St 268, 11218 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"GOOD","coordinates":[-73.9739,40.65548,0],"name":"GTR 8285","engineType":"CE","vin":"WMEEJ3BA9FK797440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gates Ave 353, 11216 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95306,40.68595,0],"name":"GTP 8987","engineType":"CE","vin":"WMEEJ3BA1FK797884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vernon Blvd 33, 11106 Queens","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.94029,40.76537,0],"name":"GTS3779","engineType":"CE","vin":"WMEEJ3BA8FK798787","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Metropolitan Ave 142, 11211 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.96216,40.71609,0],"name":"GTR 8244","engineType":"CE","vin":"WMEEJ3BA6FK797413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sunset Ter 314, 11220 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-74.01362,40.64797,0],"name":"GTR 8276","engineType":"CE","vin":"WMEEJ3BA8FK798224","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spencer Pl 24, 11216 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.9546,40.68176,0],"name":"GTR 8245","engineType":"CE","vin":"WMEEJ3BA6FK797458","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 9th St 982, 11230 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.96714,40.62497,0],"name":"GSW 7840","engineType":"CE","vin":"WMEEJ3BA5FK797161","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"83rd St 1778, 11214 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-74.00335,40.61043,0],"name":"GTS3705","engineType":"CE","vin":"WMEEJ3BA7FK798974","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Troutman St 63, 11206 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.93169,40.69856,0],"name":"GSW 7791","engineType":"CE","vin":"WMEEJ3BA0FK795950","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Helen Keller Pl, 11201 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.98625,40.69189,0],"name":"GTS3644","engineType":"CE","vin":"WMEEJ3BA0FK798864","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hewes St 125, 11211 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.95936,40.70244,0],"name":"GSW 7869","engineType":"CE","vin":"WMEEJ3BA4FK796406","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"44th St 1522, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.98427,40.63488,0],"name":"GTS3772","engineType":"CE","vin":"WMEEJ3BA4FK799127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th St 146, 11215 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.99285,40.66811,0],"name":"GTP 8955","engineType":"CE","vin":"WMEEJ3BA0FK795821","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"New Utrecht Ave 3940, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99441,40.6452,0],"name":"GSW 7817","engineType":"CE","vin":"WMEEJ3BA9FK798054","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Berkeley Pl 218, 11217 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.97355,40.6745,0],"name":"GUM  8133","engineType":"CE","vin":"WMEEJ3BA3FK800025","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skillman Ave 227, 11211 Brooklyn","city":"newyorkcity","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-73.94182,40.71618,0],"name":"GUM  8170","engineType":"CE","vin":"WMEEJ3BA9FK800739","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 346, 11215 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.98209,40.66644,0],"name":"GTS3728","engineType":"CE","vin":"WMEEJ3BA0FK798802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave 328, 11238 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.96246,40.68662,0],"name":"GTR 8261","engineType":"CE","vin":"WMEEJ3BA7FK798344","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sterling Pl 657, 11216 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.95678,40.67328,0],"name":"GTP 8940","engineType":"CE","vin":"WMEEJ3BAXFK795308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bergen St 1585, 11213 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93068,40.67514,0],"name":"GTP 8899","engineType":"CE","vin":"WMEEJ3BA2FK794993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Waverly Ave 182, 11205 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96771,40.69234,0],"name":"GSW 7783","engineType":"CE","vin":"WMEEJ3BAXFK795745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eagle St 157, 11222 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-73.95446,40.73533,0],"name":"GTP 8950","engineType":"CE","vin":"WMEEJ3BA5FK797628","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Herkimer St 920, 11233 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.92311,40.67818,0],"name":"GTP 8960","engineType":"CE","vin":"WMEEJ3BA6FK796987","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"76th St 19, 11370 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.89418,40.77256,0],"name":"GSW 7795","engineType":"CE","vin":"WMEEJ3BA6FK796228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Greene Ave 639, 11221 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9433,40.68928,0],"name":"GTP 8963","engineType":"CE","vin":"WMEEJ3BA7FK797131","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 993, 11221 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.92115,40.68738,0],"name":"GTP 8880","engineType":"CE","vin":"WMEEJ3BAXFK794630","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hancock St 1221, 11221 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.91142,40.69205,0],"name":"GTR 8289","engineType":"CE","vin":"WMEEJ3BA7FK798294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central Ave 286, 11221 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.92211,40.69631,0],"name":"GTP 8999","engineType":"CE","vin":"WMEEJ3BA1FK798243","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Pky 485, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.9725,40.6366,0],"name":"GSW 7851","engineType":"CE","vin":"WMEEJ3BA3FK796106","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vernon Ave 167, 11206 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.94526,40.69509,0],"name":"GTP 9027","engineType":"CE","vin":"WMEEJ3BA4FK797538","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Java St 117, 11222 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.95614,40.73145,0],"name":"GSW 7857","engineType":"CE","vin":"WMEEJ3BA5FK796284","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shell Rd 2891, 11224 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.9755,40.5815,0],"name":"GTR 8200","engineType":"CE","vin":"WMEEJ3BA3FK797532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Pky 1856, 11223 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.96686,40.60347,0],"name":"GTP 9025","engineType":"CE","vin":"WMEEJ3BA4FK797443","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th Ave 8584, 11228 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-74.02038,40.61814,0],"name":"GTP 8959","engineType":"CE","vin":"WMEEJ3BA5FK795068","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave 6844, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99913,40.62132,0],"name":"GTP 9000","engineType":"CE","vin":"WMEEJ3BA2FK797098","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stillwell Ave 1851, 11223 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.9861,40.60161,0],"name":"GUM  8118","engineType":"CE","vin":"WMEEJ3BA2FK800131","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hicks St 244, 11201 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-73.99631,40.69411,0],"name":"GTR 8196","engineType":"CE","vin":"WMEEJ3BA3FK797482","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 2940, 11224 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00273,40.57411,0],"name":"GSW 7747","engineType":"CE","vin":"WMEEJ3BA2FK797005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cedar St 98, 11221 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.92602,40.69791,0],"name":"HAK 6110","engineType":"CE","vin":"WMEEJ3BA0FK795088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lynch St 124, 11206 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.95339,40.70231,0],"name":"GTP 8881","engineType":"CE","vin":"WMEEJ3BA9FK795896","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maspeth Ave 119, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93815,40.71626,0],"name":"GTP 8889","engineType":"CE","vin":"WMEEJ3BAXFK795955","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Leonard St 119, 11206 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.94663,40.70758,0],"name":"GTS3693","engineType":"CE","vin":"WMEEJ3BA6FK799002","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Columbia St 232, 11231 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00307,40.68417,0],"name":"GSW 7780","engineType":"CE","vin":"WMEEJ3BA9FK796305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"59th St 1166, 11219 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[-74.00086,40.63118,0],"name":"HAR 7945","engineType":"CE","vin":"WMEEJ3BA6EK766001","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Ridge Pky 834, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01698,40.62602,0],"name":"GUM  8121","engineType":"CE","vin":"WMEEJ3BA6FK800066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart St 793, 11237 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-73.92348,40.70122,0],"name":"GTP 8938","engineType":"CE","vin":"WMEEJ3BA6FK795841","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"58th St 1810, 11204 Brooklyn","city":"newyorkcity","fuel":78,"exterior":"GOOD","coordinates":[-73.98585,40.62303,0],"name":"GTR 8256","engineType":"CE","vin":"WMEEJ3BA7FK797470","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skillman Ave 34, 11101 Queens","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.93001,40.7469,0],"name":"HAR 7903","engineType":"CE","vin":"WMEEJ3BA5EK768340","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Decatur St 1053, 11207 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91025,40.68596,0],"name":"GTR 8204","engineType":"CE","vin":"WMEEJ3BA9FK797101","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 4th St 1592, 11204 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.97781,40.60845,0],"name":"GSW 7870","engineType":"CE","vin":"WMEEJ3BA4FK796020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave 5350, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99256,40.6312,0],"name":"GUM  8163","engineType":"CE","vin":"WMEEJ3BAXFK800362","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"71st St 1426, 11228 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-74.00231,40.62088,0],"name":"GTS3686","engineType":"CE","vin":"WMEEJ3BA4FK798432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stewart Ave 48, 11237 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92539,40.70766,0],"name":"GTP 8887","engineType":"CE","vin":"WMEEJ3BA8FK796215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 12th St 644, 11230 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-73.96575,40.6331,0],"name":"GSW 7763","engineType":"CE","vin":"WMEEJ3BA7FK796125","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"65th St 2130, 11204 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-73.98294,40.61466,0],"name":"GSW 7831","engineType":"CE","vin":"WMEEJ3BA8FK795128","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Herkimer St 1357, 11233 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.9087,40.67743,0],"name":"GTS3781","engineType":"CE","vin":"WMEEJ3BA0FK799058","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave 6322, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00273,40.62841,0],"name":"GTP 8895","engineType":"CE","vin":"WMEEJ3BA3FK794873","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 6th St 1570, 11204 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97993,40.60881,0],"name":"GTS3652","engineType":"CE","vin":"WMEEJ3BA0FK798170","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"54th St 37, 11377 Queens","city":"newyorkcity","fuel":87,"exterior":"GOOD","coordinates":[-73.90795,40.75087,0],"name":"GVK  7003","engineType":"CE","vin":"WMEEJ3BA7FK800190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Paul Pl 86, 11226 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.96311,40.65164,0],"name":"GTR 8270","engineType":"CE","vin":"WMEEJ3BA8FK797011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brooklyn Queens Expy, 11222 Brooklyn","city":"newyorkcity","fuel":87,"exterior":"GOOD","coordinates":[-73.94068,40.72229,0],"name":"GSW 7845","engineType":"CE","vin":"WMEEJ3BA8FK795856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th St 27, 11102 Queens","city":"newyorkcity","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-73.93212,40.77374,0],"name":"GTS3750","engineType":"CE","vin":"WMEEJ3BA1FK798520","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 7186, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01785,40.6295,0],"name":"GVK  7001","engineType":"CE","vin":"WMEEJ3BA6FK800701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave 575, 11215 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.99421,40.66752,0],"name":"GTS3715","engineType":"CE","vin":"WMEEJ3BA9FK799186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Ridge Ave 428, 11220 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-74.0228,40.63426,0],"name":"GTS3663","engineType":"CE","vin":"WMEEJ3BA9FK798684","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pearson St 45, 11101 Queens","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.94424,40.74522,0],"name":"GTS3649","engineType":"CE","vin":"WMEEJ3BA1FK799165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"72nd St 1456, 11228 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-74.00215,40.61993,0],"name":"GTP 9007","engineType":"CE","vin":"WMEEJ3BA6FK797380","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Pl 47, 11101 Queens","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.93314,40.74203,0],"name":"GTP 9019","engineType":"CE","vin":"WMEEJ3BA3FK798440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart St 327, 11206 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.93748,40.69444,0],"name":"GTR 8239","engineType":"CE","vin":"WMEEJ3BA5FK797290","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"74th St 189, 11209 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-74.03037,40.63291,0],"name":"GTR 8206","engineType":"CE","vin":"WMEEJ3BA9FK798314","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fiske Pl 72, 11215 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.97524,40.6718,0],"name":"GTR 8208","engineType":"CE","vin":"WMEEJ3BAXFK797673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rutledge St 195, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95567,40.70291,0],"name":"GTP 8982","engineType":"CE","vin":"WMEEJ3BA0FK798279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grandparents Ave 295, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.94186,40.72671,0],"name":"GSW 7762","engineType":"CE","vin":"WMEEJ3BA7FK795153","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"India St 109, 11222 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.9558,40.73222,0],"name":"GTR 8250","engineType":"CE","vin":"WMEEJ3BA5FK797774","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sutton St 43, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.94048,40.72433,0],"name":"GTP 8986","engineType":"CE","vin":"WMEEJ3BA0FK795866","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Prospect Park W 1, 11215 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97064,40.67208,0],"name":"GSW 7837","engineType":"CE","vin":"WMEEJ3BA2EK784611","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Pky 480, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97317,40.63661,0],"name":"GTP 9024","engineType":"CE","vin":"WMEEJ3BA4FK797393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Ridge Ave 972, 11219 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-74.01109,40.62803,0],"name":"GTS3733","engineType":"CE","vin":"WMEEJ3BA2FK798297","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"I-278, 11102 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92322,40.77518,0],"name":"GTP 8992","engineType":"CE","vin":"WMEEJ3BA4FK797104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th St 20, 11105 Queens","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.90956,40.77969,0],"name":"GXV 1452","engineType":"CE","vin":"WMEEJ3BA5FK797550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Melrose St 126, 11206 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.93291,40.69953,0],"name":"HAR 7907","engineType":"CE","vin":"WMEEJ3BA0EK769752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hoyt St 220, 11217 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9898,40.68355,0],"name":"GTP 8952","engineType":"CE","vin":"WMEEJ3BA3FK797076","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 933, 11221 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92386,40.68709,0],"name":"GTS3734","engineType":"CE","vin":"WMEEJ3BA2FK798476","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"61st St 1430, 11219 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99615,40.62643,0],"name":"HAR 7918","engineType":"CE","vin":"WMEEJ3BA9EK753940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"White St 50, 11206 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.9351,40.70491,0],"name":"GTP 9043","engineType":"CE","vin":"WMEEJ3BA2FK797425","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"67th St 1038, 11219 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-74.00848,40.62826,0],"name":"GZT 7513","engineType":"CE","vin":"WMEEJ3BA6FK797329","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"West St 2574, 11223 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.96957,40.58682,0],"name":"GTP 9008","engineType":"CE","vin":"WMEEJ3BA8FK798479","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brooklyn Queens Expy, 11222 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.94207,40.72129,0],"name":"GTS3764","engineType":"CE","vin":"WMEEJ3BA3FK798261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bedford Ave 1487, 11216 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.95451,40.67195,0],"name":"GTR 8288","engineType":"CE","vin":"WMEEJ3BA4FK796499","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"45th St 1258, 11219 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"GOOD","coordinates":[-73.99068,40.63775,0],"name":"GTP 9037","engineType":"CE","vin":"WMEEJ3BA0FK797908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Himrod St 283, 11237 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.91918,40.7008,0],"name":"GTR 8214","engineType":"CE","vin":"WMEEJ3BA9FK798331","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McDonald Ave 960, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97719,40.63055,0],"name":"GTS3712","engineType":"CE","vin":"WMEEJ3BAXFK799102","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 33, 11106 Queens","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.92818,40.76133,0],"name":"GUM7996","engineType":"CE","vin":"WMEEJ3BA1FK798601","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 9th St 1562, 11230 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.9645,40.61075,0],"name":"GTS3689","engineType":"CE","vin":"WMEEJ3BA1FK798467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Johns Pl 798, 11216 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.95183,40.67175,0],"name":"GTR 8248","engineType":"CE","vin":"WMEEJ3BA5FK797497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Willoughby St 76, 11201 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.98573,40.69208,0],"name":"GTR 8223","engineType":"CE","vin":"WMEEJ3BA6FK797086","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th St 476, 11215 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.97795,40.66938,0],"name":"GTR 8251","engineType":"CE","vin":"WMEEJ3BA5FK797869","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shore Blvd 20, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91575,40.78551,0],"name":"GUM  8123","engineType":"CE","vin":"WMEEJ3BA6FK800567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Macdonough St 503, 11233 Brooklyn","city":"newyorkcity","fuel":30,"exterior":"GOOD","coordinates":[-73.92579,40.68311,0],"name":"GVK  7092","engineType":"CE","vin":"WMEEJ3BA8FK799986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Evergreen Ave 572, 11221 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91578,40.69041,0],"name":"GTP 9005","engineType":"CE","vin":"WMEEJ3BA5FK797855","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"52nd St 558, 11220 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-74.01017,40.64317,0],"name":"GTR 8255","engineType":"CE","vin":"WMEEJ3BA7FK797422","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson St 119, 11206 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93094,40.69963,0],"name":"GTR 8225","engineType":"CE","vin":"WMEEJ3BA8FK797137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 25th St 912, 11224 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99254,40.57742,0],"name":"GSW 7759","engineType":"CE","vin":"WMEEJ3BA5FK796317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"84th St 186, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.03326,40.62565,0],"name":"GSW 7798","engineType":"CE","vin":"WMEEJ3BA7FK795542","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 8th St 996, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96816,40.62494,0],"name":"GTP 9009","engineType":"CE","vin":"WMEEJ3BA0FK797553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Columbia Hts 220, 11201 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-73.99667,40.69758,0],"name":"GSW 7746","engineType":"CE","vin":"WMEEJ3BA3FK797613","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 11th St 50, 11211 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.96718,40.70758,0],"name":"GUM  8120","engineType":"CE","vin":"WMEEJ3BA5FK800138","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway 102, 11211 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.9651,40.71037,0],"name":"GTR 8247","engineType":"CE","vin":"WMEEJ3BA7FK797128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"73rd St 1256, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.00715,40.62198,0],"name":"GTR 8274","engineType":"CE","vin":"WMEEJ3BA8FK797686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boerum St 229, 11206 Brooklyn","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.93871,40.7063,0],"name":"GUM  8126","engineType":"CE","vin":"WMEEJ3BA2FK800730","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clay St 51, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95599,40.73652,0],"name":"GTP 9039","engineType":"CE","vin":"WMEEJ3BA1FK797464","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bergen St 848, 11238 Brooklyn","city":"newyorkcity","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-73.95929,40.67753,0],"name":"GTP 8893","engineType":"CE","vin":"WMEEJ3BA2FK795058","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th St 20, 11105 Queens","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.9157,40.78341,0],"name":"GSW 7802","engineType":"CE","vin":"WMEEJ3BA7FK796321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kent St 143, 11222 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.95507,40.7308,0],"name":"GZT 7514","engineType":"CE","vin":"WMEEJ3BA9FK796403","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kings Hwy 408, 11223 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97524,40.60447,0],"name":"GVK  7088","engineType":"CE","vin":"WMEEJ3BA5FK800432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th St 20, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.90884,40.78019,0],"name":"GTP 8883","engineType":"CE","vin":"WMEEJ3BA4FK795725","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"George Apen St 114, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95705,40.73348,0],"name":"GUM  8160","engineType":"CE","vin":"WMEEJ3BA8FK800229","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Pl 594, 11238 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.95822,40.6745,0],"name":"GTP 8900","engineType":"CE","vin":"WMEEJ3BA1FK795178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quincy St 455, 11221 Brooklyn","city":"newyorkcity","fuel":75,"exterior":"GOOD","coordinates":[-73.9417,40.68799,0],"name":"GSW 7810","engineType":"CE","vin":"WMEEJ3BA1FK797917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ridge Blvd 8735, 11209 Brooklyn","city":"newyorkcity","fuel":45,"exterior":"GOOD","coordinates":[-74.03407,40.62312,0],"name":"GTR 8203","engineType":"CE","vin":"WMEEJ3BA9FK797020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave 4718, 11220 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-74.00649,40.6454,0],"name":"HAR 7951","engineType":"CE","vin":"WMEEJ3BA6EK773336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue U 583, 11223 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.96593,40.59783,0],"name":"GSW 7873","engineType":"CE","vin":"WMEEJ3BAXFK798239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 9th St 154, 11211 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-73.95693,40.71914,0],"name":"GTS3762","engineType":"CE","vin":"WMEEJ3BA5FK798455","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Marks Ave 1206, 11213 Brooklyn","city":"newyorkcity","fuel":42,"exterior":"GOOD","coordinates":[-73.92973,40.67407,0],"name":"GTR 8240","engineType":"CE","vin":"WMEEJ3BA4FK797622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"78th St 1092, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01373,40.62135,0],"name":"GUM  8174","engineType":"CE","vin":"WMEEJ3BA4FK800874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Oxford St 10, 11205 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.97577,40.69787,0],"name":"GTR 8287","engineType":"CE","vin":"WMEEJ3BAXFK796975","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boerum St 131, 11206 Brooklyn","city":"newyorkcity","fuel":24,"exterior":"GOOD","coordinates":[-73.94352,40.70581,0],"name":"GTP 8958","engineType":"CE","vin":"WMEEJ3BA4FK795806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th Ave 23, 11105 Queens","city":"newyorkcity","fuel":81,"exterior":"GOOD","coordinates":[-73.91097,40.78311,0],"name":"GTP 9010","engineType":"CE","vin":"WMEEJ3BA0FK797598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 4th St 386, 11211 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.95237,40.70807,0],"name":"GSW 7797","engineType":"CE","vin":"WMEEJ3BA7FK794620","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"80th St 21, 11370 Queens","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.88981,40.7697,0],"name":"HAR 7921","engineType":"CE","vin":"WMEEJ3BA7EK768999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Union Ave, 11211 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.95247,40.71858,0],"name":"HAR 7975","engineType":"CE","vin":"WMEEJ3BA7EK767450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carroll St 8, 11231 Brooklyn","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-74.00556,40.68356,0],"name":"HAR 7989","engineType":"CE","vin":"WMEEJ3BA3EK764996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"96th St 61, 11209 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-74.03728,40.61617,0],"name":"GSW 7793","engineType":"CE","vin":"WMEEJ3BA1FK795018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Johns Pl 809, 11216 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.95142,40.67175,0],"name":"GSW 7725","engineType":"CE","vin":"WMEEJ3BA3FK796302","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Firefighter Leon Smith Memorial Wy 33, 11216 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95452,40.68202,0],"name":"GTP 8898","engineType":"CE","vin":"WMEEJ3BA1FK795438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sterling Pl 1741, 11233 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.92098,40.67098,0],"name":"GTS3666","engineType":"CE","vin":"WMEEJ3BA2FK798350","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"62nd St 1866, 11204 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.98702,40.61994,0],"name":"GTR 8246","engineType":"CE","vin":"WMEEJ3BA6FK797959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Richardson St 215, 11222 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.94223,40.71907,0],"name":"GSW 8877","engineType":"CE","vin":"WMEEJ3BA3FK797935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Franklin St 207, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.95835,40.73403,0],"name":"GUM  8173","engineType":"CE","vin":"WMEEJ3BA7FK800920","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue O 141, 11204 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.97962,40.61076,0],"name":"GTP 8989","engineType":"CE","vin":"WMEEJ3BA8FK797350","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"78th St 22, 11370 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.89146,40.76836,0],"name":"GTR 8207","engineType":"CE","vin":"WMEEJ3BA3FK797143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hooper St 181, 11211 Brooklyn","city":"newyorkcity","fuel":18,"exterior":"GOOD","coordinates":[-73.95751,40.70468,0],"name":"GUM  8172","engineType":"CE","vin":"WMEEJ3BA1FK800010","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave 4031, 11218 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.98917,40.64121,0],"name":"GSW 7819","engineType":"CE","vin":"WMEEJ3BA5FK796978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"61st St 591, 11220 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01468,40.63772,0],"name":"GTP 9015","engineType":"CE","vin":"WMEEJ3BA1FK798078","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"83rd St 954, 11228 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01948,40.62018,0],"name":"HAR 7906","engineType":"CE","vin":"WMEEJ3BA5EK776096","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"79th St 21, 11370 Queens","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-73.8908,40.76945,0],"name":"GTS3771","engineType":"CE","vin":"WMEEJ3BA9FK798636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williamsburg Brg, 11211 Brooklyn","city":"newyorkcity","fuel":48,"exterior":"GOOD","coordinates":[-73.96204,40.71034,0],"name":"GZT 7901","engineType":"CE","vin":"WMEEJ3BA0FK800225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Van Buren St 491, 11221 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.92904,40.69177,0],"name":"GSW 7843","engineType":"CE","vin":"WMEEJ3BA6FK796200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Victor V Allegretti Way, 11214 Brooklyn","city":"newyorkcity","fuel":93,"exterior":"GOOD","coordinates":[-74.00578,40.60172,0],"name":"GSW 7856","engineType":"CE","vin":"WMEEJ3BA5FK796110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th St 68, 11215 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"GOOD","coordinates":[-73.99407,40.66704,0],"name":"GTP 9021","engineType":"CE","vin":"WMEEJ3BA4FK796972","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clifton Pl 314, 11216 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.9518,40.68902,0],"name":"GUM7997","engineType":"CE","vin":"WMEEJ3BA1FK798663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bainbridge St 545, 11233 Brooklyn","city":"newyorkcity","fuel":30,"exterior":"GOOD","coordinates":[-73.915,40.68281,0],"name":"GUM  8136","engineType":"CE","vin":"WMEEJ3BA3FK800784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"38th St 32, 11103 Queens","city":"newyorkcity","fuel":57,"exterior":"GOOD","coordinates":[-73.92101,40.75777,0],"name":"GUM  8129","engineType":"CE","vin":"WMEEJ3BA4FK800695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cypress Ave 26, 11237 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.92096,40.70889,0],"name":"GTP 9013","engineType":"CE","vin":"WMEEJ3BA1FK797402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jackson St 177, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.94371,40.7168,0],"name":"GTP 9014","engineType":"CE","vin":"WMEEJ3BA1FK797318","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"60th St 34, 11377 Queens","city":"newyorkcity","fuel":42,"exterior":"GOOD","coordinates":[-73.90208,40.75164,0],"name":"GVK  7000","engineType":"CE","vin":"WMEEJ3BA6FK800682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tompkins Ave 137, 11206 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.94613,40.69481,0],"name":"GSW 7743","engineType":"CE","vin":"WMEEJ3BA0FK796984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sterling Pl 1354, 11213 Brooklyn","city":"newyorkcity","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-73.93372,40.67164,0],"name":"GTP 8943","engineType":"CE","vin":"WMEEJ3BA8FK797056","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bainbridge St 169, 11233 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.93047,40.68109,0],"name":"GTR 8259","engineType":"CE","vin":"WMEEJ3BA7FK798215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Putnam Ave 1189, 11221 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.91638,40.69048,0],"name":"GTP 8962","engineType":"CE","vin":"WMEEJ3BA6FK797122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"George Apen St 191, 11222 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.95362,40.73396,0],"name":"GTS3744","engineType":"CE","vin":"WMEEJ3BA8FK798370","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave 6556, 11220 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-74.01734,40.63501,0],"name":"GTS3703","engineType":"CE","vin":"WMEEJ3BA6FK799159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harrison Pl 125, 11237 Brooklyn","city":"newyorkcity","fuel":90,"exterior":"GOOD","coordinates":[-73.92847,40.70689,0],"name":"GTP 8936","engineType":"CE","vin":"WMEEJ3BA9FK796966","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"80th St 22, 11370 Queens","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.88952,40.76809,0],"name":"GSW 7827","engineType":"CE","vin":"WMEEJ3BA2FK794640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stratford Rd 494, 11218 Brooklyn","city":"newyorkcity","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-73.9673,40.63639,0],"name":"GSW 7814","engineType":"CE","vin":"WMEEJ3BA0FK796502","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd St 1951, 11223 Brooklyn","city":"newyorkcity","fuel":81,"exterior":"GOOD","coordinates":[-73.9704,40.60192,0],"name":"GTP 8942","engineType":"CE","vin":"WMEEJ3BA8FK797008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skillman Ave 209, 11211 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.94245,40.71612,0],"name":"GTS3766","engineType":"CE","vin":"WMEEJ3BA6FK798559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hunter St 42, 11101 Queens","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.93998,40.74882,0],"name":"GTR 8215","engineType":"CE","vin":"WMEEJ3BAXFK797026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay 41st St 22, 11214 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-73.98625,40.5967,0],"name":"GTR 8182","engineType":"CE","vin":"WMEEJ3BA0FK797164","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 40, 11101 Queens","city":"newyorkcity","fuel":60,"exterior":"GOOD","coordinates":[-73.93677,40.75131,0],"name":"GTR 8201","engineType":"CE","vin":"WMEEJ3BA3FK797692","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"53rd St 1792, 11204 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-73.98342,40.6261,0],"name":"GTP 8885","engineType":"CE","vin":"WMEEJ3BA7FK796948","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue X 118, 11223 Brooklyn","city":"newyorkcity","fuel":33,"exterior":"GOOD","coordinates":[-73.97919,40.58948,0],"name":"GTS3669","engineType":"CE","vin":"WMEEJ3BA3FK798034","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue H 1009, 11230 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96696,40.62953,0],"name":"GSW 7785","engineType":"CE","vin":"WMEEJ3BA2FK795433","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Parade Pl 56, 11226 Brooklyn","city":"newyorkcity","fuel":42,"exterior":"GOOD","coordinates":[-73.96522,40.65167,0],"name":"GTS3778","engineType":"CE","vin":"WMEEJ3BA6FK798173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 6th St 135, 11211 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.96462,40.71079,0],"name":"GTR 8195","engineType":"CE","vin":"WMEEJ3BA3FK797479","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th St 21, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.90687,40.77647,0],"name":"GSW 7782","engineType":"CE","vin":"WMEEJ3BAXFK795163","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Colin Pl 27, 11223 Brooklyn","city":"newyorkcity","fuel":96,"exterior":"GOOD","coordinates":[-73.97191,40.60271,0],"name":"GSW 7730","engineType":"CE","vin":"WMEEJ3BA1FK795925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Driggs Ave 444, 11211 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.95373,40.71954,0],"name":"GTP 8984","engineType":"CE","vin":"WMEEJ3BA2FK797134","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"79th St 178, 11209 Brooklyn","city":"newyorkcity","fuel":33,"exterior":"GOOD","coordinates":[-74.03235,40.62933,0],"name":"GTP 9046","engineType":"CE","vin":"WMEEJ3BA4FK797586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Baltic St 81, 11201 Brooklyn","city":"newyorkcity","fuel":51,"exterior":"GOOD","coordinates":[-74.00013,40.68812,0],"name":"GTR 8293","engineType":"CE","vin":"WMEEJ3BA6FK797119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Leif Ericson Dr 2137, 11214 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.9887,40.58523,0],"name":"GTS3768","engineType":"CE","vin":"WMEEJ3BA7FK798408","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Ave 1602, 11230 Brooklyn","city":"newyorkcity","fuel":66,"exterior":"GOOD","coordinates":[-73.95597,40.62301,0],"name":"GXV 1453","engineType":"CE","vin":"WMEEJ3BA2FK794590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"45th St 19, 11105 Queens","city":"newyorkcity","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.89677,40.77603,0],"name":"HAR 7900","engineType":"CE","vin":"WMEEJ3BA8EK749118","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart St 770, 11237 Brooklyn","city":"newyorkcity","fuel":84,"exterior":"GOOD","coordinates":[-73.92389,40.70067,0],"name":"GSW 7812","engineType":"CE","vin":"WMEEJ3BA2FK796999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 12th St 320, 11218 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.96736,40.6412,0],"name":"GSW 7844","engineType":"CE","vin":"WMEEJ3BA7FK795881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th St 315, 11215 Brooklyn","city":"newyorkcity","fuel":54,"exterior":"GOOD","coordinates":[-73.98573,40.6639,0],"name":"GTS3706","engineType":"CE","vin":"WMEEJ3BA4FK798687","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nicholas Polonski Walk, 11211 Brooklyn","city":"newyorkcity","fuel":63,"exterior":"GOOD","coordinates":[-73.95716,40.71651,0],"name":"GTP 8894","engineType":"CE","vin":"WMEEJ3BA2FK795576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"84th St 1972, 11214 Brooklyn","city":"newyorkcity","fuel":72,"exterior":"GOOD","coordinates":[-73.99767,40.60608,0],"name":"HAR 7988","engineType":"CE","vin":"WMEEJ3BA3EK764898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th St 43, 11101 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.94742,40.74987,0],"name":"GTS  3691","engineType":"CE","vin":"WMEEJ3BA4FK799015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th St 32, 11103 Queens","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.91531,40.7553,0],"name":"GTP 9017","engineType":"CE","vin":"WMEEJ3BA2FK797179","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"76th St 22, 11370 Queens","city":"newyorkcity","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-73.89315,40.76731,0],"name":"GTS3731","engineType":"CE","vin":"WMEEJ3BA1FK798730","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Charles Innis Ave, 11216 Brooklyn","city":"newyorkcity","fuel":39,"exterior":"GOOD","coordinates":[-73.94433,40.67597,0],"name":"HAR 7910","engineType":"CE","vin":"WMEEJ3BA4EK771374","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"73rd St 608, 11209 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-74.01934,40.62935,0],"name":"GSW 7728","engineType":"CE","vin":"WMEEJ3BA0FK796354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"24th St 282, 11232 Brooklyn","city":"newyorkcity","fuel":100,"exterior":"GOOD","coordinates":[-73.99651,40.66053,0],"name":"HAR 7987","engineType":"CE","vin":"WMEEJ3BA3EK764500","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

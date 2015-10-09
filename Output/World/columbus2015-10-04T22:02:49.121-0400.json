@@ -1,0 +1,356 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North Bexley\/Eastmoor Area at S. Chesterfield","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-82.92089,39.97082,0],"name":"GBA4277","engineType":"CE","vin":"WMEEJ3BA9DK654596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 15th Ave 131, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00402,39.99981,0],"name":"GBA4291","engineType":"CE","vin":"WMEEJ3BA6DK683957","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Northwest Blvd 1040, 43212 Columbus","city":"columbus","fuel":30,"exterior":"GOOD","coordinates":[-83.03209,39.98041,0],"name":"GAJ4892","engineType":"CE","vin":"WMEEJ3BA9DK683709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Easton South","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-82.91744,40.04967,0],"name":"GBA4278","engineType":"CE","vin":"WMEEJ3BA4DK683570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whole Foods (Lane Ave)","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.05278,40.00622,0],"name":"GBU4759","engineType":"CE","vin":"WMEEJ3BA5EK736813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Main St 178, 43215 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.00403,39.95567,0],"name":"GFY2070","engineType":"CE","vin":"WMEEJ3BA1EK750126","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chittenden Ave 377, 43201 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-82.99673,39.99523,0],"name":"GFY2056","engineType":"CE","vin":"WMEEJ3BA3EK754873","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Noble St 148, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00362,39.95501,0],"name":"GBA4303","engineType":"CE","vin":"WMEEJ3BA8DK694944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 20th St 255, 43205 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.97359,39.95988,0],"name":"GFY2088","engineType":"CE","vin":"WMEEJ3BA0EK753986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Governors Pl 15, 43203 Columbus","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-82.96854,39.96626,0],"name":"GBU4226","engineType":"CE","vin":"WMEEJ3BA1EK733164","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"City Park Ave 625, 43206 Columbus","city":"columbus","fuel":66,"exterior":"GOOD","coordinates":[-82.99638,39.94955,0],"name":"GBU4214","engineType":"CE","vin":"WMEEJ3BAXEK733549","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Summit St 982, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00124,39.98294,0],"name":"GBU4253","engineType":"CE","vin":"WMEEJ3BA3EK733666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBU4202","engineType":"CE","vin":"WMEEJ3BA8EK734845","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Kossuth St 37, 43206 Columbus","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-82.99627,39.94557,0],"name":"GBU4220","engineType":"CE","vin":"WMEEJ3BA6EK733533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neil Ave 622, 43215 Columbus","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-83.01047,39.97422,0],"name":"GBA4284","engineType":"CE","vin":"WMEEJ3BA2DK695183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Delashmut Ave 1385, 43212 Columbus","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-83.03056,39.9879,0],"name":"GAJ4795","engineType":"CE","vin":"WMEEJ3BA4DK654201","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Gates St 299, 43206 Columbus","city":"columbus","fuel":90,"exterior":"GOOD","coordinates":[-82.98739,39.93743,0],"name":"GBU4180","engineType":"CE","vin":"WMEEJ3BA6EK733094","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":84,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBA4293","engineType":"CE","vin":"WMEEJ3BA9DK684603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Long St 170, 43215 Columbus","city":"columbus","fuel":72,"exterior":"GOOD","coordinates":[-83.00423,39.96463,0],"name":"GFY2096","engineType":"CE","vin":"WMEEJ3BA4EK754588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 4th Ave 153, 43201 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-83.00087,39.98572,0],"name":"GFY2065","engineType":"CE","vin":"WMEEJ3BA9EK754408","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tibet Rd 99, 43202 Columbus","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-83.01087,40.024,0],"name":"GBU4302","engineType":"CE","vin":"WMEEJ3BAXEK737066","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Frambes Ave 35, 43201 Columbus","city":"columbus","fuel":96,"exterior":"GOOD","coordinates":[-83.00786,40.00488,0],"name":"GBU4223","engineType":"CE","vin":"WMEEJ3BA7EK734030","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Longview Ave 87, 43202 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.01712,40.02959,0],"name":"GBA4309","engineType":"CE","vin":"WMEEJ3BA4DK684668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 7th Ave 193, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00079,39.99001,0],"name":"GFY2063","engineType":"CE","vin":"WMEEJ3BA7EK754634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Frambes Ave 276, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00318,40.0047,0],"name":"GGF7986","engineType":"CE","vin":"WMEEJ3BA7DK659182","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Forest St 529, 43206 Columbus","city":"columbus","fuel":81,"exterior":"GOOD","coordinates":[-82.98342,39.94772,0],"name":"GBA4306","engineType":"CE","vin":"WMEEJ3BA2DK683969","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":78,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBU4331","engineType":"CE","vin":"WMEEJ3BA3EK737734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North Star Rd 1738, 43212 Columbus","city":"columbus","fuel":72,"exterior":"GOOD","coordinates":[-83.04878,39.99306,0],"name":"GBU4281","engineType":"CE","vin":"WMEEJ3BA2EK738017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Frambes Ave 107, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00581,40.00484,0],"name":"GAJ4881","engineType":"CE","vin":"WMEEJ3BA4DK655266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williams Ave 825, 43212 Columbus","city":"columbus","fuel":60,"exterior":"GOOD","coordinates":[-83.02651,39.9785,0],"name":"GBU4276","engineType":"CE","vin":"WMEEJ3BA3EK737345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harley Dr 520, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.02797,40.02135,0],"name":"GBU4757","engineType":"CE","vin":"WMEEJ3BA5EK736004","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 16th Ave 289, 43201 Columbus","city":"columbus","fuel":75,"exterior":"GOOD","coordinates":[-83.00019,40.00052,0],"name":"GAJ4793","engineType":"CE","vin":"WMEEJ3BAXDK660083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Columbus St 235, 43206 Columbus","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-82.99091,39.94696,0],"name":"GAJ4837","engineType":"CE","vin":"WMEEJ3BA9DK659457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mithoff St 253, 43206 Columbus","city":"columbus","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-82.98888,39.93834,0],"name":"GBU4322","engineType":"CE","vin":"WMEEJ3BA9EK737673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 4th Ave 403, 43201 Columbus","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-83.01631,39.98568,0],"name":"GBU4318","engineType":"CE","vin":"WMEEJ3BA8EK738040","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"COTA - Northern Lights (Cleveland & Innes)","city":"columbus","fuel":84,"exterior":"GOOD","coordinates":[-82.96328,40.03804,0],"name":"GBA4207","engineType":"CE","vin":"WMEEJ3BA1DK660473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Goodale St 142, 43215 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-83.00612,39.97374,0],"name":"GAJ4796","engineType":"CE","vin":"WMEEJ3BAXDK659922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GBA4286","engineType":"CE","vin":"WMEEJ3BA8DK659742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":93,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GAJ4798","engineType":"CE","vin":"WMEEJ3BAXDK659676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tibet Rd 99, 43202 Columbus","city":"columbus","fuel":66,"exterior":"GOOD","coordinates":[-83.01087,40.02401,0],"name":"GFY2085","engineType":"CE","vin":"WMEEJ3BA1EK752247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Warren St 160, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99957,39.97845,0],"name":"GBU4251","engineType":"CE","vin":"WMEEJ3BA3EK735918","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Town St 619, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.98321,39.96064,0],"name":"GBA4275","engineType":"CE","vin":"WMEEJ3BA8DK659899","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Moler St 281, 43207 Columbus","city":"columbus","fuel":81,"exterior":"GOOD","coordinates":[-82.98833,39.93491,0],"name":"GAJ4799","engineType":"CE","vin":"WMEEJ3BA7DK659568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Riverview Pl 3173, 43202 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.03516,40.02505,0],"name":"GAJ4899","engineType":"CE","vin":"WMEEJ3BA3DK658952","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Chestnut St, 43215 Columbus","city":"columbus","fuel":96,"exterior":"GOOD","coordinates":[-83.0013,39.9677,0],"name":"GBU4256","engineType":"CE","vin":"WMEEJ3BA4EK734907","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N High St 2800, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01249,40.0191,0],"name":"GFY2054","engineType":"CE","vin":"WMEEJ3BA9EK748737","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 17th St 175, 43205 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.97761,39.96107,0],"name":"GBU4261","engineType":"CE","vin":"WMEEJ3BA7EK735355","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ackerman Complex","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.02951,40.01865,0],"name":"GFY2091","engineType":"CE","vin":"WMEEJ3BA5EK753501","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 4th Ave 133, 43201 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.00137,39.9857,0],"name":"GBU4309","engineType":"CE","vin":"WMEEJ3BA3EK737782","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North Bexley\/Eastmoor Area at S. Chesterfield","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-82.92089,39.97082,0],"name":"GFY2072","engineType":"CE","vin":"WMEEJ3BA6EK753099","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 14th Ave 375, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.9977,39.99842,0],"name":"GFY2051","engineType":"CE","vin":"WMEEJ3BA9EK753145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Grant Ave 1218, 43201 Columbus","city":"columbus","fuel":66,"exterior":"GOOD","coordinates":[-82.99605,39.98881,0],"name":"GBU4332","engineType":"CE","vin":"WMEEJ3BA7EK738417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":60,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBA4307","engineType":"CE","vin":"WMEEJ3BA5DK684887","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 1st Ave 331, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99683,39.98055,0],"name":"GBU4319","engineType":"CE","vin":"WMEEJ3BA8EK737194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Doten Ave 1571, 43212 Columbus","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-83.03772,39.99072,0],"name":"GBU4241","engineType":"CE","vin":"WMEEJ3BA5EK737055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chesapeake Ave 1379, 43212 Columbus","city":"columbus","fuel":78,"exterior":"GOOD","coordinates":[-83.04254,39.99241,0],"name":"GBU4316","engineType":"CE","vin":"WMEEJ3BA8EK737647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Kelso Rd 13, 43202 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.01279,40.02169,0],"name":"GFY2076","engineType":"CE","vin":"WMEEJ3BA2EK752645","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Punta Aly 176, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.9997,39.98308,0],"name":"GAJ4879","engineType":"CE","vin":"WMEEJ3BA2DK659803","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eastview Ave 1455, 43212 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.03563,39.98777,0],"name":"GAJ4883","engineType":"CE","vin":"WMEEJ3BA1DK658917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 4th St 19, 43215 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-82.99629,39.96324,0],"name":"GFY2087","engineType":"CE","vin":"WMEEJ3BA5EK753210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whole Foods (Lane Ave)","city":"columbus","fuel":84,"exterior":"GOOD","coordinates":[-83.05278,40.00622,0],"name":"GFY2083","engineType":"CE","vin":"WMEEJ3BA9EK748771","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chittenden Ave 409, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99596,39.99518,0],"name":"GBA4282","engineType":"CE","vin":"WMEEJ3BA6DK660047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whole Foods (Lane Ave)","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.05278,40.00622,0],"name":"GFY2062","engineType":"CE","vin":"WMEEJ3BA0EK753681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryden Rd 957, 43205 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-82.9741,39.96057,0],"name":"GBA4317","engineType":"CE","vin":"WMEEJ3BA2DK701550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Tompkins St 142, 43202 Columbus","city":"columbus","fuel":93,"exterior":"GOOD","coordinates":[-83.00701,40.014,0],"name":"GBU4321","engineType":"CE","vin":"WMEEJ3BA8EK738135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Adams Ave 2613, 43202 Columbus","city":"columbus","fuel":96,"exterior":"GOOD","coordinates":[-83.0073,40.01606,0],"name":"GBU4284","engineType":"CE","vin":"WMEEJ3BA6EK737436","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Warren St 158, 43215 Columbus","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-82.99956,39.97842,0],"name":"GFY2098","engineType":"CE","vin":"WMEEJ3BA0EK748755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Highland St 1117, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01112,39.98453,0],"name":"GFY2077","engineType":"CE","vin":"WMEEJ3BA1EK754127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North St 118, 43202 Columbus","city":"columbus","fuel":78,"exterior":"GOOD","coordinates":[-83.01334,40.0174,0],"name":"GAJ4897","engineType":"CE","vin":"WMEEJ3BA5DK701106","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 5th St 265, 43215 Columbus","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-82.99334,39.95737,0],"name":"GBU4232","engineType":"CE","vin":"WMEEJ3BAXEK733874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sunset Dr, 43202 Columbus","city":"columbus","fuel":93,"exterior":"GOOD","coordinates":[-83.0196,40.02425,0],"name":"GBA4274","engineType":"CE","vin":"WMEEJ3BA8DK697794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Riverview Dr 804, 43202 Columbus","city":"columbus","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-83.03491,40.02447,0],"name":"GBA4316","engineType":"CE","vin":"WMEEJ3BAXDK697067","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Franklin Ave 1035, 43205 Columbus","city":"columbus","fuel":75,"exterior":"GOOD","coordinates":[-82.97237,39.96183,0],"name":"GBA4319","engineType":"CE","vin":"WMEEJ3BA4DK658927","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Steelwood Rd 1273, 43212 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.04107,39.99526,0],"name":"GBU4287","engineType":"CE","vin":"WMEEJ3BA9EK736152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GFY2073","engineType":"CE","vin":"WMEEJ3BA4EK753232","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Glen Echo Dr 2621, 43202 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.00104,40.0165,0],"name":"GBU4286","engineType":"CE","vin":"WMEEJ3BA9EK736734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"COTA - Northern Lights (Cleveland & Innes)","city":"columbus","fuel":90,"exterior":"GOOD","coordinates":[-82.96328,40.03804,0],"name":"GFY2090","engineType":"CE","vin":"WMEEJ3BA8EK754013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Mill St 43, 43215 Columbus","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-83.01483,39.95907,0],"name":"GBU4247","engineType":"CE","vin":"WMEEJ3BA2EK733142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neil Ave 2629, 43202 Columbus","city":"columbus","fuel":66,"exterior":"GOOD","coordinates":[-83.0139,40.01574,0],"name":"GAJ4801","engineType":"CE","vin":"WMEEJ3BA9DK683922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N High St 1351, 43201 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.00618,39.98996,0],"name":"GBU4314","engineType":"CE","vin":"WMEEJ3BA8EK737745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lucas St 117, 43215 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.01139,39.95829,0],"name":"GBU4240","engineType":"CE","vin":"WMEEJ3BA7EK734223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GBU4333","engineType":"CE","vin":"WMEEJ3BA0EK737593","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thurber Dr E 783, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01319,39.97712,0],"name":"GBU4320","engineType":"CE","vin":"WMEEJ3BA5EK736083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Longview Ave 143, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01832,40.02967,0],"name":"GBA4302","engineType":"CE","vin":"WMEEJ3BA9DK684455","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Michigan Ave 1161, 43201 Columbus","city":"columbus","fuel":21,"exterior":"GOOD","coordinates":[-83.01678,39.98464,0],"name":"GOH7994","engineType":"CE","vin":"WMEEJ3BA0EK738405","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Forest St 473, 43206 Columbus","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-82.98493,39.94779,0],"name":"GFY2064","engineType":"CE","vin":"WMEEJ3BA6EK753328","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thurber Dr W, 43215 Columbus","city":"columbus","fuel":72,"exterior":"GOOD","coordinates":[-83.01478,39.97416,0],"name":"GBU4179","engineType":"CE","vin":"WMEEJ3BA2EK733383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 3rd Ave 289, 43201 Columbus","city":"columbus","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-82.99745,39.98351,0],"name":"GAJ4794","engineType":"CE","vin":"WMEEJ3BA2DK684619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sells Ave, 43212 Columbus","city":"columbus","fuel":54,"exterior":"GOOD","coordinates":[-83.03903,39.99452,0],"name":"GFY2084","engineType":"CE","vin":"WMEEJ3BA8EK748874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson Ave 41, 43215 Columbus","city":"columbus","fuel":27,"exterior":"GOOD","coordinates":[-82.98483,39.96498,0],"name":"GBA4287","engineType":"CE","vin":"WMEEJ3BAXDK700212","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Highland St 1339, 43201 Columbus","city":"columbus","fuel":54,"exterior":"GOOD","coordinates":[-83.01068,39.98925,0],"name":"GBU4262","engineType":"CE","vin":"WMEEJ3BA9EK735552","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 17th St 45, 43203 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-82.97732,39.96595,0],"name":"GBA4280","engineType":"CE","vin":"WMEEJ3BA7DK684681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":87,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBA4310","engineType":"CE","vin":"WMEEJ3BA0DK694811","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mulford Rd 1327, 43212 Columbus","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-83.0401,39.97982,0],"name":"GBA4313","engineType":"CE","vin":"WMEEJ3BA0DK657516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 6th St 973, 43201 Columbus","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-82.99754,39.98339,0],"name":"GAJ4802","engineType":"CE","vin":"WMEEJ3BAXDK684609","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Ohio Ave 72, 43205 Columbus","city":"columbus","fuel":60,"exterior":"GOOD","coordinates":[-82.97031,39.96411,0],"name":"GBU4317","engineType":"CE","vin":"WMEEJ3BA4EK737886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Perry St 975, 43201 Columbus","city":"columbus","fuel":78,"exterior":"GOOD","coordinates":[-83.01918,39.98112,0],"name":"GBA4283","engineType":"CE","vin":"WMEEJ3BA2DK695913","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Kossuth St 36, 43206 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-82.99628,39.94563,0],"name":"GBA4204","engineType":"CE","vin":"WMEEJ3BA6DK657097","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBA4311","engineType":"CE","vin":"WMEEJ3BA0DK684859","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GBA4205","engineType":"CE","vin":"WMEEJ3BA7DK658985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Capitol View Dr 599, 43203 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.97592,39.97529,0],"name":"GFY2055","engineType":"CE","vin":"WMEEJ3BA1EK753883","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North Bexley\/Eastmoor Area at S. Chesterfield","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-82.92089,39.97082,0],"name":"GAJ4841","engineType":"CE","vin":"WMEEJ3BAXDK659760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Rich St 256, 43215 Columbus","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-83.00297,39.9571,0],"name":"GBA4276","engineType":"CE","vin":"WMEEJ3BA7DK683790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thurber Dr E 785, 43215 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.01318,39.9772,0],"name":"GBA4312","engineType":"CE","vin":"WMEEJ3BA4DK656241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 6th Ave 1175, 43212 Columbus","city":"columbus","fuel":87,"exterior":"GOOD","coordinates":[-83.03751,39.98987,0],"name":"GBA4271","engineType":"CE","vin":"WMEEJ3BA1DK656102","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jack Gibbs Blvd 361, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.98889,39.97216,0],"name":"GAJ4803","engineType":"CE","vin":"WMEEJ3BA8DK684091","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Oak St 857, 43205 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.97737,39.96294,0],"name":"GFY2094","engineType":"CE","vin":"WMEEJ3BA8EK753718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBA4315","engineType":"CE","vin":"WMEEJ3BA2DK685060","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Gay St 388, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99046,39.96486,0],"name":"GBU4264","engineType":"CE","vin":"WMEEJ3BA8EK732934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 4th St 1599, 43201 Columbus","city":"columbus","fuel":24,"exterior":"GOOD","coordinates":[-82.99908,39.99594,0],"name":"GBU4761","engineType":"CE","vin":"WMEEJ3BA5EK737007","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GBU4207","engineType":"CE","vin":"WMEEJ3BA3EK734638","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Meadow Rd 1418, 43212 Columbus","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-83.03901,39.98733,0],"name":"GBA4288","engineType":"CE","vin":"WMEEJ3BAXDK699272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 5th St 49, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99415,39.96198,0],"name":"GFY2059","engineType":"CE","vin":"WMEEJ3BAXEK752960","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neil Ave 2979, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01626,40.02236,0],"name":"GBU4298","engineType":"CE","vin":"WMEEJ3BA4EK738181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Gay St 444, 43215 Columbus","city":"columbus","fuel":57,"exterior":"GOOD","coordinates":[-82.98889,39.96535,0],"name":"GBA4304","engineType":"CE","vin":"WMEEJ3BA2DK701337","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Henderson & High","city":"columbus","fuel":30,"exterior":"GOOD","coordinates":[-83.01885,40.05179,0],"name":"GBA4270","engineType":"CE","vin":"WMEEJ3BA1DK655578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bruck St 1195, 43206 Columbus","city":"columbus","fuel":60,"exterior":"GOOD","coordinates":[-82.98791,39.93855,0],"name":"GFY2067","engineType":"CE","vin":"WMEEJ3BA0EK752725","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Grant Ave 71, 43215 Columbus","city":"columbus","fuel":84,"exterior":"GOOD","coordinates":[-82.99134,39.96504,0],"name":"GFY2075","engineType":"CE","vin":"WMEEJ3BA8EK753590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neil Ave 780, 43215 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-83.01105,39.97733,0],"name":"GBU4311","engineType":"CE","vin":"WMEEJ3BA6EK738487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hamlet St 1185, 43201 Columbus","city":"columbus","fuel":48,"exterior":"GOOD","coordinates":[-83.00081,39.98714,0],"name":"GFY2097","engineType":"CE","vin":"WMEEJ3BA1EK753947","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Neil Ave 1119, 43201 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-83.01256,39.98432,0],"name":"GFY2052","engineType":"CE","vin":"WMEEJ3BA5EK753711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"COTA - Delawanda (Morse & High)","city":"columbus","fuel":90,"exterior":"GOOD","coordinates":[-83.01995,40.06291,0],"name":"GBU4246","engineType":"CE","vin":"WMEEJ3BA7EK732875","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rev1Ventures","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.04209,39.99807,0],"name":"GBA4320","engineType":"CE","vin":"WMEEJ3BA0DK683985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"COTA - Northern Lights (Cleveland & Innes)","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.96328,40.03804,0],"name":"GAJ4836","engineType":"CE","vin":"WMEEJ3BA7DK658713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 3rd Ave 280, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99751,39.9836,0],"name":"GBU4230","engineType":"CE","vin":"WMEEJ3BA0EK738260","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park St 661, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00494,39.97567,0],"name":"GAJ4893","engineType":"CE","vin":"WMEEJ3BA0DK659671","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lucas St 149, 43215 Columbus","city":"columbus","fuel":69,"exterior":"GOOD","coordinates":[-83.01132,39.95779,0],"name":"GAJ4880","engineType":"CE","vin":"WMEEJ3BA1DK684045","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Riverview Dr 670, 43202 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-83.03163,40.02432,0],"name":"GFY2053","engineType":"CE","vin":"WMEEJ3BA4EK754025","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sawyer Blvd 798, 43203 Columbus","city":"columbus","fuel":72,"exterior":"GOOD","coordinates":[-82.97626,39.97533,0],"name":"GBU4182","engineType":"CE","vin":"WMEEJ3BA6EK733712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ag Engineering Lot","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.027,40.00481,0],"name":"GAJ4882","engineType":"CE","vin":"WMEEJ3BA4DK683598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Goodale St 164, 43215 Columbus","city":"columbus","fuel":30,"exterior":"GOOD","coordinates":[-83.00741,39.97381,0],"name":"GIV2452","engineType":"CE","vin":"WMEEJ3BA5DK659245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carmack Rd. Lot","city":"columbus","fuel":96,"exterior":"GOOD","coordinates":[-83.03692,40.00171,0],"name":"GBU4265","engineType":"CE","vin":"WMEEJ3BA0EK734712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S High St 1420, 43207 Columbus","city":"columbus","fuel":93,"exterior":"GOOD","coordinates":[-82.99588,39.93326,0],"name":"GAJ4835","engineType":"CE","vin":"WMEEJ3BA9DK659829","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Michigan Ave 1171, 43201 Columbus","city":"columbus","fuel":93,"exterior":"GOOD","coordinates":[-83.0168,39.98492,0],"name":"GFY2074","engineType":"CE","vin":"WMEEJ3BA8EK752651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fair Ave 1088, 43205 Columbus","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-82.97128,39.96373,0],"name":"GFY2092","engineType":"CE","vin":"WMEEJ3BA2EK752824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mithoff St 262, 43206 Columbus","city":"columbus","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-82.98884,39.93843,0],"name":"GAJ4826","engineType":"CE","vin":"WMEEJ3BA5DK656863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 15th Ave 325, 43201 Columbus","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-82.99915,39.99957,0],"name":"GFY2082","engineType":"CE","vin":"WMEEJ3BA4EK748306","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harley Dr 650, 43202 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-83.03134,40.02122,0],"name":"GAJ4797","engineType":"CE","vin":"WMEEJ3BA5DK659973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Wall St, 43215 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00085,39.95844,0],"name":"GFY2086","engineType":"CE","vin":"WMEEJ3BA1EK753088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Northwood Ave 158, 43201 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.01454,40.00844,0],"name":"GAJ4840","engineType":"CE","vin":"WMEEJ3BA0DK658875","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Garfield Ave 11, 43205 Columbus","city":"columbus","fuel":9,"exterior":"GOOD","coordinates":[-82.98023,39.9641,0],"name":"GBU4235","engineType":"CE","vin":"WMEEJ3BA7EK733198","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harley Dr 455, 43202 Columbus","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-83.02626,40.02099,0],"name":"GFY2058","engineType":"CE","vin":"WMEEJ3BA6EK753247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cozzins St 240, 43215 Columbus","city":"columbus","fuel":54,"exterior":"GOOD","coordinates":[-83.01116,39.96632,0],"name":"GFY2050","engineType":"CE","vin":"WMEEJ3BA1EK752748","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hope Ave 1243, 43212 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.03998,39.98359,0],"name":"GFY2071","engineType":"CE","vin":"WMEEJ3BA8EK754271","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whole Foods (Lane Ave)","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.05278,40.00622,0],"name":"GBU4236","engineType":"CE","vin":"WMEEJ3BA7EK736070","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Tulane Rd 43, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01508,40.02375,0],"name":"GBU4301","engineType":"CE","vin":"WMEEJ3BA6EK737789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cliffs - Compton Construction","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.0692,39.98826,0],"name":"GFY2093","engineType":"CE","vin":"WMEEJ3BA2EK752855","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Duncan St 54, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01014,40.0158,0],"name":"GFY2078","engineType":"CE","vin":"WMEEJ3BA2EK753200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park St 337, 43215 Columbus","city":"columbus","fuel":42,"exterior":"GOOD","coordinates":[-83.00473,39.97167,0],"name":"GBA4201","engineType":"CE","vin":"WMEEJ3BA8DK660339","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ag Engineering Lot","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-83.027,40.00481,0],"name":"GBU4219","engineType":"CE","vin":"WMEEJ3BA6EK733354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S High St 1368, 43207 Columbus","city":"columbus","fuel":90,"exterior":"GOOD","coordinates":[-82.99591,39.93416,0],"name":"GBU4289","engineType":"CE","vin":"WMEEJ3BA6EK737257","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lathrop St 665, 43206 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-82.98752,39.94967,0],"name":"GBA4305","engineType":"CE","vin":"WMEEJ3BA1DK684692","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Indianola Ave 1219, 43201 Columbus","city":"columbus","fuel":39,"exterior":"GOOD","coordinates":[-83.00342,39.98745,0],"name":"GAJ4521","engineType":"CE","vin":"WMEEJ3BA7DK684339","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"West, 43212 Columbus","city":"columbus","fuel":66,"exterior":"GOOD","coordinates":[-83.02549,39.97536,0],"name":"GFY2099","engineType":"CE","vin":"WMEEJ3BA9EK754215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Forsythe Ave 1383, 43201 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-83.01192,39.99007,0],"name":"GBU4239","engineType":"CE","vin":"WMEEJ3BA7EK733413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 21st St 251, 43205 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.97278,39.96003,0],"name":"GFY2079","engineType":"CE","vin":"WMEEJ3BA6EK749215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dayton Ave 2685, 43202 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-83.00431,40.01764,0],"name":"GAJ4834","engineType":"CE","vin":"WMEEJ3BA6DK657147","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ackerman Complex","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.02951,40.01865,0],"name":"GBA4279","engineType":"CE","vin":"WMEEJ3BA4DK701405","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Ohio Ave 239, 43205 Columbus","city":"columbus","fuel":90,"exterior":"GOOD","coordinates":[-82.97057,39.96074,0],"name":"GBU4271","engineType":"CE","vin":"WMEEJ3BA7EK735372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Glendale Ave, 43212 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.04367,39.97636,0],"name":"GBA4273","engineType":"CE","vin":"WMEEJ3BA9DK657546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS","city":"columbus","fuel":81,"exterior":"GOOD","coordinates":[-82.91426,40.0014,0],"name":"GBU4306","engineType":"CE","vin":"WMEEJ3BA0EK737304","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"COTA - Northern Lights (Cleveland & Innes)","city":"columbus","fuel":51,"exterior":"GOOD","coordinates":[-82.96328,40.03804,0],"name":"GBA4200","engineType":"CE","vin":"WMEEJ3BA1DK658996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mound St 931, 43205 Columbus","city":"columbus","fuel":75,"exterior":"GOOD","coordinates":[-82.97406,39.95656,0],"name":"GBU4760","engineType":"CE","vin":"WMEEJ3BA4EK736026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Welch Ave 227, 43207 Columbus","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-82.98939,39.9302,0],"name":"GAJ4838","engineType":"CE","vin":"WMEEJ3BA5DK659469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"North St 126, 43202 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.01343,40.0174,0],"name":"GBA4206","engineType":"CE","vin":"WMEEJ3BA4DK659771","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Pearl St 715, 43206 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99691,39.94772,0],"name":"GBU4285","engineType":"CE","vin":"WMEEJ3BA7EK736019","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 5th Ave 1838, 43212 Columbus","city":"columbus","fuel":54,"exterior":"GOOD","coordinates":[-83.05597,39.98935,0],"name":"GBU4291","engineType":"CE","vin":"WMEEJ3BA5EK736763","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thurber Dr E 655, 43215 Columbus","city":"columbus","fuel":78,"exterior":"GOOD","coordinates":[-83.01266,39.97613,0],"name":"GFY2057","engineType":"CE","vin":"WMEEJ3BA5EK755085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 4th Ave 233, 43201 Columbus","city":"columbus","fuel":87,"exterior":"GOOD","coordinates":[-83.01188,39.98549,0],"name":"GBA4314","engineType":"CE","vin":"WMEEJ3BA1DK684272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"TPS - Overflow","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-82.91744,40.00193,0],"name":"GBU4304","engineType":"CE","vin":"WMEEJ3BA6EK736495","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ag Engineering Lot","city":"columbus","fuel":87,"exterior":"GOOD","coordinates":[-83.027,40.00481,0],"name":"GFY2089","engineType":"CE","vin":"WMEEJ3BA4EK748158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 3rd Ave 379, 43201 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-83.0153,39.98378,0],"name":"GBU4254","engineType":"CE","vin":"WMEEJ3BA2EK737126","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 14th Ave 465, 43201 Columbus","city":"columbus","fuel":33,"exterior":"GOOD","coordinates":[-82.99612,39.99831,0],"name":"GFY2095","engineType":"CE","vin":"WMEEJ3BA0EK754538","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harley Dr 611, 43202 Columbus","city":"columbus","fuel":36,"exterior":"GOOD","coordinates":[-83.03032,40.02146,0],"name":"GBA4203","engineType":"CE","vin":"WMEEJ3BA8DK659224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 7th Ave 135, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-83.00225,39.99022,0],"name":"GBA4318","engineType":"CE","vin":"WMEEJ3BAXDK701666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 6th St 927, 43201 Columbus","city":"columbus","fuel":100,"exterior":"GOOD","coordinates":[-82.99756,39.98311,0],"name":"GAJ4833","engineType":"CE","vin":"WMEEJ3BA2DK659462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Old Ackerman Rd 598, 43202 Columbus","city":"columbus","fuel":63,"exterior":"GOOD","coordinates":[-83.02589,40.01841,0],"name":"GFY2068","engineType":"CE","vin":"WMEEJ3BA6EK749330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 13th Ave 335, 43201 Columbus","city":"columbus","fuel":45,"exterior":"GOOD","coordinates":[-82.99834,39.99747,0],"name":"GAJ4839","engineType":"CE","vin":"WMEEJ3BA4DK658880","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

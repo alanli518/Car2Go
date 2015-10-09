@@ -1,0 +1,816 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de la Salle 1438, H1V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53528,45.55029,0],"name":"FKG2847","engineType":"CE","vin":"WMEEJ3BA9DK706700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue le Caron 1882, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58977,45.46198,0],"name":"FKF2675","engineType":"CE","vin":"WMEEJ3BA7DK719798","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Desjardins 1746, H1V Montréal","city":"montreal","fuel":30,"exterior":"GOOD","coordinates":[-73.53819,45.5503,0],"name":"FJH1834","engineType":"CE","vin":"WMEEJ3BA6DK712647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dickson 3344, H1N Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.54741,45.57296,0],"name":"FJH2580","engineType":"CE","vin":"WMEEJ3BA0DK711493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 8236, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63313,45.5402,0],"name":"FJH1818","engineType":"CE","vin":"WMEEJ3BA5DK706483","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Mariette 2474, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63375,45.45987,0],"name":"FJH1871","engineType":"CE","vin":"WMEEJ3BA8DK715811","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dézéry 3518, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55853,45.5444,0],"name":"FLA1348","engineType":"CE","vin":"WMEEJ3BA9FK795333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Kensington 4602, H4B Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.63321,45.47031,0],"name":"FJH2537","engineType":"CE","vin":"WMEEJ3BA2DK711561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bordeaux 3726, H2K Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.56471,45.53066,0],"name":"FJH1814","engineType":"CE","vin":"WMEEJ3BA4DK715126","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Gilford 1681, H2J Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.5785,45.53402,0],"name":"FJH2534","engineType":"CE","vin":"WMEEJ3BA2DK714640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Roy E 591, H2L Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.57133,45.52058,0],"name":"FLA1360","engineType":"CE","vin":"WMEEJ3BAXFK795468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cuvillier 522, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53847,45.54139,0],"name":"FLA1357","engineType":"CE","vin":"WMEEJ3BA9FK795512","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Letourneux 662, H1V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53339,45.5505,0],"name":"FLA1355","engineType":"CE","vin":"WMEEJ3BA6FK795760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Zotique O 265, H2V Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.61586,45.52893,0],"name":"FLA1327","engineType":"CE","vin":"WMEEJ3BA5FK796625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16e Avenue 7744, H2A Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.60287,45.56567,0],"name":"FJF8248","engineType":"CE","vin":"WMEEJ3BAXDK706933","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Van Horne 2311, H3S Montréal","city":"montreal","fuel":30,"exterior":"GOOD","coordinates":[-73.62321,45.51125,0],"name":"FLA1352","engineType":"CE","vin":"WMEEJ3BA8FK796487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2e Avenue 6548, H1Y Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.5906,45.55143,0],"name":"FLA1350","engineType":"CE","vin":"WMEEJ3BA3FK795313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13e Avenue 5563, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57496,45.55293,0],"name":"FLA1349","engineType":"CE","vin":"WMEEJ3BA0FK795298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Fabre 5058, H2J Montréal","city":"montreal","fuel":81,"exterior":"GOOD","coordinates":[-73.58193,45.5343,0],"name":"FKG2821","engineType":"CE","vin":"WMEEJ3BA5DK711621","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1430 St-Marc","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.58134,45.49306,0],"name":"FLA1344","engineType":"CE","vin":"WMEEJ3BA3FK795831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Park Row O 2374, H4B Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.63222,45.46001,0],"name":"FJH5531","engineType":"CE","vin":"WMEEJ3BA2DK722401","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12e Avenue 5570, H1X Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.57547,45.55234,0],"name":"FJF8201","engineType":"CE","vin":"WMEEJ3BA7DK721731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Chabot 7944, H2E Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.61581,45.55341,0],"name":"FLA1339","engineType":"CE","vin":"WMEEJ3BA1FK796170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de la Roche 6760, H2S Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.60517,45.54048,0],"name":"FKG2844","engineType":"CE","vin":"WMEEJ3BA8DK713640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Luna","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.57904,45.50299,0],"name":"FLA1334","engineType":"CE","vin":"WMEEJ3BA9FK795901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10e Avenue 5446, H1Y Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.57424,45.55048,0],"name":"FLA1335","engineType":"CE","vin":"WMEEJ3BA1FK795343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Patricia 2019, H4B Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.63671,45.45393,0],"name":"FJH1866","engineType":"CE","vin":"WMEEJ3BA8DK715534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue J-J-Gagnier 9484, H1Z Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63581,45.575,0],"name":"FLA1340","engineType":"CE","vin":"WMEEJ3BA6FK796634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Lorimier 4276, H2H Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56877,45.53343,0],"name":"FJH5591","engineType":"CE","vin":"WMEEJ3BA6DK722921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de la Pépinière 2818, H1N Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.539,45.57654,0],"name":"FLA1313","engineType":"CE","vin":"WMEEJ3BA8FK796439","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Zotique E 5856, H1T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.5693,45.58113,0],"name":"FLA1329","engineType":"CE","vin":"WMEEJ3BA2FK796212","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Aéroport de Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.73892,45.45396,0],"name":"FLA1319","engineType":"CE","vin":"WMEEJ3BA4FK796678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue des Ateliers 676, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59627,45.53181,0],"name":"FLA1321","engineType":"CE","vin":"WMEEJ3BAXFK796409","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Galt Cres 2133, H4E Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.59363,45.4634,0],"name":"FLA1317","engineType":"CE","vin":"WMEEJ3BA7FK795458","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 4953, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56524,45.55281,0],"name":"FJH5530","engineType":"CE","vin":"WMEEJ3BA2DK721992","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Iberville \/ De Rouen","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.55472,45.53344,0],"name":"FLA1309","engineType":"CE","vin":"WMEEJ3BA1FK796508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue d'Arcy-McGee 1666, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58675,45.45208,0],"name":"FLA1302","engineType":"CE","vin":"WMEEJ3BAXFK796457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Gascon 3542, H2K Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.56198,45.53771,0],"name":"FLA1304","engineType":"CE","vin":"WMEEJ3BAXFK796281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Resther 4762, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58519,45.52725,0],"name":"FKG2834","engineType":"CE","vin":"WMEEJ3BA7DK703746","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-André 5638, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59395,45.53281,0],"name":"FLA1318","engineType":"CE","vin":"WMEEJ3BAXFK795826","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 4106, H2K Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.56788,45.53076,0],"name":"FLA1310","engineType":"CE","vin":"WMEEJ3BA4FK795532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 4348, H1X Montréal","city":"montreal","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.55715,45.55314,0],"name":"FLA1301","engineType":"CE","vin":"WMEEJ3BA5FK796463","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chabanel \/ Meilleur","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.65703,45.53776,0],"name":"FJH1883","engineType":"CE","vin":"WMEEJ3BA7DK706646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Clark 4297, H2W Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.58366,45.51819,0],"name":"FLA1333","engineType":"CE","vin":"WMEEJ3BA1FK795780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4e Avenue 5272, H1Y Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.57419,45.54652,0],"name":"FJH2502","engineType":"CE","vin":"WMEEJ3BA4DK707060","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Wilderton 6130, H3S Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.62351,45.50957,0],"name":"FJH2511","engineType":"CE","vin":"WMEEJ3BA3DK714906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Harvard 4124, H4A Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.62132,45.47339,0],"name":"FKG2849","engineType":"CE","vin":"WMEEJ3BA9DK707006","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 6389, H2G Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.59497,45.54307,0],"name":"FJF8242","engineType":"CE","vin":"WMEEJ3BAXDK714627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17e Avenue 5546, H1X Montréal","city":"montreal","fuel":81,"exterior":"GOOD","coordinates":[-73.57286,45.55597,0],"name":"FJH1821","engineType":"CE","vin":"WMEEJ3BA5DK712591","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Shearer 1054, H3K Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.56093,45.48195,0],"name":"FJH1806","engineType":"CE","vin":"WMEEJ3BA4DK712436","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Allard 1638, H4E Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.58694,45.45142,0],"name":"FJF8252","engineType":"CE","vin":"WMEEJ3BA9DK715767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue la Fontaine 7876, H1L Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.51289,45.58916,0],"name":"FJH5550","engineType":"CE","vin":"WMEEJ3BA4DK720813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Nicolet 2170, H1W Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.54589,45.54706,0],"name":"FLA1326","engineType":"CE","vin":"WMEEJ3BA7FK795492","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Willowdale 2865, H3T Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.61953,45.504,0],"name":"FJF8228","engineType":"CE","vin":"WMEEJ3BA9DK723156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard St-Laurent 4283, H2W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58326,45.51878,0],"name":"FJF8220","engineType":"CE","vin":"WMEEJ3BA9DK720273","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Vinet 519, H3J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57462,45.48361,0],"name":"FJH1874","engineType":"CE","vin":"WMEEJ3BA7DK707201","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Charlemagne 5672, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.5727,45.5589,0],"name":"FJF8224","engineType":"CE","vin":"WMEEJ3BA9DK721231","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chabanel \/ Meilleur","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.65703,45.53776,0],"name":"FKG2825","engineType":"CE","vin":"WMEEJ3BA5DK715345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Desnoyers 696, H4C Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59368,45.47377,0],"name":"FJH2549","engineType":"CE","vin":"WMEEJ3BA1DK715486","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Foucher 7728, H2R Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.62231,45.54338,0],"name":"FJH2526","engineType":"CE","vin":"WMEEJ3BA3DK705431","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Luna","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.57904,45.50299,0],"name":"FJF8229","engineType":"CE","vin":"WMEEJ3BAXDK719567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Marquette 6478, H2G Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.59697,45.54243,0],"name":"FJH5556","engineType":"CE","vin":"WMEEJ3BA4DK722786","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 8050, H2E Montréal","city":"montreal","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-73.6178,45.55357,0],"name":"FKG2859","engineType":"CE","vin":"WMEEJ3BAXDK722307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Galt 2066, H4E Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.59184,45.46294,0],"name":"FKG2855","engineType":"CE","vin":"WMEEJ3BA9DK721391","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Walkley 2490, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62989,45.46237,0],"name":"FKG2806","engineType":"CE","vin":"WMEEJ3BA4DK711593","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Villiers 2216, H4E Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.59437,45.46152,0],"name":"FJF8250","engineType":"CE","vin":"WMEEJ3BAXDK706365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Darling 2681, H1W Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.55442,45.54476,0],"name":"FKG2852","engineType":"CE","vin":"WMEEJ3BA9DK711539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"36e Avenue 6878, H1T Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.57892,45.57237,0],"name":"FJH2575","engineType":"CE","vin":"WMEEJ3BA0DK712742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bourbonnière 2259, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54668,45.54922,0],"name":"FLA1359","engineType":"CE","vin":"WMEEJ3BA3FK795537","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Prud'Homme 2152, H4A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60902,45.47338,0],"name":"FJH5590","engineType":"CE","vin":"WMEEJ3BA6DK722885","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6e Avenue 7066, H2A Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.59891,45.55568,0],"name":"FJF8221","engineType":"CE","vin":"WMEEJ3BA9DK720466","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Godfrey 6280, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62741,45.46719,0],"name":"FJH5526","engineType":"CE","vin":"WMEEJ3BA2DK720731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 7862, H2R Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.62594,45.54081,0],"name":"FLA1332","engineType":"CE","vin":"WMEEJ3BA8FK795453","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"30e Avenue 6854, H1T Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.58174,45.56909,0],"name":"FLA1314","engineType":"CE","vin":"WMEEJ3BA7FK795556","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Fabre 6575, H2G Montréal","city":"montreal","fuel":30,"exterior":"GOOD","coordinates":[-73.59897,45.54261,0],"name":"FJH2556","engineType":"CE","vin":"WMEEJ3BA1DK711938","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15e Avenue 7164, H2A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59509,45.56165,0],"name":"FJH1870","engineType":"CE","vin":"WMEEJ3BA8DK715744","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Berri 8284, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63171,45.54403,0],"name":"FKG2832","engineType":"CE","vin":"WMEEJ3BA6DK713863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Châteaubriand 6410, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60277,45.53502,0],"name":"FJH5521","engineType":"CE","vin":"WMEEJ3BA2DK720499","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Germain 2130, H1W Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.54845,45.54215,0],"name":"FKG2826","engineType":"CE","vin":"WMEEJ3BA6DK706668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Hingston 4247, H4A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62666,45.47022,0],"name":"FJH5579","engineType":"CE","vin":"WMEEJ3BA6DK719646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Marie-Anne E 313, H2W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58138,45.52201,0],"name":"FJH5597","engineType":"CE","vin":"WMEEJ3BA7DK720286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Royal 4592, H4A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63063,45.47388,0],"name":"FLA1315","engineType":"CE","vin":"WMEEJ3BA6FK795323","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Vendôme 2100, H4A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60548,45.47509,0],"name":"FJH1808","engineType":"CE","vin":"WMEEJ3BA4DK712663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Somerled 6371, H4V Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.6369,45.4695,0],"name":"FKG2820","engineType":"CE","vin":"WMEEJ3BA5DK711280","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Haig 1939, H1N Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.52178,45.57966,0],"name":"FLA1347","engineType":"CE","vin":"WMEEJ3BA3FK795358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Chester 7467, H4V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.65449,45.45929,0],"name":"FJF8227","engineType":"CE","vin":"WMEEJ3BA9DK722959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Rousseau 9046, H1K Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.53747,45.6103,0],"name":"FJH5585","engineType":"CE","vin":"WMEEJ3BA6DK720781","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dickson 3348, H1N Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.54746,45.57295,0],"name":"FJF8216","engineType":"CE","vin":"WMEEJ3BA9DK719835","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Liège E 340, H2P Montréal","city":"montreal","fuel":30,"exterior":"GOOD","coordinates":[-73.63567,45.54359,0],"name":"FJH2572","engineType":"CE","vin":"WMEEJ3BA0DK715396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Iberville \/ De Rouen","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55472,45.53344,0],"name":"FJH2599","engineType":"CE","vin":"WMEEJ3BA0DK721022","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dézéry 2484, H1W Montréal","city":"montreal","fuel":81,"exterior":"GOOD","coordinates":[-73.55354,45.5429,0],"name":"FKG2853","engineType":"CE","vin":"WMEEJ3BA9DK714814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Châteaubriand 6682, H2S Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.6069,45.53684,0],"name":"FLA1358","engineType":"CE","vin":"WMEEJ3BA0FK795785","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bourbonnière 5242, H1X Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.56809,45.55604,0],"name":"FJH2520","engineType":"CE","vin":"WMEEJ3BA3DK707521","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Lyall 1134, H1N Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.51692,45.57874,0],"name":"FJH5554","engineType":"CE","vin":"WMEEJ3BA4DK722240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12e Avenue 5105, H1X Montréal","city":"montreal","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-73.56823,45.55027,0],"name":"FJH1885","engineType":"CE","vin":"WMEEJ3BA7DK706923","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard St-Joseph E 1814, H2H Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57926,45.5353,0],"name":"FJH1851","engineType":"CE","vin":"WMEEJ3BAXDK720749","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de St-Vallier 5903, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59862,45.53224,0],"name":"FJH5569","engineType":"CE","vin":"WMEEJ3BA5DK720660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Érables 5666, H2G Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.58466,45.54177,0],"name":"FJH2566","engineType":"CE","vin":"WMEEJ3BA1DK707145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Châtelain 6234, H1T Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.5644,45.5765,0],"name":"FJH1873","engineType":"CE","vin":"WMEEJ3BA9DK706616","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Brébeuf 4730, H2J Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.58069,45.53052,0],"name":"FJF8218","engineType":"CE","vin":"WMEEJ3BA9DK719916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Liège E 459, H2P Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.63522,45.54481,0],"name":"FKG2819","engineType":"CE","vin":"WMEEJ3BA5DK710145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1243 St-Urbain","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56362,45.50852,0],"name":"FKG2858","engineType":"CE","vin":"WMEEJ3BAXDK722145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Laurendeau 5434, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58722,45.46381,0],"name":"FKG2848","engineType":"CE","vin":"WMEEJ3BA9DK706809","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 2162, H1W Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.54508,45.54933,0],"name":"FJH5539","engineType":"CE","vin":"WMEEJ3BA3DK721077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Berri 7806, H2R Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.62434,45.54185,0],"name":"FJH5563","engineType":"CE","vin":"WMEEJ3BA5DK720139","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Rosedale 3462, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63483,45.46142,0],"name":"FKG2811","engineType":"CE","vin":"WMEEJ3BA4DK715711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue du Mont-Royal E 3907, H1X Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.56021,45.55399,0],"name":"FKG2822","engineType":"CE","vin":"WMEEJ3BA5DK712087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Barré 1277, H3C Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.56386,45.49271,0],"name":"FJH1810","engineType":"CE","vin":"WMEEJ3BA4DK712923","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 6506, H2G Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.59623,45.54384,0],"name":"FJH5544","engineType":"CE","vin":"WMEEJ3BA3DK722911","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Papineau 4116, H2K Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56866,45.53009,0],"name":"FJH1823","engineType":"CE","vin":"WMEEJ3BA5DK715037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Omer-Lavalée 3133, H1Y Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.56139,45.54634,0],"name":"FJH2525","engineType":"CE","vin":"WMEEJ3BA3DK706515","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Berri 3709, H2L Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.57027,45.51969,0],"name":"FKT1974","engineType":"CE","vin":"WMEEJ3BA4DK722352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10e Avenue 5766, H1Y Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.5793,45.55205,0],"name":"FJH2555","engineType":"CE","vin":"WMEEJ3BA1DK712037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Jeanne-d'Arc 2152, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54478,45.54994,0],"name":"FJH1842","engineType":"CE","vin":"WMEEJ3BA9DK710889","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Lajeunesse 7707, H2R Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.62276,45.54218,0],"name":"FJH2553","engineType":"CE","vin":"WMEEJ3BA1DK714855","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 2358, H1W Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.54916,45.54705,0],"name":"FJH1837","engineType":"CE","vin":"WMEEJ3BA6DK714981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Clark 4817, H2T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58993,45.52106,0],"name":"FJH2574","engineType":"CE","vin":"WMEEJ3BA0DK714801","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8e Avenue 5526, H1Y Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.57615,45.54982,0],"name":"FKG2824","engineType":"CE","vin":"WMEEJ3BA5DK715247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bordeaux 5497, H2H Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.58388,45.53989,0],"name":"FJH2510","engineType":"CE","vin":"WMEEJ3BA3DK714954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bordeaux 7382, H2E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60867,45.55116,0],"name":"FJH2539","engineType":"CE","vin":"WMEEJ3BA2DK711026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Barclay 2870, H3S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62931,45.50941,0],"name":"FJH1840","engineType":"CE","vin":"WMEEJ3BA6DK715693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dandurand 2205, H2G Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58365,45.54142,0],"name":"FJH2592","engineType":"CE","vin":"WMEEJ3BA0DK705550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 4140, H2W Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.57781,45.5208,0],"name":"FJF8243","engineType":"CE","vin":"WMEEJ3BAXDK712313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Lyall 1180, H1N Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.51705,45.57885,0],"name":"FLA1346","engineType":"CE","vin":"WMEEJ3BA6FK795368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Messier 4261, H2H Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56659,45.53514,0],"name":"FJH5599","engineType":"CE","vin":"WMEEJ3BA7DK720451","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12e Avenue 6129, H1X Montréal","city":"montreal","fuel":81,"exterior":"GOOD","coordinates":[-73.58137,45.5545,0],"name":"FJH5538","engineType":"CE","vin":"WMEEJ3BA3DK720978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Érables 6968, H2E Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.60134,45.54935,0],"name":"FJH5532","engineType":"CE","vin":"WMEEJ3BA2DK722981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2e Avenue 6552, H1Y Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.59067,45.55146,0],"name":"FJF8236","engineType":"CE","vin":"WMEEJ3BAXDK720119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1250 St-Hubert","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.55821,45.51496,0],"name":"FJH1829","engineType":"CE","vin":"WMEEJ3BA6DK711093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard Rosemont, H2G Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59213,45.53974,0],"name":"FKG2804","engineType":"CE","vin":"WMEEJ3BA4DK710430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue du Parc 7010, H3N Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.61995,45.52962,0],"name":"FJH2535","engineType":"CE","vin":"WMEEJ3BA2DK713617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Casgrain 5214, H2T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59373,45.52524,0],"name":"FJH5570","engineType":"CE","vin":"WMEEJ3BA5DK720884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Courcelle 650, H4C Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.59198,45.47419,0],"name":"FJH5547","engineType":"CE","vin":"WMEEJ3BA4DK719824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Kensington 4413, H4B Montréal","city":"montreal","fuel":27,"exterior":"GOOD","coordinates":[-73.63093,45.46932,0],"name":"FJH5600","engineType":"CE","vin":"WMEEJ3BA7DK721423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Northcliffe 3452, H4A Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.60943,45.47534,0],"name":"FJH2501","engineType":"CE","vin":"WMEEJ3BA4DK707172","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Hubert 6110, H2S Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.59921,45.53434,0],"name":"FJH1802","engineType":"CE","vin":"WMEEJ3BA4DK711075","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dézéry 2422, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55266,45.54258,0],"name":"FJH2540","engineType":"CE","vin":"WMEEJ3BA2DK710989","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2e Avenue 5926, H1Y Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.58458,45.54864,0],"name":"FJH1876","engineType":"CE","vin":"WMEEJ3BA7DK711670","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Nicolet 2769, H1W Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.55454,45.54967,0],"name":"FJH2577","engineType":"CE","vin":"WMEEJ3BA0DK712417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Square Phillips","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56788,45.50394,0],"name":"FJH1824","engineType":"CE","vin":"WMEEJ3BA5DK715281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Agnès 724, H4C Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.58495,45.47905,0],"name":"FJF8209","engineType":"CE","vin":"WMEEJ3BA8DK718191","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Clark 5258, H2T Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.59588,45.52366,0],"name":"FJH1827","engineType":"CE","vin":"WMEEJ3BA6DK707514","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Woodbury 5606, H3T Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.61895,45.50611,0],"name":"FJH5557","engineType":"CE","vin":"WMEEJ3BA4DK722853","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cuvillier 2686, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55294,45.54574,0],"name":"FJH1815","engineType":"CE","vin":"WMEEJ3BA4DK715255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de St-Vallier 6648, H2S Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.60691,45.53588,0],"name":"FKG2835","engineType":"CE","vin":"WMEEJ3BA7DK707098","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Woodland 1439, H4E Montréal","city":"montreal","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-73.58405,45.45335,0],"name":"FJF8217","engineType":"CE","vin":"WMEEJ3BA9DK719866","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Aird 1616, H1V Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.53394,45.55439,0],"name":"FJH1878","engineType":"CE","vin":"WMEEJ3BA7DK713595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Gilford 2213, H2H Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.57458,45.53811,0],"name":"FJF8246","engineType":"CE","vin":"WMEEJ3BA8DK720572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 1452, H1W Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.53912,45.54399,0],"name":"FJH2517","engineType":"CE","vin":"WMEEJ3BA3DK711424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Basin 1753, H3J Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.56569,45.48729,0],"name":"FJF8240","engineType":"CE","vin":"WMEEJ3BAXDK714773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1077 rue Saint-Mathieu","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.57561,45.49203,0],"name":"FJH2591","engineType":"CE","vin":"WMEEJ3BA0DK706407","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Aylwin 1704, H1W Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.54239,45.54341,0],"name":"FJH2583","engineType":"CE","vin":"WMEEJ3BA0DK710344","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Érables 6534, H2G Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.59456,45.54647,0],"name":"FJH5575","engineType":"CE","vin":"WMEEJ3BA5DK722313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Waverly 6120, H2T Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.60716,45.52703,0],"name":"FJH5541","engineType":"CE","vin":"WMEEJ3BA3DK721354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Davidson 2714, H1W Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.55344,45.54512,0],"name":"FJH2506","engineType":"CE","vin":"WMEEJ3BA4DK706877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dandurand 2679, H1Y Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.5791,45.54717,0],"name":"FJH2581","engineType":"CE","vin":"WMEEJ3BA0DK711235","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Érables 7800, H2E Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.61268,45.55436,0],"name":"FJH1848","engineType":"CE","vin":"WMEEJ3BA9DK715204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Gauthier 2044, H2K Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.56553,45.53149,0],"name":"FJH5596","engineType":"CE","vin":"WMEEJ3BA7DK719882","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard St-Laurent 6552, H2S Montréal","city":"montreal","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-73.61009,45.53098,0],"name":"FJH5549","engineType":"CE","vin":"WMEEJ3BA4DK719984","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Murray 270, H3C Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.56049,45.49302,0],"name":"FJF8244","engineType":"CE","vin":"WMEEJ3BAXDK712053","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Martigny 9404, H1Z Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.6392,45.56863,0],"name":"FJH5558","engineType":"CE","vin":"WMEEJ3BA4DK722948","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 8414, H2P Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.63586,45.54097,0],"name":"FJH1867","engineType":"CE","vin":"WMEEJ3BA8DK715582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Desnoyers 766, H4C Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.59443,45.47408,0],"name":"FJH2600","engineType":"CE","vin":"WMEEJ3BA0DK721649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hadley 5545, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59247,45.46318,0],"name":"FJH5574","engineType":"CE","vin":"WMEEJ3BA5DK722294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Kensington 4553, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63273,45.47011,0],"name":"FJH1819","engineType":"CE","vin":"WMEEJ3BA5DK706578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12e Avenue 5834, H1X Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.57911,45.55343,0],"name":"FJF8226","engineType":"CE","vin":"WMEEJ3BA9DK722346","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bordeaux 6897, H2G Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.60119,45.54783,0],"name":"FJH5553","engineType":"CE","vin":"WMEEJ3BA4DK722187","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Northcliffe 3850, H4A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.61434,45.47756,0],"name":"FJH5514","engineType":"CE","vin":"WMEEJ3BA1DK722180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1314 Ontario Est \/ Palais Montcalm","city":"montreal","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.56105,45.52263,0],"name":"FJH2503","engineType":"CE","vin":"WMEEJ3BA4DK706992","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Adam 4373, H1V Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.53546,45.55187,0],"name":"FJH2538","engineType":"CE","vin":"WMEEJ3BA2DK711477","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Harvard 4488, H4A Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.6269,45.47588,0],"name":"FLA1324","engineType":"CE","vin":"WMEEJ3BA1FK796203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Clark 3906, H2W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57855,45.51587,0],"name":"FJH1886","engineType":"CE","vin":"WMEEJ3BA7DK706940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cuvillier 2449, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55138,45.54538,0],"name":"FJH2565","engineType":"CE","vin":"WMEEJ3BA1DK710398","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Christophe-Colomb 5867, H2S Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.59552,45.53521,0],"name":"FJH1852","engineType":"CE","vin":"WMEEJ3BAXDK721934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Lebrun 2750, H1L Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.52413,45.60023,0],"name":"FJH5508","engineType":"CE","vin":"WMEEJ3BA1DK719473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Laurier E 3977, H1X Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.5671,45.55653,0],"name":"FJH1825","engineType":"CE","vin":"WMEEJ3BA5DK715779","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Appleton 3447, H3S Montréal","city":"montreal","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-73.63408,45.50311,0],"name":"FJH1826","engineType":"CE","vin":"WMEEJ3BA6DK707416","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1250 St-Hubert","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.55821,45.51496,0],"name":"FLA1343","engineType":"CE","vin":"WMEEJ3BA7FK795413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bellechasse 2121, H2G Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.59107,45.54416,0],"name":"FKG2802","engineType":"CE","vin":"WMEEJ3BA4DK707589","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Draper 4424, H4A Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.62752,45.4735,0],"name":"FJH5505","engineType":"CE","vin":"WMEEJ3BA0DK722333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Hingston 2250, H4A Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.61901,45.46663,0],"name":"FJH2528","engineType":"CE","vin":"WMEEJ3BA2DK715433","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Aylwin 1860, H1W Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.54422,45.54397,0],"name":"FKG2810","engineType":"CE","vin":"WMEEJ3BA4DK714722","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Fabre 4443, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57497,45.53114,0],"name":"FJF8238","engineType":"CE","vin":"WMEEJ3BAXDK715566","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hamilton 6076, H4E Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.5979,45.45776,0],"name":"FJH2504","engineType":"CE","vin":"WMEEJ3BA4DK706975","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Casgrain 7814, H2R Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.62627,45.53881,0],"name":"FJF8249","engineType":"CE","vin":"WMEEJ3BAXDK706768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6e Avenue 5284, H1Y Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.57363,45.54772,0],"name":"FJH2598","engineType":"CE","vin":"WMEEJ3BA0DK720386","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Germain 3526, H1W Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.55827,45.54507,0],"name":"FJH5507","engineType":"CE","vin":"WMEEJ3BA0DK722901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Woodland 1434, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58409,45.45333,0],"name":"FLA1331","engineType":"CE","vin":"WMEEJ3BA6FK795547","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Gilford 1473, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57979,45.5326,0],"name":"FJH2564","engineType":"CE","vin":"WMEEJ3BA1DK710840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-André 7870, H2R Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.62341,45.5458,0],"name":"FJH5560","engineType":"CE","vin":"WMEEJ3BA5DK719640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 8582, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63719,45.54401,0],"name":"FJH5559","engineType":"CE","vin":"WMEEJ3BA5DK719458","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dumas 6213, H4E Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.59965,45.45604,0],"name":"FJH2563","engineType":"CE","vin":"WMEEJ3BA1DK710854","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Oxford 3502, H4A Montréal","city":"montreal","fuel":27,"exterior":"GOOD","coordinates":[-73.61585,45.47168,0],"name":"FJH5561","engineType":"CE","vin":"WMEEJ3BA5DK719752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Somerled 7339, H4V Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.64591,45.45808,0],"name":"FJH5588","engineType":"CE","vin":"WMEEJ3BA6DK722773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard St-Laurent 5286, H2T Montréal","city":"montreal","fuel":84,"exterior":"GOOD","coordinates":[-73.59598,45.52445,0],"name":"FJH5583","engineType":"CE","vin":"WMEEJ3BA6DK720487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bordeaux 6389, H2G Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59379,45.54438,0],"name":"FJF8206","engineType":"CE","vin":"WMEEJ3BA7DK722684","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard Décarie 4192, H4A Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.6184,45.47857,0],"name":"FJH1820","engineType":"CE","vin":"WMEEJ3BA5DK707620","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Papineau 5775, H2G Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.5893,45.53992,0],"name":"FJF8213","engineType":"CE","vin":"WMEEJ3BAXDK710870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Louis-Joseph-Doucet 5293, H1M Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.55121,45.58063,0],"name":"FJH5587","engineType":"CE","vin":"WMEEJ3BA6DK721655","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Maynard 7454, H3R Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.6372,45.5107,0],"name":"FJH1854","engineType":"CE","vin":"WMEEJ3BA7DK715377","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Grosvenor 4946, H3W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62173,45.48817,0],"name":"FJH5512","engineType":"CE","vin":"WMEEJ3BA1DK721627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Aylwin 1682, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54219,45.54334,0],"name":"FJH2570","engineType":"CE","vin":"WMEEJ3BA1DK706321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5e Avenue 6324, H1Y Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.58618,45.55132,0],"name":"FKG2807","engineType":"CE","vin":"WMEEJ3BA4DK712548","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Déom 5772, H3S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.61869,45.51045,0],"name":"FJH2544","engineType":"CE","vin":"WMEEJ3BA2DK707266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Place Decelles 5826, H3S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.6294,45.50055,0],"name":"FJF8203","engineType":"CE","vin":"WMEEJ3BA7DK722071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10e Avenue 7646, H2A Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.60543,45.56094,0],"name":"FLA1305","engineType":"CE","vin":"WMEEJ3BA6FK796469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Champigny 1718, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58685,45.46094,0],"name":"FKG2818","engineType":"CE","vin":"WMEEJ3BA5DK710100","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Louis-Hébert 6232, H2G Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.58911,45.54689,0],"name":"FJH2533","engineType":"CE","vin":"WMEEJ3BA2DK714847","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Foucher 8328, H2P Montréal","city":"montreal","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-73.63104,45.54582,0],"name":"FLA1323","engineType":"CE","vin":"WMEEJ3BA2FK795268","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 1925, H1W Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.54159,45.54847,0],"name":"FJF8202","engineType":"CE","vin":"WMEEJ3BA7DK722023","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue du Séminaire 152, H3C Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.56049,45.49037,0],"name":"FJF8253","engineType":"CE","vin":"WMEEJ3BA9DK715722","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bourbonnière 2687, H1W Montréal","city":"montreal","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.55295,45.55121,0],"name":"FJH1841","engineType":"CE","vin":"WMEEJ3BA7DK714732","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Châteaubriand 8328, H2P Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.63019,45.54683,0],"name":"FKG2838","engineType":"CE","vin":"WMEEJ3BA7DK707490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Connaught 5090, H4V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.65108,45.45733,0],"name":"FJH5519","engineType":"CE","vin":"WMEEJ3BA2DK720051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Forest Hill 3230, H3V Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.60787,45.49478,0],"name":"FKG2823","engineType":"CE","vin":"WMEEJ3BA5DK714745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Earnscliffe 4606, H3X Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.62588,45.47987,0],"name":"FJH5510","engineType":"CE","vin":"WMEEJ3BA1DK719537","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Foucher 8452, H2P Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.63305,45.54643,0],"name":"FJH5584","engineType":"CE","vin":"WMEEJ3BA6DK720604","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Mazarin 6777, H4E Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59935,45.45031,0],"name":"FJH5566","engineType":"CE","vin":"WMEEJ3BA5DK720416","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Holt 2225, H2G Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.58552,45.54281,0],"name":"FJF8234","engineType":"CE","vin":"WMEEJ3BAXDK720072","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 8044, H2R Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.62881,45.54164,0],"name":"FJH1805","engineType":"CE","vin":"WMEEJ3BA4DK712114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3e Avenue 5352, H1Y Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.57535,45.54623,0],"name":"FJH5594","engineType":"CE","vin":"WMEEJ3BA7DK719719","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Gaspé 8462, H2P Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.63588,45.54237,0],"name":"FJH1809","engineType":"CE","vin":"WMEEJ3BA4DK712839","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17e Avenue 7140, H2A Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.59384,45.56257,0],"name":"FJH2562","engineType":"CE","vin":"WMEEJ3BA1DK710949","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Westbury 5192, H3W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.6295,45.48593,0],"name":"FJH2585","engineType":"CE","vin":"WMEEJ3BA0DK707217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Madison 2896, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.62274,45.465,0],"name":"FKG2856","engineType":"CE","vin":"WMEEJ3BAXDK720637","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Zotique E 4428, H1T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58056,45.56711,0],"name":"FJF8223","engineType":"CE","vin":"WMEEJ3BA9DK720743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Dézéry 2192, H1W Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.54956,45.54167,0],"name":"FJH5546","engineType":"CE","vin":"WMEEJ3BA4DK719760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Champagneur 8676, H3N Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.64616,45.53302,0],"name":"FJH2596","engineType":"CE","vin":"WMEEJ3BA0DK719948","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 2372, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54932,45.54712,0],"name":"FJH1857","engineType":"CE","vin":"WMEEJ3BA8DK706624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Borden 4733, H4B Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.63665,45.46885,0],"name":"FJF8230","engineType":"CE","vin":"WMEEJ3BAXDK719603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de la Roche 6970, H2S Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.6082,45.54181,0],"name":"FKG2809","engineType":"CE","vin":"WMEEJ3BA4DK713652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Boyer 4516, H2J Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.58031,45.52764,0],"name":"FJH2594","engineType":"CE","vin":"WMEEJ3BA0DK719352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chabanel \/ Meilleur","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.65703,45.53776,0],"name":"FJH2505","engineType":"CE","vin":"WMEEJ3BA4DK706894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 5192, H2H Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.58093,45.5369,0],"name":"FKG2857","engineType":"CE","vin":"WMEEJ3BAXDK720718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Lacroix 6975, H4E Montréal","city":"montreal","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.60154,45.4479,0],"name":"FJH5581","engineType":"CE","vin":"WMEEJ3BA6DK719887","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Terrebonne 6617, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63632,45.46537,0],"name":"FJH1843","engineType":"CE","vin":"WMEEJ3BA9DK711217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de la Roche 6340, H2S Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.59914,45.53778,0],"name":"FKG2839","engineType":"CE","vin":"WMEEJ3BA7DK711524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Pierre-de-Coubertin 8719, H1L Montréal","city":"montreal","fuel":81,"exterior":"GOOD","coordinates":[-73.52176,45.60232,0],"name":"FJH2578","engineType":"CE","vin":"WMEEJ3BA0DK712191","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"467 rue François Xavier","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.55669,45.50342,0],"name":"FJF8214","engineType":"CE","vin":"WMEEJ3BA8DK720586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard Robert 4293, H1Z Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60895,45.57711,0],"name":"FJH5551","engineType":"CE","vin":"WMEEJ3BA4DK720956","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Casgrain 5378, H2T Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.59571,45.5261,0],"name":"FKG2843","engineType":"CE","vin":"WMEEJ3BA8DK711211","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue des Ateliers 638, H2S Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.59635,45.53171,0],"name":"FJH5502","engineType":"CE","vin":"WMEEJ3BA0DK712272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Marcel-Pépin 3053, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56041,45.54366,0],"name":"FJH2548","engineType":"CE","vin":"WMEEJ3BA1DK715598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-André 8492, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63186,45.54878,0],"name":"FJH1846","engineType":"CE","vin":"WMEEJ3BA9DK711928","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Mullins 1850, H3K Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.5607,45.48152,0],"name":"FJH5528","engineType":"CE","vin":"WMEEJ3BA2DK721765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Monkland 5416, H4A Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.62066,45.47782,0],"name":"FJH5501","engineType":"CE","vin":"WMEEJ3BA0DK722011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue West Broadway 2020, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63483,45.45447,0],"name":"FJH2569","engineType":"CE","vin":"WMEEJ3BA1DK706545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Fulton 4817, H3W Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.62672,45.48916,0],"name":"FJH2586","engineType":"CE","vin":"WMEEJ3BA0DK706861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hutchison 7022, H3N Montréal","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.6202,45.52906,0],"name":"FJH5582","engineType":"CE","vin":"WMEEJ3BA6DK720182","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Molson 6770, H1Y Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59535,45.55172,0],"name":"FJH2593","engineType":"CE","vin":"WMEEJ3BA0DK719335","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Melrose 2220, H4A Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.61468,45.46874,0],"name":"FLA1311","engineType":"CE","vin":"WMEEJ3BA5FK795930","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Draper 4674, H4A Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.63039,45.47475,0],"name":"FJH2522","engineType":"CE","vin":"WMEEJ3BA3DK707342","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Rouville 3162, H1W Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.54198,45.53917,0],"name":"FJF8204","engineType":"CE","vin":"WMEEJ3BA7DK722216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard St-Michel 4130, H1Y Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56124,45.54728,0],"name":"FJH2514","engineType":"CE","vin":"WMEEJ3BA3DK712606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Charton 9466, H1Z Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.64326,45.56554,0],"name":"FLA1316","engineType":"CE","vin":"WMEEJ3BA1FK796167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Terrebonne 7079, H4B Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.64042,45.46016,0],"name":"FJH2546","engineType":"CE","vin":"WMEEJ3BA2DK706568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Greene 728, H4C Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58161,45.48288,0],"name":"FJH2542","engineType":"CE","vin":"WMEEJ3BA2DK710006","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Mentana 5344, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59011,45.53151,0],"name":"FJH1863","engineType":"CE","vin":"WMEEJ3BA8DK711824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 6469, H2S Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.60535,45.53311,0],"name":"FJH2550","engineType":"CE","vin":"WMEEJ3BA1DK715049","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bullion 3992, H2W Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.57733,45.51795,0],"name":"FJH2543","engineType":"CE","vin":"WMEEJ3BA2DK707574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Mozart O 119, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.61662,45.53204,0],"name":"FJH1880","engineType":"CE","vin":"WMEEJ3BA7DK714973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1514 Docteur-Penfield","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.58477,45.49834,0],"name":"FJH1889","engineType":"CE","vin":"WMEEJ3BA6DK715760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Square St-Louis 268, H2X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56981,45.51645,0],"name":"FJH1861","engineType":"CE","vin":"WMEEJ3BA8DK711600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue West Hill 4392, H4B Montréal","city":"montreal","fuel":84,"exterior":"GOOD","coordinates":[-73.63165,45.46766,0],"name":"FLA1341","engineType":"CE","vin":"WMEEJ3BAXFK795910","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de l'Esplanade 6506, H2V Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.61175,45.5282,0],"name":"FJH1822","engineType":"CE","vin":"WMEEJ3BA5DK712672","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Rouen 3047, H1W Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.55236,45.53962,0],"name":"FJH5576","engineType":"CE","vin":"WMEEJ3BA5DK722389","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Square St-Louis 307, H2X Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.57054,45.51698,0],"name":"FKG2860","engineType":"CE","vin":"WMEEJ3BAXDK722906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Bélanger 5105, H1T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57849,45.57519,0],"name":"FJH1875","engineType":"CE","vin":"WMEEJ3BA7DK707702","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Willowdale 2851, H3T Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.61933,45.50407,0],"name":"FJH1803","engineType":"CE","vin":"WMEEJ3BA4DK711836","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 2358, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54912,45.54712,0],"name":"FJF8239","engineType":"CE","vin":"WMEEJ3BAXDK715518","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6e Avenue 7064, H2A Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.59824,45.55535,0],"name":"FJH1845","engineType":"CE","vin":"WMEEJ3BA9DK711900","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24e Avenue 7776, H2A Montréal","city":"montreal","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-73.5984,45.57106,0],"name":"FJF8208","engineType":"CE","vin":"WMEEJ3BA7DK722927","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10e Avenue 6916, H1Y Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.59402,45.55649,0],"name":"FJH2515","engineType":"CE","vin":"WMEEJ3BA3DK711844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Louis-Hémon 6576, H2G Montréal","city":"montreal","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-73.59464,45.54753,0],"name":"FJH1881","engineType":"CE","vin":"WMEEJ3BA7DK715007","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Place de Jumonville 5589, H1T Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.55364,45.57391,0],"name":"FJH5552","engineType":"CE","vin":"WMEEJ3BA4DK722061","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Hubert 4415, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57994,45.52513,0],"name":"FLA1338","engineType":"CE","vin":"WMEEJ3BA8FK795288","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue des Écores 7076, H2E Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.60181,45.55191,0],"name":"FJF8247","engineType":"CE","vin":"WMEEJ3BAXDK707354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Gascon 4246, H2H Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56339,45.53826,0],"name":"FJH1804","engineType":"CE","vin":"WMEEJ3BA4DK711884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6e Avenue 7066, H2A Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59912,45.55579,0],"name":"FJH2529","engineType":"CE","vin":"WMEEJ3BA2DK715318","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de St-Vallier, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59609,45.53114,0],"name":"FJH1887","engineType":"CE","vin":"WMEEJ3BA7DK706968","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Bélanger 3307, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59342,45.55792,0],"name":"FJF8205","engineType":"CE","vin":"WMEEJ3BA7DK722376","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue West Hill 5236, H4V Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.64198,45.47249,0],"name":"FJH5535","engineType":"CE","vin":"WMEEJ3BA3DK720091","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Pierre-de-Coubertin 4554, H1V Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.54881,45.55789,0],"name":"FJH1830","engineType":"CE","vin":"WMEEJ3BA6DK711448","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Joseph-François Perrault 3312, H2A Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.59985,45.56122,0],"name":"FJH5523","engineType":"CE","vin":"WMEEJ3BA2DK720518","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Henri-Julien 7720, H2R Montréal","city":"montreal","fuel":39,"exterior":"GOOD","coordinates":[-73.62402,45.53959,0],"name":"FJF8210","engineType":"CE","vin":"WMEEJ3BA8DK718272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Christophe-Colomb 6618, H2S Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.60363,45.53869,0],"name":"FJH2531","engineType":"CE","vin":"WMEEJ3BA2DK715108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1250 St-Hubert","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55821,45.51496,0],"name":"FJH5586","engineType":"CE","vin":"WMEEJ3BA6DK720831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Grosvenor 4726, H3W Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.61823,45.48651,0],"name":"FJH1832","engineType":"CE","vin":"WMEEJ3BA6DK712017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8e Avenue 7544, H2A Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.60574,45.55958,0],"name":"FJH1836","engineType":"CE","vin":"WMEEJ3BA6DK714916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Desautels 2546, H1N Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53213,45.58108,0],"name":"FJH5580","engineType":"CE","vin":"WMEEJ3BA6DK719677","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 4446, H2W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58512,45.52031,0],"name":"FKG2812","engineType":"CE","vin":"WMEEJ3BA4DK716048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Rouen 3308, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.54985,45.54344,0],"name":"FJH5515","engineType":"CE","vin":"WMEEJ3BA1DK722406","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 5744, H2G Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58923,45.54043,0],"name":"FKG2803","engineType":"CE","vin":"WMEEJ3BA4DK710153","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Marlowe 2080, H4A Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.60586,45.47444,0],"name":"FKG2851","engineType":"CE","vin":"WMEEJ3BA9DK707118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard Édouard-Montpetit 2669, H3T Montréal","city":"montreal","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-73.61757,45.5047,0],"name":"FJH5572","engineType":"CE","vin":"WMEEJ3BA5DK721856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Denis 5635, H2S Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.59671,45.53048,0],"name":"FJF8251","engineType":"CE","vin":"WMEEJ3BA9DK715803","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Patrick 1589, H3K Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56103,45.48666,0],"name":"FJF8215","engineType":"CE","vin":"WMEEJ3BA8DK721866","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 5462, H1X Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.57054,45.55743,0],"name":"FJH2509","engineType":"CE","vin":"WMEEJ3BA3DK715134","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Kensington 5268, H3X Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.64246,45.47434,0],"name":"FJH5511","engineType":"CE","vin":"WMEEJ3BA1DK720915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard Grand 2099, H4B Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.61807,45.46435,0],"name":"FJF8207","engineType":"CE","vin":"WMEEJ3BA7DK722720","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-André 5922, H2S Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.59707,45.53421,0],"name":"FKG2829","engineType":"CE","vin":"WMEEJ3BA6DK707366","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Urbain 6520, H2S Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.61091,45.52959,0],"name":"FKG2827","engineType":"CE","vin":"WMEEJ3BA6DK707237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Lorne Cres 3528, H2X Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.57815,45.50821,0],"name":"FJH5529","engineType":"CE","vin":"WMEEJ3BA2DK721958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1314 Ontario Est \/ Palais Montcalm","city":"montreal","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-73.56105,45.52263,0],"name":"FJH5571","engineType":"CE","vin":"WMEEJ3BA5DK721694","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3e Avenue 6474, H1Y Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58896,45.55152,0],"name":"FKG2850","engineType":"CE","vin":"WMEEJ3BA9DK707085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Basin 1375, H3C Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.55992,45.49065,0],"name":"FJH2595","engineType":"CE","vin":"WMEEJ3BA0DK719450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7e Avenue 5710, H1Y Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57946,45.55008,0],"name":"FJH2507","engineType":"CE","vin":"WMEEJ3BA4DK706510","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15e Avenue 8850, H1Z Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.62157,45.57179,0],"name":"FJH5577","engineType":"CE","vin":"WMEEJ3BA5DK722943","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Benny 3804, H4B Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.62883,45.46577,0],"name":"FJH5564","engineType":"CE","vin":"WMEEJ3BA5DK720206","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12e Avenue 5222, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57073,45.55089,0],"name":"FJH5592","engineType":"CE","vin":"WMEEJ3BA7DK719381","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bourbonnière 4482, H1X Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56017,45.55345,0],"name":"FJH5567","engineType":"CE","vin":"WMEEJ3BA5DK720481","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 6598, H2S Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.60742,45.53405,0],"name":"FJH5543","engineType":"CE","vin":"WMEEJ3BA3DK722763","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hogan 3428, H2K Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56044,45.53867,0],"name":"FJH1839","engineType":"CE","vin":"WMEEJ3BA6DK715659","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Place Joseph-N-Drapeau 3537, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55997,45.54862,0],"name":"FJF8235","engineType":"CE","vin":"WMEEJ3BAXDK720086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Iberville \/ De Rouen","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.55472,45.53344,0],"name":"FKG2845","engineType":"CE","vin":"WMEEJ3BA8DK715369","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1430 St-Marc","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58134,45.49306,0],"name":"FJH1865","engineType":"CE","vin":"WMEEJ3BA8DK715422","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"930 William","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.55919,45.49587,0],"name":"FJH5525","engineType":"CE","vin":"WMEEJ3BA2DK720616","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4e Avenue 5306, H1Y Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.57454,45.54663,0],"name":"FJF8212","engineType":"CE","vin":"WMEEJ3BA8DK720345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Zotique E 2627, H1Y Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.59352,45.55235,0],"name":"FKG2846","engineType":"CE","vin":"WMEEJ3BA9DK706695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Jacques 3879, H4C Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58417,45.47963,0],"name":"FJH5562","engineType":"CE","vin":"WMEEJ3BA5DK719959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Urbain 7212, H2R Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.61959,45.53359,0],"name":"FJF8255","engineType":"CE","vin":"WMEEJ3BA9DK715462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Casgrain 5386, H2T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59582,45.52614,0],"name":"FJH2568","engineType":"CE","vin":"WMEEJ3BA1DK706657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Jeanne-d'Arc 1480, H1W Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53665,45.54792,0],"name":"FKG2828","engineType":"CE","vin":"WMEEJ3BA6DK707349","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Lajeunesse 8346, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63232,45.54488,0],"name":"FLA1356","engineType":"CE","vin":"WMEEJ3BAXFK796622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Montclair 3471, H4B Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.63266,45.4625,0],"name":"FJH1801","engineType":"CE","vin":"WMEEJ3BA4DK710136","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Denis 8250, H2P Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.63159,45.54321,0],"name":"FJH5542","engineType":"CE","vin":"WMEEJ3BA3DK722228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Place Kindersley 4237, H4P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.65109,45.50372,0],"name":"FJH1835","engineType":"CE","vin":"WMEEJ3BA6DK713667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 1920, H1W Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.54369,45.54544,0],"name":"FKG2842","engineType":"CE","vin":"WMEEJ3BA8DK707014","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 4324, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55662,45.55304,0],"name":"FJH1856","engineType":"CE","vin":"WMEEJ3BA8DK706560","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue d'Orléans 4901, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56306,45.5551,0],"name":"FJF8222","engineType":"CE","vin":"WMEEJ3BA9DK720564","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Adam 4231, H1V Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.53638,45.55031,0],"name":"FJH2557","engineType":"CE","vin":"WMEEJ3BA1DK711714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Hubert 3680, H2L Montréal","city":"montreal","fuel":54,"exterior":"GOOD","coordinates":[-73.56938,45.52023,0],"name":"FJF8241","engineType":"CE","vin":"WMEEJ3BAXDK714708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Bellechasse 469, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60143,45.53315,0],"name":"FJH1807","engineType":"CE","vin":"WMEEJ3BA4DK712503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Wiseman 8372, H3N Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.64112,45.53039,0],"name":"FJH1859","engineType":"CE","vin":"WMEEJ3BA8DK708941","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Monkland 6462, H4B Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.63166,45.46574,0],"name":"FJH1813","engineType":"CE","vin":"WMEEJ3BA4DK714753","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 2700, H2X Montréal","city":"montreal","fuel":27,"exterior":"GOOD","coordinates":[-73.57012,45.51351,0],"name":"FKG2841","engineType":"CE","vin":"WMEEJ3BA7DK715511","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Wilderton 6140, H3S Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.62356,45.50961,0],"name":"FJF8211","engineType":"CE","vin":"WMEEJ3BA8DK719423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Chambord 5992, H2G Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.59474,45.5377,0],"name":"FJH5522","engineType":"CE","vin":"WMEEJ3BA2DK720504","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Prénoveau 5424, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.59258,45.52992,0],"name":"FJH2560","engineType":"CE","vin":"WMEEJ3BA1DK711552","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Springland 1855, H4E Montréal","city":"montreal","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-73.59016,45.4543,0],"name":"FJH5598","engineType":"CE","vin":"WMEEJ3BA7DK720336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Maguire 75, H2T Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.595,45.52545,0],"name":"FJH2545","engineType":"CE","vin":"WMEEJ3BA2DK707252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Grasset\/ Centre Claude-Robillard","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.63383,45.55028,0],"name":"FJH5527","engineType":"CE","vin":"WMEEJ3BA2DK720793","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Sicard 516, H1V Montréal","city":"montreal","fuel":42,"exterior":"GOOD","coordinates":[-73.53039,45.55415,0],"name":"FKG2815","engineType":"CE","vin":"WMEEJ3BA5DK707035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Quai de l'Horloge","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.55002,45.50996,0],"name":"FJH1869","engineType":"CE","vin":"WMEEJ3BA8DK715680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 4020, H2W Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.5781,45.51709,0],"name":"FKG2840","engineType":"CE","vin":"WMEEJ3BA7DK714780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue du Parc 5899, H2V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60664,45.52425,0],"name":"FJH5548","engineType":"CE","vin":"WMEEJ3BA4DK719970","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Érables 7866, H2E Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.61335,45.5547,0],"name":"FLA1353","engineType":"CE","vin":"WMEEJ3BA9FK796241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Aéroport de Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.73892,45.45396,0],"name":"FJH1847","engineType":"CE","vin":"WMEEJ3BA9DK712948","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1430 St-Marc","city":"montreal","fuel":87,"exterior":"GOOD","coordinates":[-73.58134,45.49306,0],"name":"FJH2513","engineType":"CE","vin":"WMEEJ3BA3DK713710","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bloomfield 7792, H3N Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.63111,45.52945,0],"name":"FJH2588","engineType":"CE","vin":"WMEEJ3BA0DK706584","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Donat 5189, H1K Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53718,45.60254,0],"name":"FJH1858","engineType":"CE","vin":"WMEEJ3BA8DK706851","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bennett 2672, H1V Montréal","city":"montreal","fuel":51,"exterior":"GOOD","coordinates":[-73.54829,45.55813,0],"name":"FJH2521","engineType":"CE","vin":"WMEEJ3BA3DK707373","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Leclaire 2592, H1V Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.54539,45.55986,0],"name":"FJH1828","engineType":"CE","vin":"WMEEJ3BA6DK710218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de l'Esplanade, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.64105,45.53831,0],"name":"FKG2817","engineType":"CE","vin":"WMEEJ3BA5DK707472","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Wellington 1084, H3C Montréal","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.55765,45.49295,0],"name":"FJH2587","engineType":"CE","vin":"WMEEJ3BA0DK706682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Walker 766, H4C Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.58128,45.48353,0],"name":"FJH1890","engineType":"CE","vin":"WMEEJ3BA6DK716035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Quai de l'Horloge","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.55002,45.50996,0],"name":"FJH2582","engineType":"CE","vin":"WMEEJ3BA0DK710814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Plaines 5740, H1T Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.56454,45.56965,0],"name":"FJH2579","engineType":"CE","vin":"WMEEJ3BA0DK711686","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drake 6105, H4E Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.58227,45.45738,0],"name":"FJH1853","engineType":"CE","vin":"WMEEJ3BAXDK722484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Alma 6352, H2S Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.60543,45.53188,0],"name":"FLA1351","engineType":"CE","vin":"WMEEJ3BA3FK796218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"36e Avenue 6892, H1T Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57906,45.57244,0],"name":"FJH5573","engineType":"CE","vin":"WMEEJ3BA5DK721971","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue du Parc 6593, H2V Montréal","city":"montreal","fuel":45,"exterior":"GOOD","coordinates":[-73.61424,45.52763,0],"name":"FJH1868","engineType":"CE","vin":"WMEEJ3BA8DK715646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Van Horne 207, H2T Montréal","city":"montreal","fuel":30,"exterior":"GOOD","coordinates":[-73.60909,45.52686,0],"name":"FJH5513","engineType":"CE","vin":"WMEEJ3BA1DK721904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Dominique 8334, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63468,45.5406,0],"name":"FJH2536","engineType":"CE","vin":"WMEEJ3BA2DK712564","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Greene 818, H4C Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.58239,45.48343,0],"name":"FJH2554","engineType":"CE","vin":"WMEEJ3BA1DK712152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Lorimier 6334, H2G Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.59267,45.54469,0],"name":"FJH1855","engineType":"CE","vin":"WMEEJ3BA7DK715475","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de St-Vallier 6572, H2S Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.60553,45.53535,0],"name":"FJF8233","engineType":"CE","vin":"WMEEJ3BAXDK719732","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Butler 657, H3K Montréal","city":"montreal","fuel":84,"exterior":"GOOD","coordinates":[-73.5633,45.47326,0],"name":"FKG2830","engineType":"CE","vin":"WMEEJ3BA6DK711921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"42e Avenue 6332, H1T Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.5675,45.57349,0],"name":"FLA1312","engineType":"CE","vin":"WMEEJ3BA8FK796327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Aylwin 2026, H1W Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.54569,45.54438,0],"name":"FJH2519","engineType":"CE","vin":"WMEEJ3BA3DK711116","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulevard de l'Assomption 3152, H1N Montréal","city":"montreal","fuel":90,"exterior":"GOOD","coordinates":[-73.54868,45.56966,0],"name":"FLA1345","engineType":"CE","vin":"WMEEJ3BA8FK795775","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Chambly 1574, H1W Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.54038,45.54441,0],"name":"FLA1320","engineType":"CE","vin":"WMEEJ3BA7FK796478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Drolet 6241, H2S Montréal","city":"montreal","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-73.60294,45.53203,0],"name":"FJH2589","engineType":"CE","vin":"WMEEJ3BA0DK706505","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de la Savane 4042, H4P Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.64702,45.50054,0],"name":"FJH1811","engineType":"CE","vin":"WMEEJ3BA4DK713070","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cuvillier 530, H1W Montréal","city":"montreal","fuel":69,"exterior":"GOOD","coordinates":[-73.53858,45.54145,0],"name":"FKG2833","engineType":"CE","vin":"WMEEJ3BA6DK715614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Pauline-Julien 1264, H2J Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.58989,45.53482,0],"name":"FLA1322","engineType":"CE","vin":"WMEEJ3BA2FK796050","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de la Savane 5200, H4P Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.6584,45.49929,0],"name":"FJF8219","engineType":"CE","vin":"WMEEJ3BA9DK720029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Willowdale 2865, H3T Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.61951,45.50399,0],"name":"FJH1844","engineType":"CE","vin":"WMEEJ3BA9DK711654","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Doherty Ave 5180, H4V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.64985,45.46166,0],"name":"FJH1892","engineType":"CE","vin":"WMEEJ3BA7DK706422","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue St-Zotique E 3171, H1Y Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.59101,45.55523,0],"name":"FKG2805","engineType":"CE","vin":"WMEEJ3BA4DK710931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18e Avenue 5073, H1X Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.56598,45.55457,0],"name":"FJH5536","engineType":"CE","vin":"WMEEJ3BA3DK720155","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Foucher 8430, H2P Montréal","city":"montreal","fuel":96,"exterior":"GOOD","coordinates":[-73.63265,45.54631,0],"name":"FJH1862","engineType":"CE","vin":"WMEEJ3BA8DK711662","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Théodore 2408, H1V Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.54208,45.55961,0],"name":"FJH2532","engineType":"CE","vin":"WMEEJ3BA2DK714931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hudon, H1W Montréal","city":"montreal","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-73.53929,45.54002,0],"name":"FJH5589","engineType":"CE","vin":"WMEEJ3BA6DK722837","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Randall 5154, H4V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.64147,45.4715,0],"name":"FJH5524","engineType":"CE","vin":"WMEEJ3BA2DK720597","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Marie-Anne E 1208, H2J Montréal","city":"montreal","fuel":63,"exterior":"GOOD","coordinates":[-73.57603,45.52776,0],"name":"FJH5593","engineType":"CE","vin":"WMEEJ3BA7DK719445","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"930 William","city":"montreal","fuel":36,"exterior":"GOOD","coordinates":[-73.55919,45.49587,0],"name":"FJH2512","engineType":"CE","vin":"WMEEJ3BA3DK714839","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chemin de la Côte-St-Antoine 5867, H4A Montréal","city":"montreal","fuel":48,"exterior":"GOOD","coordinates":[-73.61931,45.46951,0],"name":"FKG2808","engineType":"CE","vin":"WMEEJ3BA4DK712792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Aéroport de Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.73892,45.45396,0],"name":"FJH1864","engineType":"CE","vin":"WMEEJ3BA8DK715355","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Fairmount E 55, H2T Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.594,45.52474,0],"name":"FJH1850","engineType":"CE","vin":"WMEEJ3BAXDK720198","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue William-Tremblay 3310, H1Y Montréal","city":"montreal","fuel":66,"exterior":"GOOD","coordinates":[-73.56197,45.54751,0],"name":"FJH1812","engineType":"CE","vin":"WMEEJ3BA4DK713568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Notre-Dame O 2435, H3J Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.57464,45.4833,0],"name":"FJH2551","engineType":"CE","vin":"WMEEJ3BA1DK714998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Ridgewood 3623, H3V Montréal","city":"montreal","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-73.61254,45.49249,0],"name":"FJH2561","engineType":"CE","vin":"WMEEJ3BA1DK711065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Nicolet 2104, H1W Montréal","city":"montreal","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-73.54518,45.54682,0],"name":"FJF8231","engineType":"CE","vin":"WMEEJ3BAXDK719617","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue de Musset 7128, H2A Montréal","city":"montreal","fuel":72,"exterior":"GOOD","coordinates":[-73.59554,45.56037,0],"name":"FJH5517","engineType":"CE","vin":"WMEEJ3BA2DK719434","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chabanel \/ Meilleur","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.65703,45.53776,0],"name":"FJH5518","engineType":"CE","vin":"WMEEJ3BA2DK719921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Bourbonnière 4674, H1X Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56177,45.55399,0],"name":"FKG2813","engineType":"CE","vin":"WMEEJ3BA5DK704085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Morgan 1635, H1V Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.53548,45.5523,0],"name":"FJH2516","engineType":"CE","vin":"WMEEJ3BA3DK711763","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue Clinton 1925, H3S Montréal","city":"montreal","fuel":60,"exterior":"GOOD","coordinates":[-73.62364,45.51432,0],"name":"FJH2518","engineType":"CE","vin":"WMEEJ3BA3DK711200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Gilford 1595, H2J Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.57902,45.53343,0],"name":"FJF8232","engineType":"CE","vin":"WMEEJ3BAXDK719634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chemin Bates 2563, H3S Montréal","city":"montreal","fuel":78,"exterior":"GOOD","coordinates":[-73.63087,45.51377,0],"name":"FJH2547","engineType":"CE","vin":"WMEEJ3BA2DK706375","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Avenue des Belges 8653, H2P Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.63554,45.54784,0],"name":"FJH5503","engineType":"CE","vin":"WMEEJ3BA0DK722140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Hochelaga 3420, H1W Montréal","city":"montreal","fuel":75,"exterior":"GOOD","coordinates":[-73.55237,45.54517,0],"name":"FLA1325","engineType":"CE","vin":"WMEEJ3BA6FK795497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue William-Tremblay 3328, H1Y Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.56198,45.54755,0],"name":"FLA1342","engineType":"CE","vin":"WMEEJ3BA1FK795522","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Charon 586, H3K Montréal","city":"montreal","fuel":57,"exterior":"GOOD","coordinates":[-73.55847,45.47921,0],"name":"FKG2814","engineType":"CE","vin":"WMEEJ3BA5DK704233","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue Cartier 5184, H2H Montréal","city":"montreal","fuel":33,"exterior":"GOOD","coordinates":[-73.58091,45.53681,0],"name":"FJH2530","engineType":"CE","vin":"WMEEJ3BA2DK715268","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18e Avenue 4442, H1X Montréal","city":"montreal","fuel":93,"exterior":"GOOD","coordinates":[-73.55976,45.55228,0],"name":"FJH2552","engineType":"CE","vin":"WMEEJ3BA1DK714886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rue de Castelnau E 36, H2R Montréal","city":"montreal","fuel":100,"exterior":"GOOD","coordinates":[-73.61949,45.53581,0],"name":"FJH2571","engineType":"CE","vin":"WMEEJ3BA0DK715625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

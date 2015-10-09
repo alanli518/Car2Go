@@ -1,0 +1,1004 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Paolo di Dono 39, 00142 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.49375,41.83018,0],"name":"482\/EV319TP","engineType":"CE","vin":"WME4513341K770333","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tiburtina 647, 00159 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.54749,41.91,0],"name":"102\/ET744WT","engineType":"CE","vin":"WME4513341K729196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nemea 55, 00135 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.45769,41.94572,0],"name":"518\/EX482DK","engineType":"CE","vin":"WME4513341K751590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Portuense 561, 00149 Roma","city":"roma","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[12.44559,41.85586,0],"name":"203\/ET845WT","engineType":"CE","vin":"WME4513341K740940","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Tommaso Perassi 10, 00165 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.40913,41.88961,0],"name":"443\/EX192XV","engineType":"CE","vin":"WME4513341K769045","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Angelico 107 - 219, 00195 Roma (raggio 100m)","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.45854,41.91969,0],"name":"466\/EV303TP","engineType":"CE","vin":"WME4513341K770815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Kossuth 40, 00149 Roma","city":"roma","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[12.44609,41.85306,0],"name":"115\/ET757WT","engineType":"CE","vin":"WME4513341K729829","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Pisano 18, 00142 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.49111,41.8279,0],"name":"376\/EV595NT","engineType":"CE","vin":"WME4513341K772018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giacomo da Gozo 2, 00176 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.53747,41.87809,0],"name":"559\/EX470DK","engineType":"CE","vin":"WME4513341K751420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Cora 18, 00176 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.541,41.88128,0],"name":"325\/EV524NT","engineType":"CE","vin":"WME4513341K745100","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Adriatico 176, 00141 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.53714,41.94294,0],"name":"271\/ET913WT","engineType":"CE","vin":"WME4513341K710678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ciro il Grande 16 - 40, 00144 Roma (raggio 300m)","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.4692,41.83613,0],"name":"283\/ET925WT","engineType":"CE","vin":"WME4513341K711052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Casilina 202, 00176 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.53621,41.88212,0],"name":"175\/ET817WT","engineType":"CE","vin":"WME4513341K740305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Armatori 3, 00154 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.48735,41.86181,0],"name":"116\/ET758WT","engineType":"CE","vin":"WME4513341K729852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Sette Chiese 158, 00145 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.4936,41.86015,0],"name":"248\/ET890WT","engineType":"CE","vin":"WME4513341K742021","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Giorgio Manganelli 1 - 13, 00142 Roma (raggio 100m)","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.48842,41.84191,0],"name":"202\/ET844WT","engineType":"CE","vin":"WME4513341K740832","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Papiniano 26, 00136 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.43738,41.91603,0],"name":"387\/EV606NT","engineType":"CE","vin":"WME4513341K771220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Free Parking Faravelli| Via L.G. Faravelli,28","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.45378,41.91981,0],"name":"521\/EX467DK","engineType":"CE","vin":"WME4513341K751372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Grotta Perfetta 120, 00142 Roma (raggio 300m)","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.48473,41.84981,0],"name":"346\/EV528NT","engineType":"CE","vin":"WME4513341K746444","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Siacci 4, 00197 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.48958,41.92224,0],"name":"351\/EV570NT","engineType":"CE","vin":"WME4513341K771525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tullio Martello 1, 00191 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.47076,41.94553,0],"name":"366\/EV585NT","engineType":"CE","vin":"WME4513341K771178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val d'Ala, 00141 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.51467,41.94346,0],"name":"574\/EX700DK","engineType":"CE","vin":"WME4513341K750724","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Priscilla 6, 00199 Roma","city":"roma","fuel":78,"exterior":"GOOD","coordinates":[12.50947,41.92755,0],"name":"208\/ET850WT","engineType":"CE","vin":"WME4513341K741220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val di Sangro 102, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.52235,41.94496,0],"name":"174\/ET816WT","engineType":"CE","vin":"WME4513341K740192","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 418, 00168 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.42546,41.92478,0],"name":"401\/EV620NT","engineType":"CE","vin":"WME4513341K771229","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Franco Michelini Tocci 78, 00136 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.446,41.9202,0],"name":"565\/EX433DK","engineType":"CE","vin":"WME4513341K751113","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lago di Lesina 7, 00199 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.51054,41.92642,0],"name":"119\/ET761WT","engineType":"CE","vin":"WME4513341K729915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Serafico 173, 00142 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.49154,41.8324,0],"name":"074\/ET716WT","engineType":"CE","vin":"WME4513341K739014","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Lungotevere Flaminio 48, 00196 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.46634,41.92377,0],"name":"118\/ET760WT","engineType":"CE","vin":"WME4513341K729894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardo Buontalenti 24, 00176 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.54011,41.87905,0],"name":"301\/ET943WT","engineType":"CE","vin":"WME4513341K710156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Maria Galluzzi 5, 00152 Roma","city":"roma","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[12.44266,41.87807,0],"name":"580\/EX481DK","engineType":"CE","vin":"WME4513341K751562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Angelico 231, 00195 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.45866,41.92261,0],"name":"204\/ET846WT","engineType":"CE","vin":"WME4513341K741004","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Vascello 5, 00152 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45924,41.88723,0],"name":"576\/EX455DK","engineType":"CE","vin":"WME4513341K750488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico Pallini 27, 00149 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.44884,41.85298,0],"name":"030\/EW233ZK","engineType":"CE","vin":"WME4513341K743152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Bruno Buozzi 27, 00197 Roma","city":"roma","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.48773,41.92156,0],"name":"133\/ET775WT","engineType":"CE","vin":"WME4513341K730580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rocca di Papa 2, 00181 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.53596,41.87022,0],"name":"514\/EX657DK","engineType":"CE","vin":"WME4513341K750542","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Genovesi 21, 00136 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.44878,41.91321,0],"name":"440\/EV658NT","engineType":"CE","vin":"WME4513341K773261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Licia 19, 00183 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.50308,41.88055,0],"name":"060\/ET702WT","engineType":"CE","vin":"WME4513341K738640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 666, 00165 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.41612,41.89435,0],"name":"072\/ET714WT","engineType":"CE","vin":"WME4513341K738963","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Filarete 21, 00176 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.53841,41.88014,0],"name":"088\/ET730WT","engineType":"CE","vin":"WME4513341K737922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Balduina 175, 00136 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.43817,41.92184,0],"name":"560\/EX468DK","engineType":"CE","vin":"WME4513341K751399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Sannazzaro 119, 00141 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.54104,41.93823,0],"name":"254\/ET896WT","engineType":"CE","vin":"WME4513341K710274","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Arco di Travertino, 00178 Roma","city":"roma","fuel":78,"exterior":"GOOD","coordinates":[12.53719,41.86834,0],"name":"109\/ET751WT","engineType":"CE","vin":"WME4513341K729384","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Fabiano 18, 00165 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44282,41.8939,0],"name":"153\/ET795WT","engineType":"CE","vin":"WME4513341K739673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Bignami 19, 00136 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44411,41.92453,0],"name":"399\/EV618NT","engineType":"CE","vin":"WME4513341K773727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Attilio Friggeri 87, 00136 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.44033,41.92026,0],"name":"284\/ET926WT","engineType":"CE","vin":"WME4513341K711226","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Teatro di Marcello 34, 00186 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.48082,41.89289,0],"name":"184\/ET826WT","engineType":"CE","vin":"WME4513341K740416","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessio Baldovinetti 136 - 156, 00142 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.49447,41.83051,0],"name":"225\/ET867WT","engineType":"CE","vin":"WME4513341K741538","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Falvaterra 24, 00179 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.5351,41.86805,0],"name":"211\/ET853WT","engineType":"CE","vin":"WME4513341K741311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Don Pasquino Borghi 228, 00144 Roma (raggio 100m)","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.44163,41.81237,0],"name":"217\/ET859WT","engineType":"CE","vin":"WME4513341K741449","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Adriatico 3, 00141 Roma","city":"roma","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.53476,41.93786,0],"name":"292\/ET934WT","engineType":"CE","vin":"WME4513341K711739","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lariana 9, 00199 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.50445,41.92379,0],"name":"282\/ET924WT","engineType":"CE","vin":"WME4513341K710940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Papiniano 40, 00136 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.43618,41.91564,0],"name":"004\/ET646WT","engineType":"CE","vin":"WME4513341K742091","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anton Giulio Barrili 15, 00152 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.46056,41.87788,0],"name":"024\/ET666WT","engineType":"CE","vin":"WME4513341K742973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Adelaide Bono Cairoli 42, 00145 Roma","city":"roma","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.48869,41.85744,0],"name":"009\/ET651WT","engineType":"CE","vin":"WME4513341K742376","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nomentana 248, 00162 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.52359,41.92643,0],"name":"413\/EX190XV","engineType":"CE","vin":"WME4513341K770321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sesto Rufo 41, 00136 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.44307,41.90991,0],"name":"190\/ET832WT","engineType":"CE","vin":"WME4513341K740618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Acqua Bullicante 19, 00177 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.5432,41.88142,0],"name":"320\/EV511NT","engineType":"CE","vin":"WME4513341K744876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale del Tintoretto 314, 00142 Roma (raggio 100m)","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.49127,41.83321,0],"name":"234\/ET876WT","engineType":"CE","vin":"WME4513341K741814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val di Lanzo 189, 00141 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.52191,41.94512,0],"name":"034\/ET676WT","engineType":"CE","vin":"WME4513341K743372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leone XIII 331, 00165 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.43806,41.89141,0],"name":"352\/EV571NT","engineType":"CE","vin":"WME4513341K771831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Arrigo Boito 62 - 74, 00199 Roma (raggio 100m)","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.51644,41.93681,0],"name":"189\/EX404XV","engineType":"CE","vin":"WME4513341K739513","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pasquale Baffi 86, 00149 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.45521,41.8514,0],"name":"176\/ET818WT","engineType":"CE","vin":"WME4513341K740309","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Parco di Villa Baldini, 00152 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.45093,41.87187,0],"name":"550\/EX595DK","engineType":"CE","vin":"WME4513341K744913","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 223 - 227, 00168 Roma (raggio 300m)","city":"roma","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[12.42747,41.92967,0],"name":"508\/EX693DK","engineType":"CE","vin":"WME4513341K750675","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Erice 5, 00141 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.53435,41.94226,0],"name":"537\/EX628DK","engineType":"CE","vin":"WME4513341K747624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale di Villa Grazioli 4, 00198 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.50032,41.92158,0],"name":"205\/ET847WT","engineType":"CE","vin":"WME4513341K741101","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Bruno Buozzi 69, 00197 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.48414,41.92199,0],"name":"050\/EX191XV","engineType":"CE","vin":"WME4513341K738060","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale di Valle Aurelia 61 - 79, 00167 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.43773,41.90213,0],"name":"110\/ET752WT","engineType":"CE","vin":"WME4513341K729400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Santorre di Santarosa 70, 00149 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.4451,41.85197,0],"name":"375\/EV594NT","engineType":"CE","vin":"WME4513341K771304","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Pakistan 1, 00144 Roma (raggio 300m)","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.46303,41.82475,0],"name":"540\/EX442DK","engineType":"CE","vin":"WME4513341K747254","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giacomo Aicardi 40, 00177 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.54016,41.87526,0],"name":"012\/ET654WT","engineType":"CE","vin":"WME4513341K742412","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Rosso 13, 00136 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.43829,41.9197,0],"name":"349\/EV494NT","engineType":"CE","vin":"WME4513341K749450","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di San Barnaba 1 - 72, 00176 Roma (raggio 100m)","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.53942,41.88327,0],"name":"280\/ET922WT","engineType":"CE","vin":"WME4513341K710743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dell'Oceano Indiano 116, 00144 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.44599,41.82281,0],"name":"136\/ET778WT","engineType":"CE","vin":"WME4513341K737563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Vicolo Tuscolano 35 - 37, 00181 Roma (raggio 100m)","city":"roma","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[12.53952,41.86774,0],"name":"356\/EV575NT","engineType":"CE","vin":"WME4513341K771405","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Trionfale 8000, 00135 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.43046,41.93705,0],"name":"342\/EV525NT","engineType":"CE","vin":"WME4513341K745902","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Reno 28, 00198 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.50718,41.92066,0],"name":"199\/ET841WT","engineType":"CE","vin":"WME4513341K740122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bartolino da Novara 52, 00176 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.53986,41.87699,0],"name":"322\/EV498NT","engineType":"CE","vin":"WME4513341K745038","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Europa 67, 00144 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.46438,41.83235,0],"name":"305\/EV489NT","engineType":"CE","vin":"WME4513341K743379","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 34 - 40, 00178 Roma (raggio 100m)","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.54172,41.86545,0],"name":"588\/EX658DK","engineType":"CE","vin":"WME4513341K750559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 26 - 32, 00178 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.54156,41.86611,0],"name":"554\/EX711DK","engineType":"CE","vin":"WME4513341K752035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Mura Gianicolensi 102, 00152 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.46181,41.88623,0],"name":"128\/ET770WT","engineType":"CE","vin":"WME4513341K730199","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Bianco 27, 00141 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.53259,41.94286,0],"name":"503\/EX429DK","engineType":"CE","vin":"WME4513341K751034","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via fra Mauro 9, 00176 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.53455,41.887,0],"name":"255\/ET897WT","engineType":"CE","vin":"WME4513341K710291","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 529 - 543, 00165 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.43482,41.89346,0],"name":"237\/ET879WT","engineType":"CE","vin":"WME4513341K741876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Braida 30, 00136 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.43942,41.92182,0],"name":"364\/EV583NT","engineType":"CE","vin":"WME4513341K771993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 424, 00168 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.42554,41.92487,0],"name":"170\/ET812WT","engineType":"CE","vin":"WME4513341K740143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Daverio 18, 00152 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.45901,41.88569,0],"name":"532\/EX588DK","engineType":"CE","vin":"WME4513341K747888","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali 15, 00141 Roma (raggio 100m)","city":"roma","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[12.52389,41.94613,0],"name":"544\/EX617DK","engineType":"CE","vin":"WME4513341K745571","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Allievo 101, 00135 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.42713,41.94109,0],"name":"122\/ET764WT","engineType":"CE","vin":"WME4513341K730048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Sempione 1 - 14, 00141 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53538,41.93604,0],"name":"405\/EV624NT","engineType":"CE","vin":"WME4513341K773063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Arimondi 25, 00159 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53834,41.8965,0],"name":"058\/ET700WT","engineType":"CE","vin":"WME4513341K738538","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Portonaccio 35 - 49, 00159 Roma (raggio 300m)","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.53609,41.90304,0],"name":"054\/ET696WT","engineType":"CE","vin":"WME4513341K738379","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Maratona 63, 00135 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.46106,41.94423,0],"name":"257\/ET899WT","engineType":"CE","vin":"WME4513341K710364","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Raffaele Calzini 50, 00159 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.55279,41.9072,0],"name":"035\/ET677WT","engineType":"CE","vin":"WME4513341K743413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ardea 27, 00183 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.5116,41.88194,0],"name":"243\/ET885WT","engineType":"CE","vin":"WME4513341K742059","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Federico Cammeo 404, 00165 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.41506,41.89461,0],"name":"453\/EV670NT","engineType":"CE","vin":"WME4513341K768635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Salita di Monte del Gallo 13, 00165 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45248,41.89614,0],"name":"100\/ET742WT","engineType":"CE","vin":"WME4513341K729186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ostiense 59 - 69, 00154 Roma (raggio 100m)","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.48043,41.87358,0],"name":"196\/ET838WT","engineType":"CE","vin":"WME4513341K740541","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni da Pisa 10, 00176 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.53776,41.87754,0],"name":"253\/ET895WT","engineType":"CE","vin":"WME4513341K710224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Siacci 40, 00197 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.48733,41.92254,0],"name":"197\/ET839WT","engineType":"CE","vin":"WME4513341K740544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giacomo da Gozo 2, 00176 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.53739,41.87818,0],"name":"577\/EX712DK","engineType":"CE","vin":"WME4513341K752059","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tito Livio 21, 00136 Roma","city":"roma","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[12.44427,41.91484,0],"name":"341\/EV521NT","engineType":"CE","vin":"WME4513341K745882","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale della Trinità dei Monti, 00187 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.48282,41.90746,0],"name":"337\/EV515NT","engineType":"CE","vin":"WME4513341K745632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Paride Stefanini, 00144 Roma","city":"roma","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[12.45534,41.81542,0],"name":"488\/EV324TP","engineType":"CE","vin":"WME4513341K769617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Aurelia 62, 00165 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.42825,41.89676,0],"name":"025\/ET667WT","engineType":"CE","vin":"WME4513341K742991","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Potenza 1, 00161 Roma","city":"roma","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[12.51702,41.91036,0],"name":"505\/EX606DK","engineType":"CE","vin":"WME4513341K750791","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 434 - 462, 00168 Roma (raggio 100m)","city":"roma","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[12.42603,41.92541,0],"name":"258\/ET900WT","engineType":"CE","vin":"WME4513341K710369","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val Pellice 49, 00141 Roma","city":"roma","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[12.51958,41.94497,0],"name":"495\/EV268TT","engineType":"CE","vin":"WME4513341K785739","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Mastro 3, 00186 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.46774,41.90088,0],"name":"427\/EV645NT","engineType":"CE","vin":"WME4513341K771414","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stresa 136, 00135 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44032,41.93788,0],"name":"336\/EV529NT","engineType":"CE","vin":"WME4513341K745626","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Rosso 7, 00136 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.4391,41.91949,0],"name":"548\/EX603DK","engineType":"CE","vin":"WME4513341K745326","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Donatello 50, 00196 Roma","city":"roma","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.46823,41.92398,0],"name":"140\/ET782WT","engineType":"CE","vin":"WME4513341K727423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Vascello 10, 00152 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.45922,41.8869,0],"name":"294\/EY762ZZ","engineType":"CE","vin":"WME4513341K725694","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Virginia Agnelli 45 - 47, 00151 Roma (raggio 100m)","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.44562,41.8622,0],"name":"338\/EV535NT","engineType":"CE","vin":"WME4513341K745640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Faggella 31, 00165 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.40874,41.88985,0],"name":"345\/EV531NT","engineType":"CE","vin":"WME4513341K746412","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Nuoto 9, 00135 Roma","city":"roma","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[12.45754,41.94587,0],"name":"529\/EX454DK","engineType":"CE","vin":"WME4513341K750455","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Venanzio Fortunato 23, 00136 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44359,41.91876,0],"name":"497\/EV216TT","engineType":"CE","vin":"WME4513341K783670","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Camillo Caccia Dominioni 3, 00165 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.43081,41.89611,0],"name":"426\/EV644NT","engineType":"CE","vin":"WME4513341K769311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale di Villa Pamphili 55, 00152 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.45673,41.87981,0],"name":"083\/ET725WT","engineType":"CE","vin":"WME4513341K739138","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Nicolai 83, 00136 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.4408,41.91622,0],"name":"070\/ET712WT","engineType":"CE","vin":"WME4513341K738916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Galleria Giovanni XXIII, 00135 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.42745,41.93628,0],"name":"535\/EX650DK","engineType":"CE","vin":"WME4513341K747727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Raffaele Rossetti 5, 00136 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.45076,41.91464,0],"name":"003\/ET296WS","engineType":"CE","vin":"WME4513341K709365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Amelia 64, 00181 Roma","city":"roma","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[12.52737,41.87915,0],"name":"334\/EV504NT","engineType":"CE","vin":"WME4513341K745596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Maria Pezzè Pascolato 9, 00135 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.43266,41.93896,0],"name":"300\/ET942WT","engineType":"CE","vin":"WME4513341K709999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Saverio Benucci 33, 00149 Roma","city":"roma","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[12.45051,41.85121,0],"name":"579\/EX667DK","engineType":"CE","vin":"WME4513341K751666","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Aurelio Saffi 95, 00152 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.46453,41.88191,0],"name":"583\/EX655DK","engineType":"CE","vin":"WME4513341K751161","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Conca d'Oro 328, 00141 Roma","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.51797,41.94445,0],"name":"142\/ET784WT","engineType":"CE","vin":"WME4513341K729016","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Vicolo di Villa Berta, 00181 Roma","city":"roma","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[12.54074,41.87356,0],"name":"285\/ET927WT","engineType":"CE","vin":"WME4513341K709945","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tripoli 148, 00199 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.51735,41.92887,0],"name":"527\/EX188XV","engineType":"CE","vin":"WME4513341K750783","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ettore Ximenes 10, 00197 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.4763,41.92497,0],"name":"129\/ET771WT","engineType":"CE","vin":"WME4513341K730326","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati dei Papa 18, 00146 Roma","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.46688,41.86708,0],"name":"274\/ET941WT","engineType":"CE","vin":"WME4513341K709990","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Antonio Pigafetta 4, 00154 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.48466,41.87009,0],"name":"423\/EV641NT","engineType":"CE","vin":"WME4513341K772462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Tor Pignattara 47, 00177 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.54203,41.87906,0],"name":"332\/EV522NT","engineType":"CE","vin":"WME4513341K745457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sesto Fiorentino 39, 00146 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.46181,41.85069,0],"name":"436\/EV654NT","engineType":"CE","vin":"WME4513341K771039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 414, 00168 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.42546,41.92469,0],"name":"501\/EX441DK","engineType":"CE","vin":"WME4513341K751199","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Colli della Farnesina 246, 00135 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45256,41.94472,0],"name":"230\/ET872WT","engineType":"CE","vin":"WME4513341K741666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Jonio 196, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53474,41.94487,0],"name":"187\/ET829WT","engineType":"CE","vin":"WME4513341K739478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Alberoni 5, 00198 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.5124,41.91878,0],"name":"447\/EV665NT","engineType":"CE","vin":"WME4513341K770141","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Virgilio Testa 14 - 18, 00144 Roma (raggio 100m)","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.46802,41.83609,0],"name":"059\/ET701WT","engineType":"CE","vin":"WME4513341K738634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Arco di Travertino 8, 00181 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.53751,41.86894,0],"name":"147\/ET789WT","engineType":"CE","vin":"WME4513341K737767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Mura Gianicolensi 10, 00152 Roma (raggio 300m)","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.46335,41.88296,0],"name":"222\/ET864WT","engineType":"CE","vin":"WME4513341K741521","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Acquedotto del Peschiera, 00135 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.42491,41.93716,0],"name":"485\/EV322TP","engineType":"CE","vin":"WME4513341K770351","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guinizelli 10, 00152 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.45996,41.87799,0],"name":"008\/ET650WT","engineType":"CE","vin":"WME4513341K742370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Camesena 1 - 10, 00157 Roma (raggio 100m)","city":"roma","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[12.53476,41.90922,0],"name":"279\/ET921WT","engineType":"CE","vin":"WME4513341K710738","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vittorio Montiglio 39, 00168 Roma","city":"roma","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[12.42642,41.92339,0],"name":"563\/EX438DK","engineType":"CE","vin":"WME4513341K751183","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pasquale Baffi 86, 00149 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.45489,41.85142,0],"name":"192\/ET834WT","engineType":"CE","vin":"WME4513341K740491","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 125, 00167 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.42253,41.91801,0],"name":"598\/EX601DK","engineType":"CE","vin":"WME4513341K750773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 746, 00165 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.41335,41.89178,0],"name":"500\/EV304TT","engineType":"CE","vin":"WME4513341K776223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dell'Oceano Indiano 92, 00144 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.44659,41.82326,0],"name":"362\/EV581NT","engineType":"CE","vin":"WME4513341K772335","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Mandrione 105, 00181 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.53205,41.88189,0],"name":"183\/ET825WT","engineType":"CE","vin":"WME4513341K740407","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dei Campioni 17, 00144 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45976,41.82535,0],"name":"512\/EX660DK","engineType":"CE","vin":"WME4513341K750589","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Città d'Europa 4, 00144 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45131,41.82304,0],"name":"164\/ET806WT","engineType":"CE","vin":"WME4513341K740045","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valsavaranche 63, 00141 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.5152,41.94434,0],"name":"422\/EV640NT","engineType":"CE","vin":"WME4513341K770286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Sacco Pastore 37, 00141 Roma","city":"roma","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.52628,41.93201,0],"name":"226\/ET868WT","engineType":"CE","vin":"WME4513341K741543","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Fosso di Sant'Agnese, 00141 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.52367,41.9344,0],"name":"581\/EX478DK","engineType":"CE","vin":"WME4513341K751524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dei Quattro Venti 138, 00152 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.45843,41.87937,0],"name":"169\/ET811WT","engineType":"CE","vin":"WME4513341K740139","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Colli Albani 156, 00179 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.53407,41.86703,0],"name":"353\/EV572NT","engineType":"CE","vin":"WME4513341K772752","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonino Parato 4, 00135 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.42952,41.94428,0],"name":"252\/ET894WT","engineType":"CE","vin":"WME4513341K708147","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Pacelli 2 - 24, 00165 Roma (raggio 300m)","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.44296,41.89593,0],"name":"277\/ET919WT","engineType":"CE","vin":"WME4513341K710719","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lucio Apuleio 10, 00136 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.43968,41.91046,0],"name":"238\/ET880WT","engineType":"CE","vin":"WME4513341K741906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea Busiri Vici 47, 00152 Roma","city":"roma","fuel":93,"exterior":"GOOD","coordinates":[12.45816,41.88274,0],"name":"026\/ET668WT","engineType":"CE","vin":"WME4513341K742998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 490 - 498, 00165 Roma (raggio 300m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.4322,41.89405,0],"name":"368\/EV587NT","engineType":"CE","vin":"WME4513341K773237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valnerina 16, 00199 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.51577,41.93242,0],"name":"403\/EV622NT","engineType":"CE","vin":"WME4513341K772346","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Lodi 1, 00182 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.52142,41.88711,0],"name":"313\/EV499NT","engineType":"CE","vin":"WME4513341K744380","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico Cruciani Alibrandi 3, 00149 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.4557,41.85914,0],"name":"507\/EX424DK","engineType":"CE","vin":"WME4513341K750708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza di Nostra Signora di Guadalupe 6 - 9, 00135 Roma (raggio 100m)","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.42363,41.94354,0],"name":"564\/EX437DK","engineType":"CE","vin":"WME4513341K751169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Castelfranco Veneto 24, 00191 Roma","city":"roma","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[12.4745,41.94938,0],"name":"315\/EV508NT","engineType":"CE","vin":"WME4513341K744519","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Sannazzaro 21, 00141 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.54097,41.93897,0],"name":"592\/EX471DK","engineType":"CE","vin":"WME4513341K751469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gioacchino Ventura 9, 00167 Roma","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.4242,41.91304,0],"name":"156\/ET798WT","engineType":"CE","vin":"WME4513341K739711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gino Funaioli 41, 00151 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.44003,41.85875,0],"name":"408\/EV298TP","engineType":"CE","vin":"WME4513341K767685","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Mascagni 160, 00199 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.51861,41.93741,0],"name":"464\/EV301TP","engineType":"CE","vin":"WME4513341K770222","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cesare Fracassini 25, 00196 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.46954,41.92326,0],"name":"185\/ET827WT","engineType":"CE","vin":"WME4513341K740453","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Santorre di Santarosa 70, 00149 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.44525,41.85201,0],"name":"361\/EV580NT","engineType":"CE","vin":"WME4513341K771106","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Siro Corti 8, 00135 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.42906,41.94518,0],"name":"331\/EV502NT","engineType":"CE","vin":"WME4513341K745445","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Soratte 13, 00141 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.53708,41.94017,0],"name":"357\/EV576NT","engineType":"CE","vin":"WME4513341K772146","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Moscati 31, 00168 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.42879,41.92789,0],"name":"085\/ET727WT","engineType":"CE","vin":"WME4513341K739149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Lega Lombarda 30, 00162 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.5231,41.90882,0],"name":"586\/EX434DK","engineType":"CE","vin":"WME4513341K751119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Adriatico 147, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53739,41.94354,0],"name":"138\/ET780WT","engineType":"CE","vin":"WME4513341K727582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessandro Codivilla 9, 00152 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.44854,41.87789,0],"name":"241\/ET883WT","engineType":"CE","vin":"WME4513341K741959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Allievo 109 - 117, 00135 Roma (raggio 100m)","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.42713,41.94103,0],"name":"590\/EX669DK","engineType":"CE","vin":"WME4513341K751697","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza della Balduina 67, 00136 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.44143,41.91953,0],"name":"124\/ET766WT","engineType":"CE","vin":"WME4513341K730091","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Varisco, 00136 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.45065,41.91598,0],"name":"166\/ET808WT","engineType":"CE","vin":"WME4513341K740087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 34 - 40, 00178 Roma (raggio 100m)","city":"roma","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[12.54163,41.86552,0],"name":"163\/ET805WT","engineType":"CE","vin":"WME4513341K740040","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale dell'Agricoltura, 00144 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.46975,41.83701,0],"name":"389\/EV608NT","engineType":"CE","vin":"WME4513341K771953","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Eleonora Duse 4, 00197 Roma","city":"roma","fuel":78,"exterior":"GOOD","coordinates":[12.49216,41.92759,0],"name":"299\/ET916WT","engineType":"CE","vin":"WME4513341K709900","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Crispigni 4, 00149 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.45447,41.86054,0],"name":"139\/ET781WT","engineType":"CE","vin":"WME4513341K727409","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto Bergamini 81, 00159 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.55605,41.90619,0],"name":"001\/ET294WS","engineType":"CE","vin":"WME4513341K709170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gran Sasso 86, 00141 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.53863,41.93927,0],"name":"493\/EY099PF","engineType":"CE","vin":"WME4513341K783888","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale della Grande Muraglia 218, 00144 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.44799,41.81672,0],"name":"455\/EV672NT","engineType":"CE","vin":"WME4513341K769392","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Innocenzo X 53, 00152 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45273,41.88098,0],"name":"407\/EV626NT","engineType":"CE","vin":"WME4513341K771794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Frattini 235 - 249, 00149 Roma (raggio 300m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45194,41.84597,0],"name":"263\/ET905WT","engineType":"CE","vin":"WME4513341K708937","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Clivo di Cinna 204, 00136 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44395,41.91705,0],"name":"476\/EV313TP","engineType":"CE","vin":"WME4513341K770660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Nuoto 9, 00135 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.45756,41.94587,0],"name":"272\/ET914WT","engineType":"CE","vin":"WME4513341K710682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 284, 00165 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.43993,41.89839,0],"name":"011\/ET653WT","engineType":"CE","vin":"WME4513341K742403","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte delle Gioie 9, 00199 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.51024,41.93316,0],"name":"219\/ET861WT","engineType":"CE","vin":"WME4513341K741487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Aristide Sartorio 44 - 48, 00147 Roma (raggio 100m)","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.50481,41.85295,0],"name":"445\/EV663NT","engineType":"CE","vin":"WME4513341K770262","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dei Campioni 21, 00144 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.4592,41.82507,0],"name":"499\/EV256TT","engineType":"CE","vin":"WME4513341K784804","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto da Giussano 42, 00176 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.53456,41.89038,0],"name":"600\/EX586DK","engineType":"CE","vin":"WME4513341K750431","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Santi Quattro 108, 00184 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.50175,41.88745,0],"name":"539\/EX581DK","engineType":"CE","vin":"WME4513341K747283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Vicolo Tuscolano 35 - 37, 00181 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53911,41.86738,0],"name":"538\/EX649DK","engineType":"CE","vin":"WME4513341K747467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Valle Aurelia 126, 00167 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.43602,41.90919,0],"name":"220\/ET862WT","engineType":"CE","vin":"WME4513341K741497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anzio 17, 00178 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.54046,41.8652,0],"name":"098\/ET740WT","engineType":"CE","vin":"WME4513341K729126","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marocco 7, 00144 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.46483,41.8202,0],"name":"207\/ET849WT","engineType":"CE","vin":"WME4513341K741161","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Vicolo d'Aste, 00159 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.53399,41.90126,0],"name":"181\/EX189XV","engineType":"CE","vin":"WME4513341K740393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dell'Oceano Indiano 22, 00144 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.45221,41.82716,0],"name":"393\/EV612NT","engineType":"CE","vin":"WME4513341K771325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Franco Michelini Tocci 78, 00136 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.44612,41.92046,0],"name":"569\/EX610DK","engineType":"CE","vin":"WME4513341K750856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Damaso 43, 00165 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.44372,41.89353,0],"name":"491\/EV237TT","engineType":"CE","vin":"WME4513341K784032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Artificieri 11, 00143 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.48219,41.81906,0],"name":"314\/EV501NT","engineType":"CE","vin":"WME4513341K744493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Domenico Barone 4, 00165 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.44025,41.89538,0],"name":"382\/EV601NT","engineType":"CE","vin":"WME4513341K771130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 628, 00165 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.41714,41.89509,0],"name":"261\/ET903WT","engineType":"CE","vin":"WME4513341K710483","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Silverio 1 - 84, 00165 Roma (raggio 100m)","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44942,41.89459,0],"name":"380\/EV599NT","engineType":"CE","vin":"WME4513341K773181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Valle Aurelia 134, 00167 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.4351,41.91041,0],"name":"048\/ET690WT","engineType":"CE","vin":"WME4513341K737981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val d'Ossola 109, 00141 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.52785,41.93582,0],"name":"099\/ET741WT","engineType":"CE","vin":"WME4513341K729143","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Adriatico 181, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53695,41.94272,0],"name":"533\/EX612DK","engineType":"CE","vin":"WME4513341K747825","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vibio Mariano 7, 00189 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.44364,41.96538,0],"name":"076\/ET718WT","engineType":"CE","vin":"WME4513341K739062","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Angelo Emo 4, 00136 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.44971,41.9073,0],"name":"152\/ET794WT","engineType":"CE","vin":"WME4513341K739636","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Forte Braschi 4, 00167 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.42317,41.91623,0],"name":"383\/EV602NT","engineType":"CE","vin":"WME4513341K771252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Villa Madama 240, 00135 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.45308,41.93165,0],"name":"087\/ET729WT","engineType":"CE","vin":"WME4513341K737903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Felice Cavallotti 47, 00152 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.46201,41.87765,0],"name":"137\/EX185XV","engineType":"CE","vin":"WME4513341K727470","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bartolomeo Dusi 20, 00165 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.41407,41.89436,0],"name":"557\/EX656DK","engineType":"CE","vin":"WME4513341K751607","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Roberto Malatesta 17 - 26, 00176 Roma (raggio 100m)","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.54024,41.88708,0],"name":"010\/ET652WT","engineType":"CE","vin":"WME4513341K742388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Lungotevere della Magliana 171, 00146 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.46166,41.85096,0],"name":"108\/ET750WT","engineType":"CE","vin":"WME4513341K729322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Armando di Tullio 40, 00136 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.43798,41.90971,0],"name":"395\/EV614NT","engineType":"CE","vin":"WME4513341K772998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vittorio Montiglio 41, 00168 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.4265,41.92339,0],"name":"573\/EX720DK","engineType":"CE","vin":"WME4513341K750735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Crispolti 128, 00159 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.5508,41.90959,0],"name":"425\/EV643NT","engineType":"CE","vin":"WME4513341K773197","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lattanzio 4, 00136 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.44138,41.91282,0],"name":"155\/ET797WT","engineType":"CE","vin":"WME4513341K739705","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Battista Nolli 6, 00176 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.54263,41.88441,0],"name":"575\/EY100PF","engineType":"CE","vin":"WME4513341K750717","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Virginia Agnelli 84, 00151 Roma","city":"roma","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.44526,41.86202,0],"name":"483\/EV320TP","engineType":"CE","vin":"WME4513341K770720","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Aristide Sartorio 48, 00147 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.50428,41.85274,0],"name":"319\/EV505NT","engineType":"CE","vin":"WME4513341K744861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Pianeta Terra 70, 00144 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.44499,41.81725,0],"name":"213\/ET855WT","engineType":"CE","vin":"WME4513341K741381","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali 15, 00141 Roma (raggio 300m)","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.52385,41.94616,0],"name":"369\/EV588NT","engineType":"CE","vin":"WME4513341K773294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Costantino Marmocchi 31, 00176 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53482,41.8861,0],"name":"414\/EV632NT","engineType":"CE","vin":"WME4513341K771893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Vallisneri 9, 00197 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.48414,41.9189,0],"name":"516\/EX453DK","engineType":"CE","vin":"WME4513341K750435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val d'Ala, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.51476,41.94343,0],"name":"082\/ET724WT","engineType":"CE","vin":"WME4513341K739118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Frattini 235 - 249, 00149 Roma (raggio 300m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45208,41.84597,0],"name":"145\/ET787WT","engineType":"CE","vin":"WME4513341K737612","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Città d'Europa 608, 00144 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45039,41.81952,0],"name":"384\/EV603NT","engineType":"CE","vin":"WME4513341K771818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nemea 36, 00135 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.45807,41.94617,0],"name":"227\/ET869WT","engineType":"CE","vin":"WME4513341K741567","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Jonio 152 - 164, 00141 Roma (raggio 100m)","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.53558,41.94426,0],"name":"562\/EX449DK","engineType":"CE","vin":"WME4513341K751277","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 181, 00165 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.44795,41.89953,0],"name":"047\/ET689WT","engineType":"CE","vin":"WME4513341K737976","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Guglielmo Marconi 57, 00146 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.46818,41.86841,0],"name":"032\/ET674WT","engineType":"CE","vin":"WME4513341K743275","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tiziano 76, 00196 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.46899,41.93097,0],"name":"519\/EX480DK","engineType":"CE","vin":"WME4513341K751553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Biella 1, 00182 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.52048,41.88295,0],"name":"439\/EV657NT","engineType":"CE","vin":"WME4513341K769543","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea del Sarto, 00142 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.49569,41.83286,0],"name":"570\/EX609DK","engineType":"CE","vin":"WME4513341K750831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Regina Margherita 185, 00198 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.50519,41.91426,0],"name":"571\/EX602DK","engineType":"CE","vin":"WME4513341K750777","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe d'Avarna 21, 00151 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.4442,41.8564,0],"name":"079\/EX186XV","engineType":"CE","vin":"WME4513341K739088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roberto Alessandri 122, 00151 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.43898,41.8683,0],"name":"310\/EV490NT","engineType":"CE","vin":"WME4513341K744168","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nomentana 581, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.52869,41.93289,0],"name":"434\/EV652NT","engineType":"CE","vin":"WME4513341K768673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Capparoni 21, 00151 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.43953,41.86886,0],"name":"053\/ET695WT","engineType":"CE","vin":"WME4513341K738371","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anzio 15, 00178 Roma","city":"roma","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[12.54139,41.86524,0],"name":"236\/ET878WT","engineType":"CE","vin":"WME4513341K741855","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Battista Niccolini 6, 00152 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.46129,41.88029,0],"name":"218\/ET860WT","engineType":"CE","vin":"WME4513341K741453","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 626, 00165 Roma","city":"roma","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[12.41719,41.89508,0],"name":"126\/ET768WT","engineType":"CE","vin":"WME4513341K730162","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Serafico 188, 00142 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.49151,41.83118,0],"name":"148\/ET790WT","engineType":"CE","vin":"WME4513341K739540","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via David Salinieri 9, 00154 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.48358,41.86605,0],"name":"318\/EV513NT","engineType":"CE","vin":"WME4513341K744793","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val d'Ala, 00141 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.51379,41.94399,0],"name":"378\/EV597NT","engineType":"CE","vin":"WME4513341K771448","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Vaticano 220, 00165 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.44913,41.90081,0],"name":"134\/ET776WT","engineType":"CE","vin":"WME4513341K737169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Appiano 43, 00136 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.43905,41.91353,0],"name":"231\/ET873WT","engineType":"CE","vin":"WME4513341K741722","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Arbib Pascucci 80, 00168 Roma","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.42802,41.9253,0],"name":"323\/EV532NT","engineType":"CE","vin":"WME4513341K745042","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pasquale Baffi 86, 00149 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.45525,41.85132,0],"name":"290\/ET932WT","engineType":"CE","vin":"WME4513341K711263","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio XI 169 - 171, 00166 Roma","city":"roma","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[12.41133,41.89383,0],"name":"068\/ET710WT","engineType":"CE","vin":"WME4513341K738765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Benedettine 16, 00135 Roma","city":"roma","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.42939,41.94629,0],"name":"386\/EY102PF","engineType":"CE","vin":"WME4513341K772850","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale di Valle Aurelia 81 - 87, 00167 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.43718,41.90319,0],"name":"295\/ET937WT","engineType":"CE","vin":"WME4513341K726277","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tito Livio 165, 00136 Roma","city":"roma","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[12.44503,41.92035,0],"name":"541\/EX724DK","engineType":"CE","vin":"WME4513341K746419","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Colli Albani 168, 00179 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.53447,41.86677,0],"name":"019\/ET661WT","engineType":"CE","vin":"WME4513341K742540","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale di Valle Aurelia 139, 00167 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.43698,41.90571,0],"name":"396\/EV615NT","engineType":"CE","vin":"WME4513341K773816","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Raffaele Calzini 50, 00159 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.55257,41.90763,0],"name":"013\/ET655WT","engineType":"CE","vin":"WME4513341K742431","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Luigi Sturzo 11 - 15, 00144 Roma (raggio 300m)","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.46752,41.8352,0],"name":"531\/EX589DK","engineType":"CE","vin":"WME4513341K747921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Acqua Bullicante 150 - 156, 00177 Roma (raggio 100m)","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.5433,41.88595,0],"name":"039\/ET681WT","engineType":"CE","vin":"WME4513341K743514","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dell'Oceano Atlantico 17, 00144 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.47938,41.82125,0],"name":"303\/ET945WT","engineType":"CE","vin":"WME4513341K726997","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Mura Gianicolensi 95 - 105, 00152 Roma (raggio 100m)","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.46195,41.88565,0],"name":"150\/ET792WT","engineType":"CE","vin":"WME4513341K739604","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 410, 00168 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.42545,41.92461,0],"name":"296\/ET938WT","engineType":"CE","vin":"WME4513341K709952","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alfredo Fusco 57, 00136 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.43603,41.92398,0],"name":"431\/EV649NT","engineType":"CE","vin":"WME4513341K773010","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Isola Bella 7, 00141 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.53956,41.93824,0],"name":"438\/EV656NT","engineType":"CE","vin":"WME4513341K772342","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Passaggio Antonio Cesari 14, 00152 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.46049,41.87927,0],"name":"159\/ET801WT","engineType":"CE","vin":"WME4513341K739890","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 125, 00167 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.42254,41.91805,0],"name":"486\/EV295TP","engineType":"CE","vin":"WME4513341K767723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anassimandro 31, 00176 Roma","city":"roma","fuel":78,"exterior":"GOOD","coordinates":[12.53491,41.88372,0],"name":"092\/ET734WT","engineType":"CE","vin":"WME4513341K739177","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Castel Gandolfo 113, 00179 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.53296,41.86785,0],"name":"064\/ET706WT","engineType":"CE","vin":"WME4513341K738696","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val di Sangro 162, 00141 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.52362,41.94588,0],"name":"173\/ET815WT","engineType":"CE","vin":"WME4513341K740184","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Georgofili 68, 00147 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.49267,41.8528,0],"name":"021\/ET663WT","engineType":"CE","vin":"WME4513341K742674","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Serafico 169 - 185, 00142 Roma (raggio 100m)","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.4916,41.83297,0],"name":"180\/ET822WT","engineType":"CE","vin":"WME4513341K740369","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale dei Castelli Romani, 00179 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.53139,41.86823,0],"name":"101\/ET743WT","engineType":"CE","vin":"WME4513341K729190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 183, 00168 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.42558,41.9255,0],"name":"132\/ET774WT","engineType":"CE","vin":"WME4513341K730558","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 173, 00168 Roma","city":"roma","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[12.42481,41.92459,0],"name":"014\/ET656WT","engineType":"CE","vin":"WME4513341K742453","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Angeli 57, 00176 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.54049,41.87472,0],"name":"596\/EX439DK","engineType":"CE","vin":"WME4513341K751188","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tirana 6 - 14, 00144 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45486,41.82352,0],"name":"471\/EV308TP","engineType":"CE","vin":"WME4513341K770672","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giannozzo Manetti 23, 00167 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.44074,41.90068,0],"name":"172\/ET814WT","engineType":"CE","vin":"WME4513341K740158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antoniniana, 00153 Roma","city":"roma","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[12.49449,41.8776,0],"name":"330\/EV520NT","engineType":"CE","vin":"WME4513341K745437","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Orti Gianicolensi 4, 00152 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.45585,41.87753,0],"name":"432\/EV650NT","engineType":"CE","vin":"WME4513341K769087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fabiola 14, 00152 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.45056,41.87526,0],"name":"031\/ET673WT","engineType":"CE","vin":"WME4513341K743169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Genzano 180, 00179 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.53561,41.86896,0],"name":"177\/ET819WT","engineType":"CE","vin":"WME4513341K740316","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tocra 15, 00199 Roma","city":"roma","fuel":93,"exterior":"GOOD","coordinates":[12.52177,41.93131,0],"name":"454\/EV671NT","engineType":"CE","vin":"WME4513341K769301","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cina 304, 00144 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.43534,41.814,0],"name":"344\/EV523NT","engineType":"CE","vin":"WME4513341K745946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Imbrecciato 112, 00149 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.44573,41.85058,0],"name":"522\/EX466DK","engineType":"CE","vin":"WME4513341K751339","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Maria Pezzè Pascolato 9, 00135 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.43266,41.93911,0],"name":"084\/ET726WT","engineType":"CE","vin":"WME4513341K737824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Amba Aradam 18, 00184 Roma","city":"roma","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[12.50095,41.88426,0],"name":"251\/EZ013SZ","engineType":"CE","vin":"WME4513341K742049","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Passino 36, 00154 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.48803,41.86223,0],"name":"078\/ET720WT","engineType":"CE","vin":"WME4513341K739071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Velodromo 46, 00179 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.53395,41.86989,0],"name":"327\/EV510NT","engineType":"CE","vin":"WME4513341K745150","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Valtournanche 3, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.51625,41.94566,0],"name":"421\/EV639NT","engineType":"CE","vin":"WME4513341K771576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto Trionfi 5, 00159 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.5336,41.89979,0],"name":"515\/EX457DK","engineType":"CE","vin":"WME4513341K750503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Passeggiata del Gianicolo 3, 00165 Roma","city":"roma","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[12.46097,41.89009,0],"name":"267\/ET909WT","engineType":"CE","vin":"WME4513341K710651","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Susa 3, 00183 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.51468,41.87889,0],"name":"165\/ET807WT","engineType":"CE","vin":"WME4513341K740059","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Vittorio Englen 5, 00165 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.41217,41.89049,0],"name":"584\/EX436DK","engineType":"CE","vin":"WME4513341K751151","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Minucio Felice 3, 00136 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.43943,41.90988,0],"name":"416\/EV634NT","engineType":"CE","vin":"WME4513341K771186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Serafico 169 - 185, 00142 Roma (raggio 100m)","city":"roma","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.49158,41.83291,0],"name":"429\/EV647NT","engineType":"CE","vin":"WME4513341K772114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Raffaele Calzini 50, 00159 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.55306,41.90654,0],"name":"091\/ET733WT","engineType":"CE","vin":"WME4513341K739167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto Cadlolo 93, 00136 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.4456,41.91788,0],"name":"511\/EX661DK","engineType":"CE","vin":"WME4513341K750624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bartolino da Novara 26, 00176 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.54056,41.87702,0],"name":"339\/EV530NT","engineType":"CE","vin":"WME4513341K745654","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 34 - 40, 00178 Roma (raggio 100m)","city":"roma","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[12.54162,41.86559,0],"name":"309\/EV491NT","engineType":"CE","vin":"WME4513341K744142","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Galeazzo Alessi 128, 00176 Roma","city":"roma","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[12.54166,41.87928,0],"name":"149\/ET791WT","engineType":"CE","vin":"WME4513341K739597","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Laurentina 634, 00143 Roma","city":"roma","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.48082,41.82092,0],"name":"415\/EV633NT","engineType":"CE","vin":"WME4513341K768888","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Leonardo da Vinci 88 - 90, 00145 Roma (raggio 100m)","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.48078,41.85768,0],"name":"275\/ET917WT","engineType":"CE","vin":"WME4513341K710700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lariana 11, 00199 Roma","city":"roma","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.50464,41.92421,0],"name":"513\/EX659DK","engineType":"CE","vin":"WME4513341K750570","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anna Maria Taigi 8, 00145 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.49219,41.85874,0],"name":"112\/ET754WT","engineType":"CE","vin":"WME4513341K729649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Felice Cavallotti 21, 00152 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.46198,41.87694,0],"name":"546\/EX615DK","engineType":"CE","vin":"WME4513341K745537","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Colli della Farnesina 74, 00135 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.45981,41.94047,0],"name":"298\/ET940WT","engineType":"CE","vin":"WME4513341K709958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberico da Barbiano 17, 00176 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.5344,41.88793,0],"name":"125\/ET767WT","engineType":"CE","vin":"WME4513341K730132","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessio Baldovinetti 37, 00142 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.49472,41.83232,0],"name":"472\/EV309TP","engineType":"CE","vin":"WME4513341K770630","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giambattista Pagano 14, 00167 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.42508,41.90127,0],"name":"556\/EX666DK","engineType":"CE","vin":"WME4513341K751635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Ostiense 200 - 274, 00154 Roma (raggio 100m)","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.49275,41.86701,0],"name":"042\/ET684WT","engineType":"CE","vin":"WME4513341K746376","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Prenestina 41 - 45, 00176 Roma (raggio 100m)","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.52371,41.89121,0],"name":"293\/ET935WT","engineType":"CE","vin":"WME4513341K711768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Verna 8 - 12, 00141 Roma (raggio 100m)","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.53701,41.94054,0],"name":"308\/EV492NT","engineType":"CE","vin":"WME4513341K744031","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali, 00139 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.51459,41.94599,0],"name":"041\/ET683WT","engineType":"CE","vin":"WME4513341K744582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Makallè 11, 00199 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.52019,41.92657,0],"name":"555\/EX689DK","engineType":"CE","vin":"WME4513341K751735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Medaglie d'Oro 103, 00136 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.44369,41.91165,0],"name":"523\/EX445DK","engineType":"CE","vin":"WME4513341K751235","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Daverio 8, 00152 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.46032,41.88597,0],"name":"410\/EV628NT","engineType":"CE","vin":"WME4513341K772358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Benedetto Bompiani 33, 00147 Roma","city":"roma","fuel":57,"exterior":"GOOD","coordinates":[12.50504,41.85783,0],"name":"287\/ET929WT","engineType":"CE","vin":"WME4513341K711241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico Pezzi 7, 00168 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.42663,41.92517,0],"name":"528\/EX698DK","engineType":"CE","vin":"WME4513341K750690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Dionisi 42, 00151 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.44606,41.86043,0],"name":"200\/ET842WT","engineType":"CE","vin":"WME4513341K740680","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Emilio Albertario 144, 00166 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.4227,41.90276,0],"name":"130\/ET772WT","engineType":"CE","vin":"WME4513341K730454","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale dell'Agricoltura, 00144 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.46996,41.83717,0],"name":"260\/ET902WT","engineType":"CE","vin":"WME4513341K710450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Lungotevere della Magliana 110 - 142, 00146 Roma (raggio 300m)","city":"roma","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.46164,41.85098,0],"name":"599\/EX423DK","engineType":"CE","vin":"WME4513341K750699","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Portuense 701, 00149 Roma (raggio 100m)","city":"roma","fuel":78,"exterior":"GOOD","coordinates":[12.43768,41.85379,0],"name":"492\/EV255TT","engineType":"CE","vin":"WME4513341K784762","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Costantino Maes 102, 00162 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.52516,41.92414,0],"name":"069\/ET711WT","engineType":"CE","vin":"WME4513341K738769","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Romeo Rodriguez Pereira 214, 00136 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.43716,41.91923,0],"name":"360\/EV579NT","engineType":"CE","vin":"WME4513341K772917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 532, 00165 Roma","city":"roma","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[12.41934,41.89626,0],"name":"379\/EV598NT","engineType":"CE","vin":"WME4513341K772403","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mario Pannunzio 6, 00157 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.54586,41.91181,0],"name":"594\/EX425DK","engineType":"CE","vin":"WME4513341K751223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Elio Donato 15, 00136 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.44311,41.91216,0],"name":"186\/ET828WT","engineType":"CE","vin":"WME4513341K740462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 428, 00168 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.4256,41.92494,0],"name":"288\/ET930WT","engineType":"CE","vin":"WME4513341K711254","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Stazione Tuscolana 44, 00182 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.52574,41.88239,0],"name":"419\/EV637NT","engineType":"CE","vin":"WME4513341K773685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mandela, 00179 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.53122,41.86684,0],"name":"324\/EV512NT","engineType":"CE","vin":"WME4513341K745092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fiorino Fiorini 30, 00152 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.45342,41.87462,0],"name":"262\/ET904WT","engineType":"CE","vin":"WME4513341K710627","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Paride Stefanini, 00144 Roma","city":"roma","fuel":87,"exterior":"GOOD","coordinates":[12.45524,41.8158,0],"name":"461\/EV678NT","engineType":"CE","vin":"WME4513341K769093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cornelio Nepote 12, 00136 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.44456,41.91257,0],"name":"542\/EX721DK","engineType":"CE","vin":"WME4513341K746064","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giannetto Valli 91 - 93, 00149 Roma (raggio 300m)","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.45339,41.85257,0],"name":"463\/EV300TP","engineType":"CE","vin":"WME4513341K770990","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rosa Govona 14, 00152 Roma","city":"roma","fuel":87,"exterior":"GOOD","coordinates":[12.45453,41.87125,0],"name":"355\/EY101PF","engineType":"CE","vin":"WME4513341K771077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Casilina 204, 00176 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.53772,41.88167,0],"name":"477\/EV314TP","engineType":"CE","vin":"WME4513341K768880","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicolò V 5, 00165 Roma","city":"roma","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[12.44779,41.90021,0],"name":"561\/EX730DK","engineType":"CE","vin":"WME4513341K751317","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Villa Borghese \/ Saba Park - Viale del Muro Torto","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.48408,41.91005,0],"name":"365\/EV584NT","engineType":"CE","vin":"WME4513341K772418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Casilina 59, 00176 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.52761,41.88922,0],"name":"494\/EV267TT","engineType":"CE","vin":"WME4513341K786308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati di Quinzio 6 - 8, 00149 Roma (raggio 100m)","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.46458,41.86965,0],"name":"201\/ET843WT","engineType":"CE","vin":"WME4513341K740803","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessio Baldovinetti 106, 00142 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.49438,41.83134,0],"name":"105\/ET747WT","engineType":"CE","vin":"WME4513341K729300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tudaio 28, 00141 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.53303,41.94117,0],"name":"089\/ET731WT","engineType":"CE","vin":"WME4513341K737927","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 490 - 498, 00165 Roma (raggio 300m)","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.43235,41.89404,0],"name":"103\/ET745WT","engineType":"CE","vin":"WME4513341K729208","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Arco di Travertino 26, 00179 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.53656,41.86805,0],"name":"038\/ET680WT","engineType":"CE","vin":"WME4513341K743495","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Vincenzo Ceresi 11, 00152 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.44745,41.87843,0],"name":"311\/EV503NT","engineType":"CE","vin":"WME4513341K744360","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Laurentina 1, 00145 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.47744,41.8509,0],"name":"018\/ET660WT","engineType":"CE","vin":"WME4513341K742515","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Adamello 10, 00141 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.53414,41.94177,0],"name":"049\/ET691WT","engineType":"CE","vin":"WME4513341K737986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale dei Castelli Romani, 00179 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.53155,41.86821,0],"name":"154\/ET796WT","engineType":"CE","vin":"WME4513341K739683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Teodosio Macrobio 27, 00136 Roma (raggio 100m)","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.44148,41.92357,0],"name":"081\/ET723WT","engineType":"CE","vin":"WME4513341K739112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Faggella 31, 00165 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.40972,41.89187,0],"name":"589\/EX680DK","engineType":"CE","vin":"WME4513341K751706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale dello Sport, 00144 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.46487,41.82502,0],"name":"526\/EX607DK","engineType":"CE","vin":"WME4513341K750816","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Costantino 4 - 12, 00145 Roma (raggio 100m)","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.48987,41.85488,0],"name":"051\/ET693WT","engineType":"CE","vin":"WME4513341K738064","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Carnaro 29, 00141 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.53171,41.94106,0],"name":"239\/ET881WT","engineType":"CE","vin":"WME4513341K741934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale dell'Oceano Indiano 100, 00144 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.44646,41.82315,0],"name":"178\/ET820WT","engineType":"CE","vin":"WME4513341K740336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Faggella 31, 00165 Roma","city":"roma","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[12.40878,41.88977,0],"name":"457\/EV674NT","engineType":"CE","vin":"WME4513341K769156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Armellini 32, 00143 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.48716,41.82356,0],"name":"090\/ET732WT","engineType":"CE","vin":"WME4513341K739159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 676, 00165 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.41497,41.89345,0],"name":"358\/EV577NT","engineType":"CE","vin":"WME4513341K773185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Alberoni 3, 00198 Roma","city":"roma","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[12.51268,41.9191,0],"name":"198\/ET840WT","engineType":"CE","vin":"WME4513341K740570","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Massimi 129, 00136 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.43854,41.92736,0],"name":"209\/ET851WT","engineType":"CE","vin":"WME4513341K741234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Isacco Artom 5, 00151 Roma (raggio 100m)","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.4443,41.85536,0],"name":"496\/EV269TT","engineType":"CE","vin":"WME4513341K786287","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Battista De Rossi 23, 00161 Roma (raggio 100m)","city":"roma","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[12.51586,41.9159,0],"name":"517\/EX710DK","engineType":"CE","vin":"WME4513341K751769","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Virginio Jacoucci 2, 00152 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.45715,41.87362,0],"name":"269\/ET911WT","engineType":"CE","vin":"WME4513341K710663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pratomagno 11, 00141 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.53171,41.94388,0],"name":"065\/ET707WT","engineType":"CE","vin":"WME4513341K738702","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Farnesina 269, 00135 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.45807,41.94402,0],"name":"055\/ET697WT","engineType":"CE","vin":"WME4513341K738453","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali 15, 00141 Roma (raggio 100m)","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.52387,41.94613,0],"name":"475\/EV312TP","engineType":"CE","vin":"WME4513341K769325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Passeggiata del Gianicolo 1, 00152 Roma","city":"roma","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[12.46124,41.88864,0],"name":"480\/EV317TP","engineType":"CE","vin":"WME4513341K769237","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cutilia 20, 00183 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.5108,41.87877,0],"name":"363\/EV582NT","engineType":"CE","vin":"WME4513341K771822","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Seneca 55, 00136 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.44364,41.92101,0],"name":"297\/ET939WT","engineType":"CE","vin":"WME4513341K726367","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via fra Mauro 3, 00176 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.53329,41.88645,0],"name":"289\/ET931WT","engineType":"CE","vin":"WME4513341K711258","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessio Baldovinetti 9, 00142 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.49483,41.83294,0],"name":"157\/ET799WT","engineType":"CE","vin":"WME4513341K739735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Falvaterra 1 - 31, 00179 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53461,41.86826,0],"name":"435\/EV653NT","engineType":"CE","vin":"WME4513341K771863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Magliana Nuova 91, 00146 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.45712,41.85185,0],"name":"086\/ET728WT","engineType":"CE","vin":"WME4513341K737891","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Valle Aurelia 126, 00167 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.43609,41.90917,0],"name":"406\/EV625NT","engineType":"CE","vin":"WME4513341K773700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Pico della Mirandola 38, 00142 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.48625,41.84643,0],"name":"073\/ET715WT","engineType":"CE","vin":"WME4513341K738973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Isola Bella 32, 00141 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.53953,41.93859,0],"name":"206\/ET848WT","engineType":"CE","vin":"WME4513341K741135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Isidoro di Carace 4, 00176 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53811,41.8855,0],"name":"442\/EV660NT","engineType":"CE","vin":"WME4513341K771352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza di Santa Maria Liberatrice 40, 00153 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.47571,41.88079,0],"name":"553\/EX713DK","engineType":"CE","vin":"WME4513341K752097","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Montanelli 6, 00195 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.46872,41.91732,0],"name":"329\/EV519NT","engineType":"CE","vin":"WME4513341K745427","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sorelle Marchisio 2, 00168 Roma","city":"roma","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[12.42478,41.92455,0],"name":"459\/EV676NT","engineType":"CE","vin":"WME4513341K769202","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Zebio 37 - 43, 00195 Roma (raggio 300m)","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.46631,41.92009,0],"name":"221\/ET863WT","engineType":"CE","vin":"WME4513341K741518","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monti Sibillini 10, 00141 Roma","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.53112,41.94301,0],"name":"151\/ET793WT","engineType":"CE","vin":"WME4513341K739608","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 34 - 40, 00178 Roma (raggio 100m)","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.54164,41.86553,0],"name":"397\/EV616NT","engineType":"CE","vin":"WME4513341K773054","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Tommaso Perassi 10, 00165 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.40899,41.88952,0],"name":"162\/ET804WT","engineType":"CE","vin":"WME4513341K740024","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Fosso di Sant'Agnese, 00141 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.52345,41.93429,0],"name":"168\/ET810WT","engineType":"CE","vin":"WME4513341K740131","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Sannazzaro 80, 00141 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.54103,41.9401,0],"name":"388\/EV607NT","engineType":"CE","vin":"WME4513341K774073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Quinto Cecilio 2, 00152 Roma","city":"roma","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.4547,41.88012,0],"name":"373\/EV592NT","engineType":"CE","vin":"WME4513341K773148","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Corona 9, 00141 Roma","city":"roma","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[12.53616,41.9389,0],"name":"411\/EV629NT","engineType":"CE","vin":"WME4513341K768652","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Arbib Pascucci 24, 00168 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.42774,41.92594,0],"name":"179\/ET821WT","engineType":"CE","vin":"WME4513341K740347","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 626, 00165 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.41722,41.89505,0],"name":"593\/EX444DK","engineType":"CE","vin":"WME4513341K751227","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Collepardo 17, 00179 Roma","city":"roma","fuel":75,"exterior":"GOOD","coordinates":[12.53568,41.86772,0],"name":"002\/ET295WS","engineType":"CE","vin":"WME4513341K710416","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enna 8, 00182 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.52264,41.88399,0],"name":"232\/ET874WT","engineType":"CE","vin":"WME4513341K741728","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Prato della Signora 14, 00199 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.51102,41.9394,0],"name":"441\/EV659NT","engineType":"CE","vin":"WME4513341K771015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Frascati 34 - 40, 00178 Roma (raggio 100m)","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.5417,41.86557,0],"name":"007\/ET649WT","engineType":"CE","vin":"WME4513341K742319","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Ceramiche 74, 00167 Roma","city":"roma","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[12.4341,41.91003,0],"name":"061\/ET703WT","engineType":"CE","vin":"WME4513341K738668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Adriatico 169, 00141 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.53708,41.94297,0],"name":"020\/ET662WT","engineType":"CE","vin":"WME4513341K742561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ustica 6, 00141 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.5339,41.94261,0],"name":"424\/EV642NT","engineType":"CE","vin":"WME4513341K772716","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Guglielmo Massaia 59, 00154 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.49411,41.8607,0],"name":"502\/EX440DK","engineType":"CE","vin":"WME4513341K751194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cina 304, 00144 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.43516,41.81404,0],"name":"094\/ET736WT","engineType":"CE","vin":"WME4513341K739387","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Isacco Newton 67, 00151 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.44155,41.85808,0],"name":"246\/ET888WT","engineType":"CE","vin":"WME4513341K741997","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Prenestina 238, 00176 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.54025,41.89241,0],"name":"487\/EV323TP","engineType":"CE","vin":"WME4513341K770690","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Casilina 202, 00176 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.53635,41.88207,0],"name":"302\/ET944WT","engineType":"CE","vin":"WME4513341K726387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Braida 1, 00136 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.43977,41.92103,0],"name":"281\/ET923WT","engineType":"CE","vin":"WME4513341K710875","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Collazia 6, 00183 Roma","city":"roma","fuel":60,"exterior":"GOOD","coordinates":[12.50697,41.87938,0],"name":"216\/ET858WT","engineType":"CE","vin":"WME4513341K741441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Antonio Guattani 22, 00161 Roma","city":"roma","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.51594,41.91601,0],"name":"023\/ET665WT","engineType":"CE","vin":"WME4513341K742955","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antelao 33, 00141 Roma","city":"roma","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[12.52971,41.94343,0],"name":"143\/ET785WT","engineType":"CE","vin":"WME4513341K729045","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Rodolfo Lanciani 10, 00162 Roma","city":"roma","fuel":87,"exterior":"GOOD","coordinates":[12.5259,41.92167,0],"name":"022\/ET664WT","engineType":"CE","vin":"WME4513341K742809","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Pianigiani 14, 00149 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.45805,41.85962,0],"name":"005\/ET647WT","engineType":"CE","vin":"WME4513341K742196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guinizelli 35, 00152 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.45876,41.87504,0],"name":"484\/EV321TP","engineType":"CE","vin":"WME4513341K768189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ludovico Altieri 44, 00165 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.43187,41.89674,0],"name":"420\/EV638NT","engineType":"CE","vin":"WME4513341K770118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Acqua Bullicante 28, 00177 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.54327,41.88211,0],"name":"392\/EV611NT","engineType":"CE","vin":"WME4513341K773834","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Odoardo Beccari 13, 00154 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.49048,41.8752,0],"name":"452\/EV669NT","engineType":"CE","vin":"WME4513341K769351","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Castrense 50 - 62, 00182 Roma (raggio 100m)","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.51157,41.88644,0],"name":"498\/EV238TT","engineType":"CE","vin":"WME4513341K784666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Poggio Tulliano 11, 00181 Roma","city":"roma","fuel":93,"exterior":"GOOD","coordinates":[12.53847,41.86816,0],"name":"543\/EX703DK","engineType":"CE","vin":"WME4513341K745606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Eritrea 32, 00199 Roma","city":"roma","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[12.51594,41.92571,0],"name":"043\/ET685WT","engineType":"CE","vin":"WME4513341K737954","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Crispolti 22, 00159 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.54835,41.90848,0],"name":"377\/EX193XV","engineType":"CE","vin":"WME4513341K771723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Barletta 27, 00192 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.4579,41.91077,0],"name":"597\/EX605DK","engineType":"CE","vin":"WME4513341K750789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Raffaele Rossetti 5, 00136 Roma","city":"roma","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.45062,41.91515,0],"name":"210\/ET852WT","engineType":"CE","vin":"WME4513341K741289","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Benedetto Croce 38, 00142 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.48307,41.8411,0],"name":"027\/ET669WT","engineType":"CE","vin":"WME4513341K743014","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leonardo Bufalini 12, 00176 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53883,41.88174,0],"name":"097\/ET739WT","engineType":"CE","vin":"WME4513341K729116","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guidubaldo del Monte 17, 00197 Roma","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.47975,41.92761,0],"name":"316\/EV516NT","engineType":"CE","vin":"WME4513341K744576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Innocenzo X 59, 00152 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.45252,41.88147,0],"name":"033\/ET675WT","engineType":"CE","vin":"WME4513341K743288","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico di San Martino Valperga 57 - 67, 00149 Roma (raggio 100m)","city":"roma","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.45179,41.84882,0],"name":"549\/EX597DK","engineType":"CE","vin":"WME4513341K745074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Farnesina 243, 00135 Roma","city":"roma","fuel":42,"exterior":"GOOD","coordinates":[12.4589,41.9435,0],"name":"171\/EZ012SZ","engineType":"CE","vin":"WME4513341K740150","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mario Pannunzio 27, 00157 Roma","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.54653,41.91209,0],"name":"067\/ET709WT","engineType":"CE","vin":"WME4513341K738761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Spinola 39, 00154 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.49342,41.8621,0],"name":"037\/ET679WT","engineType":"CE","vin":"WME4513341K743441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gallia 2, 00183 Roma","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.49992,41.88203,0],"name":"530\/EX584DK","engineType":"CE","vin":"WME4513341K749667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Casilina 59, 00176 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.52758,41.8894,0],"name":"509\/EX664DK","engineType":"CE","vin":"WME4513341K750665","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 464, 00165 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.43346,41.89381,0],"name":"567\/EX428DK","engineType":"CE","vin":"WME4513341K750989","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Pineta Sacchetti 434 - 462, 00168 Roma (raggio 300m)","city":"roma","fuel":81,"exterior":"GOOD","coordinates":[12.42601,41.92544,0],"name":"469\/EY103PF","engineType":"CE","vin":"WME4513341K769627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Silvio d'Amico 54, 00145 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.4796,41.85124,0],"name":"456\/EV673NT","engineType":"CE","vin":"WME4513341K770986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 490 - 498, 00165 Roma (raggio 300m)","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.43167,41.89425,0],"name":"400\/EV619NT","engineType":"CE","vin":"WME4513341K773643","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Makallè 11, 00199 Roma","city":"roma","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[12.52014,41.92655,0],"name":"286\/ET928WT","engineType":"CE","vin":"WME4513341K711231","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto Cadlolo 14, 00136 Roma","city":"roma","fuel":45,"exterior":"GOOD","coordinates":[12.44714,41.92367,0],"name":"268\/ET910WT","engineType":"CE","vin":"WME4513341K710655","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Manno 10, 00179 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.52,41.87299,0],"name":"006\/ET648WT","engineType":"CE","vin":"WME4513341K742207","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessandro Vessella 29, 00199 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.51065,41.93697,0],"name":"572\/EX592DK","engineType":"CE","vin":"WME4513341K750754","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Michele Pironti 218, 00165 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.41236,41.89294,0],"name":"228\/ET870WT","engineType":"CE","vin":"WME4513341K741583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nostra Signora di Lourdes 21, 00167 Roma","city":"roma","fuel":84,"exterior":"GOOD","coordinates":[12.42682,41.90362,0],"name":"270\/ET912WT","engineType":"CE","vin":"WME4513341K710669","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Laurentina 447, 00142 Roma","city":"roma","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.48089,41.83615,0],"name":"385\/EV604NT","engineType":"CE","vin":"WME4513341K771883","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val di Sangro 152, 00141 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.52324,41.94568,0],"name":"490\/EV326TP","engineType":"CE","vin":"WME4513341K770338","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Serafico 169 - 185, 00142 Roma (raggio 100m)","city":"roma","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[12.49157,41.83303,0],"name":"036\/ET678WT","engineType":"CE","vin":"WME4513341K743423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Casilina 59, 00176 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.52744,41.88975,0],"name":"525\/EX608DK","engineType":"CE","vin":"WME4513341K750828","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Poletti 6, 00196 Roma","city":"roma","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[12.465,41.92979,0],"name":"104\/ET746WT","engineType":"CE","vin":"WME4513341K729254","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Egadi 36, 00141 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.535,41.94096,0],"name":"245\/EW232ZK","engineType":"CE","vin":"WME4513341K741982","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Emilio Albertario 22, 00166 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.42219,41.90181,0],"name":"371\/EV590NT","engineType":"CE","vin":"WME4513341K773298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Collepardo 23, 00179 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.53547,41.86778,0],"name":"028\/ET670WT","engineType":"CE","vin":"WME4513341K743020","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Amilcare Cucchini 40, 00149 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.45845,41.85991,0],"name":"182\/ET824WT","engineType":"CE","vin":"WME4513341K740399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Federico Cammeo 11 - 19, 00165 Roma (raggio 100m)","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.4151,41.89395,0],"name":"250\/ET892WT","engineType":"CE","vin":"WME4513341K742041","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico Pezzi 4, 00168 Roma","city":"roma","fuel":33,"exterior":"GOOD","coordinates":[12.42692,41.92516,0],"name":"111\/ET753WT","engineType":"CE","vin":"WME4513341K729501","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val Maggia 149, 00141 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.51611,41.94406,0],"name":"473\/EV310TP","engineType":"CE","vin":"WME4513341K771063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Parco di Villa Baldini, 00152 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.45077,41.87233,0],"name":"347\/EV533NT","engineType":"CE","vin":"WME4513341K748955","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Circonvallazione Ardeatina, 00179 Roma","city":"roma","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[12.5029,41.86709,0],"name":"188\/ET830WT","engineType":"CE","vin":"WME4513341K739502","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali 92 - 242, 00141 Roma","city":"roma","fuel":66,"exterior":"GOOD","coordinates":[12.52051,41.94609,0],"name":"307\/EV496NT","engineType":"CE","vin":"WME4513341K743875","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Capparoni 19, 00151 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.4396,41.86879,0],"name":"212\/ET854WT","engineType":"CE","vin":"WME4513341K741368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Cesare Pavese 22, 00144 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.47999,41.81993,0],"name":"367\/EV586NT","engineType":"CE","vin":"WME4513341K772135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aosta 33, 00182 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.51465,41.88338,0],"name":"551\/EX594DK","engineType":"CE","vin":"WME4513341K744849","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Isola Bella 161, 00141 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.53939,41.94216,0],"name":"343\/EV526NT","engineType":"CE","vin":"WME4513341K745937","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val di Sangro 142, 00141 Roma","city":"roma","fuel":96,"exterior":"GOOD","coordinates":[12.52312,41.94562,0],"name":"229\/ET871WT","engineType":"CE","vin":"WME4513341K741598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Prospero Colonna 43, 00149 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.45228,41.8561,0],"name":"585\/EX435DK","engineType":"CE","vin":"WME4513341K751142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza dei Condottieri 47 - 56, 00176 Roma (raggio 100m)","city":"roma","fuel":12,"exterior":"GOOD","coordinates":[12.535,41.88797,0],"name":"462\/EV239TP","engineType":"CE","vin":"WME4513341K770195","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Latina 296, 00179 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.52108,41.86983,0],"name":"214\/ET856WT","engineType":"CE","vin":"WME4513341K741399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Girolamo Nisio 62, 00135 Roma","city":"roma","fuel":72,"exterior":"GOOD","coordinates":[12.43098,41.93862,0],"name":"450\/EV667NT","engineType":"CE","vin":"WME4513341K770701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Col di Tenda 3, 00141 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.53388,41.93998,0],"name":"135\/ET777WT","engineType":"CE","vin":"WME4513341K737181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Salvatore Pincherle 140, 00146 Roma","city":"roma","fuel":21,"exterior":"UNACCEPTABLE","coordinates":[12.46912,41.8528,0],"name":"146\/ET788WT","engineType":"CE","vin":"WME4513341K737736","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marcello Prestinari 13, 00195 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.46765,41.9189,0],"name":"412\/EV630NT","engineType":"CE","vin":"WME4513341K772902","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Pellati 78, 00149 Roma","city":"roma","fuel":63,"exterior":"GOOD","coordinates":[12.46087,41.8625,0],"name":"354\/EV573NT","engineType":"CE","vin":"WME4513341K771688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bartolo da Sassoferrato 14, 00165 Roma","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.42834,41.89929,0],"name":"558\/EX479DK","engineType":"CE","vin":"WME4513341K751536","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gregorio VII 490 - 498, 00165 Roma (raggio 300m)","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.43214,41.894,0],"name":"040\/ET682WT","engineType":"CE","vin":"WME4513341K743545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Stazione Tuscolana 133, 00182 Roma","city":"roma","fuel":24,"exterior":"GOOD","coordinates":[12.52505,41.88655,0],"name":"046\/ET688WT","engineType":"CE","vin":"WME4513341K737974","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giulio Cesare 19 - 27, 00192 Roma (raggio 300m)","city":"roma","fuel":15,"exterior":"GOOD","coordinates":[12.46814,41.91183,0],"name":"240\/ET882WT","engineType":"CE","vin":"WME4513341K741938","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Emilio Albertario 108, 00167 Roma","city":"roma","fuel":39,"exterior":"GOOD","coordinates":[12.42274,41.90262,0],"name":"123\/ET765WT","engineType":"CE","vin":"WME4513341K730065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Pittaluga 2 - 62, 00159 Roma (raggio 100m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.53562,41.90047,0],"name":"446\/EV664NT","engineType":"CE","vin":"WME4513341K772513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Monti Parioli 49, 00197 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.4789,41.9216,0],"name":"398\/EV617NT","engineType":"CE","vin":"WME4513341K773920","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Sannazzaro 54 - 94, 00141 Roma (raggio 100m)","city":"roma","fuel":36,"exterior":"GOOD","coordinates":[12.54099,41.93939,0],"name":"489\/EV325TP","engineType":"CE","vin":"WME4513341K769795","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nemorense 109, 00199 Roma","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.51254,41.92915,0],"name":"276\/ET918WT","engineType":"CE","vin":"WME4513341K710714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Costantino Maes 79, 00162 Roma","city":"roma","fuel":69,"exterior":"GOOD","coordinates":[12.52517,41.92377,0],"name":"374\/EV593NT","engineType":"CE","vin":"WME4513341K771154","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Coviello 34, 00165 Roma","city":"roma","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[12.41112,41.89246,0],"name":"335\/EV527NT","engineType":"CE","vin":"WME4513341K745624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Damaso Cerquetti 33, 00152 Roma","city":"roma","fuel":21,"exterior":"GOOD","coordinates":[12.45537,41.8735,0],"name":"510\/EX662DK","engineType":"CE","vin":"WME4513341K750636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tiziano 68, 00196 Roma","city":"roma","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[12.47013,41.92814,0],"name":"224\/ET866WT","engineType":"CE","vin":"WME4513341K741532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Stazione Ostiense 37, 00154 Roma","city":"roma","fuel":90,"exterior":"GOOD","coordinates":[12.48264,41.87307,0],"name":"233\/ET875WT","engineType":"CE","vin":"WME4513341K741778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 349, 00165 Roma","city":"roma","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[12.43201,41.89743,0],"name":"071\/ET713WT","engineType":"CE","vin":"WME4513341K738929","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Baldo degli Ubaldi 233, 00167 Roma","city":"roma","fuel":18,"exterior":"GOOD","coordinates":[12.43709,41.90033,0],"name":"127\/ET769WT","engineType":"CE","vin":"WME4513341K730178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 680 - 720, 00165 Roma (raggio 100m)","city":"roma","fuel":30,"exterior":"GOOD","coordinates":[12.41449,41.89295,0],"name":"194\/ET836WT","engineType":"CE","vin":"WME4513341K740507","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali Vecchia 37 - 43, 00141 Roma (raggio 300m)","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.52364,41.94608,0],"name":"160\/ET802WT","engineType":"CE","vin":"WME4513341K739903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Felice Poggi 44, 00149 Roma","city":"roma","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[12.45848,41.85881,0],"name":"029\/ET671WT","engineType":"CE","vin":"WME4513341K743100","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Diego Angeli 32, 00159 Roma","city":"roma","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.55135,41.90861,0],"name":"591\/EX472DK","engineType":"CE","vin":"WME4513341K751478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Casal Bruciato 22, 00159 Roma","city":"roma","fuel":51,"exterior":"GOOD","coordinates":[12.5461,41.90775,0],"name":"106\/ET748WT","engineType":"CE","vin":"WME4513341K729309","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Prati Fiscali 15, 00141 Roma (raggio 100m)","city":"roma","fuel":48,"exterior":"GOOD","coordinates":[12.52392,41.9462,0],"name":"161\/ET803WT","engineType":"CE","vin":"WME4513341K740016","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Malaga 16, 00144 Roma","city":"roma","fuel":27,"exterior":"GOOD","coordinates":[12.45362,41.81733,0],"name":"249\/ET891WT","engineType":"CE","vin":"WME4513341K742028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gerolamo Adorno 21, 00154 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.48695,41.86572,0],"name":"404\/EV623NT","engineType":"CE","vin":"WME4513341K773929","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aurelia 290, 00165 Roma","city":"roma","fuel":54,"exterior":"GOOD","coordinates":[12.43766,41.89793,0],"name":"107\/ET749WT","engineType":"CE","vin":"WME4513341K729318","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Villa Ada 41, 00199 Roma","city":"roma","fuel":100,"exterior":"GOOD","coordinates":[12.50449,41.92488,0],"name":"144\/ET786WT","engineType":"CE","vin":"WME4513341K737569","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

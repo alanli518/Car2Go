@@ -1,0 +1,382 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Guldborgvej 38, 2000 Frederiksberg","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.52803,55.68727,0],"name":"AP81493","engineType":"CE","vin":"WME4513341K822631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Klingseyvej 34, 2720 København","city":"kobenhavn","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[12.48318,55.68669,0],"name":"AR39740","engineType":"CE","vin":"WME4513341K822116","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Parmagade 26, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.61454,55.65254,0],"name":"AP81464","engineType":"CE","vin":"WME4513341K822484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nordbanegade 21, 2200 København","city":"kobenhavn","fuel":27,"exterior":"GOOD","coordinates":[12.54308,55.69654,0],"name":"AP81445","engineType":"CE","vin":"WME4513341K822387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lersø Parkallé 153, 2100 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.54396,55.71823,0],"name":"AR39791","engineType":"CE","vin":"WME4513341K822237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vermundsgade 41, 2100 København","city":"kobenhavn","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.55082,55.70751,0],"name":"AR18183","engineType":"CE","vin":"WME4513341K822912","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lauravej 17, 2500 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.51052,55.66864,0],"name":"AR39739","engineType":"CE","vin":"WME4513341K822280","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bregnerødgade 10, 2200 København","city":"kobenhavn","fuel":96,"exterior":"GOOD","coordinates":[12.53752,55.69885,0],"name":"AP81399","engineType":"CE","vin":"WME4513341K820760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hillerødgade 74, 2200 København","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.52948,55.69683,0],"name":"AP81444","engineType":"CE","vin":"WME4513341K822368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ringkøbinggade 9, 2100 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.58747,55.70905,0],"name":"AP95494","engineType":"CE","vin":"WME4513341K820830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Camilla Nielsens Vej 3, 2000 Frederiksberg","city":"kobenhavn","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.50257,55.67278,0],"name":"AP81551","engineType":"CE","vin":"WME4513341K823462","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nordre Fasanvej 140, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.5315,55.69191,0],"name":"AP81410","engineType":"CE","vin":"WME4513341K820665","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Sigurdsgade 13, 2200 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.55124,55.70363,0],"name":"AP81456","engineType":"CE","vin":"WME4513341K822551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Dantes Plads, 1556 København","city":"kobenhavn","fuel":63,"exterior":"GOOD","coordinates":[12.57334,55.67358,0],"name":"AP81524","engineType":"CE","vin":"WME4513341K823176","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Backersvej 48, 2300 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.62089,55.65701,0],"name":"AP81407","engineType":"CE","vin":"WME4513341K820924","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Nørreport Niv. -1 (Ring på og sig \"car2go\")","city":"kobenhavn","fuel":69,"exterior":"GOOD","coordinates":[12.56828,55.68246,0],"name":"AP81428","engineType":"CE","vin":"WME4513341K821819","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Prinsesse Charlottes Gade 12, 2200 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55277,55.6931,0],"name":"AP81451","engineType":"CE","vin":"WME4513341K822323","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Teglholmsgade 34, 2450 København","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.55549,55.65039,0],"name":"AP81519","engineType":"CE","vin":"WME4513341K823169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gefionsgade 1, 2100 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.59101,55.69699,0],"name":"AP81513","engineType":"CE","vin":"WME4513341K823104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Nørreport Niv. -1 (Ring på og sig \"car2go\")","city":"kobenhavn","fuel":81,"exterior":"GOOD","coordinates":[12.56828,55.68246,0],"name":"AP81483","engineType":"CE","vin":"WME4513341K822839","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nansensgade 69, 1366 København","city":"kobenhavn","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[12.56678,55.6849,0],"name":"AP81384","engineType":"CE","vin":"WME4513341K821617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hjulmagerstien 10, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.599,55.65027,0],"name":"AP81527","engineType":"CE","vin":"WME4513341K823220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Østerbrogade 53, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57752,55.70165,0],"name":"AP81408","engineType":"CE","vin":"WME4513341K820683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Valkyriegade 8, 2200 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.5488,55.70437,0],"name":"AP81455","engineType":"CE","vin":"WME4513341K822555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Adelgade","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.58211,55.68281,0],"name":"AP81466","engineType":"CE","vin":"WME4513341K822467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Spaniensgade 12, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.60824,55.66082,0],"name":"AP53962","engineType":"CE","vin":"WME4513341K822307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Østbanegade, 2100 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.58991,55.70676,0],"name":"AP81401","engineType":"CE","vin":"WME4513341K821638","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Blegdamsvej 27, 2100 København","city":"kobenhavn","fuel":60,"exterior":"GOOD","coordinates":[12.57382,55.69791,0],"name":"AP81560","engineType":"CE","vin":"WME4513341K823659","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Serridslevvej 12, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57388,55.70573,0],"name":"AP81395","engineType":"CE","vin":"WME4513341K821581","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Frederiksholms Kanal, 1220 København","city":"kobenhavn","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.57828,55.67341,0],"name":"AP81559","engineType":"CE","vin":"WME4513341K823656","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vendersgade, 1363 København","city":"kobenhavn","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[12.57085,55.68261,0],"name":"AP81457","engineType":"CE","vin":"WME4513341K821149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Adelgade","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58211,55.68281,0],"name":"AP81526","engineType":"CE","vin":"WME4513341K822831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Peter Bangs Vej 213, 2500 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.48784,55.6772,0],"name":"AP81383","engineType":"CE","vin":"WME4513341K821683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nørre Voldgade, 1358 København","city":"kobenhavn","fuel":84,"exterior":"GOOD","coordinates":[12.56651,55.67925,0],"name":"AR39794","engineType":"CE","vin":"WME4513341K820704","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ved Mønten 17, 2300 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.59453,55.66758,0],"name":"AP81419","engineType":"CE","vin":"WME4513341K821435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Amaliegade 34, 1256 København","city":"kobenhavn","fuel":81,"exterior":"GOOD","coordinates":[12.59482,55.68584,0],"name":"AP81558","engineType":"CE","vin":"WME4513341K823634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Alsgade 13, 1764 København","city":"kobenhavn","fuel":93,"exterior":"GOOD","coordinates":[12.53998,55.66512,0],"name":"AP53950","engineType":"CE","vin":"WME4513341K821603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Dexter Gordons Vej 3, 2450 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.54967,55.6474,0],"name":"AR39796","engineType":"CE","vin":"WME4513341K822921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ved Mønten 10, 2300 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.59423,55.66769,0],"name":"AP53957","engineType":"CE","vin":"WME4513341K820713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Peter Bangs Vej 183, 2500 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.48971,55.67759,0],"name":"AP81393","engineType":"CE","vin":"WME4513341K820777","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Tagensvej 135, 2200 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.54396,55.7053,0],"name":"AP81402","engineType":"CE","vin":"WME4513341K822095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Adelgade","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58211,55.68281,0],"name":"AP81396","engineType":"CE","vin":"WME4513341K820695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Mozartsvej 7, 2450 København","city":"kobenhavn","fuel":72,"exterior":"GOOD","coordinates":[12.53257,55.64857,0],"name":"AP81458","engineType":"CE","vin":"WME4513341K822542","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Prags Boulevard 43, 2300 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.61033,55.66704,0],"name":"AP81446","engineType":"CE","vin":"WME4513341K822359","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Solsortvej 35, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.52302,55.69059,0],"name":"AP81478","engineType":"CE","vin":"WME4513341K822478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Håndværkerhaven, 2400 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.5407,55.7197,0],"name":"AP53945","engineType":"CE","vin":"WME4513341K822013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gothersgade 80, 1123 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57669,55.68381,0],"name":"AP81476","engineType":"CE","vin":"WME4513341K821241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Øster Allé, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57192,55.70158,0],"name":"AP81390","engineType":"CE","vin":"WME4513341K821903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hjørringgade 16, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58929,55.70616,0],"name":"AP53963","engineType":"CE","vin":"WME4513341K821976","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ragnhildgade 1, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55387,55.70823,0],"name":"AR39792","engineType":"CE","vin":"WME4513341K822255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hjalmar Brantings Plads, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58198,55.69225,0],"name":"AP81465","engineType":"CE","vin":"WME4513341K821940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ourøgade 23, 2100 København","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.56487,55.70925,0],"name":"AP53960","engineType":"CE","vin":"WME4513341K821599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Harald Kiddes Vej 1, 2500 København","city":"kobenhavn","fuel":45,"exterior":"GOOD","coordinates":[12.50228,55.6676,0],"name":"AP81425","engineType":"CE","vin":"WME4513341K821480","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Nørreport Niv. -1 (Ring på og sig \"car2go\")","city":"kobenhavn","fuel":63,"exterior":"GOOD","coordinates":[12.56828,55.68246,0],"name":"AP81423","engineType":"CE","vin":"WME4513341K821785","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hanebred 15, 2720 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.48549,55.68242,0],"name":"AP81386","engineType":"CE","vin":"WME4513341K821973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Landgreven 7, 1301 København","city":"kobenhavn","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.58554,55.68301,0],"name":"AR39734","engineType":"CE","vin":"WME4513341K822108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vinkelager 9, 2720 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.48552,55.68045,0],"name":"AR39788","engineType":"CE","vin":"WME4513341K822227","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bernstorffsgade, 1577 København","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.57136,55.66903,0],"name":"AP81421","engineType":"CE","vin":"WME4513341K821294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Frimestervej 47, 2400 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.53641,55.70942,0],"name":"AP81498","engineType":"CE","vin":"WME4513341K822874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Flensborggade 57, 1669 København","city":"kobenhavn","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[12.54785,55.66546,0],"name":"AP81404","engineType":"CE","vin":"WME4513341K820950","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Mozartsvej 20, 2450 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.53071,55.64838,0],"name":"AR18184","engineType":"CE","vin":"WME4513341K822938","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lauritz Sørensens Vej 39, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.51051,55.68337,0],"name":"AR39786","engineType":"CE","vin":"WME4513341K822224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gothersgade 152, 1123 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.56756,55.68617,0],"name":"AP81422","engineType":"CE","vin":"WME4513341K821743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Øster Voldgade, 1350 København","city":"kobenhavn","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.57501,55.68545,0],"name":"AP53948","engineType":"CE","vin":"WME4513341K821854","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Fiskedamsgade 21, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58757,55.69978,0],"name":"AR18250","engineType":"CE","vin":"WME4513341K821727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nyborggade 17, 2100 København","city":"kobenhavn","fuel":96,"exterior":"GOOD","coordinates":[12.58242,55.70976,0],"name":"AP53959","engineType":"CE","vin":"WME4513341K820802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lundtoftegade 98, 2200 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.53858,55.69866,0],"name":"AR39738","engineType":"CE","vin":"WME4513341K822341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hørhusvej 5, 2300 København","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.60016,55.65675,0],"name":"AP81557","engineType":"CE","vin":"WME4513341K823624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Borgergade, 1300 København","city":"kobenhavn","fuel":84,"exterior":"GOOD","coordinates":[12.58383,55.68229,0],"name":"AP81488","engineType":"CE","vin":"WME4513341K822499","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Krogerupgade 53, 2200 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.5407,55.69647,0],"name":"AP81391","engineType":"CE","vin":"WME4513341K821871","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vesterled 1, 2100 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.58125,55.71732,0],"name":"AP81416","engineType":"CE","vin":"WME4513341K821667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Enghavevej 174, 2450 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.53806,55.65656,0],"name":"AP81392","engineType":"CE","vin":"WME4513341K821465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bådsmandsstræde 27, 1407 København","city":"kobenhavn","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.59569,55.67357,0],"name":"AP81385","engineType":"CE","vin":"WME4513341K820887","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lundtoftegade, 2200 København","city":"kobenhavn","fuel":75,"exterior":"GOOD","coordinates":[12.53842,55.69227,0],"name":"AP53964","engineType":"CE","vin":"WME4513341K821693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Overgaden Oven Vandet 102, 1415 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.59765,55.67644,0],"name":"AP81411","engineType":"CE","vin":"WME4513341K821814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Slotsgade 12, 2200 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.55709,55.68815,0],"name":"AR18182","engineType":"CE","vin":"WME4513341K822964","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Nørreport Niv. -1 (Ring på og sig \"car2go\")","city":"kobenhavn","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.56828,55.68246,0],"name":"AR39743","engineType":"CE","vin":"WME4513341K822178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gothersgade 109, 1123 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.5755,55.68405,0],"name":"AP81379","engineType":"CE","vin":"WME4513341K822081","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Skotlands Plads 8, 2300 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.6053,55.65802,0],"name":"AP81511","engineType":"CE","vin":"WME4513341K823160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Søndre Fasanvej 64, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.51734,55.67008,0],"name":"AP81406","engineType":"CE","vin":"WME4513341K821270","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Martensens Allé 15, 1828 Frederiksberg","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.54251,55.67583,0],"name":"AP81459","engineType":"CE","vin":"WME4513341K821994","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Larslejsstræde 17, 1451 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.56902,55.68084,0],"name":"AP81504","engineType":"CE","vin":"WME4513341K823084","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ceresvej 17, 1863 Frederiksberg","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.53784,55.68066,0],"name":"AP81403","engineType":"CE","vin":"WME4513341K821535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gribskovvej 2, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.54686,55.71583,0],"name":"AP81481","engineType":"CE","vin":"WME4513341K822884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Malmøgade 11, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57849,55.69203,0],"name":"AP81433","engineType":"CE","vin":"WME4513341K820699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Haraldsgade 12, 2200 København","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.55014,55.70425,0],"name":"AP81510","engineType":"CE","vin":"WME4513341K822790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ejderstedgade 22, 1761 København","city":"kobenhavn","fuel":63,"exterior":"GOOD","coordinates":[12.53979,55.66608,0],"name":"AP81394","engineType":"CE","vin":"WME4513341K821170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Beringsvej 3, 2000 Frederiksberg","city":"kobenhavn","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.51715,55.68559,0],"name":"AP53954","engineType":"CE","vin":"WME4513341K821924","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Esromgade 15, 2200 København","city":"kobenhavn","fuel":96,"exterior":"GOOD","coordinates":[12.54025,55.69766,0],"name":"AP81531","engineType":"CE","vin":"WME4513341K822681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Niels Ebbesens Vej 21, 1911 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55027,55.67822,0],"name":"AP53961","engineType":"CE","vin":"WME4513341K821984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Straussvej 4, 2450 København","city":"kobenhavn","fuel":45,"exterior":"GOOD","coordinates":[12.53133,55.64738,0],"name":"AP81494","engineType":"CE","vin":"WME4513341K822742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Fruebjergvej 10, 2100 København","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.55049,55.71543,0],"name":"AR39785","engineType":"CE","vin":"WME4513341K821440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Røde Mellemvej, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.59196,55.64702,0],"name":"AP81482","engineType":"CE","vin":"WME4513341K822524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Borgmester Christiansens Gade 43, 2450 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.53631,55.64846,0],"name":"AP81537","engineType":"CE","vin":"WME4513341K823119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Koldinggade, 2100 København","city":"kobenhavn","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[12.57846,55.70681,0],"name":"AP53952","engineType":"CE","vin":"WME4513341K820743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ryparken 184, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.56145,55.72192,0],"name":"AP81438","engineType":"CE","vin":"WME4513341K822441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Løgstørgade 3, 2100 København","city":"kobenhavn","fuel":60,"exterior":"GOOD","coordinates":[12.58166,55.70576,0],"name":"AR39782","engineType":"CE","vin":"WME4513341K822168","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Jakob Dannefærds Vej 13, 1973 Frederiksberg","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.55343,55.68314,0],"name":"AP81447","engineType":"CE","vin":"WME4513341K822349","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Søndre Fasanvej 71, 2000 Frederiksberg","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.52019,55.67638,0],"name":"AP81400","engineType":"CE","vin":"WME4513341K821568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ringertoften 8, 2400 København","city":"kobenhavn","fuel":72,"exterior":"GOOD","coordinates":[12.52663,55.71015,0],"name":"AP81452","engineType":"CE","vin":"WME4513341K821516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Leifsgade 14, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57991,55.66395,0],"name":"AR18195","engineType":"CE","vin":"WME4513341K822600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Krokodillegade 9, 1326 København","city":"kobenhavn","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[12.58801,55.68978,0],"name":"AP81467","engineType":"CE","vin":"WME4513341K822457","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Dronning Olgas Vej 3, 2000 Frederiksberg","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.54034,55.68738,0],"name":"AP53951","engineType":"CE","vin":"WME4513341K821247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Holger Danskes Vej 22, 2000 Frederiksberg","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.53737,55.68678,0],"name":"AP81424","engineType":"CE","vin":"WME4513341K821523","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Istedgade 64, 1650 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.55492,55.66968,0],"name":"AR18181","engineType":"CE","vin":"WME4513341K822759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nordre Fasanvej 72, 2000 Frederiksberg","city":"kobenhavn","fuel":63,"exterior":"GOOD","coordinates":[12.52604,55.68589,0],"name":"AP81448","engineType":"CE","vin":"WME4513341K822651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Århusgade 100, 2100 København","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.58662,55.70676,0],"name":"AP81485","engineType":"CE","vin":"WME4513341K821505","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Samsøgade 15, 2100 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.56435,55.70779,0],"name":"AP81554","engineType":"CE","vin":"WME4513341K823549","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nordre Fasanvej 67, 2000 Frederiksberg","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.52592,55.6868,0],"name":"AR39737","engineType":"CE","vin":"WME4513341K822120","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Randbølvej 27, 2720 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.49895,55.69035,0],"name":"AP81528","engineType":"CE","vin":"WME4513341K823186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gunnar Nu Hansens Plads, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57447,55.70498,0],"name":"AP81484","engineType":"CE","vin":"WME4513341K822664","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Adelgade 5, 1304 København","city":"kobenhavn","fuel":78,"exterior":"GOOD","coordinates":[12.58267,55.68277,0],"name":"AP81413","engineType":"CE","vin":"WME4513341K820860","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Øresund Parkvej 21, 2300 København","city":"kobenhavn","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[12.63025,55.6636,0],"name":"AP81431","engineType":"CE","vin":"WME4513341K821735","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Kronprinsessegade 49, 1306 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.58539,55.68814,0],"name":"AP81533","engineType":"CE","vin":"WME4513341K823058","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Brydes Allé 36, 2300 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.59753,55.65809,0],"name":"AP81398","engineType":"CE","vin":"WME4513341K820920","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Strandgade 55, 1401 København","city":"kobenhavn","fuel":60,"exterior":"GOOD","coordinates":[12.59382,55.67631,0],"name":"AP81516","engineType":"CE","vin":"WME4513341K823478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Øster Allé 34, 2100 København","city":"kobenhavn","fuel":75,"exterior":"GOOD","coordinates":[12.57354,55.70086,0],"name":"AP81449","engineType":"CE","vin":"WME4513341K822332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lauravej 17, 2500 København","city":"kobenhavn","fuel":51,"exterior":"GOOD","coordinates":[12.51048,55.6686,0],"name":"AP81382","engineType":"CE","vin":"WME4513341K820728","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vigerslevvej 14, 2500 København","city":"kobenhavn","fuel":45,"exterior":"GOOD","coordinates":[12.49191,55.67159,0],"name":"AP53958","engineType":"CE","vin":"WME4513341K820890","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gammeltoftsgade 19, 1355 København","city":"kobenhavn","fuel":96,"exterior":"GOOD","coordinates":[12.57071,55.68931,0],"name":"AR39745","engineType":"CE","vin":"WME4513341K822215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Krimsvej, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.63062,55.65864,0],"name":"AP81552","engineType":"CE","vin":"WME4513341K823485","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lersø Parkallé 28, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55749,55.70577,0],"name":"AP81434","engineType":"CE","vin":"WME4513341K820798","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Peter Bangs Vej, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.49693,55.67846,0],"name":"AP81555","engineType":"CE","vin":"WME4513341K823587","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lundingsgade 7, 2100 København","city":"kobenhavn","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[12.57011,55.69355,0],"name":"AP81517","engineType":"CE","vin":"WME4513341K823068","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lyshøj Allé 15, 2500 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.51311,55.66234,0],"name":"AP81442","engineType":"CE","vin":"WME4513341K822379","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ved Eltham, 2900 Gentofte","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.5784,55.72214,0],"name":"AP81530","engineType":"CE","vin":"WME4513341K823327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Haydnsvej 10, 2450 København","city":"kobenhavn","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[12.52443,55.64972,0],"name":"AP81514","engineType":"CE","vin":"WME4513341K822997","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Blegdamsvej 92, 2100 København","city":"kobenhavn","fuel":63,"exterior":"GOOD","coordinates":[12.57242,55.6968,0],"name":"AP81439","engineType":"CE","vin":"WME4513341K822065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hammelstrupvej 10, 2450 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.52628,55.64757,0],"name":"AR39741","engineType":"CE","vin":"WME4513341K822137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Borgervænget 78, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57558,55.71616,0],"name":"AP81415","engineType":"CE","vin":"WME4513341K820718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gunløgsgade, 2300 København","city":"kobenhavn","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[12.58249,55.6637,0],"name":"AP81497","engineType":"CE","vin":"WME4513341K822797","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Møllegade 36, 2200 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.56024,55.69363,0],"name":"AP81550","engineType":"CE","vin":"WME4513341K822688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lersø Parkallé 165, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.54346,55.71884,0],"name":"AP81463","engineType":"CE","vin":"WME4513341K820898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Remisevej 12, 2300 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.59398,55.64891,0],"name":"AP81460","engineType":"CE","vin":"WME4513341K822024","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Studsgaardsgade 9, 2100 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.55718,55.70919,0],"name":"AP81426","engineType":"CE","vin":"WME4513341K821563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Zinnsgade 7, 2100 København","city":"kobenhavn","fuel":96,"exterior":"GOOD","coordinates":[12.57745,55.69434,0],"name":"AP81479","engineType":"CE","vin":"WME4513341K822850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bispebjergvej 70, 2400 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.532,55.71802,0],"name":"AP81532","engineType":"CE","vin":"WME4513341K822767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Århusgade 11, 2100 København","city":"kobenhavn","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[12.57923,55.70605,0],"name":"AP81436","engineType":"CE","vin":"WME4513341K822003","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bernstorffsgade, 1577 København","city":"kobenhavn","fuel":36,"exterior":"GOOD","coordinates":[12.57126,55.66913,0],"name":"AR39742","engineType":"CE","vin":"WME4513341K822206","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Vester Søgade 8, 1601 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.55916,55.67577,0],"name":"AR18191","engineType":"CE","vin":"WME4513341K823029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nørre Voldgade 1, 1358 København","city":"kobenhavn","fuel":51,"exterior":"GOOD","coordinates":[12.56643,55.67927,0],"name":"AP81427","engineType":"CE","vin":"WME4513341K821844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Jollevej, 2300 København","city":"kobenhavn","fuel":87,"exterior":"GOOD","coordinates":[12.64729,55.65386,0],"name":"AP81414","engineType":"CE","vin":"WME4513341K821279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Henrik Ibsens Vej 24, 1813 Frederiksberg","city":"kobenhavn","fuel":69,"exterior":"GOOD","coordinates":[12.53855,55.67215,0],"name":"AR18193","engineType":"CE","vin":"WME4513341K822580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ved Sporsløjfen, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57847,55.71475,0],"name":"AP81418","engineType":"CE","vin":"WME4513341K820746","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Kastanie Allé 21, 2720 København","city":"kobenhavn","fuel":66,"exterior":"GOOD","coordinates":[12.49,55.68412,0],"name":"AP81417","engineType":"CE","vin":"WME4513341K821627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Buskager 9, 2720 København","city":"kobenhavn","fuel":69,"exterior":"GOOD","coordinates":[12.48781,55.67972,0],"name":"AR39744","engineType":"CE","vin":"WME4513341K822245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bådsmandsstræde 10, 1407 København","city":"kobenhavn","fuel":87,"exterior":"GOOD","coordinates":[12.59441,55.67408,0],"name":"AP81515","engineType":"CE","vin":"WME4513341K823143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Rovsingsgade 86, 2200 København","city":"kobenhavn","fuel":93,"exterior":"GOOD","coordinates":[12.54692,55.70628,0],"name":"AP81521","engineType":"CE","vin":"WME4513341K823473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Linde Allé 46, 2720 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.48658,55.68159,0],"name":"AP81437","engineType":"CE","vin":"WME4513341K820773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Horsekildevej 16, 2500 København","city":"kobenhavn","fuel":90,"exterior":"GOOD","coordinates":[12.5099,55.66675,0],"name":"AP81430","engineType":"CE","vin":"WME4513341K821931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Nørreport Niv. -1 (Ring på og sig \"car2go\")","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.56828,55.68246,0],"name":"AP81518","engineType":"CE","vin":"WME4513341K823333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Frederiksstadsgade 7, 1667 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.54745,55.66909,0],"name":"AR18189","engineType":"CE","vin":"WME4513341K823040","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Prinsesse Christines Vej 22, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.60816,55.65321,0],"name":"AP53949","engineType":"CE","vin":"WME4513341K821907","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Stockholmsgade 29, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57878,55.6908,0],"name":"AP81503","engineType":"CE","vin":"WME4513341K823036","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Italiensvej 20, 2300 København","city":"kobenhavn","fuel":69,"exterior":"GOOD","coordinates":[12.62109,55.65459,0],"name":"AP81453","engineType":"CE","vin":"WME4513341K822566","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Tuborgvej 260, 2400 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.53351,55.71229,0],"name":"AP81501","engineType":"CE","vin":"WME4513341K822904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Bogtrykkervej 3, 2400 København","city":"kobenhavn","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[12.53545,55.70762,0],"name":"AP53955","engineType":"CE","vin":"WME4513341K821452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hammelstrupvej 34, 2450 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.52462,55.64654,0],"name":"AP95493","engineType":"CE","vin":"WME4513341K822596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Sorrentovej 11, 2300 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.62273,55.65819,0],"name":"AP81486","engineType":"CE","vin":"WME4513341K822423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"P. G. Ramms Alle 72, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.50555,55.68051,0],"name":"AP81454","engineType":"CE","vin":"WME4513341K822315","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Kingosgade 17, 1818 Frederiksberg","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.54445,55.67321,0],"name":"AP81412","engineType":"CE","vin":"WME4513341K820794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Rosenvængets Allé 25, 2100 København","city":"kobenhavn","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[12.58213,55.69949,0],"name":"AP53947","engineType":"CE","vin":"WME4513341K821159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Langelinie Allé 28, 2100 København","city":"kobenhavn","fuel":60,"exterior":"GOOD","coordinates":[12.59998,55.69717,0],"name":"AP81389","engineType":"CE","vin":"WME4513341K821472","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Martensens Allé 15, 1828 Frederiksberg","city":"kobenhavn","fuel":81,"exterior":"GOOD","coordinates":[12.54257,55.67609,0],"name":"AP81520","engineType":"CE","vin":"WME4513341K822867","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Borgergade 3, 1300 København","city":"kobenhavn","fuel":45,"exterior":"GOOD","coordinates":[12.58399,55.68237,0],"name":"AP81461","engineType":"CE","vin":"WME4513341K822486","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Q-Park Adelgade","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.58211,55.68281,0],"name":"AR18188","engineType":"CE","vin":"WME4513341K822931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Englandsvej, 2300 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.5986,55.64916,0],"name":"AP81440","engineType":"CE","vin":"WME4513341K822406","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Sneppevej 9, 2400 København","city":"kobenhavn","fuel":72,"exterior":"GOOD","coordinates":[12.52779,55.70324,0],"name":"AP81495","engineType":"CE","vin":"WME4513341K822750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Absalonsgade 41, 1658 København","city":"kobenhavn","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[12.55598,55.66862,0],"name":"AP81499","engineType":"CE","vin":"WME4513341K822894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Halmtorvet 54, 1700 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55656,55.66859,0],"name":"AP81538","engineType":"CE","vin":"WME4513341K823112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Ellebjergvej 39, 2450 København","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.524,55.65021,0],"name":"AP53946","engineType":"CE","vin":"WME4513341K821798","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Amager Strandvej 32, 2300 København","city":"kobenhavn","fuel":84,"exterior":"GOOD","coordinates":[12.62656,55.66755,0],"name":"AR39736","engineType":"CE","vin":"WME4513341K823707","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Landfogedvej 7, 2400 København","city":"kobenhavn","fuel":75,"exterior":"GOOD","coordinates":[12.53064,55.70889,0],"name":"AP81405","engineType":"CE","vin":"WME4513341K820674","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Elbagade 12, 2300 København","city":"kobenhavn","fuel":57,"exterior":"GOOD","coordinates":[12.61242,55.65332,0],"name":"AP81539","engineType":"CE","vin":"WME4513341K823011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Julius Valentiners Vej 41, 2000 Frederiksberg","city":"kobenhavn","fuel":93,"exterior":"GOOD","coordinates":[12.50675,55.68178,0],"name":"AP81496","engineType":"CE","vin":"WME4513341K822781","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Lundtoftegade 104, 2200 København","city":"kobenhavn","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.53848,55.6992,0],"name":"AP81492","engineType":"CE","vin":"WME4513341K822619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Slangerupgade 24, 2200 København","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.54678,55.70498,0],"name":"AR37375","engineType":"CE","vin":"WME4513341K821348","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Næstvedgade 9, 2100 København","city":"kobenhavn","fuel":72,"exterior":"GOOD","coordinates":[12.58693,55.7008,0],"name":"AR18194","engineType":"CE","vin":"WME4513341K822971","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Havnegade, 1058 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.58552,55.67614,0],"name":"AP53956","engineType":"CE","vin":"WME4513341K821915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Skarøgade 5, 2100 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.57457,55.71049,0],"name":"AP81381","engineType":"CE","vin":"WME4513341K821178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Sommerstedgade 20, 1718 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.55598,55.66669,0],"name":"AP81477","engineType":"CE","vin":"WME4513341K822717","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Kløvermarksvej 32, 2300 København","city":"kobenhavn","fuel":60,"exterior":"GOOD","coordinates":[12.60373,55.67028,0],"name":"AP81435","engineType":"CE","vin":"WME4513341K820811","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nyelandsvej 85, 2000 Frederiksberg","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.52034,55.68516,0],"name":"AP81388","engineType":"CE","vin":"WME4513341K822055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Strandgade 25, 1401 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.59113,55.67475,0],"name":"AP81420","engineType":"CE","vin":"WME4513341K820755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Gothersgade 80, 1123 København","city":"kobenhavn","fuel":48,"exterior":"GOOD","coordinates":[12.57659,55.68386,0],"name":"AP81487","engineType":"CE","vin":"WME4513341K822709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Hessensgade 37, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.61638,55.66421,0],"name":"AP81556","engineType":"CE","vin":"WME4513341K823618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Axel Heides Gade 5, 2300 København","city":"kobenhavn","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[12.57167,55.66047,0],"name":"AP81529","engineType":"CE","vin":"WME4513341K823354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Holger Danskes Vej 29, 2000 Frederiksberg","city":"kobenhavn","fuel":42,"exterior":"GOOD","coordinates":[12.53677,55.68685,0],"name":"AP81432","engineType":"CE","vin":"WME4513341K821333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Nyrnberggade 51, 2300 København","city":"kobenhavn","fuel":39,"exterior":"GOOD","coordinates":[12.62013,55.6634,0],"name":"AP81553","engineType":"CE","vin":"WME4513341K823509","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Elbagade, 2300 København","city":"kobenhavn","fuel":100,"exterior":"GOOD","coordinates":[12.61645,55.65411,0],"name":"AP81561","engineType":"CE","vin":"WME4513341K823668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"denmark","smartPhoneRequired":false,"address":"Malmøgade 7, 2100 København","city":"kobenhavn","fuel":54,"exterior":"GOOD","coordinates":[12.57897,55.69183,0],"name":"AP81502","engineType":"CE","vin":"WME4513341K822979","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

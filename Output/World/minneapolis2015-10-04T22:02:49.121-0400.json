@@ -1,0 +1,952 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 22nd Ave 30, 55411 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.27722,45.00147,0],"name":"AB7708","engineType":"CE","vin":"WMEEJ3BA3EK738110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Selby Ave 2233, 55104 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.19326,44.9461,0],"name":"AB7740","engineType":"CE","vin":"WMEEJ3BA9EK742615","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"34th Ave S 3775, 55406 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.22292,44.93458,0],"name":"AB7066","engineType":"CE","vin":"WMEEJ3BA8DK703030","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Portland Ave 1084, 55104 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.14586,44.94283,0],"name":"AB7715","engineType":"CE","vin":"WMEEJ3BA0EK738095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ontario St 366, 55414 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.22566,44.9729,0],"name":"AB7164","engineType":"CE","vin":"WMEEJ3BAXDK704647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 15th Ave 363, 55413 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.26239,45.00307,0],"name":"AB6906","engineType":"CE","vin":"WMEEJ3BAXDK699627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lexington Pky S 382, 55105 St Paul","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.14653,44.92994,0],"name":"AB8519","engineType":"CE","vin":"WMEEJ3BA7EK755640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd St 2575, 55411 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.28031,45.00564,0],"name":"AB7006","engineType":"CE","vin":"WMEEJ3BA0DK697580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 32nd Ave 4812, 55417 Minneapolis","city":"minneapolis","fuel":12,"exterior":"GOOD","coordinates":[-93.22571,44.91587,0],"name":"AB7060","engineType":"CE","vin":"WMEEJ3BA8DK699450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd St 1734, 55411 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.27981,44.99675,0],"name":"AB8500","engineType":"CE","vin":"WMEEJ3BA9EK756675","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Syndicate St S 209, 55105 St Paul","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.15434,44.9353,0],"name":"AB8606","engineType":"CE","vin":"WMEEJ3BA0EK753289","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"View St 493, 55102 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.13312,44.92619,0],"name":"AB8493","engineType":"CE","vin":"WMEEJ3BAXEK757043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Spring St 3449, 55413 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.21283,44.99531,0],"name":"AB8554","engineType":"CE","vin":"WMEEJ3BA2EK753861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Johnson St 1971, 55418 Minneapolis","city":"minneapolis","fuel":9,"exterior":"GOOD","coordinates":[-93.23713,45.00916,0],"name":"AB7138","engineType":"CE","vin":"WMEEJ3BA4DK705146","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 8th Ave 2236, 55411 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.30879,44.98612,0],"name":"AB8454","engineType":"CE","vin":"WMEEJ3BA5EK752588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Drew Ave S 2792, 55416 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.3262,44.95015,0],"name":"AB7081","engineType":"CE","vin":"WMEEJ3BA1DK704939","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Oxford St S 71, 55105 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.144,44.93934,0],"name":"AB8607","engineType":"CE","vin":"WMEEJ3BA3EK754081","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 15th Ave 480, 55413 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.26049,45.00309,0],"name":"AB7030","engineType":"CE","vin":"WMEEJ3BA7DK702192","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Ulysses St 3232, 55418 Minneapolis","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.23582,45.02644,0],"name":"AB6891","engineType":"CE","vin":"WMEEJ3BA5DK699082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Chowen Ave 3191, 55416 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.32499,44.94527,0],"name":"AB6875","engineType":"CE","vin":"WMEEJ3BA7DK699858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Raymond Ave 1571, 55108 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.18871,44.9869,0],"name":"AB8591","engineType":"CE","vin":"WMEEJ3BA5EK755619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sunset Blvd 2613, 55416 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.32058,44.9529,0],"name":"AB7122","engineType":"CE","vin":"WMEEJ3BA3DK705218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Bedford St 256, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.20901,44.96096,0],"name":"AB8489","engineType":"CE","vin":"WMEEJ3BA6EK757105","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pleasant Ave 5734, 55419 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.28324,44.89904,0],"name":"AB7159","engineType":"CE","vin":"WMEEJ3BA4DK704479","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minnehaha Ave W 1865, 55104 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.17913,44.9629,0],"name":"AB7742","engineType":"CE","vin":"WMEEJ3BA2EK739815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Russell Ave 4145, 55412 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.31101,45.03032,0],"name":"AB7153","engineType":"CE","vin":"WMEEJ3BA8DK700273","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Asbury St 493, 55104 St Paul","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.16529,44.95648,0],"name":"AB8452","engineType":"CE","vin":"WMEEJ3BA0EK752787","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave S 6014, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.25551,44.8941,0],"name":"AB8464","engineType":"CE","vin":"WMEEJ3BA8EK758644","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Standish Ave S 4144, 55407 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23977,44.92789,0],"name":"AB6885","engineType":"CE","vin":"WMEEJ3BA4DK698926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cedar Ave S 489, 55454 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.24718,44.96866,0],"name":"AB7028","engineType":"CE","vin":"WMEEJ3BAXDK702249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th Ave S 224, 55415 Minneapolis","city":"minneapolis","fuel":15,"exterior":"GOOD","coordinates":[-93.25305,44.97571,0],"name":"AB7100","engineType":"CE","vin":"WMEEJ3BAXDK701179","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Drew Ave S 5246, 55410 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.3265,44.90808,0],"name":"AB7048","engineType":"CE","vin":"WMEEJ3BA3DK700648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 3316, 55408 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.27671,44.94286,0],"name":"AB7732","engineType":"CE","vin":"WMEEJ3BA9EK739214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eleanor Ave 1872, 55116 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.17958,44.92067,0],"name":"AB7098","engineType":"CE","vin":"WMEEJ3BA7DK701088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Queen Ave N 431, 55405 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.30979,44.98191,0],"name":"AB7684","engineType":"CE","vin":"WMEEJ3BA2EK738289","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Desoto St 1065, 55130 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.08112,44.97336,0],"name":"AB8549","engineType":"CE","vin":"WMEEJ3BA3EK753450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washington Ave 723, 55401 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.27707,44.98768,0],"name":"AB6909","engineType":"CE","vin":"WMEEJ3BA5DK699745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Frontage Rd 561, 55405 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.28443,44.98394,0],"name":"AB6869","engineType":"CE","vin":"WMEEJ3BA1DK699726","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 61st St 3041, 55410 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.31803,44.89259,0],"name":"AB7027","engineType":"CE","vin":"WMEEJ3BA9DK702274","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 36th Ave 3073, 55406 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.22031,44.94725,0],"name":"AB6857","engineType":"CE","vin":"WMEEJ3BA2DK699475","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Griggs St S 311, 55105 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.15181,44.93203,0],"name":"AB6884","engineType":"CE","vin":"WMEEJ3BA5DK698921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 53rd St 4816, 55417 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.20481,44.90748,0],"name":"AB8622","engineType":"CE","vin":"WMEEJ3BA9EK753369","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Thomas Ave 3755, 55412 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.31345,45.02331,0],"name":"AB7146","engineType":"CE","vin":"WMEEJ3BA8DK700175","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 476, 55409 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.28531,44.93584,0],"name":"AB8556","engineType":"CE","vin":"WMEEJ3BA3EK753934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 350, 55418 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.26262,45.01212,0],"name":"AB8515","engineType":"CE","vin":"WMEEJ3BA1EK755049","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taylor St 1634, 55413 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.24357,45.00491,0],"name":"AB6878","engineType":"CE","vin":"WMEEJ3BA6DK699897","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bloomington Ave S 2220, 55404 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.2523,44.96072,0],"name":"AB7072","engineType":"CE","vin":"WMEEJ3BA4DK705213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 31st Ave 1057, 55418 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.24531,45.02404,0],"name":"AB6887","engineType":"CE","vin":"WMEEJ3BA9DK699005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Westminster St 1609, 55130 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.08654,44.98939,0],"name":"AB8471","engineType":"CE","vin":"WMEEJ3BAXEK757849","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 22nd St 3771, 55416 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.32872,44.96136,0],"name":"AB7721","engineType":"CE","vin":"WMEEJ3BA1EK738283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dayton Ave 1095, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14629,44.94743,0],"name":"AB8552","engineType":"CE","vin":"WMEEJ3BA4EK753618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Irving Ave 3414, 55412 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.29931,45.01706,0],"name":"AB6977","engineType":"CE","vin":"WMEEJ3BA6DK699110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ashland Ave 476, 55102 St Paul","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.12014,44.9444,0],"name":"AB7699","engineType":"CE","vin":"WMEEJ3BA1EK738445","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 26th Ave 3634, 55406 Minneapolis","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.23472,44.93712,0],"name":"AB8544","engineType":"CE","vin":"WMEEJ3BA8EK753220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 27th Ave 2654, 55406 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.23314,44.95463,0],"name":"AB8510","engineType":"CE","vin":"WMEEJ3BA8EK755985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Oak St, 55455 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.22616,44.9781,0],"name":"AB8533","engineType":"CE","vin":"WMEEJ3BA6EK753877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 31st Ave 2843, 55406 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.22697,44.95123,0],"name":"AB8608","engineType":"CE","vin":"WMEEJ3BA2EK754718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Victoria St N 153, 55104 St Paul","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.1365,44.94609,0],"name":"AB7681","engineType":"CE","vin":"WMEEJ3BA4EK738438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 5th Ave 261, 55415 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.2615,44.97812,0],"name":"AB8526","engineType":"CE","vin":"WMEEJ3BA7EK749160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washington Ave 876, 55401 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.2793,44.98953,0],"name":"AB7082","engineType":"CE","vin":"WMEEJ3BA0DK705161","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 317, 55418 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.26379,45.01215,0],"name":"AB8610","engineType":"CE","vin":"WMEEJ3BA2EK756954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Oxford St 1666, 55117 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14425,44.99151,0],"name":"AB8565","engineType":"CE","vin":"WMEEJ3BA1EK754368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vincent Ave S 5564, 55410 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.31626,44.90221,0],"name":"AB6864","engineType":"CE","vin":"WMEEJ3BA4DK699655","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 23rd Ave 2138, 55411 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.30734,45.00214,0],"name":"AB8458","engineType":"CE","vin":"WMEEJ3BAXEK749279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cook Ave W 142, 55117 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.10633,44.97326,0],"name":"AB7089","engineType":"CE","vin":"WMEEJ3BAXDK701439","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Feronia Ave 1909, 55104 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.17987,44.95426,0],"name":"AB8559","engineType":"CE","vin":"WMEEJ3BA0EK754068","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Lake St 469, 55408 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28514,44.9483,0],"name":"AB7113","engineType":"CE","vin":"WMEEJ3BA3DK701394","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McKnight Rd N 809, 55119 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.00512,44.9656,0],"name":"AB8563","engineType":"CE","vin":"WMEEJ3BA4EK754185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Ave S 5426, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26519,44.90477,0],"name":"AB7065","engineType":"CE","vin":"WMEEJ3BA9DK703280","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Colfax Ave 2816, 55408 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29186,44.95171,0],"name":"AB6868","engineType":"CE","vin":"WMEEJ3BA7DK699701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sherburne Ave 1305, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.15533,44.95666,0],"name":"AB8453","engineType":"CE","vin":"WMEEJ3BA0EK752661","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave S 2514, 55404 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.25112,44.95711,0],"name":"AB6905","engineType":"CE","vin":"WMEEJ3BA9DK701206","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 28th Ave 4862, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23228,44.91503,0],"name":"AB6880","engineType":"CE","vin":"WMEEJ3BA6DK698801","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eleanor Ave 965, 55102 St Paul","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.14086,44.92062,0],"name":"AB8524","engineType":"CE","vin":"WMEEJ3BA5EK749044","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carroll Ave 643, 55104 St Paul","city":"minneapolis","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-93.12761,44.95032,0],"name":"AB7726","engineType":"CE","vin":"WMEEJ3BAXEK738430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 27th Ave 3578, 55406 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.23347,44.93793,0],"name":"AB7011","engineType":"CE","vin":"WMEEJ3BAXDK698462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hazel St N 493, 55119 St Paul","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.02017,44.95654,0],"name":"AB8613","engineType":"CE","vin":"WMEEJ3BA2EK749227","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave Parkspot","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.2706,44.97271,0],"name":"AB6888","engineType":"CE","vin":"WMEEJ3BA0DK699023","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd St 687, 55401 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.27599,44.98851,0],"name":"AB7148","engineType":"CE","vin":"WMEEJ3BA1DK701572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fairmount Ave 1375, 55105 St Paul","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.15827,44.93696,0],"name":"AB9137","engineType":"CE","vin":"WMEEJ3BA7DK701365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Kennedy St 2909, 55413 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.21998,44.9953,0],"name":"AB6995","engineType":"CE","vin":"WMEEJ3BA2DK704500","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ross Ave 1215, 55106 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.04913,44.96587,0],"name":"AB7114","engineType":"CE","vin":"WMEEJ3BA5DK701915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 61st St 807, 55419 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.2896,44.89238,0],"name":"AB8530","engineType":"CE","vin":"WMEEJ3BA6EK753314","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 24th Ave 4272, 55406 Minneapolis","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.23726,44.9256,0],"name":"AB7738","engineType":"CE","vin":"WMEEJ3BA8EK740810","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 15th Ave 363, 55413 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.26241,45.00311,0],"name":"AB7743","engineType":"CE","vin":"WMEEJ3BA8EK737079","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 47th St 618, 55407 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26721,44.91792,0],"name":"AB7102","engineType":"CE","vin":"WMEEJ3BAXDK701232","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway St 415, 55101 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.08646,44.95149,0],"name":"AB7141","engineType":"CE","vin":"WMEEJ3BA6DK701065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 4th Ave 770, 55415 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26751,44.97401,0],"name":"AB7713","engineType":"CE","vin":"WMEEJ3BA3EK737815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave N 1068, 55412 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.2927,45.02038,0],"name":"AB8598","engineType":"CE","vin":"WMEEJ3BA2EK755917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson Ave 691, 55102 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.12902,44.93068,0],"name":"AB8507","engineType":"CE","vin":"WMEEJ3BA9EK756269","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Randolph Ave 1310, 55105 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.15559,44.92662,0],"name":"AB7001","engineType":"CE","vin":"WMEEJ3BA2DK697001","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 24th Ave 2118, 55406 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.2378,44.96173,0],"name":"AB7759","engineType":"CE","vin":"WMEEJ3BA8EK739723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd Ave 16, 55401 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.26853,44.98579,0],"name":"AB8509","engineType":"CE","vin":"WMEEJ3BA3EK756073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Malcolm Ave 468, 55414 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.21109,44.9723,0],"name":"AB8525","engineType":"CE","vin":"WMEEJ3BA7EK749241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Osceola Ave 1503, 55105 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.1637,44.93608,0],"name":"AB8561","engineType":"CE","vin":"WMEEJ3BA1EK754094","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lyndale Ave S 2926, 55408 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.2882,44.9496,0],"name":"AB7031","engineType":"CE","vin":"WMEEJ3BA8DK702086","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avon St N 493, 55104 St Paul","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.13395,44.95604,0],"name":"AB7208","engineType":"CE","vin":"WMEEJ3BA3DK700326","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Selby Ave 1369, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.158,44.94672,0],"name":"AB8568","engineType":"CE","vin":"WMEEJ3BAXEK754465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Saint Clair Ave 1298, 55105 St Paul","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.15504,44.93419,0],"name":"AB6981","engineType":"CE","vin":"WMEEJ3BA1DK698608","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 30th Ave 5128, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22977,44.91027,0],"name":"AB6973","engineType":"CE","vin":"WMEEJ3BA8DK698931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 43rd St 3002, 55406 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.22945,44.92506,0],"name":"AB8459","engineType":"CE","vin":"WMEEJ3BAXEK759021","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cambridge St 25, 55105 St Paul","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.17124,44.94063,0],"name":"AB8499","engineType":"CE","vin":"WMEEJ3BA9EK756708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 45th Ave 3860, 55406 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.20899,44.93323,0],"name":"AB6982","engineType":"CE","vin":"WMEEJ3BA3DK698691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Yale Pl 1320, 55403 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.28045,44.97232,0],"name":"AB8573","engineType":"CE","vin":"WMEEJ3BA4EK754977","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central Ave SE 333, 55414 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.25465,44.98719,0],"name":"AB6876","engineType":"CE","vin":"WMEEJ3BA7DK699925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 8th St 253, 55402 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.26998,44.97405,0],"name":"AB8631","engineType":"CE","vin":"WMEEJ3BA2EK749714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 7th St 319, 55402 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26773,44.975,0],"name":"AB7136","engineType":"CE","vin":"WMEEJ3BAXDK705099","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 52nd St 736, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26367,44.90884,0],"name":"AB6999","engineType":"CE","vin":"WMEEJ3BA1DK705041","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 27th St 24, 55408 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.27825,44.95376,0],"name":"AB7753","engineType":"CE","vin":"WMEEJ3BA6EK737727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 2nd St 168, 55414 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.25466,44.98537,0],"name":"AB6965","engineType":"CE","vin":"WMEEJ3BA8DK704372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Earl St N 1221, 55106 St Paul","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.05572,44.97815,0],"name":"AB7722","engineType":"CE","vin":"WMEEJ3BA8EK738295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 18th Ave 4224, 55407 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.24856,44.9265,0],"name":"AB7741","engineType":"CE","vin":"WMEEJ3BA2EK743315","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd St N 3170, 55411 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.28332,45.01281,0],"name":"AB6984","engineType":"CE","vin":"WMEEJ3BA1DK700583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Holly Ave 597, 55102 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.12524,44.94343,0],"name":"AB7077","engineType":"CE","vin":"WMEEJ3BA9DK705398","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James Ave 1673, 55105 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.17111,44.92791,0],"name":"AB7005","engineType":"CE","vin":"WMEEJ3BA8DK697570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 13th Ave 329, 55414 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.23769,44.98037,0],"name":"AB8534","engineType":"CE","vin":"WMEEJ3BA6EK753961","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 61st St 747, 55419 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28886,44.89234,0],"name":"AB8467","engineType":"CE","vin":"WMEEJ3BA3EK758146","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chelmsford St 1568, 55108 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.19157,44.98687,0],"name":"AB8585","engineType":"CE","vin":"WMEEJ3BA4EK755272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arundel St 95, 55102 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.11871,44.94427,0],"name":"AB8618","engineType":"CE","vin":"WMEEJ3BAXEK752991","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bayard Ave 2051, 55116 St Paul","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.18696,44.92213,0],"name":"AB7754","engineType":"CE","vin":"WMEEJ3BA3EK737765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave S 290, 55454 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.24838,44.97243,0],"name":"AB7691","engineType":"CE","vin":"WMEEJ3BA8EK737275","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Dunlap St 1643, 55108 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.14884,44.99111,0],"name":"AB7118","engineType":"CE","vin":"WMEEJ3BA5DK701283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Union Depot. Parkspot","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.08392,44.94826,0],"name":"AB7149","engineType":"CE","vin":"WMEEJ3BA7DK704718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd St E 1370, 55106 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.04249,44.95668,0],"name":"AB7132","engineType":"CE","vin":"WMEEJ3BA3DK704926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Target Pky N 6941, 55445 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.36892,45.13384,0],"name":"AB7693","engineType":"CE","vin":"WMEEJ3BA6EK737842","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 27th St 1469, 55408 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.29849,44.95375,0],"name":"AB7751","engineType":"CE","vin":"WMEEJ3BA8EK737583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washington Ave 709, 55401 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.27667,44.98753,0],"name":"AB6976","engineType":"CE","vin":"WMEEJ3BA4DK699073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 15th St 20, 55403 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.28413,44.97475,0],"name":"AB7704","engineType":"CE","vin":"WMEEJ3BAXEK736824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Girard Ave S 5334, 55419 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.29719,44.90627,0],"name":"AB8485","engineType":"CE","vin":"WMEEJ3BA3EK757157","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alameda St 1302, 55117 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.13004,44.9804,0],"name":"AB8629","engineType":"CE","vin":"WMEEJ3BA9EK754991","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th & Park   Parkspot","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.26529,44.97035,0],"name":"AB6896","engineType":"CE","vin":"WMEEJ3BA3DK699176","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Milton St S 577, 55102 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.13895,44.92385,0],"name":"AB8577","engineType":"CE","vin":"WMEEJ3BA1EK755018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wheeler St N 527, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.17464,44.95709,0],"name":"AB8497","engineType":"CE","vin":"WMEEJ3BAXEK756877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 3260, 55408 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.27668,44.94386,0],"name":"AB7019","engineType":"CE","vin":"WMEEJ3BA8DK698749","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 6th St 199, 55413 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.25321,44.99144,0],"name":"AB7091","engineType":"CE","vin":"WMEEJ3BA0DK700073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cedar Lake Rd S 448, 55405 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.30957,44.97323,0],"name":"AB7088","engineType":"CE","vin":"WMEEJ3BA2DK698553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cedar Ave S 4728, 55407 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.24738,44.91743,0],"name":"AB6992","engineType":"CE","vin":"WMEEJ3BA2DK703301","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 36th Ave 3837, 55406 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.22037,44.93356,0],"name":"AB7710","engineType":"CE","vin":"WMEEJ3BA3EK737832","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Quincy St 749, 55413 Minneapolis","city":"minneapolis","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-93.25112,44.99761,0],"name":"AB8486","engineType":"CE","vin":"WMEEJ3BAXEK757141","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Adams St 1426, 55413 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.25622,45.0023,0],"name":"AB7084","engineType":"CE","vin":"WMEEJ3BA2DK684183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Osceola Ave 774, 55105 St Paul","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.13275,44.93566,0],"name":"AB8520","engineType":"CE","vin":"WMEEJ3BA0EK756564","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 25th Ave 318, 55414 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.22114,44.97361,0],"name":"AB7143","engineType":"CE","vin":"WMEEJ3BA3DK698769","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 61st St 707, 55417 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.26493,44.89249,0],"name":"AB8596","engineType":"CE","vin":"WMEEJ3BA5EK755815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 28th Ave 1039, 55418 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.24485,45.01862,0],"name":"AB8490","engineType":"CE","vin":"WMEEJ3BA4EK757099","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Ave S 5253, 55417 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.26517,44.90792,0],"name":"AB7103","engineType":"CE","vin":"WMEEJ3BA2DK701239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd St 1616, 55411 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.2798,44.99546,0],"name":"AB8540","engineType":"CE","vin":"WMEEJ3BA6EK753104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fairmount St 2230, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22117,44.98603,0],"name":"AB6858","engineType":"CE","vin":"WMEEJ3BA6DK699513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandalia St 815, 55114 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.18952,44.96557,0],"name":"AB7137","engineType":"CE","vin":"WMEEJ3BA3DK705137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 2nd St 461, 55401 Minneapolis","city":"minneapolis","fuel":15,"exterior":"GOOD","coordinates":[-93.26114,44.97999,0],"name":"AB7688","engineType":"CE","vin":"WMEEJ3BA6EK740210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Emerson Ave 2762, 55408 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.29448,44.9526,0],"name":"AB7135","engineType":"CE","vin":"WMEEJ3BA4DK705082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harmon Pl 1134, 55403 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.2787,44.97416,0],"name":"AB6961","engineType":"CE","vin":"WMEEJ3BA1DK704634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washburn Ave 389, 55405 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.3173,44.98061,0],"name":"AB7055","engineType":"CE","vin":"WMEEJ3BA6DK700000","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 35th St 1249, 55408 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29515,44.93947,0],"name":"AB6863","engineType":"CE","vin":"WMEEJ3BA1DK699645","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washburn Ave 2913, 55411 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.31714,45.00984,0],"name":"AB7016","engineType":"CE","vin":"WMEEJ3BA4DK698621","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 2 1\/2 St 3534, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.2651,45.03256,0],"name":"AB7086","engineType":"CE","vin":"WMEEJ3BA1DK685311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave S 3624, 55409 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28432,44.93726,0],"name":"AB7727","engineType":"CE","vin":"WMEEJ3BA0EK738498","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Blaisdell Ave S 5872, 55419 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.27946,44.89622,0],"name":"AB7040","engineType":"CE","vin":"WMEEJ3BA8DK701262","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shoreview Ave 5410, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23761,44.90484,0],"name":"AB7026","engineType":"CE","vin":"WMEEJ3BAXDK702459","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 2nd St 509, 55401 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.26043,44.97977,0],"name":"AB7079","engineType":"CE","vin":"WMEEJ3BA0DK704768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 26th Ave 214, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26589,45.01496,0],"name":"AB8632","engineType":"CE","vin":"WMEEJ3BA1EK750370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hoover St, 55413 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.21806,44.99977,0],"name":"AB7581","engineType":"CE","vin":"WMEEJ3BA2DK698441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 52nd St 733, 55417 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.26372,44.90882,0],"name":"AB6903","engineType":"CE","vin":"WMEEJ3BAXDK699353","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Great River Rd, 55418 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.27163,45.00648,0],"name":"AB8599","engineType":"CE","vin":"WMEEJ3BA4EK752596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minnehaha Ave E 663, 55130 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.07416,44.96304,0],"name":"AB7130","engineType":"CE","vin":"WMEEJ3BA2DK704142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Godward St 727, 55413 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.21399,44.99845,0],"name":"AB7123","engineType":"CE","vin":"WMEEJ3BA0DK697482","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Tyler St 3139, 55418 Minneapolis","city":"minneapolis","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-93.24603,45.02468,0],"name":"AB7749","engineType":"CE","vin":"WMEEJ3BA4EK737516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nokomis Ave S 4142, 55406 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.22827,44.92791,0],"name":"AB8553","engineType":"CE","vin":"WMEEJ3BA2EK753844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 40th Ave 2882, 55406 Minneapolis","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.21531,44.95049,0],"name":"AB7097","engineType":"CE","vin":"WMEEJ3BA6DK700224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hamline Ave N 281, 55104 St Paul","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.15738,44.94947,0],"name":"AB8501","engineType":"CE","vin":"WMEEJ3BA5EK756642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Franklin Ave 384, 55404 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28399,44.96271,0],"name":"AB7067","engineType":"CE","vin":"WMEEJ3BA7DK702919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 22nd Ave 29, 55418 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.27039,45.01009,0],"name":"AB7074","engineType":"CE","vin":"WMEEJ3BA8DK705263","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Technology Dr 3445, 55418 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.27712,45.03271,0],"name":"AB8558","engineType":"CE","vin":"WMEEJ3BA0EK754054","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 384, 55418 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.26185,45.0121,0],"name":"AB7044","engineType":"CE","vin":"WMEEJ3BA8DK701052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 4th Ave 1165, 55404 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.27018,44.97014,0],"name":"AB8463","engineType":"CE","vin":"WMEEJ3BA0EK758783","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Lake St 531, 55408 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28593,44.94829,0],"name":"AB8475","engineType":"CE","vin":"WMEEJ3BAXEK757558","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 49th St 3167, 55410 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.31967,44.91426,0],"name":"AB8546","engineType":"CE","vin":"WMEEJ3BA2EK753388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th St E 1356, 55106 St Paul","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.04278,44.96668,0],"name":"AB8594","engineType":"CE","vin":"WMEEJ3BA2EK755691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 361, 55418 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.26238,45.01215,0],"name":"AB7127","engineType":"CE","vin":"WMEEJ3BA1DK704424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 1242, 55414 Minneapolis","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.23721,44.98232,0],"name":"AB7025","engineType":"CE","vin":"WMEEJ3BA0DK702700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Selby Ave 2135, 55104 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.19047,44.9462,0],"name":"AB6975","engineType":"CE","vin":"WMEEJ3BA0DK699040","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Buchanan St 3116, 55418 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.23972,45.02436,0],"name":"AB6895","engineType":"CE","vin":"WMEEJ3BA9DK699165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave S 5932, 55419 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.28456,44.89487,0],"name":"AB6974","engineType":"CE","vin":"WMEEJ3BA6DK698944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fry St 995, 55104 St Paul","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.16876,44.96855,0],"name":"AB8538","engineType":"CE","vin":"WMEEJ3BA9EK758748","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taylor St 431, 55413 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.24348,44.99435,0],"name":"AB7058","engineType":"CE","vin":"WMEEJ3BA5DK699518","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 23rd Ave 342, 55418 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.26284,45.01111,0],"name":"AB6993","engineType":"CE","vin":"WMEEJ3BA1DK703323","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th St N 925, 55401 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.28188,44.98795,0],"name":"AB7054","engineType":"CE","vin":"WMEEJ3BA8DK700015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beard Ave S 3846, 55410 Minneapolis","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.32397,44.93324,0],"name":"AB8609","engineType":"CE","vin":"WMEEJ3BA3EK754744","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE University Ave 2111, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22452,44.97487,0],"name":"AB7152","engineType":"CE","vin":"WMEEJ3BA0DK700266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th Ave S 5380, 55417 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.25879,44.90559,0],"name":"AB8477","engineType":"CE","vin":"WMEEJ3BA1EK757531","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pascal St N 1186, 55108 St Paul","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.16185,44.97692,0],"name":"AB8483","engineType":"CE","vin":"WMEEJ3BA3EK757286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 35th St 144, 55408 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.28048,44.93954,0],"name":"AB7735","engineType":"CE","vin":"WMEEJ3BA1EK740759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 61st St 197, 55419 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.28184,44.89226,0],"name":"AB7645","engineType":"CE","vin":"WMEEJ3BAXDK704471","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sherburne Ave 1592, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.16758,44.95648,0],"name":"AB7719","engineType":"CE","vin":"WMEEJ3BA1EK738168","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hiawatha Ave 3395, 55406 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.23324,44.94141,0],"name":"AB7760","engineType":"CE","vin":"WMEEJ3BA5EK739761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Charles Ave 1621, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.16877,44.95744,0],"name":"AB7695","engineType":"CE","vin":"WMEEJ3BA3EK737863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"York Ave S 3920, 55410 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.32017,44.93197,0],"name":"AB7683","engineType":"CE","vin":"WMEEJ3BA4EK738052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 2865, 55414 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.21065,44.97264,0],"name":"AB7755","engineType":"CE","vin":"WMEEJ3BA3EK739256","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Juno Ave 909, 55102 St Paul","city":"minneapolis","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[-93.13852,44.92592,0],"name":"AB8476","engineType":"CE","vin":"WMEEJ3BA3EK757546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Ewing Ave 3078, 55416 Minneapolis","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.32763,44.9469,0],"name":"AB7711","engineType":"CE","vin":"WMEEJ3BA2EK738129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minnehaha Ave W 1603, 55104 St Paul","city":"minneapolis","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-93.16801,44.96293,0],"name":"AB7744","engineType":"CE","vin":"WMEEJ3BA9EK737088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandalia St 809, 55114 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.18959,44.96538,0],"name":"AB8543","engineType":"CE","vin":"WMEEJ3BA6EK753183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taft St 670, 55413 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.2242,44.99638,0],"name":"AB8484","engineType":"CE","vin":"WMEEJ3BA6EK757279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 43rd Ave 3018, 55406 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.21143,44.94811,0],"name":"AB8541","engineType":"CE","vin":"WMEEJ3BA1EK753172","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandalia St 809, 55114 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.18955,44.96538,0],"name":"AB7064","engineType":"CE","vin":"WMEEJ3BA5DK703289","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson Ave 1075, 55105 St Paul","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.14577,44.93066,0],"name":"AB8512","engineType":"CE","vin":"WMEEJ3BA3EK752685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 13th Ave 333, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23765,44.98039,0],"name":"AB8462","engineType":"CE","vin":"WMEEJ3BA2EK758848","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 7th St 450, 55415 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26591,44.97448,0],"name":"AB7057","engineType":"CE","vin":"WMEEJ3BA0DK699636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Target Pky N 6939, 55445 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.36887,45.13378,0],"name":"AB7729","engineType":"CE","vin":"WMEEJ3BA0EK738548","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandalia St 815, 55114 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.18945,44.96554,0],"name":"AB6997","engineType":"CE","vin":"WMEEJ3BA0DK704821","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wanda St 1580, 55117 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.09763,44.99102,0],"name":"AB8625","engineType":"CE","vin":"WMEEJ3BA9EK754294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 22nd St 1542, 55404 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.252,44.96089,0],"name":"AB7706","engineType":"CE","vin":"WMEEJ3BA6EK737680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rose Ave W 248, 55117 St Paul","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.11058,44.97648,0],"name":"AB8472","engineType":"CE","vin":"WMEEJ3BA8EK757767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"University Ave W 1560, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.16556,44.95506,0],"name":"AB7707","engineType":"CE","vin":"WMEEJ3BAXEK737908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Summit Ave 139, 55102 St Paul","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.10684,44.94825,0],"name":"AB7747","engineType":"CE","vin":"WMEEJ3BA5EK737332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 2nd St 562, 55401 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.25958,44.97952,0],"name":"AB7689","engineType":"CE","vin":"WMEEJ3BA7EK742628","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ontario St 230, 55414 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.2257,44.97443,0],"name":"AB6898","engineType":"CE","vin":"WMEEJ3BAXDK699207","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th St E 249, 55101 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.08827,44.95103,0],"name":"AB7682","engineType":"CE","vin":"WMEEJ3BA7EK737848","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 14th St 738, 55404 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.26412,44.9689,0],"name":"AB8466","engineType":"CE","vin":"WMEEJ3BA5EK758200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Acker St E 75, 55117 St Paul","city":"minneapolis","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-93.09725,44.96404,0],"name":"AB7712","engineType":"CE","vin":"WMEEJ3BA6EK739249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Colfax Ave 4025, 55412 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29191,45.02806,0],"name":"AB6964","engineType":"CE","vin":"WMEEJ3BA9DK704333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sunset Blvd 3967, 55416 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.32805,44.95,0],"name":"AB6862","engineType":"CE","vin":"WMEEJ3BA4DK699588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hall Ave 545, 55107 St Paul","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.08669,44.92956,0],"name":"AB8626","engineType":"CE","vin":"WMEEJ3BA1EK754628","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cleveland Ave S 885, 55116 St Paul","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.18744,44.91454,0],"name":"AB7163","engineType":"CE","vin":"WMEEJ3BA8DK704579","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Johnson St NE 2935, 55418 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.23707,45.02107,0],"name":"AB8542","engineType":"CE","vin":"WMEEJ3BA0EK753177","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Portland Ave S 252, 55415 Minneapolis","city":"minneapolis","fuel":12,"exterior":"GOOD","coordinates":[-93.26031,44.97798,0],"name":"AB7096","engineType":"CE","vin":"WMEEJ3BA3DK700200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Fillmore St 3108, 55418 Minneapolis","city":"minneapolis","fuel":21,"exterior":"UNACCEPTABLE","coordinates":[-93.24219,45.02424,0],"name":"AB7535","engineType":"CE","vin":"WMEEJ3BA3DK699601","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Main St 1147, 55413 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.26758,44.99924,0],"name":"AB7003","engineType":"CE","vin":"WMEEJ3BA5DK697445","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave S 658, 55402 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.26971,44.97638,0],"name":"AB7119","engineType":"CE","vin":"WMEEJ3BA5DK701946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Aurora Ave 987, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14177,44.95487,0],"name":"AB6907","engineType":"CE","vin":"WMEEJ3BA0DK701160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Lincoln St 342, 55413 Minneapolis","city":"minneapolis","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-93.23837,44.99194,0],"name":"AB7692","engineType":"CE","vin":"WMEEJ3BA8EK737826","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ashland Ave 1744, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.17415,44.94392,0],"name":"AB7095","engineType":"CE","vin":"WMEEJ3BA5DK700148","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Jackson St 2080, 55418 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.24911,45.00967,0],"name":"AB7720","engineType":"CE","vin":"WMEEJ3BA7EK738174","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Union Depot. Parkspot","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.08392,44.94826,0],"name":"AB7701","engineType":"CE","vin":"WMEEJ3BA5EK736830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Edmund Blvd 3606, 55406 Minneapolis","city":"minneapolis","fuel":15,"exterior":"GOOD","coordinates":[-93.20615,44.93779,0],"name":"AB7009","engineType":"CE","vin":"WMEEJ3BA4DK697663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave 1502, 55105 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.16365,44.94012,0],"name":"AB7154","engineType":"CE","vin":"WMEEJ3BA4DK700352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1969, 55403 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.27651,44.96307,0],"name":"AB8575","engineType":"CE","vin":"WMEEJ3BA1EK754998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Macalaster St 216, 55105 St Paul","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.17019,44.93552,0],"name":"AB7014","engineType":"CE","vin":"WMEEJ3BA7DK698578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marshall Ave 403, 55102 St Paul","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.11711,44.94858,0],"name":"AB8528","engineType":"CE","vin":"WMEEJ3BAXEK749976","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kent St 159, 55102 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.12378,44.94627,0],"name":"AB6971","engineType":"CE","vin":"WMEEJ3BA5DK698790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Fillmore St 2778, 55418 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.24228,45.01825,0],"name":"AB8508","engineType":"CE","vin":"WMEEJ3BA2EK756100","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 317, 55418 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.26377,45.01219,0],"name":"AB7099","engineType":"CE","vin":"WMEEJ3BA9DK701173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 9th St 54, 55403 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.27731,44.97684,0],"name":"AB8174","engineType":"CE","vin":"WMEEJ3BA3DK705252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thomas Ave 1450, 55104 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.16154,44.95924,0],"name":"AB8584","engineType":"CE","vin":"WMEEJ3BA9EK755249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chelmsford St 1437, 55108 St Paul","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.19165,44.98439,0],"name":"AB7042","engineType":"CE","vin":"WMEEJ3BAXDK701196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Cecil St 242, 55414 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.21033,44.96173,0],"name":"AB7700","engineType":"CE","vin":"WMEEJ3BA8EK739804","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wellesley Ave 1329, 55105 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.15638,44.93152,0],"name":"AB8503","engineType":"CE","vin":"WMEEJ3BA1EK756556","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stevens St W 295, 55107 St Paul","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.0975,44.92858,0],"name":"AB8617","engineType":"CE","vin":"WMEEJ3BA3EK752928","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Van Buren Ave 1527, 55104 St Paul","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.16502,44.96193,0],"name":"AB7108","engineType":"CE","vin":"WMEEJ3BA4DK702649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Buchanan St 2952, 55418 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.23971,45.02141,0],"name":"AB6900","engineType":"CE","vin":"WMEEJ3BA1DK699242","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vandalia St 809, 55114 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.18956,44.96539,0],"name":"AB8569","engineType":"CE","vin":"WMEEJ3BA2EK754525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE California St 2528, 55418 Minneapolis","city":"minneapolis","fuel":15,"exterior":"GOOD","coordinates":[-93.26897,45.01394,0],"name":"AB8576","engineType":"CE","vin":"WMEEJ3BA9EK755011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taylor St 3518, 55418 Minneapolis","city":"minneapolis","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-93.24345,45.03163,0],"name":"AB8451","engineType":"CE","vin":"WMEEJ3BA0EK752868","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Great River Rd, 55411 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.27615,44.99413,0],"name":"AB7120","engineType":"CE","vin":"WMEEJ3BA3DK704599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Huron Blvd SE, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22321,44.97268,0],"name":"AB8478","engineType":"CE","vin":"WMEEJ3BA6EK757525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 44th St 3596, 55406 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.21952,44.92337,0],"name":"AB8455","engineType":"CE","vin":"WMEEJ3BA1EK752572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Simpson St 739, 55104 St Paul","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.16364,44.96346,0],"name":"AB6962","engineType":"CE","vin":"WMEEJ3BAXDK704194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Huron Blvd SE, 55414 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.22307,44.97263,0],"name":"AB6859","engineType":"CE","vin":"WMEEJ3BA8DK699531","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 10th St 29, 55403 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.27861,44.97649,0],"name":"AB6902","engineType":"CE","vin":"WMEEJ3BA4DK699297","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 8th St 966, 55404 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.25981,44.97038,0],"name":"AB8605","engineType":"CE","vin":"WMEEJ3BA0EK753065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stinson Blvd 1267, 55413 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.22673,44.9994,0],"name":"AB6996","engineType":"CE","vin":"WMEEJ3BA1DK704620","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Columbus Ave S 4784, 55407 Minneapolis","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.26394,44.91639,0],"name":"AB7758","engineType":"CE","vin":"WMEEJ3BA0EK739697","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taylor St 410, 55413 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.24358,44.99416,0],"name":"AB8504","engineType":"CE","vin":"WMEEJ3BAXEK756443","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryant Ave S 1679, 55403 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.29059,44.96965,0],"name":"AB8491","engineType":"CE","vin":"WMEEJ3BAXEK757060","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nokomis Ave 1973, 55119 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.01718,44.96585,0],"name":"AB7092","engineType":"CE","vin":"WMEEJ3BA5DK700098","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 35th St 66, 55408 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.27916,44.9396,0],"name":"AB7023","engineType":"CE","vin":"WMEEJ3BA6DK702734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Simpson St 437, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.16373,44.95606,0],"name":"AB8623","engineType":"CE","vin":"WMEEJ3BA9EK753646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 3rd St 2526, 55418 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.26469,45.01367,0],"name":"AB8614","engineType":"CE","vin":"WMEEJ3BAXEK750092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 3293, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.20772,44.97265,0],"name":"AB7750","engineType":"CE","vin":"WMEEJ3BA4EK737578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"24th St W 3979, 55416 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.33025,44.95931,0],"name":"AB7739","engineType":"CE","vin":"WMEEJ3BA4EK742439","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 22nd Ave 3180, 55407 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24069,44.94509,0],"name":"AB7696","engineType":"CE","vin":"WMEEJ3BA8EK737874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Annapolis St E 80, 55118 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.08154,44.91956,0],"name":"AB8482","engineType":"CE","vin":"WMEEJ3BA7EK757307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Glendale St 495, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.19891,44.9567,0],"name":"AB6889","engineType":"CE","vin":"WMEEJ3BA8DK699030","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Colfax Ave 4875, 55430 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.29281,45.04348,0],"name":"AB6861","engineType":"CE","vin":"WMEEJ3BA8DK699562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 29th Ave 3270, 55406 Minneapolis","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.22995,44.94369,0],"name":"AB6987","engineType":"CE","vin":"WMEEJ3BA1DK701524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mackubin St 139, 55102 St Paul","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.12123,44.94567,0],"name":"AB8457","engineType":"CE","vin":"WMEEJ3BA4EK752291","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wyoming St W 433, 55107 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.10356,44.92073,0],"name":"AB7128","engineType":"CE","vin":"WMEEJ3BA2DK704464","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Aldrich Ave S 2574, 55405 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.28926,44.956,0],"name":"AB7129","engineType":"CE","vin":"WMEEJ3BA2DK702004","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 15th Ave 1139, 55414 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.23076,44.99201,0],"name":"AB8578","engineType":"CE","vin":"WMEEJ3BA2EK755058","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Orange Ave 703, 55117 St Paul","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.12993,44.97912,0],"name":"AB6867","engineType":"CE","vin":"WMEEJ3BA7DK699679","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Laurel Ave 495, 55102 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.12106,44.94537,0],"name":"AB8572","engineType":"CE","vin":"WMEEJ3BA3EK754792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th & Park   Parkspot","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26529,44.97035,0],"name":"AB8527","engineType":"CE","vin":"WMEEJ3BA7EK749255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 31st Ave 3172, 55406 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.22703,44.94548,0],"name":"AB7024","engineType":"CE","vin":"WMEEJ3BAXDK702705","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 35th St 182, 55408 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.28112,44.93955,0],"name":"AB7680","engineType":"CE","vin":"WMEEJ3BAXEK738363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hewitt Ave 1874, 55104 St Paul","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.17962,44.96673,0],"name":"AB8495","engineType":"CE","vin":"WMEEJ3BA5EK756978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Orange Ave E 865, 55106 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.06403,44.97939,0],"name":"AB8630","engineType":"CE","vin":"WMEEJ3BA1EK755701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cedar Ave S 5022, 55417 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.24738,44.91204,0],"name":"AB7017","engineType":"CE","vin":"WMEEJ3BA8DK698640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Harrison St 648, 55413 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.24741,44.99554,0],"name":"AB7121","engineType":"CE","vin":"WMEEJ3BA6DK704886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bidwell St 523, 55107 St Paul","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.09106,44.93019,0],"name":"AB8488","engineType":"CE","vin":"WMEEJ3BAXEK757110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"May St, 55102 St Paul","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.14335,44.91688,0],"name":"AB8494","engineType":"CE","vin":"WMEEJ3BA5EK757015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 26th Ave 2559, 55406 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.23459,44.95634,0],"name":"AB6874","engineType":"CE","vin":"WMEEJ3BA9DK699828","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Main St 1282, 55413 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.26773,45.00072,0],"name":"AB8547","engineType":"CE","vin":"WMEEJ3BA3EK753402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryant Ave S 2380, 55405 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.29055,44.9593,0],"name":"AB6894","engineType":"CE","vin":"WMEEJ3BAXDK699160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave S 3916, 55409 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.27399,44.93205,0],"name":"AB8517","engineType":"CE","vin":"WMEEJ3BA4EK755580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Prince St 370, 55101 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.08215,44.95012,0],"name":"AB7038","engineType":"CE","vin":"WMEEJ3BA2DK701399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th Ave S 246, 55415 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.25482,44.97553,0],"name":"AB7007","engineType":"CE","vin":"WMEEJ3BA9DK697609","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE University Ave 2139, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22431,44.97475,0],"name":"AB7702","engineType":"CE","vin":"WMEEJ3BA0EK736377","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Priscilla St 2344, 55108 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.19025,44.97595,0],"name":"AB8582","engineType":"CE","vin":"WMEEJ3BA3EK755151","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 9th St 407, 55414 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.24553,44.99061,0],"name":"AB7012","engineType":"CE","vin":"WMEEJ3BA0DK698521","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 3147, 55414 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.20874,44.97266,0],"name":"AB8589","engineType":"CE","vin":"WMEEJ3BA7EK755508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 20th Ave 607, 55418 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.25811,45.00864,0],"name":"AB7723","engineType":"CE","vin":"WMEEJ3BA3EK738351","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fillmore Ave E 85, 55107 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.08658,44.94069,0],"name":"AB7761","engineType":"CE","vin":"WMEEJ3BA9EK739794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th St 1042, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23842,44.98539,0],"name":"AB7147","engineType":"CE","vin":"WMEEJ3BA2DK701371","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 29th Ave 5434, 55417 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.2311,44.9047,0],"name":"AB7160","engineType":"CE","vin":"WMEEJ3BA5DK704541","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave S 937, 55402 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.26998,44.97281,0],"name":"AB6908","engineType":"CE","vin":"WMEEJ3BA6DK699401","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Bedford St 85, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.2089,44.96686,0],"name":"AB8635","engineType":"CE","vin":"WMEEJ3BA1EK753205","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 32nd Ave 3036, 55406 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.22577,44.94787,0],"name":"AB8516","engineType":"CE","vin":"WMEEJ3BA9EK755316","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Knox Ave 1818, 55403 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.30206,44.96528,0],"name":"AB7035","engineType":"CE","vin":"WMEEJ3BA6DK701809","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryant Ave S 4975, 55419 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29075,44.91275,0],"name":"AB7736","engineType":"CE","vin":"WMEEJ3BA7EK740765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 50th St 1759, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24907,44.91243,0],"name":"AB8627","engineType":"CE","vin":"WMEEJ3BA8EK754724","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th Ave 1276, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24126,45.02219,0],"name":"AB6989","engineType":"CE","vin":"WMEEJ3BAXDK702364","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stanford Ave 2039, 55105 St Paul","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.1865,44.93252,0],"name":"AB8583","engineType":"CE","vin":"WMEEJ3BA6EK755239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 3161, 55414 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.20866,44.97267,0],"name":"AB8460","engineType":"CE","vin":"WMEEJ3BAXEK758998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"34th Ave S 3733, 55406 Minneapolis","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.2229,44.93525,0],"name":"AB7157","engineType":"CE","vin":"WMEEJ3BA9DK700573","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Colette Pl 1135, 55116 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.18337,44.90713,0],"name":"AB8465","engineType":"CE","vin":"WMEEJ3BA8EK758594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Taylor Ave 1434, 55104 St Paul","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.16097,44.96767,0],"name":"AB6904","engineType":"CE","vin":"WMEEJ3BA7DK699360","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 21st Ave 984, 55404 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.24245,44.96296,0],"name":"AB7705","engineType":"CE","vin":"WMEEJ3BA4EK736849","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Oakland Ave S 4672, 55407 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26645,44.91843,0],"name":"AB7090","engineType":"CE","vin":"WMEEJ3BA9DK700055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ewing Ave S 5124, 55410 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.3278,44.91027,0],"name":"AB7737","engineType":"CE","vin":"WMEEJ3BA3EK740780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 6th St 1646, 55413 Minneapolis","city":"minneapolis","fuel":9,"exterior":"GOOD","coordinates":[-93.25887,45.00467,0],"name":"AB8505","engineType":"CE","vin":"WMEEJ3BA3EK756378","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Ulysses St 1868, 55418 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.23598,45.00727,0],"name":"AB7018","engineType":"CE","vin":"WMEEJ3BA7DK698743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Edmund Blvd 3386, 55406 Minneapolis","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.20426,44.9418,0],"name":"AB8588","engineType":"CE","vin":"WMEEJ3BA8EK755341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Ulysses St 3241, 55418 Minneapolis","city":"minneapolis","fuel":15,"exterior":"GOOD","coordinates":[-93.2358,45.02659,0],"name":"AB7050","engineType":"CE","vin":"WMEEJ3BA9DK700279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Vincent Ave 2143, 55411 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.31585,45.00107,0],"name":"AB8574","engineType":"CE","vin":"WMEEJ3BAXEK754983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nebraska Ave W 1572, 55108 St Paul","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.16605,44.98632,0],"name":"AB8548","engineType":"CE","vin":"WMEEJ3BA0EK753437","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Iglehart Ave 971, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14111,44.9494,0],"name":"AB7078","engineType":"CE","vin":"WMEEJ3BA5DK704152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lincoln Ave 1196, 55105 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.15039,44.93896,0],"name":"AB7036","engineType":"CE","vin":"WMEEJ3BA8DK701763","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Portland Ave 1119, 55104 St Paul","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.14742,44.9429,0],"name":"AB8498","engineType":"CE","vin":"WMEEJ3BA7EK756870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Colfax Ave 2432, 55405 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.2918,44.95857,0],"name":"AB8615","engineType":"CE","vin":"WMEEJ3BA4EK752422","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mackubin St 159, 55102 St Paul","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.12132,44.94628,0],"name":"AB8487","engineType":"CE","vin":"WMEEJ3BA5EK757130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Orange Ave E 856, 55106 St Paul","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.06434,44.97929,0],"name":"AB8551","engineType":"CE","vin":"WMEEJ3BA5EK753546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hampshire Ave 1780, 55116 St Paul","city":"minneapolis","fuel":84,"exterior":"GOOD","coordinates":[-93.17525,44.91068,0],"name":"AB6877","engineType":"CE","vin":"WMEEJ3BA9DK699909","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lakeview Ave 1425, 55416 Minneapolis","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.32071,44.96721,0],"name":"AB7034","engineType":"CE","vin":"WMEEJ3BA4DK701887","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hewitt Ave 1811, 55104 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.1768,44.96642,0],"name":"AB6983","engineType":"CE","vin":"WMEEJ3BAXDK700047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 61st St 652, 55419 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.28771,44.89232,0],"name":"AB7115","engineType":"CE","vin":"WMEEJ3BA0DK698728","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winona St E 589, 55107 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.06344,44.92128,0],"name":"AB6991","engineType":"CE","vin":"WMEEJ3BA2DK702729","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 164, 55409 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28084,44.93587,0],"name":"AB8616","engineType":"CE","vin":"WMEEJ3BA4EK752629","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Gate Dr 1095, 55114 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.20635,44.97254,0],"name":"AB8545","engineType":"CE","vin":"WMEEJ3BAXEK753302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 41st Ave 3046, 55406 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.21398,44.94767,0],"name":"AB8474","engineType":"CE","vin":"WMEEJ3BA9EK757583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave S 1808, 55404 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.25547,44.96507,0],"name":"AB8611","engineType":"CE","vin":"WMEEJ3BA0EK749095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winthrop St N 169, 55119 St Paul","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.00947,44.94763,0],"name":"AB7052","engineType":"CE","vin":"WMEEJ3BA2DK700186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sherburne Ave 1033, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14379,44.95662,0],"name":"AB7678","engineType":"CE","vin":"WMEEJ3BA0EK738243","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minnehaha Ave 3644, 55406 Minneapolis","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.22602,44.93694,0],"name":"AB8539","engineType":"CE","vin":"WMEEJ3BA7EK753032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Cleveland St 716, 55413 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.23084,44.99728,0],"name":"AB6910","engineType":"CE","vin":"WMEEJ3BA9DK701190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 3293, 55414 Minneapolis","city":"minneapolis","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-93.20772,44.97258,0],"name":"AB8587","engineType":"CE","vin":"WMEEJ3BA8EK755310","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sheridan Ave S 5878, 55410 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.31244,44.89653,0],"name":"AB6881","engineType":"CE","vin":"WMEEJ3BA9DK698839","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Polk St 3024, 55418 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.24476,45.02298,0],"name":"AB8581","engineType":"CE","vin":"WMEEJ3BA9EK755137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Lake St 272, 55408 Minneapolis","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.28256,44.94849,0],"name":"AB7105","engineType":"CE","vin":"WMEEJ3BA9DK701268","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Goodrich Ave 940, 55105 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.13981,44.9378,0],"name":"AB7725","engineType":"CE","vin":"WMEEJ3BA4EK738424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washburn Ave 219, 55405 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.31731,44.97769,0],"name":"AB8481","engineType":"CE","vin":"WMEEJ3BAXEK757365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 53rd St 998, 55419 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29206,44.90695,0],"name":"AB8529","engineType":"CE","vin":"WMEEJ3BA8EK752844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carroll Ave 1531, 55104 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.16488,44.95027,0],"name":"AB8536","engineType":"CE","vin":"WMEEJ3BA0EK755043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ontario St 384, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.22564,44.97268,0],"name":"AB7116","engineType":"CE","vin":"WMEEJ3BA6DK698734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th St E 972, 55106 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.05951,44.95852,0],"name":"AB7734","engineType":"CE","vin":"WMEEJ3BA1EK740034","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 22nd St 228, 55404 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.28175,44.96092,0],"name":"AB8461","engineType":"CE","vin":"WMEEJ3BA0EK758928","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Ulysses St 2968, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.2358,45.02174,0],"name":"AB8523","engineType":"CE","vin":"WMEEJ3BA1EK753432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 22nd Ave 5874, 55417 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.24124,44.89821,0],"name":"AB7745","engineType":"CE","vin":"WMEEJ3BA2EK737188","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 4th Ave 4981, 55419 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.27026,44.91282,0],"name":"AB8601","engineType":"CE","vin":"WMEEJ3BA0EK749498","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winona St E 86, 55107 St Paul","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.08128,44.92134,0],"name":"AB6886","engineType":"CE","vin":"WMEEJ3BA4DK698960","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 5th St 3035, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.20951,44.97264,0],"name":"AB8603","engineType":"CE","vin":"WMEEJ3BA0EK752773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 33rd Ave 279, 55412 Minneapolis","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.28163,45.01487,0],"name":"AB7757","engineType":"CE","vin":"WMEEJ3BAXEK739299","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 13th Ave 357, 55413 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.26249,45.00088,0],"name":"AB7093","engineType":"CE","vin":"WMEEJ3BAXDK700114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd Ave S 2180, 55404 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24087,44.96114,0],"name":"AB7075","engineType":"CE","vin":"WMEEJ3BA8DK705313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 35th Ave 5746, 55417 Minneapolis","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.22166,44.89909,0],"name":"AB7167","engineType":"CE","vin":"WMEEJ3BA5DK704684","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chelmsford St 1549, 55108 St Paul","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.19162,44.98666,0],"name":"AB7053","engineType":"CE","vin":"WMEEJ3BA7DK700104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lincoln Ave 1627, 55105 St Paul","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.17015,44.93907,0],"name":"AB7134","engineType":"CE","vin":"WMEEJ3BA4DK705051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 3rd St 2361, 55418 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.2646,45.01175,0],"name":"AB6901","engineType":"CE","vin":"WMEEJ3BA0DK699247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 5334, 55419 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.27633,44.90665,0],"name":"AB7748","engineType":"CE","vin":"WMEEJ3BA1EK737358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fry St 151, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.16911,44.94596,0],"name":"AB7033","engineType":"CE","vin":"WMEEJ3BA5DK701977","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winona St W 568, 55107 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.10671,44.92156,0],"name":"AB7000","engineType":"CE","vin":"WMEEJ3BA1DK705122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lexington Pky S 529, 55116 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.14655,44.92528,0],"name":"AB7756","engineType":"CE","vin":"WMEEJ3BA5EK739274","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Xerxes Ave S 5667, 55410 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.31875,44.90043,0],"name":"AB7004","engineType":"CE","vin":"WMEEJ3BA6DK697552","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Glenridge Ave 2272, 55119 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.00548,44.93612,0],"name":"AB8480","engineType":"CE","vin":"WMEEJ3BA8EK757381","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 38th Ave 3990, 55406 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.21791,44.93073,0],"name":"AB7731","engineType":"CE","vin":"WMEEJ3BA6EK738747","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Como Ave 965, 55103 St Paul","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.14092,44.97494,0],"name":"AB8531","engineType":"CE","vin":"WMEEJ3BA4EK753568","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Canfield St 1386, 55108 St Paul","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.15893,44.98006,0],"name":"AB7124","engineType":"CE","vin":"WMEEJ3BA2DK702035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kellogg Blvd E 291, 55101 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.08418,44.94864,0],"name":"AB7039","engineType":"CE","vin":"WMEEJ3BA9DK701383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Godward St 628, 55413 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.21401,44.99592,0],"name":"AB7080","engineType":"CE","vin":"WMEEJ3BA3DK704831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 2nd St 1368, 55413 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.26622,45.00167,0],"name":"AB8492","engineType":"CE","vin":"WMEEJ3BA0EK757052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave S 6020, 55419 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.27436,44.89393,0],"name":"AB8550","engineType":"CE","vin":"WMEEJ3BA5EK753529","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Monroe St 379, 55413 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.25237,44.99472,0],"name":"AB6978","engineType":"CE","vin":"WMEEJ3BA0DK699152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Nebraska Ave 662, 55117 St Paul","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.12791,44.98615,0],"name":"AB7126","engineType":"CE","vin":"WMEEJ3BA0DK704186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 2nd St 2528, 55411 Minneapolis","city":"minneapolis","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[-93.28007,45.00512,0],"name":"AB7002","engineType":"CE","vin":"WMEEJ3BAXDK697327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sherburne Ave 1499, 55104 St Paul","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.16386,44.95657,0],"name":"AB8620","engineType":"CE","vin":"WMEEJ3BA9EK753114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 4th St 2408, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26151,45.01229,0],"name":"AB7049","engineType":"CE","vin":"WMEEJ3BA5DK700361","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Elliot Ave 5154, 55417 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.26136,44.90973,0],"name":"AB8621","engineType":"CE","vin":"WMEEJ3BA3EK753237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th St 442, 55409 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.28491,44.93586,0],"name":"AB6988","engineType":"CE","vin":"WMEEJ3BA3DK701881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Monroe St 1437, 55413 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.25236,45.00245,0],"name":"AB8604","engineType":"CE","vin":"WMEEJ3BA0EK752899","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Almond Ave 1445, 55108 St Paul","city":"minneapolis","fuel":81,"exterior":"GOOD","coordinates":[-93.16139,44.97918,0],"name":"AB8469","engineType":"CE","vin":"WMEEJ3BA0EK758010","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 57th St 2530, 55410 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.31158,44.89972,0],"name":"AB6897","engineType":"CE","vin":"WMEEJ3BA1DK699189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Ave S 130, 55401 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.25791,44.97849,0],"name":"AB6879","engineType":"CE","vin":"WMEEJ3BA1DK699886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Malcolm Ave 698, 55414 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.21108,44.97376,0],"name":"AB6871","engineType":"CE","vin":"WMEEJ3BA8DK699772","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st St N 661, 55401 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.27443,44.98911,0],"name":"AB8580","engineType":"CE","vin":"WMEEJ3BA4EK755112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 23rd Ave 2110, 55404 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.23937,44.96178,0],"name":"AB7144","engineType":"CE","vin":"WMEEJ3BA2DK698813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th Ave 541, 55414 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.24441,44.98578,0],"name":"AB6979","engineType":"CE","vin":"WMEEJ3BAXDK699322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Selby Ave 2159, 55104 St Paul","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.19152,44.94623,0],"name":"AB7104","engineType":"CE","vin":"WMEEJ3BA2DK701256","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park St 746, 55117 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.10375,44.96505,0],"name":"AB6882","engineType":"CE","vin":"WMEEJ3BA8DK698864","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Buchanan St 2762, 55418 Minneapolis","city":"minneapolis","fuel":45,"exterior":"GOOD","coordinates":[-93.2397,45.01797,0],"name":"AB6969","engineType":"CE","vin":"WMEEJ3BA9DK704445","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hillsdale Ave 2248, 55119 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.00608,44.93529,0],"name":"AB7045","engineType":"CE","vin":"WMEEJ3BA6DK701020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chatsworth St N 458, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.14146,44.95508,0],"name":"AB8518","engineType":"CE","vin":"WMEEJ3BA4EK755613","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th St 422, 55414 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.24717,44.98891,0],"name":"AB8564","engineType":"CE","vin":"WMEEJ3BA8EK754240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kenwood Pky 1670, 55405 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.30688,44.96701,0],"name":"AB8522","engineType":"CE","vin":"WMEEJ3BA3EK758177","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stevens Ave S 1928, 55403 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.27526,44.96357,0],"name":"AB8592","engineType":"CE","vin":"WMEEJ3BA0EK755625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chicago Ave S 3967, 55407 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.26241,44.93115,0],"name":"AB6968","engineType":"CE","vin":"WMEEJ3BAXDK704440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th & Park   Parkspot","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26529,44.97035,0],"name":"AB7109","engineType":"CE","vin":"WMEEJ3BA7DK701320","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chicago Ave S 210, 55415 Minneapolis","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.25677,44.97789,0],"name":"AB7037","engineType":"CE","vin":"WMEEJ3BA2DK701709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 25th Ave 2149, 55411 Minneapolis","city":"minneapolis","fuel":96,"exterior":"GOOD","coordinates":[-93.30764,45.00514,0],"name":"AB6872","engineType":"CE","vin":"WMEEJ3BA2DK699802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dale St S 95, 55102 St Paul","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.12614,44.93848,0],"name":"AB8628","engineType":"CE","vin":"WMEEJ3BA7EK754813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Gate Dr 969, 55114 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.20522,44.97033,0],"name":"AB6860","engineType":"CE","vin":"WMEEJ3BA2DK699542","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Washington Ave 827, 55401 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.27881,44.98906,0],"name":"AB7155","engineType":"CE","vin":"WMEEJ3BA8DK700371","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 17th Ave 1536, 55411 Minneapolis","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.29984,44.99635,0],"name":"AB7111","engineType":"CE","vin":"WMEEJ3BA9DK701349","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 316, 55418 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.26373,45.01211,0],"name":"AB7717","engineType":"CE","vin":"WMEEJ3BA1EK738123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hillcrest Ave 1828, 55116 St Paul","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.1775,44.91705,0],"name":"AB7698","engineType":"CE","vin":"WMEEJ3BA4EK738357","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Taylor St 1620, 55413 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24354,45.00481,0],"name":"AB8506","engineType":"CE","vin":"WMEEJ3BA2EK756341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dunlap St N 157, 55104 St Paul","city":"minneapolis","fuel":60,"exterior":"GOOD","coordinates":[-93.14914,44.94618,0],"name":"AB7094","engineType":"CE","vin":"WMEEJ3BA0DK700123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Duluth St N 969, 55106 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.05083,44.97105,0],"name":"AB7041","engineType":"CE","vin":"WMEEJ3BA8DK701245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Polk St 2767, 55418 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.2455,45.01801,0],"name":"AB7151","engineType":"CE","vin":"WMEEJ3BA7DK704752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Selby Ave 586, 55102 St Paul","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.12482,44.94651,0],"name":"AB6883","engineType":"CE","vin":"WMEEJ3BA3DK698870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Randolph Ave 1312, 55105 St Paul","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.15567,44.92658,0],"name":"AB7131","engineType":"CE","vin":"WMEEJ3BA3DK704893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"33rd Ave SE 1023, 55414 Minneapolis","city":"minneapolis","fuel":42,"exterior":"GOOD","coordinates":[-93.20777,44.98882,0],"name":"AB6865","engineType":"CE","vin":"WMEEJ3BA6DK699673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Madison St 1566, 55413 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.25369,45.00378,0],"name":"AB8535","engineType":"CE","vin":"WMEEJ3BA5EK754115","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Aldrich Ave S 3452, 55408 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.28946,44.94038,0],"name":"AB6856","engineType":"CE","vin":"WMEEJ3BA1DK699418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 31st Ave 4910, 55417 Minneapolis","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.22717,44.91424,0],"name":"AB7125","engineType":"CE","vin":"WMEEJ3BA2DK702858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 24th Ave 193, 55411 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.2801,45.00359,0],"name":"AB8532","engineType":"CE","vin":"WMEEJ3BA8EK753699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Bedford St 82, 55414 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.20893,44.96672,0],"name":"AB7013","engineType":"CE","vin":"WMEEJ3BA6DK698572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Kasota Ave 512, 55414 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.20831,44.97745,0],"name":"AB7083","engineType":"CE","vin":"WMEEJ3BA2DK705193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Otto Ave 1078, 55116 St Paul","city":"minneapolis","fuel":63,"exterior":"GOOD","coordinates":[-93.14601,44.91963,0],"name":"AB7686","engineType":"CE","vin":"WMEEJ3BA2EK739751","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Emerson Ave 3524, 55408 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.29461,44.93903,0],"name":"AB7733","engineType":"CE","vin":"WMEEJ3BA6EK739851","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Logan Ave S 5882, 55419 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.30349,44.89639,0],"name":"AB7021","engineType":"CE","vin":"WMEEJ3BAXDK702767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Washington Ave 1822, 55454 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.24678,44.9734,0],"name":"AB7020","engineType":"CE","vin":"WMEEJ3BA7DK698760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marion St 1525, 55117 St Paul","city":"minneapolis","fuel":27,"exterior":"GOOD","coordinates":[-93.10973,44.98733,0],"name":"AB8595","engineType":"CE","vin":"WMEEJ3BA2EK755769","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chicago Ave S 1633, 55404 Minneapolis","city":"minneapolis","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-93.26248,44.9669,0],"name":"AB7150","engineType":"CE","vin":"WMEEJ3BA6DK704726","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 15th Ave 789, 55413 Minneapolis","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.25135,45.0032,0],"name":"AB8468","engineType":"CE","vin":"WMEEJ3BA5EK758052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Sheridan Ave 2418, 55405 Minneapolis","city":"minneapolis","fuel":33,"exterior":"GOOD","coordinates":[-93.31302,44.9589,0],"name":"AB7085","engineType":"CE","vin":"WMEEJ3BAXDK684660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Saratoga St S 17, 55105 St Paul","city":"minneapolis","fuel":87,"exterior":"GOOD","coordinates":[-93.16451,44.94092,0],"name":"AB8593","engineType":"CE","vin":"WMEEJ3BAXEK755647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave S 4930, 55417 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.25373,44.91453,0],"name":"AB8597","engineType":"CE","vin":"WMEEJ3BAXEK755857","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Iglehart Ave 1470, 55104 St Paul","city":"minneapolis","fuel":39,"exterior":"GOOD","coordinates":[-93.16233,44.94934,0],"name":"AB8511","engineType":"CE","vin":"WMEEJ3BA5EK752610","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McKinley St NE 3441, 55418 Minneapolis","city":"minneapolis","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-93.2281,45.03028,0],"name":"AB8634","engineType":"CE","vin":"WMEEJ3BA1EK752488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 4th St 2133, 55418 Minneapolis","city":"minneapolis","fuel":75,"exterior":"GOOD","coordinates":[-93.26151,45.00955,0],"name":"AB8600","engineType":"CE","vin":"WMEEJ3BA7EK753001","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Snelling Ave 3870, 55406 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.2247,44.93289,0],"name":"AB7730","engineType":"CE","vin":"WMEEJ3BA0EK738601","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James Ave 575, 55102 St Paul","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.12481,44.92776,0],"name":"AB8590","engineType":"CE","vin":"WMEEJ3BA6EK755516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 4th St 1184, 55413 Minneapolis","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.26152,44.99966,0],"name":"AB7133","engineType":"CE","vin":"WMEEJ3BA3DK705025","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Vincent Ave 3323, 55412 Minneapolis","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.31595,45.01546,0],"name":"AB6870","engineType":"CE","vin":"WMEEJ3BA3DK699761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 19th Ave 5644, 55417 Minneapolis","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.24503,44.90025,0],"name":"AB6899","engineType":"CE","vin":"WMEEJ3BA1DK699225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wynne Ave 1310, 55108 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.15715,44.97553,0],"name":"AB8560","engineType":"CE","vin":"WMEEJ3BA8EK754075","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Drew Ave S 2318, 55416 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.3289,44.96007,0],"name":"AB7063","engineType":"CE","vin":"WMEEJ3BA1DK703516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Laurel Ave 1709, 55104 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.17256,44.94502,0],"name":"AB7056","engineType":"CE","vin":"WMEEJ3BA5DK699891","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Upton Ave 4917, 55430 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.31555,45.04426,0],"name":"AB7714","engineType":"CE","vin":"WMEEJ3BA9EK737897","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 34th Ave 2261, 55418 Minneapolis","city":"minneapolis","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-93.22862,45.02955,0],"name":"AB8513","engineType":"CE","vin":"WMEEJ3BA7EK753130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hoover St, 55413 Minneapolis","city":"minneapolis","fuel":24,"exterior":"GOOD","coordinates":[-93.21799,44.99968,0],"name":"AB7010","engineType":"CE","vin":"WMEEJ3BAXDK698364","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE University Ave 716, 55414 Minneapolis","city":"minneapolis","fuel":21,"exterior":"GOOD","coordinates":[-93.24603,44.98331,0],"name":"AB6967","engineType":"CE","vin":"WMEEJ3BA0DK704429","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Irving Ave S 5570, 55419 Minneapolis","city":"minneapolis","fuel":93,"exterior":"GOOD","coordinates":[-93.29972,44.902,0],"name":"AB8612","engineType":"CE","vin":"WMEEJ3BA9EK749130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 24th Ave 1173, 55414 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.21905,44.99121,0],"name":"AB8502","engineType":"CE","vin":"WMEEJ3BA8EK756618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hendon Ave 2244, 55108 St Paul","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.19481,44.98621,0],"name":"AB7752","engineType":"CE","vin":"WMEEJ3BA4EK737600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 27th Ave 269, 55414 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.21892,44.97208,0],"name":"AB6893","engineType":"CE","vin":"WMEEJ3BA8DK699092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 27th Ave 733, 55454 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.23293,44.96618,0],"name":"AB6890","engineType":"CE","vin":"WMEEJ3BA4DK699056","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Delaware St 2746, 55414 Minneapolis","city":"minneapolis","fuel":54,"exterior":"GOOD","coordinates":[-93.21886,44.97115,0],"name":"AB7694","engineType":"CE","vin":"WMEEJ3BA0EK737853","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Highland Pky 1553, 55116 St Paul","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.16552,44.91979,0],"name":"AB7107","engineType":"CE","vin":"WMEEJ3BA7DK701303","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Milton St N 459, 55104 St Paul","city":"minneapolis","fuel":90,"exterior":"GOOD","coordinates":[-93.13913,44.95508,0],"name":"AB7046","engineType":"CE","vin":"WMEEJ3BA5DK700912","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Union Depot. Parkspot","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.08392,44.94826,0],"name":"AB7043","engineType":"CE","vin":"WMEEJ3BA8DK701116","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Pierce St 3335, 55418 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.2409,45.02826,0],"name":"AB7110","engineType":"CE","vin":"WMEEJ3BA8DK701343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 22nd Ave 34, 55411 Minneapolis","city":"minneapolis","fuel":72,"exterior":"GOOD","coordinates":[-93.27733,45.00145,0],"name":"AB8555","engineType":"CE","vin":"WMEEJ3BA3EK753903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 4th St 2450, 55418 Minneapolis","city":"minneapolis","fuel":57,"exterior":"GOOD","coordinates":[-93.26163,45.01271,0],"name":"AB7029","engineType":"CE","vin":"WMEEJ3BA2DK702214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rose Ave W 249, 55117 St Paul","city":"minneapolis","fuel":18,"exterior":"GOOD","coordinates":[-93.1106,44.97652,0],"name":"AB7161","engineType":"CE","vin":"WMEEJ3BA6DK704550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 33rd Ave 2946, 55406 Minneapolis","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.22427,44.94935,0],"name":"AB6980","engineType":"CE","vin":"WMEEJ3BA6DK699334","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Seminole Ave 761, 55107 St Paul","city":"minneapolis","fuel":51,"exterior":"GOOD","coordinates":[-93.0993,44.92336,0],"name":"AB7724","engineType":"CE","vin":"WMEEJ3BA6EK738411","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Saratoga St N 25, 55104 St Paul","city":"minneapolis","fuel":66,"exterior":"GOOD","coordinates":[-93.16442,44.94227,0],"name":"AB7718","engineType":"CE","vin":"WMEEJ3BA0EK738162","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Vincent Ave 1309, 55411 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.31595,44.9917,0],"name":"AB7047","engineType":"CE","vin":"WMEEJ3BAXDK700713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James Ave 1350, 55105 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.15724,44.92789,0],"name":"AB7087","engineType":"CE","vin":"WMEEJ3BA2DK697628","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave 1733, 55105 St Paul","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.17396,44.9402,0],"name":"AB8562","engineType":"CE","vin":"WMEEJ3BA5EK754146","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sherburne Ave 607, 55103 St Paul","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.12578,44.95661,0],"name":"AB7142","engineType":"CE","vin":"WMEEJ3BA6DK701082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Virginia St 1096, 55117 St Paul","city":"minneapolis","fuel":30,"exterior":"GOOD","coordinates":[-93.11479,44.97424,0],"name":"AB8570","engineType":"CE","vin":"WMEEJ3BA0EK754684","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wentworth Ave S 4274, 55409 Minneapolis","city":"minneapolis","fuel":100,"exterior":"GOOD","coordinates":[-93.28049,44.9255,0],"name":"AB7716","engineType":"CE","vin":"WMEEJ3BA6EK738117","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave S 146, 55415 Minneapolis","city":"minneapolis","fuel":36,"exterior":"GOOD","coordinates":[-93.25129,44.97539,0],"name":"AB8557","engineType":"CE","vin":"WMEEJ3BA3EK754033","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Spring St 3441, 55413 Minneapolis","city":"minneapolis","fuel":78,"exterior":"GOOD","coordinates":[-93.21306,44.9953,0],"name":"AB8521","engineType":"CE","vin":"WMEEJ3BA4EK757667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Bryant Ave 3725, 55412 Minneapolis","city":"minneapolis","fuel":69,"exterior":"GOOD","coordinates":[-93.29063,45.02259,0],"name":"AB8579","engineType":"CE","vin":"WMEEJ3BA5EK755068","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th St E 269, 55101 St Paul","city":"minneapolis","fuel":48,"exterior":"GOOD","coordinates":[-93.0869,44.9505,0],"name":"AB6892","engineType":"CE","vin":"WMEEJ3BA4DK699087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

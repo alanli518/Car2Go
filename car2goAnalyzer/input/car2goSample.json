@@ -1,0 +1,34 @@
+{
+	"placemarks": [
+		{
+			"address": "Green P-197 Blantyre Ave(no double parking)",
+			"coordinates": [
+				-79.2815,
+				43.68177,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 87,
+			"interior": "GOOD",
+			"name": "BNYB163",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK568671"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BWJC 045",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB5EJ293090"
+		}
+	]
+}

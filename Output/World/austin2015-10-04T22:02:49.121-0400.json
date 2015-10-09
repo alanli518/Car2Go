@@ -1,0 +1,598 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 513, 78704 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.75845,30.25999,0],"name":"CSF 9069","engineType":"CE","vin":"WMEEJ3BA7EK733766","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 55th St 417, 78751 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.72359,30.32172,0],"name":"FBV 4428","engineType":"CE","vin":"WMEEJ3BA3FK799491","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 531, 78704 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.75867,30.25985,0],"name":"CK9 T305","engineType":"CE","vin":"WMEEJ3BAXAK417045","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 30th St 1373, 78722 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.72085,30.28663,0],"name":"FJC 9793","engineType":"CE","vin":"WMEEJ3BA6FK801945","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Town Creek Dr 1360, 78741 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.72638,30.24302,0],"name":"FHB 1330","engineType":"CE","vin":"WMEEJ3BA9FK801664","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ridgeview St 2367, 78704 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.77773,30.25628,0],"name":"FHB 2834","engineType":"CE","vin":"WMEEJ3BA5FK802021","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 1st St 1849, 78704 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.75587,30.24692,0],"name":"CK9 T374","engineType":"CE","vin":"WMEEJ3BA0AK417460","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Johanna St W 451, 78704 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.75507,30.24516,0],"name":"FJC 9933","engineType":"CE","vin":"WMEEJ3BAXFK801558","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 366, 78704 Austin","city":"austin","fuel":27,"exterior":"GOOD","coordinates":[-97.75319,30.24877,0],"name":"CSG 1513","engineType":"CE","vin":"WMEEJ3BAXEK736693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Parkway 1520, 78703 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.75156,30.28021,0],"name":"FHB 2825","engineType":"CE","vin":"WMEEJ3BA4FK802818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Treadwell St 1271, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.76124,30.25589,0],"name":"CK9 T375","engineType":"CE","vin":"WMEEJ3BA3AK416755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spring Creek Dr 2230, 78704 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.77338,30.25893,0],"name":"FBV 4383","engineType":"CE","vin":"WMEEJ3BAXFK799407","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cumberland Rd 1003, 78704 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.76702,30.24026,0],"name":"FJC 9927","engineType":"CE","vin":"WMEEJ3BA8FK801218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Johanna St W 787, 78704 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.75965,30.2464,0],"name":"FBV 4471","engineType":"CE","vin":"WMEEJ3BA1FK802551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Pleasant Valley Rd 1059, 78741 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.71673,30.24163,0],"name":"FHB 1675","engineType":"CE","vin":"WMEEJ3BA3FK803216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"One Texas Center","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74942,30.25811,0],"name":"FBV 4477","engineType":"CE","vin":"WMEEJ3BA3FK803068","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Merle Dr 4403, 78745 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.7874,30.22888,0],"name":"CK9 T274","engineType":"CE","vin":"WMEEJ3BA5AK418071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Robinson Ave 3686, 78722 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.71907,30.29366,0],"name":"CK9 T286","engineType":"CE","vin":"WMEEJ3BA4AK416926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 531, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75876,30.25987,0],"name":"CYL 4628","engineType":"CE","vin":"WMEEJ3BA8EK748969","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75862,30.2599,0],"name":"FGZ 8803","engineType":"CE","vin":"WMEEJ3BA5FK801483","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tom Green St 3650, 78705 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.73132,30.29872,0],"name":"FGZ 8617","engineType":"CE","vin":"WMEEJ3BA0FK802525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.75864,30.25976,0],"name":"FBV 4434","engineType":"CE","vin":"WMEEJ3BAXFK799388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart Ln 7290, 78731 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.75514,30.35687,0],"name":"FGZ 8624","engineType":"CE","vin":"WMEEJ3BA5FK802777","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kenneth Ave 2110, 78741 Austin","city":"austin","fuel":24,"exterior":"GOOD","coordinates":[-97.71689,30.22983,0],"name":"FHB 2867","engineType":"CE","vin":"WMEEJ3BA3FK802535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Norwalk Ln 1450, 78703 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.77178,30.28969,0],"name":"CZS 9747","engineType":"CE","vin":"WMEEJ3BA1EK748201","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Annie St W 223, 78704 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.75239,30.24644,0],"name":"CYL 4630","engineType":"CE","vin":"WMEEJ3BA9EK749032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shoal Creek Blvd 1428, 78701 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.7501,30.28061,0],"name":"GGG 3720","engineType":"CE","vin":"WMEEJ3BA4FK801474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Newton St 1604, 78704 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.75267,30.24825,0],"name":"FJC 9930","engineType":"CE","vin":"WMEEJ3BA4FK801328","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wood Hollow Dr 7222, 78731 Austin","city":"austin","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-97.75166,30.35573,0],"name":"FHB 2855","engineType":"CE","vin":"WMEEJ3BA8FK800487","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Capitol Ct 989, 78756 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.73315,30.31918,0],"name":"CZT 0915","engineType":"CE","vin":"WMEEJ3BA5EK748606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Retreat at Barton Creek - South Enrance","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.79195,30.23759,0],"name":"FBV 4362","engineType":"CE","vin":"WMEEJ3BA9FK799558","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.75866,30.25975,0],"name":"FBV 4472","engineType":"CE","vin":"WMEEJ3BA5FK802617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Newton St 1853, 78704 Austin","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.75326,30.24622,0],"name":"FJC 9782","engineType":"CE","vin":"WMEEJ3BA4FK802690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 571, 78704 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.75879,30.25954,0],"name":"FGZ 8688","engineType":"CE","vin":"WMEEJ3BA6FK802707","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fletcher St 655, 78704 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.75924,30.24355,0],"name":"FBV 4468","engineType":"CE","vin":"WMEEJ3BA2FK802378","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bluebonnet Ln 1246, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.77046,30.25801,0],"name":"CSF 9061","engineType":"CE","vin":"WMEEJ3BA1EK733018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stassney Woods Apartments","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.76107,30.19734,0],"name":"FHB 2838","engineType":"CE","vin":"WMEEJ3BA0FK800578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Morgan St 1441, 78704 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.78034,30.22913,0],"name":"FGZ 8679","engineType":"CE","vin":"WMEEJ3BA8FK802336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Augusta Ave 632, 78703 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.76511,30.27643,0],"name":"FHB 1337","engineType":"CE","vin":"WMEEJ3BA6FK800391","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Parkway 1540, 78703 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.75146,30.28072,0],"name":"FBV 4365","engineType":"CE","vin":"WMEEJ3BA2FK799675","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 535, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75864,30.25982,0],"name":"FHB 2865","engineType":"CE","vin":"WMEEJ3BA3FK802468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Lynn St 1588, 78703 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.7574,30.2841,0],"name":"FHB 2899","engineType":"CE","vin":"WMEEJ3BA0FK800676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hartford Rd 2314, 78703 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.75929,30.29039,0],"name":"CK9 T277","engineType":"CE","vin":"WMEEJ3BA3AK416772","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75837,30.25982,0],"name":"CSF 9068","engineType":"CE","vin":"WMEEJ3BA0EK733706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Burnet Rd 5813, 78756 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.73975,30.33405,0],"name":"FBV 4440","engineType":"CE","vin":"WMEEJ3BAXFK799245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-97.75861,30.25973,0],"name":"CK9 T267","engineType":"CE","vin":"WMEEJ3BA0AK418219","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Elmo Rd W 405, 78745 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.77101,30.2202,0],"name":"FGZ 8612","engineType":"CE","vin":"WMEEJ3BA6FK800455","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 5th St 1360, 78703 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.76031,30.27285,0],"name":"CZT 0999","engineType":"CE","vin":"WMEEJ3BA4EK748886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75856,30.25973,0],"name":"CZT 1029","engineType":"CE","vin":"WMEEJ3BA8EK748373","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.75878,30.25977,0],"name":"DBW 2627","engineType":"CE","vin":"WMEEJ3BA3EK748698","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Capitol Ct 973, 78756 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.73291,30.31913,0],"name":"CSF 8919","engineType":"CE","vin":"WMEEJ3BA0EK733883","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Canopy","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.69811,30.26199,0],"name":"FBV 4358","engineType":"CE","vin":"WMEEJ3BA2FK798395","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collier St 1832, 78704 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.76966,30.25459,0],"name":"FGZ 8629","engineType":"CE","vin":"WMEEJ3BA9FK802300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Leon St 2211, 78705 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.7495,30.28637,0],"name":"FBV 4494","engineType":"CE","vin":"WMEEJ3BA3FK802311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jones Rd 1979, 78745 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.79389,30.22067,0],"name":"CK9 T285","engineType":"CE","vin":"WMEEJ3BA6AK417916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hearn St 626, 78703 Austin","city":"austin","fuel":93,"exterior":"GOOD","coordinates":[-97.77236,30.27982,0],"name":"FJC 9791","engineType":"CE","vin":"WMEEJ3BA0FK802055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.75875,30.25974,0],"name":"FBV 4495","engineType":"CE","vin":"WMEEJ3BA8FK800408","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eva St 1620, 78704 Austin","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.75153,30.24816,0],"name":"FJC 9952","engineType":"CE","vin":"WMEEJ3BA8FK802739","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.7586,30.25986,0],"name":"FGZ 8808","engineType":"CE","vin":"WMEEJ3BA8FK802059","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shadow Hill Dr 7476, 78731 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74945,30.35782,0],"name":"FHB 0201","engineType":"CE","vin":"WMEEJ3BA9FK802121","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Timbercreek Apartments","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75159,30.25617,0],"name":"FGZ 8621","engineType":"CE","vin":"WMEEJ3BA3FK802843","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 557, 78704 Austin","city":"austin","fuel":27,"exterior":"GOOD","coordinates":[-97.75871,30.25966,0],"name":"FHB 0244","engineType":"CE","vin":"WMEEJ3BAXFK800765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Valley View Rd 4182, 78704 Austin","city":"austin","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-97.7851,30.23097,0],"name":"FBV 4381","engineType":"CE","vin":"WMEEJ3BA6FK799310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Treadwell St 1241, 78704 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.76094,30.25573,0],"name":"CSF 8926","engineType":"CE","vin":"WMEEJ3BA5EK733930","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Faro Dr 1552, 78741 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.7128,30.2341,0],"name":"CSF 9065","engineType":"CE","vin":"WMEEJ3BA0EK734533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 4th St 2703, 78702 Austin","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.7122,30.25592,0],"name":"CSG 1518","engineType":"CE","vin":"WMEEJ3BA3EK734896","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 5th St 1611, 78703 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.76414,30.27423,0],"name":"FHB 1333","engineType":"CE","vin":"WMEEJ3BA6FK800603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mariposa Dr 1215, 78704 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.7408,30.23842,0],"name":"FBV 4425","engineType":"CE","vin":"WMEEJ3BAXFK799584","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Timbercreek Apartments","city":"austin","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-97.75159,30.25617,0],"name":"FBV 4424","engineType":"CE","vin":"WMEEJ3BA1FK799635","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alpine Rd W 561, 78704 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.76641,30.23048,0],"name":"FBV 4389","engineType":"CE","vin":"WMEEJ3BA0FK799335","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 545, 78704 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.75845,30.25966,0],"name":"CZT 0916","engineType":"CE","vin":"WMEEJ3BA5EK748332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Parking Spot","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.67598,30.22049,0],"name":"FGZ 8802","engineType":"CE","vin":"WMEEJ3BA5FK801502","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Trailside Dr 2547, 78704 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.77604,30.26085,0],"name":"FHB 0248","engineType":"CE","vin":"WMEEJ3BA6FK802643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 358, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75313,30.24876,0],"name":"FBV 4475","engineType":"CE","vin":"WMEEJ3BA0FK803125","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Durwood St 2588, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75944,30.2388,0],"name":"CSF 8920","engineType":"CE","vin":"WMEEJ3BA8EK733792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"San Jacinto Blvd 1744, 78701 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73621,30.27856,0],"name":"CSF 9192","engineType":"CE","vin":"WMEEJ3BA3EK734008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 3rd St 837, 78701 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.75238,30.26794,0],"name":"CZT 0993","engineType":"CE","vin":"WMEEJ3BA6EK748081","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skyway Cir 2870, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78277,30.24482,0],"name":"FGZ 8681","engineType":"CE","vin":"WMEEJ3BA2FK802719","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Barton Hills Dr 1156, 78704 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.7733,30.26173,0],"name":"CK9 T249","engineType":"CE","vin":"WMEEJ3BA5AK417258","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Burleson Rd 2454, 78741 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73576,30.22918,0],"name":"FGZ 8685","engineType":"CE","vin":"WMEEJ3BA1FK803165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 535, 78704 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.7584,30.25974,0],"name":"FGZ 8809","engineType":"CE","vin":"WMEEJ3BA8FK802093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Live Oak St W 725, 78704 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.75944,30.24499,0],"name":"CSF 9196","engineType":"CE","vin":"WMEEJ3BAXEK733812","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 523, 78704 Austin","city":"austin","fuel":72,"exterior":"GOOD","coordinates":[-97.75848,30.2599,0],"name":"FBV 4432","engineType":"CE","vin":"WMEEJ3BA2FK799417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"One Highland Center","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.71164,30.32867,0],"name":"CSG 2237","engineType":"CE","vin":"WMEEJ3BA0EK736105","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 46th St 905, 78751 Austin","city":"austin","fuel":81,"exterior":"GOOD","coordinates":[-97.71842,30.30607,0],"name":"FHB 2864","engineType":"CE","vin":"WMEEJ3BA4FK802351","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 9th St 2217, 78703 Austin","city":"austin","fuel":81,"exterior":"GOOD","coordinates":[-97.77026,30.28208,0],"name":"FBV 4376","engineType":"CE","vin":"WMEEJ3BA9FK800031","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 3rd St 829, 78701 Austin","city":"austin","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-97.75221,30.26783,0],"name":"FGZ 8626","engineType":"CE","vin":"WMEEJ3BA6FK802495","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wickshire Ln 1819, 78741 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.74143,30.22431,0],"name":"CSG 1541","engineType":"CE","vin":"WMEEJ3BA7EK734657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Newning Ave 1326, 78704 Austin","city":"austin","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-97.74466,30.24914,0],"name":"FHB 2856","engineType":"CE","vin":"WMEEJ3BA0FK801410","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kenwood Ave 2022, 78704 Austin","city":"austin","fuel":81,"exterior":"GOOD","coordinates":[-97.74314,30.23926,0],"name":"FBV 4364","engineType":"CE","vin":"WMEEJ3BA5FK799606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cross St 88, 78702 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.73224,30.25679,0],"name":"CSF 8924","engineType":"CE","vin":"WMEEJ3BA1EK733228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue F 5334, 78751 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.72089,30.31809,0],"name":"FGZ 8616","engineType":"CE","vin":"WMEEJ3BA3FK802406","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Pleasant Valley Rd 1125, 78741 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.71655,30.2407,0],"name":"CSF 9067","engineType":"CE","vin":"WMEEJ3BA5EK734835","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lyons Rd 2712, 78702 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.70852,30.26421,0],"name":"FGZ 8811","engineType":"CE","vin":"WMEEJ3BAXFK802287","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Capital Metro Downtown Station","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.73939,30.26512,0],"name":"CK9 T290","engineType":"CE","vin":"WMEEJ3BA3AK418103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lyons Rd 2709, 78702 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.70982,30.26459,0],"name":"FJD 0198","engineType":"CE","vin":"WMEEJ3BA8FK802899","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 7th St 1206, 78702 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.72999,30.26535,0],"name":"FHB 2869","engineType":"CE","vin":"WMEEJ3BAXFK802600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mary St W 753, 78704 Austin","city":"austin","fuel":72,"exterior":"GOOD","coordinates":[-97.75851,30.24722,0],"name":"CYL 4640","engineType":"CE","vin":"WMEEJ3BA8EK748731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pennsylvania Ave 2162, 78702 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71689,30.2721,0],"name":"FHB 2828","engineType":"CE","vin":"WMEEJ3BA6FK802772","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jessie St 954, 78704 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.76286,30.25723,0],"name":"CSF 8935","engineType":"CE","vin":"WMEEJ3BA5EK734592","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Campbell St 524, 78703 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.76473,30.27513,0],"name":"CSF 9060","engineType":"CE","vin":"WMEEJ3BA8EK732917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 571, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75885,30.25956,0],"name":"FHB 2833","engineType":"CE","vin":"WMEEJ3BA7FK802263","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lakeshore Blvd 1897, 78741 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.72688,30.24486,0],"name":"FBV 4435","engineType":"CE","vin":"WMEEJ3BA5FK799380","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gables at the Terrace","city":"austin","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-97.79952,30.25623,0],"name":"CK9 T283","engineType":"CE","vin":"WMEEJ3BA3AK417209","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue H 4652, 78751 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.72404,30.30979,0],"name":"FJD 0196","engineType":"CE","vin":"WMEEJ3BA9FK800532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spyglass Dr 1828, 78746 Austin","city":"austin","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-97.79181,30.25959,0],"name":"CK9 T288","engineType":"CE","vin":"WMEEJ3BA4AK417350","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crestview Station","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71947,30.33886,0],"name":"FGZ 9138","engineType":"CE","vin":"WMEEJ3BA5FK803136","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue F 5328, 78751 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.72094,30.318,0],"name":"CZS 9750","engineType":"CE","vin":"WMEEJ3BA7EK748543","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"One Highland Center","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.71164,30.32867,0],"name":"FGZ 8628","engineType":"CE","vin":"WMEEJ3BA8FK802370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gillis St 4674, 78745 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.7851,30.22165,0],"name":"FBV 4469","engineType":"CE","vin":"WMEEJ3BA2FK802400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Calles St 668, 78702 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.71185,30.26017,0],"name":"FBV 4426","engineType":"CE","vin":"WMEEJ3BAXFK799536","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Possum Trot St 920, 78703 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.7717,30.28333,0],"name":"FBV 4390","engineType":"CE","vin":"WMEEJ3BA1FK799294","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Barton Hills Dr 1158, 78704 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.77334,30.26174,0],"name":"FBV 4384","engineType":"CE","vin":"WMEEJ3BA8FK799440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lakeshore Blvd 2084, 78741 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.7243,30.24485,0],"name":"FBV 4354","engineType":"CE","vin":"WMEEJ3BA2FK799496","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crestview Station","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.71947,30.33886,0],"name":"FBV 4394","engineType":"CE","vin":"WMEEJ3BAXFK799231","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sylvan Glad 1505, 78745 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78521,30.22389,0],"name":"FHB 1678","engineType":"CE","vin":"WMEEJ3BA9FK802457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wood Hollow Dr 7401, 78731 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.75079,30.35704,0],"name":"CZT 0923","engineType":"CE","vin":"WMEEJ3BA1EK748313","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wood Hollow Dr 7148, 78731 Austin","city":"austin","fuel":27,"exterior":"GOOD","coordinates":[-97.75251,30.35438,0],"name":"FJC 9939","engineType":"CE","vin":"WMEEJ3BAXFK801916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Southridge Dr 3774, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.77737,30.23219,0],"name":"FHB 1677","engineType":"CE","vin":"WMEEJ3BA0FK802461","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 38th St 548, 78705 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.73745,30.30275,0],"name":"CSF 9071","engineType":"CE","vin":"WMEEJ3BAXEK734569","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart Ln 7274, 78731 Austin","city":"austin","fuel":15,"exterior":"GOOD","coordinates":[-97.75525,30.35674,0],"name":"FGZ 9137","engineType":"CE","vin":"WMEEJ3BA1FK802176","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 713, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75661,30.24993,0],"name":"FGZ 8805","engineType":"CE","vin":"WMEEJ3BA7FK800304","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 42nd St 1164, 78756 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74161,30.31075,0],"name":"FHB 1335","engineType":"CE","vin":"WMEEJ3BAXFK800510","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Timbercreek Apartments","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75159,30.25617,0],"name":"CZT 1027","engineType":"CE","vin":"WMEEJ3BA9EK748267","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-97.75853,30.25985,0],"name":"FJC 9789","engineType":"CE","vin":"WMEEJ3BAXFK802211","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 11th St 1477, 78702 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.72531,30.2677,0],"name":"FBV 4476","engineType":"CE","vin":"WMEEJ3BA3FK802826","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Patterson Ave 771, 78703 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.76428,30.27936,0],"name":"CK9 T281","engineType":"CE","vin":"WMEEJ3BA4AK417428","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"5th and Congress","city":"austin","fuel":24,"exterior":"GOOD","coordinates":[-97.74339,30.26726,0],"name":"FBV 4366","engineType":"CE","vin":"WMEEJ3BA0FK799741","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":21,"exterior":"GOOD","coordinates":[-97.75858,30.25974,0],"name":"FHB 2848","engineType":"CE","vin":"WMEEJ3BA1FK802226","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rainey St dedicated parking","city":"austin","fuel":72,"exterior":"GOOD","coordinates":[-97.73933,30.25716,0],"name":"CSF 8927","engineType":"CE","vin":"WMEEJ3BA1EK734332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Victory Dr 3848, 78704 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.78898,30.23759,0],"name":"FJC 9783","engineType":"CE","vin":"WMEEJ3BA3FK802678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 31st St 655, 78705 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.74297,30.2987,0],"name":"CK9 T264","engineType":"CE","vin":"WMEEJ3BAXAK417420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nickerson St 1748, 78704 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.7497,30.24603,0],"name":"FHB 0203","engineType":"CE","vin":"WMEEJ3BA6FK802268","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arabella Apartments","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.73756,30.37053,0],"name":"FHB 0205","engineType":"CE","vin":"WMEEJ3BA9FK802183","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hardrock Canyon Apartments","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.75122,30.39674,0],"name":"CSG 1520","engineType":"CE","vin":"WMEEJ3BA2EK735456","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Blue Bird Ln 5566, 78745 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.777,30.20673,0],"name":"CZS 9748","engineType":"CE","vin":"WMEEJ3BA4EK748175","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Dean Keeton St 746, 78705 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.7311,30.28939,0],"name":"FGZ 8807","engineType":"CE","vin":"WMEEJ3BA8FK801932","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 3505, 78704 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.78565,30.23898,0],"name":"FHB 1679","engineType":"CE","vin":"WMEEJ3BA9FK802278","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Montclaire St 2362, 78704 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.782,30.24957,0],"name":"CZT 0922","engineType":"CE","vin":"WMEEJ3BA0EK748416","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mariposa Dr 1327, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73983,30.23793,0],"name":"FBV 4386","engineType":"CE","vin":"WMEEJ3BA9FK799544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 16th St 103, 78701 Austin","city":"austin","fuel":24,"exterior":"GOOD","coordinates":[-97.7397,30.27798,0],"name":"FBV 4382","engineType":"CE","vin":"WMEEJ3BA8FK799325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 557, 78704 Austin","city":"austin","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-97.75866,30.25966,0],"name":"FGZ 9139","engineType":"CE","vin":"WMEEJ3BA5FK800396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd St S 1944, 78704 Austin","city":"austin","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-97.75811,30.24657,0],"name":"CSF 8933","engineType":"CE","vin":"WMEEJ3BA9EK734790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 535, 78704 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.75855,30.25978,0],"name":"FHB 2847","engineType":"CE","vin":"WMEEJ3BA4FK802009","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Coleman St 161, 78704 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.7602,30.23147,0],"name":"FBV 6124","engineType":"CE","vin":"WMEEJ3BA2FK799028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fletcher St 667, 78704 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.75939,30.2436,0],"name":"FHB 0202","engineType":"CE","vin":"WMEEJ3BA6FK802271","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.75843,30.25969,0],"name":"FGZ 8623","engineType":"CE","vin":"WMEEJ3BA4FK802835","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 26th St 1035, 78705 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.74806,30.29091,0],"name":"FHB 2831","engineType":"CE","vin":"WMEEJ3BA9FK801051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hardrock Canyon Apartments","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.75122,30.39674,0],"name":"CSF 9063","engineType":"CE","vin":"WMEEJ3BA4EK733319","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":72,"exterior":"GOOD","coordinates":[-97.75856,30.25988,0],"name":"FJC 9788","engineType":"CE","vin":"WMEEJ3BA6FK802318","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Campbell St 544, 78703 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.76453,30.27527,0],"name":"FHB 1328","engineType":"CE","vin":"WMEEJ3BA0FK801701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Manchaca Rd 3558, 78704 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.78352,30.23811,0],"name":"FBV 4379","engineType":"CE","vin":"WMEEJ3BA7FK799235","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lafayette Ave 3330, 78722 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.71866,30.28977,0],"name":"FHB 2866","engineType":"CE","vin":"WMEEJ3BAXFK802502","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"San Marino Dr 3386, 78741 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74484,30.22201,0],"name":"FFD 7834","engineType":"CE","vin":"WMEEJ3BA7FK803221","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ashwood Rd 1531, 78722 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71444,30.29385,0],"name":"CZT 0994","engineType":"CE","vin":"WMEEJ3BA9EK748169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 34th St 138, 78705 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.73552,30.29836,0],"name":"FJC 9925","engineType":"CE","vin":"WMEEJ3BAXFK800989","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Terrell Hill Dr 698, 78704 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.76439,30.23689,0],"name":"FJD 0197","engineType":"CE","vin":"WMEEJ3BA2FK803045","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Barton Skwy 2906, 78746 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.78869,30.26016,0],"name":"CSF 8922","engineType":"CE","vin":"WMEEJ3BA7EK734500","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Valleyridge Dr 1666, 78704 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.77778,30.23725,0],"name":"CZT 0934","engineType":"CE","vin":"WMEEJ3BA9EK749595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"West Ave 682, 78701 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.75035,30.27107,0],"name":"FHB 2835","engineType":"CE","vin":"WMEEJ3BA7FK802103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Interstate 35 1984, 78704 Austin","city":"austin","fuel":93,"exterior":"GOOD","coordinates":[-97.73928,30.23787,0],"name":"FJD 0194","engineType":"CE","vin":"WMEEJ3BA5FK801886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 557, 78704 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.75853,30.25964,0],"name":"CSF 9200","engineType":"CE","vin":"WMEEJ3BA4EK734941","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Banister Ln 2216, 78704 Austin","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.7775,30.23032,0],"name":"FGZ 8814","engineType":"CE","vin":"WMEEJ3BAXFK802581","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hidalgo St 2685, 78702 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.71245,30.25914,0],"name":"FBV 4488","engineType":"CE","vin":"WMEEJ3BAXFK802998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Giles St 1623, 78722 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.71378,30.29055,0],"name":"FJC 9786","engineType":"CE","vin":"WMEEJ3BA0FK802489","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Upson St 584, 78703 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.77086,30.27853,0],"name":"FHB 2857","engineType":"CE","vin":"WMEEJ3BA5FK801418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clawson Rd 3875, 78704 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.78073,30.23236,0],"name":"FBV 4421","engineType":"CE","vin":"WMEEJ3BA8FK799809","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"One Highland Center","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71164,30.32867,0],"name":"FJC 9784","engineType":"CE","vin":"WMEEJ3BA9FK802605","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larry Ln 3398, 78722 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.71349,30.28767,0],"name":"FGZ 8815","engineType":"CE","vin":"WMEEJ3BAXFK801544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 585, 78704 Austin","city":"austin","fuel":84,"exterior":"GOOD","coordinates":[-97.75872,30.25942,0],"name":"BZ6 B664","engineType":"CE","vin":"WMEEJ3BA9AK374737","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rosedale Ter 1880, 78704 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.74406,30.24113,0],"name":"FGZ 8611","engineType":"CE","vin":"WMEEJ3BA0FK800323","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"West Anderson Plaza","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.73253,30.35717,0],"name":"CSF 9195","engineType":"CE","vin":"WMEEJ3BA4EK734809","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crooked Ln 1919, 78741 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.73189,30.23618,0],"name":"CSF 8931","engineType":"CE","vin":"WMEEJ3BA9EK733784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jones Rd 1979, 78745 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.79383,30.22069,0],"name":"FHB 2842","engineType":"CE","vin":"WMEEJ3BA8FK800800","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mt Vernon Dr 4764, 78745 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78118,30.21881,0],"name":"FHB 1336","engineType":"CE","vin":"WMEEJ3BA0FK800404","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bouldin Ave 818, 78704 Austin","city":"austin","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-97.75526,30.2568,0],"name":"FHB 2859","engineType":"CE","vin":"WMEEJ3BA4FK801975","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crestview Station","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.71947,30.33886,0],"name":"CSF 9062","engineType":"CE","vin":"WMEEJ3BA7EK733718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75844,30.25971,0],"name":"FBV 4493","engineType":"CE","vin":"WMEEJ3BA7FK802330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 535, 78704 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.75839,30.25977,0],"name":"FBV 4357","engineType":"CE","vin":"WMEEJ3BA8FK798160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dickson Dr 2155, 78704 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.78045,30.24579,0],"name":"CSF 8932","engineType":"CE","vin":"WMEEJ3BA5EK734785","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"University Estates","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.7134,30.2377,0],"name":"FBV 4387","engineType":"CE","vin":"WMEEJ3BA9FK799480","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lynnwood St 4918, 78756 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.74038,30.32097,0],"name":"CSF 9197","engineType":"CE","vin":"WMEEJ3BA8EK734506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Barton Skwy 2931, 78746 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.7889,30.26073,0],"name":"FHB 1332","engineType":"CE","vin":"WMEEJ3BAXFK801057","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 243, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75189,30.24836,0],"name":"CZT 0918","engineType":"CE","vin":"WMEEJ3BA1EK748196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pruett St 2361, 78703 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.77222,30.28153,0],"name":"FJD 0195","engineType":"CE","vin":"WMEEJ3BA6FK801721","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Inverness Blvd 1941, 78745 Austin","city":"austin","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-97.79528,30.21753,0],"name":"FBV 4430","engineType":"CE","vin":"WMEEJ3BA3FK799460","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Deep Eddy Ave 301, 78703 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.77302,30.27719,0],"name":"FJC 9790","engineType":"CE","vin":"WMEEJ3BA5FK802066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Baylor St 664, 78703 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.75452,30.27275,0],"name":"GGG 3721","engineType":"CE","vin":"WMEEJ3BAXFK801334","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 3579, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78729,30.23919,0],"name":"CK9 T262","engineType":"CE","vin":"WMEEJ3BA1AK418066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 545, 78704 Austin","city":"austin","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-97.7585,30.25967,0],"name":"CZS 9752","engineType":"CE","vin":"WMEEJ3BA3EK748958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winsted Ln 2455, 78703 Austin","city":"austin","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-97.76006,30.29395,0],"name":"FJC 9938","engineType":"CE","vin":"WMEEJ3BA3FK801871","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hart Ln 7316, 78731 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.75491,30.35712,0],"name":"FJC 9935","engineType":"CE","vin":"WMEEJ3BAXFK801690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 535, 78704 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.75859,30.25979,0],"name":"CZS 9754","engineType":"CE","vin":"WMEEJ3BA0EK748061","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Westridge Dr 2042, 78704 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.77992,30.25413,0],"name":"FFD 7794","engineType":"CE","vin":"WMEEJ3BA9FK801650","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rio Grande St 2040, 78705 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.74506,30.28364,0],"name":"GJX 9016","engineType":"CE","vin":"WMEEJ3BA5AK417888","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Highland Business Center","city":"austin","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-97.71203,30.32424,0],"name":"FHB 0247","engineType":"CE","vin":"WMEEJ3BA4FK802141","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kramer Station - Brockton Dr","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.71756,30.39338,0],"name":"FJC 9936","engineType":"CE","vin":"WMEEJ3BA2FK801781","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Longview St 2524, 78705 Austin","city":"austin","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-97.75068,30.29013,0],"name":"FHB 0245","engineType":"CE","vin":"WMEEJ3BA6FK800908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fairlawn Ln 1809, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73939,30.24117,0],"name":"FJC 9779","engineType":"CE","vin":"WMEEJ3BA0FK802847","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brookview Rd 3868, 78722 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.71037,30.29149,0],"name":"FBV 4392","engineType":"CE","vin":"WMEEJ3BA7FK799252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kinney Ave 950, 78704 Austin","city":"austin","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-97.76452,30.25822,0],"name":"FHB 2845","engineType":"CE","vin":"WMEEJ3BA4FK801863","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hartford Rd 2324, 78703 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.75901,30.29119,0],"name":"CSF 8923","engineType":"CE","vin":"WMEEJ3BA0EK734600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Lamar Blvd 4800, 78756 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.73315,30.31755,0],"name":"FGZ 8687","engineType":"CE","vin":"WMEEJ3BA5FK802746","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"San Antonio St 613, 78701 Austin","city":"austin","fuel":81,"exterior":"GOOD","coordinates":[-97.74725,30.26944,0],"name":"FBV 4422","engineType":"CE","vin":"WMEEJ3BA5FK799802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 733, 78704 Austin","city":"austin","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-97.75693,30.25005,0],"name":"FBV 4439","engineType":"CE","vin":"WMEEJ3BA8FK799261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lamar Square Dr 1330, 78704 Austin","city":"austin","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-97.76399,30.25495,0],"name":"CSF 9191","engineType":"CE","vin":"WMEEJ3BA5EK734706","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bennett Ave 5076, 78751 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.71356,30.31104,0],"name":"FJD 0200","engineType":"CE","vin":"WMEEJ3BA4FK802866","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arabella Apartments","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73756,30.37053,0],"name":"FBV 4372","engineType":"CE","vin":"WMEEJ3BA2FK798591","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 6th St 2227, 78702 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.71823,30.25995,0],"name":"FJC 9792","engineType":"CE","vin":"WMEEJ3BAXFK802015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Interstate 35 1816, 78704 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.73828,30.23984,0],"name":"FGZ 8813","engineType":"CE","vin":"WMEEJ3BA8FK802417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 34th St 710, 78705 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74194,30.30144,0],"name":"CK9 T255","engineType":"CE","vin":"WMEEJ3BA2AK417878","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Salem Hill Dr 5520, 78745 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78864,30.21284,0],"name":"CZS 9753","engineType":"CE","vin":"WMEEJ3BAXEK748066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Drake Ave 1410, 78704 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.7469,30.2488,0],"name":"FFD 6224","engineType":"CE","vin":"WMEEJ3BA6FK801606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 551, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75864,30.25968,0],"name":"CZT 0917","engineType":"CE","vin":"WMEEJ3BA2EK748093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spyglass Dr 1697, 78746 Austin","city":"austin","fuel":27,"exterior":"GOOD","coordinates":[-97.78946,30.25755,0],"name":"FJC 9929","engineType":"CE","vin":"WMEEJ3BA0FK801293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Nile St 1138, 78702 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71209,30.2688,0],"name":"FHB 2858","engineType":"CE","vin":"WMEEJ3BA3FK801966","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carlson Dr 1905, 78741 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.73906,30.2271,0],"name":"CK9 T292","engineType":"CE","vin":"WMEEJ3BA0AK417619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Milton St W 243, 78704 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.75222,30.24744,0],"name":"FBV 4359","engineType":"CE","vin":"WMEEJ3BA2FK799871","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 5th St 1455, 78702 Austin","city":"austin","fuel":54,"exterior":"GOOD","coordinates":[-97.72836,30.26259,0],"name":"CZT 0998","engineType":"CE","vin":"WMEEJ3BA3EK748071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gillis St 4312, 78745 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.78161,30.22715,0],"name":"FHB 1680","engineType":"CE","vin":"WMEEJ3BA6FK802237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Briargrove Dr 2427, 78704 Austin","city":"austin","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-97.77664,30.25892,0],"name":"CK9 T297","engineType":"CE","vin":"WMEEJ3BA9AK416887","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 6th St 1882, 78702 Austin","city":"austin","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-97.72263,30.26187,0],"name":"FBV 4429","engineType":"CE","vin":"WMEEJ3BA3FK799474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Treadwell St 1253, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.76108,30.2558,0],"name":"FHB 0246","engineType":"CE","vin":"WMEEJ3BA4FK802043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Lamar Blvd 4093, 78756 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.73931,30.30819,0],"name":"CSG 1099","engineType":"CE","vin":"WMEEJ3BA5EK749142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clawson Rd 3470, 78704 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.77912,30.23563,0],"name":"CZT 1026","engineType":"CE","vin":"WMEEJ3BA8EK748230","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hardrock Canyon Apartments","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.75122,30.39674,0],"name":"FHB 2860","engineType":"CE","vin":"WMEEJ3BA3FK802079","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Parking Spot","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.67598,30.22049,0],"name":"FHB 2898","engineType":"CE","vin":"WMEEJ3BA3FK799989","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fortview Rd 2029, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78803,30.23122,0],"name":"FHB 2863","engineType":"CE","vin":"WMEEJ3BA3FK802325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Upson St 575, 78703 Austin","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.77086,30.27839,0],"name":"CZT 0919","engineType":"CE","vin":"WMEEJ3BA3EK748832","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Valley View Rd 3948, 78704 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.78395,30.2327,0],"name":"CZT 0997","engineType":"CE","vin":"WMEEJ3BA9EK748432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 5th St 1810, 78702 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.7241,30.26123,0],"name":"CYL 4629","engineType":"CE","vin":"WMEEJ3BA6EK748789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.75875,30.25976,0],"name":"FHB 2861","engineType":"CE","vin":"WMEEJ3BA5FK800771","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Miriam Ave 1622, 78702 Austin","city":"austin","fuel":93,"exterior":"GOOD","coordinates":[-97.71094,30.27843,0],"name":"FJC 9926","engineType":"CE","vin":"WMEEJ3BA2FK801196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Music Ln 1040, 78704 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.74767,30.253,0],"name":"CSG 1538","engineType":"CE","vin":"WMEEJ3BAXEK733986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 1185, 78704 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.76161,30.25197,0],"name":"FHB 2827","engineType":"CE","vin":"WMEEJ3BA9FK802670","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 21st St 579, 78705 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.74376,30.28398,0],"name":"FGZ 8800","engineType":"CE","vin":"WMEEJ3BA1FK801576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawnmont Ave 2239, 78756 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74183,30.3273,0],"name":"FBV 4487","engineType":"CE","vin":"WMEEJ3BA8FK803020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hartford Rd 2322, 78703 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.75906,30.29104,0],"name":"FBV 4423","engineType":"CE","vin":"WMEEJ3BA5FK799685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jones Rd 1975, 78745 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.79386,30.22064,0],"name":"FHB 1676","engineType":"CE","vin":"WMEEJ3BA6FK802724","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pease Rd 2265, 78703 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75692,30.28769,0],"name":"CZT 0933","engineType":"CE","vin":"WMEEJ3BAXEK748410","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wallingwood Dr 2273, 78746 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.78252,30.265,0],"name":"FBV 4369","engineType":"CE","vin":"WMEEJ3BA7FK799204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sabina Apartments","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.72252,30.29244,0],"name":"CSG 2236","engineType":"CE","vin":"WMEEJ3BA8EK736207","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Merle Dr 4536, 78745 Austin","city":"austin","fuel":21,"exterior":"GOOD","coordinates":[-97.78852,30.22727,0],"name":"FGZ 8846","engineType":"CE","vin":"WMEEJ3BA4FK802883","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 531, 78704 Austin","city":"austin","fuel":93,"exterior":"GOOD","coordinates":[-97.7586,30.25983,0],"name":"FBV 4436","engineType":"CE","vin":"WMEEJ3BA9FK799317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Parking Spot","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.67598,30.22049,0],"name":"FHB 2841","engineType":"CE","vin":"WMEEJ3BA3FK800946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Upson St 575, 78703 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.77084,30.27836,0],"name":"DBW 2626","engineType":"CE","vin":"WMEEJ3BA5EK748251","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 34th St 1727, 78703 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.75341,30.30713,0],"name":"CZS 9744","engineType":"CE","vin":"WMEEJ3BA2EK748224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Meriden Ln 1422, 78703 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.76668,30.28639,0],"name":"CZS 9749","engineType":"CE","vin":"WMEEJ3BA2EK748112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mohle Dr 1813, 78703 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.75678,30.30156,0],"name":"FBV 4360","engineType":"CE","vin":"WMEEJ3BA0FK799920","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.75876,30.25979,0],"name":"CZT 0995","engineType":"CE","vin":"WMEEJ3BA8EK748163","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Pleasant Valley Rd 772, 78741 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.71614,30.24436,0],"name":"CZT 0935","engineType":"CE","vin":"WMEEJ3BAXEK748343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shoal Creek Blvd 1612, 78701 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.75035,30.28191,0],"name":"FBV 4368","engineType":"CE","vin":"WMEEJ3BA8FK799213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spyglass Dr 1799, 78746 Austin","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.79105,30.25873,0],"name":"FGZ 8677","engineType":"CE","vin":"WMEEJ3BA1FK801948","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"One Highland Center","city":"austin","fuel":90,"exterior":"GOOD","coordinates":[-97.71164,30.32867,0],"name":"CSG 1543","engineType":"CE","vin":"WMEEJ3BA7EK734643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Baylor St 1008, 78703 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.75327,30.27539,0],"name":"CSF 8925","engineType":"CE","vin":"WMEEJ3BA6EK735329","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Highland Business Center","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.71203,30.32424,0],"name":"FGZ 8810","engineType":"CE","vin":"WMEEJ3BAXFK802189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Southridge Dr 3502, 78704 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.77914,30.23518,0],"name":"CSF 9064","engineType":"CE","vin":"WMEEJ3BA2EK733819","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"University Estates","city":"austin","fuel":60,"exterior":"GOOD","coordinates":[-97.7134,30.2377,0],"name":"FBV 4393","engineType":"CE","vin":"WMEEJ3BA2FK799241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crossing Pl 1793, 78741 Austin","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.71672,30.23272,0],"name":"FHB 2839","engineType":"CE","vin":"WMEEJ3BA0FK801603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W St Johns Ave 863, 78752 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.71896,30.33988,0],"name":"CSG 2238","engineType":"CE","vin":"WMEEJ3BA1EK734993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Lamar Blvd 723, 78703 Austin","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.75337,30.27253,0],"name":"CK9 T246","engineType":"CE","vin":"WMEEJ3BA1AK417225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St W 247, 78704 Austin","city":"austin","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-97.75193,30.24835,0],"name":"CYL 4626","engineType":"CE","vin":"WMEEJ3BA7EK748123","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Duval St 5544, 78751 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.7168,30.31913,0],"name":"FGZ 8801","engineType":"CE","vin":"WMEEJ3BA8FK801526","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Parking Spot","city":"austin","fuel":57,"exterior":"GOOD","coordinates":[-97.67598,30.22049,0],"name":"FTD 8882","engineType":"CE","vin":"WMEEJ3BA2FK802980","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 519, 78704 Austin","city":"austin","fuel":39,"exterior":"GOOD","coordinates":[-97.75832,30.25988,0],"name":"CSF 9072","engineType":"CE","vin":"WMEEJ3BA5EK734575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 541, 78704 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.75868,30.25975,0],"name":"FBV 4467","engineType":"CE","vin":"WMEEJ3BA7FK801727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Trailside Dr 2290, 78704 Austin","city":"austin","fuel":51,"exterior":"GOOD","coordinates":[-97.77342,30.25959,0],"name":"FHB 1329","engineType":"CE","vin":"WMEEJ3BA6FK801671","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hardrock Canyon Apartments","city":"austin","fuel":75,"exterior":"GOOD","coordinates":[-97.75122,30.39674,0],"name":"CK9 T304","engineType":"CE","vin":"WMEEJ3BA8AK417836","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 599, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.75881,30.2593,0],"name":"FBV 4427","engineType":"CE","vin":"WMEEJ3BA0FK799514","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W North Loop Blvd 1477, 78756 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.7368,30.32454,0],"name":"FGZ 8680","engineType":"CE","vin":"WMEEJ3BA5FK802696","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Hartford Rd 1630, 78703 Austin","city":"austin","fuel":42,"exterior":"GOOD","coordinates":[-97.76113,30.28578,0],"name":"CSG 1540","engineType":"CE","vin":"WMEEJ3BA8EK733842","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Monroe St E 955, 78704 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.74225,30.24485,0],"name":"FHB 2854","engineType":"CE","vin":"WMEEJ3BA4FK800020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Avenue A 4378, 78751 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.73289,30.30908,0],"name":"FBV 4492","engineType":"CE","vin":"WMEEJ3BA8FK802630","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Aberdeen Cir 4968, 78745 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.7798,30.21568,0],"name":"FGZ 8625","engineType":"CE","vin":"WMEEJ3BA2FK802588","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 523, 78704 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.75853,30.25989,0],"name":"FJC 9937","engineType":"CE","vin":"WMEEJ3BA3FK801790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Chalmers Ave 656, 78702 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.72433,30.26287,0],"name":"CZT 1033","engineType":"CE","vin":"WMEEJ3BA9EK748513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kingsbury St 1217, 78703 Austin","city":"austin","fuel":72,"exterior":"GOOD","coordinates":[-97.75245,30.28128,0],"name":"CZT 0921","engineType":"CE","vin":"WMEEJ3BA1EK748814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Glen Allen St 1972, 78704 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.78067,30.2409,0],"name":"FBV 4356","engineType":"CE","vin":"WMEEJ3BA3FK797689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tinnin Ford Rd 1541, 78741 Austin","city":"austin","fuel":93,"exterior":"GOOD","coordinates":[-97.72643,30.24082,0],"name":"FBV 4355","engineType":"CE","vin":"WMEEJ3BA5FK798990","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kerbey Ln 3428, 78703 Austin","city":"austin","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-97.75092,30.30616,0],"name":"CZS 9745","engineType":"CE","vin":"WMEEJ3BA0EK748643","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rutherford Pl 852, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74066,30.24964,0],"name":"FBV 4438","engineType":"CE","vin":"WMEEJ3BA2FK799286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 527, 78704 Austin","city":"austin","fuel":33,"exterior":"GOOD","coordinates":[-97.75865,30.25988,0],"name":"FBV 4361","engineType":"CE","vin":"WMEEJ3BA6FK799503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bluebonnet Ln 1121, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.76969,30.25923,0],"name":"FBV 4371","engineType":"CE","vin":"WMEEJ3BAXFK798502","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Waterloo Trl 1680, 78704 Austin","city":"austin","fuel":96,"exterior":"GOOD","coordinates":[-97.77509,30.2412,0],"name":"FHB 1331","engineType":"CE","vin":"WMEEJ3BA8FK801171","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Waller St 1162, 78702 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.72854,30.26993,0],"name":"FBV 4470","engineType":"CE","vin":"WMEEJ3BA5FK802424","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lockhart Dr 529, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.7474,30.24327,0],"name":"FJD 0199","engineType":"CE","vin":"WMEEJ3BA3FK802874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jessee E Segovia St 2065, 78702 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.72547,30.25014,0],"name":"FBV 4433","engineType":"CE","vin":"WMEEJ3BAXFK799391","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"ACC Eastview Campus","city":"austin","fuel":48,"exterior":"GOOD","coordinates":[-97.70532,30.26726,0],"name":"FJD 0193","engineType":"CE","vin":"WMEEJ3BA5FK802133","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beanna St 2902, 78705 Austin","city":"austin","fuel":36,"exterior":"GOOD","coordinates":[-97.73016,30.28942,0],"name":"CSG 1521","engineType":"CE","vin":"WMEEJ3BA3EK735465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"The Parking Spot","city":"austin","fuel":30,"exterior":"GOOD","coordinates":[-97.67598,30.22049,0],"name":"CSG 1542","engineType":"CE","vin":"WMEEJ3BA2EK733240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Skyway Cir 2804, 78704 Austin","city":"austin","fuel":78,"exterior":"GOOD","coordinates":[-97.78202,30.24514,0],"name":"FGZ 8627","engineType":"CE","vin":"WMEEJ3BA4FK802477","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Congress Ave 528, 78704 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.74749,30.25646,0],"name":"FHB 0243","engineType":"CE","vin":"WMEEJ3BA2FK799983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lakeshore Blvd 2046, 78741 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.72485,30.24484,0],"name":"FFD 7841","engineType":"CE","vin":"WMEEJ3BA6FK803145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"West Ave 1565, 78701 Austin","city":"austin","fuel":63,"exterior":"GOOD","coordinates":[-97.74695,30.27976,0],"name":"CSG 2511","engineType":"CE","vin":"WMEEJ3BA5EK736052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clawson Rd 3638, 78704 Austin","city":"austin","fuel":87,"exterior":"GOOD","coordinates":[-97.78089,30.23507,0],"name":"FHB 1334","engineType":"CE","vin":"WMEEJ3BAXFK800541","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lamar Blvd 537, 78704 Austin","city":"austin","fuel":45,"exterior":"GOOD","coordinates":[-97.75865,30.25978,0],"name":"FBV 4370","engineType":"CE","vin":"WMEEJ3BAXFK798967","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lyons Rd 2733, 78702 Austin","city":"austin","fuel":66,"exterior":"GOOD","coordinates":[-97.70855,30.26418,0],"name":"FGZ 8689","engineType":"CE","vin":"WMEEJ3BAXFK802161","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Anise Dr 1446, 78741 Austin","city":"austin","fuel":100,"exterior":"GOOD","coordinates":[-97.69267,30.22487,0],"name":"FHB 2840","engineType":"CE","vin":"WMEEJ3BA4FK801815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Crestwood Rd 1281, 78722 Austin","city":"austin","fuel":69,"exterior":"GOOD","coordinates":[-97.71438,30.29993,0],"name":"FGZ 8615","engineType":"CE","vin":"WMEEJ3BA8FK802384","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

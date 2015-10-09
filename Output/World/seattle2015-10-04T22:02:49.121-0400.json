@@ -1,0 +1,1132 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Emerson St 817, 98119 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36827,47.65177,0],"name":"ATZ5133","engineType":"CE","vin":"WMEEJ3BA6FK794270","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave SW 3951, 98116 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38146,47.5688,0],"name":"ATZ5002","engineType":"CE","vin":"WMEEJ3BAXEK780130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Spring St 1124, 98104 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.32553,47.61019,0],"name":"AKN 2701","engineType":"CE","vin":"WMEEJ3BA6CK569097","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Washington St 661, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32555,47.60083,0],"name":"ATZ5038","engineType":"CE","vin":"WMEEJ3BA3FK788295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 454, 98104 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.33415,47.59874,0],"name":"AUK2212","engineType":"CE","vin":"WMEEJ3BA1FK788618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th Ave NE 7647, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3163,47.68472,0],"name":"AKN 2832","engineType":"CE","vin":"WMEEJ3BA8CK568808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bagley Ave N 3689, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33276,47.65183,0],"name":"ATZ 5045","engineType":"CE","vin":"WMEEJ3BA6FK788632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Austin St 4837, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.27165,47.53466,0],"name":"ANK7400","engineType":"CE","vin":"WMEEJ3BA6DK685336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Homer St 708, 98108 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.32348,47.55171,0],"name":"ATS 2917","engineType":"CE","vin":"WMEEJ3BA2FK799840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 117th St 2377, 98133 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32937,47.71403,0],"name":"AKN 2787","engineType":"CE","vin":"WMEEJ3BA9CK573015","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Bennett St 1606, 98108 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.31204,47.55479,0],"name":"AKN 2883","engineType":"CE","vin":"WMEEJ3BA8CK569019","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Western Ave 1023, 98104 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.33754,47.60441,0],"name":"ATZ5014","engineType":"CE","vin":"WMEEJ3BA2EK782292","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd Ave W 3477, 98199 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.38476,47.65177,0],"name":"ANK7376","engineType":"CE","vin":"WMEEJ3BA5DK683397","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minor Ave N 835, 98109 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.33266,47.62635,0],"name":"AKN 2814","engineType":"CE","vin":"WMEEJ3BA9CK575699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gould Ave S 6258, 98108 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.30354,47.54679,0],"name":"ALU 5926","engineType":"CE","vin":"WMEEJ3BA8DK656517","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 73rd St 1078, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31663,47.68154,0],"name":"ATZ5128","engineType":"CE","vin":"WMEEJ3BA4FK793327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Sullivan St 977, 98108 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.32051,47.52728,0],"name":"AKL 4098","engineType":"CE","vin":"WMEEJ3BA8CK570588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"61st Ave S 10369, 98178 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.2577,47.50803,0],"name":"ALU 5940","engineType":"CE","vin":"WMEEJ3BA9DK660317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 4053, 98134 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.33433,47.56766,0],"name":"ALU 5961","engineType":"CE","vin":"WMEEJ3BA6DK655706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Brandon St 2975, 98108 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.29446,47.55351,0],"name":"AKN 2921","engineType":"CE","vin":"WMEEJ3BA8CK574995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Henderson St 4592, 98136 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.39252,47.52357,0],"name":"ATZ5669","engineType":"CE","vin":"WMEEJ3BA5FK794695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave W 3857, 98199 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.40234,47.65507,0],"name":"ATZ5120","engineType":"CE","vin":"WMEEJ3BA0FK790442","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Evanston Ave N 3630, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35124,47.65172,0],"name":"ANK7415","engineType":"CE","vin":"WMEEJ3BA7DK685216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 101st St 136, 98177 Seattle","city":"seattle","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-122.35852,47.70225,0],"name":"AKN 2812","engineType":"CE","vin":"WMEEJ3BA5CK572802","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 98th St 531, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32226,47.70043,0],"name":"ALU 5967","engineType":"CE","vin":"WMEEJ3BA1DK655452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Ave E 221, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29129,47.62041,0],"name":"AKL 4095","engineType":"CE","vin":"WMEEJ3BA5CK569575","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Pl NE 4639, 98105 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.30452,47.66266,0],"name":"ALU 5930","engineType":"CE","vin":"WMEEJ3BA8DK655321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"44th Ave NE 6845, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28134,47.67854,0],"name":"ALU 5992","engineType":"CE","vin":"WMEEJ3BA4DK660497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Fontanelle St 319, 98108 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.3299,47.53663,0],"name":"ATZ 5101","engineType":"CE","vin":"WMEEJ3BA7FK790714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 55th St 1269, 98105 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.31447,47.66854,0],"name":"AKN 2863","engineType":"CE","vin":"WMEEJ3BA6CK567852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 58th St 119, 98105 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.32771,47.67082,0],"name":"AKN2769","engineType":"CE","vin":"WMEEJ3BA2CK569386","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5471, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32415,47.55369,0],"name":"AKN 2650","engineType":"CE","vin":"WMEEJ3BAXCK563528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th Ave S, 98104 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.31927,47.59624,0],"name":"ATS2903","engineType":"CE","vin":"WMEEJ3BA1FK799862","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 110th St 4210, 98125 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.28224,47.70852,0],"name":"AKN2664","engineType":"CE","vin":"WMEEJ3BAXCK569975","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave SW 8873, 98106 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.35063,47.52335,0],"name":"ATS2939","engineType":"CE","vin":"WMEEJ3BA3FK800123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1941, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33435,47.58584,0],"name":"AKN 2916","engineType":"CE","vin":"WMEEJ3BA6CK572985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th Ave S 5329, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3162,47.55475,0],"name":"ATZ5006","engineType":"CE","vin":"WMEEJ3BAXEK780922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave NW 9068, 98117 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.37135,47.69555,0],"name":"ARY 1540","engineType":"CE","vin":"WMEEJ3BAXCK574433","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1777, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33434,47.58745,0],"name":"AKN 2766","engineType":"CE","vin":"WMEEJ3BA1CK570576","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Walker St 985, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32065,47.58369,0],"name":"ATS 2921","engineType":"CE","vin":"WMEEJ3BA2FK800310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 2034, 98116 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38629,47.5859,0],"name":"ATZ5048","engineType":"CE","vin":"WMEEJ3BA6FK788677","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave S 4267, 98134 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.3321,47.56471,0],"name":"ATZ 5113","engineType":"CE","vin":"WMEEJ3BA0FK789582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 34th St 561, 98103 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.35195,47.64988,0],"name":"ATZ5118","engineType":"CE","vin":"WMEEJ3BA6FK790249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd Ave NE 14371, 98125 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.30601,47.73341,0],"name":"AKN 2732","engineType":"CE","vin":"WMEEJ3BA9DK629150","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway 1678, 98122 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32078,47.61612,0],"name":"ALU 5997","engineType":"CE","vin":"WMEEJ3BA8DK659627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"24th Ave NW 8349, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38775,47.6898,0],"name":"AKN 2755","engineType":"CE","vin":"WMEEJ3BA6CK569696","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Homer St 806, 98108 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.32162,47.55089,0],"name":"ATS 2904","engineType":"CE","vin":"WMEEJ3BAXFK800104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th Ave W 2508, 98119 Seattle","city":"seattle","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-122.37356,47.64091,0],"name":"AWB6188","engineType":"CE","vin":"WMEEJ3BA4FK794963","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maynard Ave S 5429, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32546,47.55392,0],"name":"ATZ5667","engineType":"CE","vin":"WMEEJ3BAXFK794580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 85th St 3139, 98117 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.39748,47.69053,0],"name":"APT 6485","engineType":"CE","vin":"WMEEJ3BA6CK563946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 6881, 98136 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.38739,47.54202,0],"name":"ATZ5069","engineType":"CE","vin":"WMEEJ3BA9FK792741","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Andover St 3368, 98126 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.37475,47.56792,0],"name":"AKL 4099","engineType":"CE","vin":"WMEEJ3BA6CK570797","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 77th St 2366, 98117 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.38683,47.68497,0],"name":"ATS 2910","engineType":"CE","vin":"WMEEJ3BAXFK799925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 54th St 3089, 98107 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.39796,47.66727,0],"name":"ANK 7384","engineType":"CE","vin":"WMEEJ3BAXDK683735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midvale Ave N 8747, 98103 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.34236,47.69205,0],"name":"ATZ5658","engineType":"CE","vin":"WMEEJ3BA6FK794690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Olive St 1743, 98122 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.30957,47.61621,0],"name":"AKN 2831","engineType":"CE","vin":"WMEEJ3BA8CK575791","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Main St 651, 98104 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.32469,47.59997,0],"name":"AKN 2712","engineType":"CE","vin":"WMEEJ3BA1CK569217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Raymond St 2811, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29646,47.54806,0],"name":"ANK7390","engineType":"CE","vin":"WMEEJ3BAXDK684223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 55th St 2139, 98105 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.30487,47.6687,0],"name":"ANK7366","engineType":"CE","vin":"WMEEJ3BA8DK683765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Stevens St 919, 98134 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.32116,47.57686,0],"name":"ANK7391","engineType":"CE","vin":"WMEEJ3BA9DK684469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Commodore Way 3374, 98199 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.40129,47.66554,0],"name":"AKN 2706","engineType":"CE","vin":"WMEEJ3BA0CK570178","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 89th St 1023, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31694,47.69312,0],"name":"ANK7406","engineType":"CE","vin":"WMEEJ3BA8DK684950","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Burke Ave N 3639, 98103 Seattle","city":"seattle","fuel":24,"exterior":"GOOD","coordinates":[-122.33512,47.6511,0],"name":"AKN 2745","engineType":"CE","vin":"WMEEJ3BA4CK569518","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 869, 98108 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.32161,47.54979,0],"name":"AKN 2746","engineType":"CE","vin":"WMEEJ3BA5CK575845","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S King St 110, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33386,47.59832,0],"name":"AKN2880","engineType":"CE","vin":"WMEEJ3BA3CK568943","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Highland Dr 1968, 98112 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.30638,47.63063,0],"name":"AUK2232","engineType":"CE","vin":"WMEEJ3BA9FK794215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave 631, 98104 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.3286,47.60425,0],"name":"ALU 5944","engineType":"CE","vin":"WMEEJ3BA7DK655665","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave NW 13213, 98177 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.3637,47.7253,0],"name":"AKN 2904","engineType":"CE","vin":"WMEEJ3BAXCK577574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 540, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33415,47.59761,0],"name":"AKN 2793","engineType":"CE","vin":"WMEEJ3BAXCK570432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Woodland Park Ave N 4438, 98103 Seattle","city":"seattle","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-122.34452,47.66044,0],"name":"AKN 2893","engineType":"CE","vin":"WMEEJ3BA1CK560713","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th Ave NE 4713, 98105 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32397,47.66341,0],"name":"AKN 2747","engineType":"CE","vin":"WMEEJ3BA3CK570563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sand Point Way NE 5534, 98105 Seattle","city":"seattle","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-122.2723,47.669,0],"name":"ATS2942","engineType":"CE","vin":"WMEEJ3BA1FK799618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave S 369, 98144 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.29993,47.59953,0],"name":"AKN 2673","engineType":"CE","vin":"WMEEJ3BA9CK575718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 45th St 200, 98103 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.35614,47.6615,0],"name":"AKN2726","engineType":"CE","vin":"WMEEJ3BA7CK577435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Court St, 98144 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.31506,47.57079,0],"name":"AKN 2749","engineType":"CE","vin":"WMEEJ3BA2CK568397","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 10937, 98133 Seattle","city":"seattle","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-122.34754,47.70822,0],"name":"APT 6436","engineType":"CE","vin":"WMEEJ3BA6DK660713","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Avalon Way 3264, 98126 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.37487,47.56411,0],"name":"ATZ5003","engineType":"CE","vin":"WMEEJ3BA0EK780461","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 64th St 2325, 98103 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.33021,47.67517,0],"name":"ALU 5932","engineType":"CE","vin":"WMEEJ3BA7DK655293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Concord St 1317, 98108 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.3154,47.52384,0],"name":"AKN 2629","engineType":"CE","vin":"WMEEJ3BA3CK569171","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1777, 98134 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.33442,47.58745,0],"name":"ATZ5022","engineType":"CE","vin":"WMEEJ3BA5EK784036","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Thistle St 3964, 98118 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.28177,47.52792,0],"name":"ATZ5108","engineType":"CE","vin":"WMEEJ3BA5FK789500","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 859, 98108 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.32174,47.54994,0],"name":"AKN2686","engineType":"CE","vin":"WMEEJ3BA8CK573622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mercer St 3469, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28727,47.62498,0],"name":"ATS 2913","engineType":"CE","vin":"WMEEJ3BA4FK799709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave SW 4225, 98106 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.36546,47.56599,0],"name":"ALU 5915","engineType":"CE","vin":"WMEEJ3BA4DK660306","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave S 1711, 98144 Seattle","city":"seattle","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-122.31482,47.58832,0],"name":"AWB6241","engineType":"CE","vin":"WMEEJ3BA1FK791745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 89th St 3039, 98117 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.3962,47.69361,0],"name":"ANK7352","engineType":"CE","vin":"WMEEJ3BA4DK684508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 83rd St 569, 98115 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.32113,47.68893,0],"name":"ANK7404","engineType":"CE","vin":"WMEEJ3BA3DK684127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave E 319, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28719,47.62216,0],"name":"AUK2203","engineType":"CE","vin":"WMEEJ3BA0FK788593","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 311, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33082,47.55184,0],"name":"AKN 2824","engineType":"CE","vin":"WMEEJ3BA7CK562983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 55th St 2378, 98103 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.32859,47.66866,0],"name":"ANK 7373","engineType":"CE","vin":"WMEEJ3BA4DK683715","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 70th St 3082, 98115 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.29483,47.67941,0],"name":"ANK7393","engineType":"CE","vin":"WMEEJ3BA4DK684959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Harrison St 421, 98102 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.32632,47.62195,0],"name":"AKN2849","engineType":"CE","vin":"WMEEJ3BAXCK577347","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 143rd St 313, 98133 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.35452,47.73233,0],"name":"ATS 2927","engineType":"CE","vin":"WMEEJ3BA6FK799940","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NE 9035, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32031,47.69434,0],"name":"AUK2227","engineType":"CE","vin":"WMEEJ3BA5EK784019","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th Ave NW 7521, 98117 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.393,47.68352,0],"name":"AKN 2768","engineType":"CE","vin":"WMEEJ3BA3CK568828","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Delridge Way SW 6021, 98106 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.36315,47.548,0],"name":"AUK2238","engineType":"CE","vin":"WMEEJ3BA8FK793234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th Ave SW 9484, 98106 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35917,47.51766,0],"name":"AKN 2798","engineType":"CE","vin":"WMEEJ3BA0CK572898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"38th Ave SW 6388, 98126 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.38046,47.54494,0],"name":"AKN 2864","engineType":"CE","vin":"WMEEJ3BA9CK567635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave S 3361, 98144 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.30692,47.57348,0],"name":"ATZ5043","engineType":"CE","vin":"WMEEJ3BA2FK788532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd Ave SW 2219, 98116 Seattle","city":"seattle","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-122.3851,47.58377,0],"name":"AKN 2757","engineType":"CE","vin":"WMEEJ3BA5CK570452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 7150, 98103 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.34717,47.68071,0],"name":"AUK2242","engineType":"CE","vin":"WMEEJ3BA7FK787764","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Windermere Rd 6656, 98115 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.25475,47.67369,0],"name":"AWB6197","engineType":"CE","vin":"WMEEJ3BA9FK794635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mercer St 1261, 98109 Seattle","city":"seattle","fuel":9,"exterior":"UNACCEPTABLE","coordinates":[-122.33147,47.62425,0],"name":"AWB6245","engineType":"CE","vin":"WMEEJ3BA0FK788366","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 113th St 2868, 98125 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.29668,47.7101,0],"name":"AKN 2792","engineType":"CE","vin":"WMEEJ3BA1CK570111","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Garfield St 717, 98109 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.34278,47.63338,0],"name":"APT 6690","engineType":"CE","vin":"WMEEJ3BA3DK660412","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Hanford St 88, 98134 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.33471,47.57562,0],"name":"AKN 2667","engineType":"CE","vin":"WMEEJ3BA7CK569819","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Spring St 2881, 98122 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.29516,47.61167,0],"name":"AKN 2752","engineType":"CE","vin":"WMEEJ3BA7CK570646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 115th St 7009, 98178 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.24699,47.49968,0],"name":"AKN 2806","engineType":"CE","vin":"WMEEJ3BA3CK577660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Burke Ave N 3877, 98103 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.33516,47.65407,0],"name":"AKN 2662","engineType":"CE","vin":"WMEEJ3BA4CK569471","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Henderson St 1364, 98108 Seattle","city":"seattle","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.31538,47.52309,0],"name":"AKN 2844","engineType":"CE","vin":"WMEEJ3BA3CK577707","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 85th St 134, 98115 Seattle","city":"seattle","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.32784,47.69048,0],"name":"AWL4646","engineType":"CE","vin":"WMEEJ3BA3FK794923","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Stevens St 4045, 98116 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.3826,47.57689,0],"name":"AWB6187","engineType":"CE","vin":"WMEEJ3BA3FK790614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 117th St 2724, 98125 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.29857,47.71437,0],"name":"AKN2808","engineType":"CE","vin":"WMEEJ3BA8CK577492","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Main St 561, 98104 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.32688,47.60004,0],"name":"ATZ5122","engineType":"CE","vin":"WMEEJ3BAXFK790514","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave S 5383, 98108 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.31717,47.55372,0],"name":"ATZ5063","engineType":"CE","vin":"WMEEJ3BA5FK791926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Durland Ave NE 10785, 98125 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.27881,47.70892,0],"name":"ATZ5081","engineType":"CE","vin":"WMEEJ3BA5FK795118","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Vale St 966, 98108 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.31856,47.54898,0],"name":"AKN 2709","engineType":"CE","vin":"WMEEJ3BA3CK569607","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 5903, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32698,47.54995,0],"name":"ALU 5963","engineType":"CE","vin":"WMEEJ3BA2DK656383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Pike St 3033, 98122 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.29312,47.61408,0],"name":"ATS2935","engineType":"CE","vin":"WMEEJ3BA9FK799883","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Padilla Pl S 5825, 98108 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.32292,47.55062,0],"name":"ANK 7379","engineType":"CE","vin":"WMEEJ3BA1DK683462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry St 453, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33021,47.60412,0],"name":"AUK2211","engineType":"CE","vin":"WMEEJ3BA4FK789164","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 95th St 1480, 98103 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.34039,47.69781,0],"name":"AKN 2816","engineType":"CE","vin":"WMEEJ3BA3CK574368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave NW, 98107 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.37352,47.67399,0],"name":"ALU5942","engineType":"CE","vin":"WMEEJ3BA5DK660878","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Brandon St 1967, 98106 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.35941,47.55374,0],"name":"ALU5918","engineType":"CE","vin":"WMEEJ3BA5DK660069","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 35th St 1648, 98103 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.33811,47.64924,0],"name":"ANK 7377","engineType":"CE","vin":"WMEEJ3BA4DK684413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beacon Ave S 8631, 98118 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.28774,47.52525,0],"name":"AKN2724","engineType":"CE","vin":"WMEEJ3BA1CK568858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 70th St 5880, 98115 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.264,47.67942,0],"name":"AKN 2915","engineType":"CE","vin":"WMEEJ3BA4CK563959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 829, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32247,47.5502,0],"name":"AUK2220","engineType":"CE","vin":"WMEEJ3BA7EK782174","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NE, 98155 Seattle","city":"seattle","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-122.32883,47.73365,0],"name":"ATZ5076","engineType":"CE","vin":"WMEEJ3BA1FK793205","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 2117, 98116 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38647,47.58517,0],"name":"APT7830","engineType":"CE","vin":"WMEEJ3BA4CK570202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NE, 98155 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.32883,47.7337,0],"name":"AKN 2675","engineType":"CE","vin":"WMEEJ3BA0CK572884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave E 643, 98102 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.31669,47.62474,0],"name":"AKN 2780","engineType":"CE","vin":"WMEEJ3BA3CK579439","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Thistle St 2661, 98126 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36664,47.52824,0],"name":"ATZ5084","engineType":"CE","vin":"WMEEJ3BA1EK782333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beacon Ave S 6377, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.30047,47.5456,0],"name":"ANK7369","engineType":"CE","vin":"WMEEJ3BA8DK683622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Queen Anne Ave N 1955, 98109 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.35697,47.63663,0],"name":"ANK7418","engineType":"CE","vin":"WMEEJ3BA1DK683509","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stewart St 630, 98101 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.33696,47.614,0],"name":"ALU 5916","engineType":"CE","vin":"WMEEJ3BA2DK660448","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marion St 1161, 98104 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.32373,47.60886,0],"name":"ALU 5949","engineType":"CE","vin":"WMEEJ3BAXDK655515","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Creston St 5115, 98178 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.26985,47.50702,0],"name":"ATZ5058","engineType":"CE","vin":"WMEEJ3BA4FK791223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 49th St 359, 98103 Seattle","city":"seattle","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-122.35456,47.66428,0],"name":"ALU 5941","engineType":"CE","vin":"WMEEJ3BA9DK659412","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Pike St 715, 98122 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.32317,47.61404,0],"name":"ATZ5137","engineType":"CE","vin":"WMEEJ3BA3FK794565","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Creston St 5115, 98178 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.26985,47.50699,0],"name":"ATZ 5057","engineType":"CE","vin":"WMEEJ3BA4FK790864","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cornell Ave S 11488, 98178 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.24139,47.49984,0],"name":"ANK7370","engineType":"CE","vin":"WMEEJ3BA0DK683887","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 103rd St 207, 98133 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.35654,47.70366,0],"name":"AWB6194","engineType":"CE","vin":"WMEEJ3BA7FK794245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rainier Ave S 2607, 98144 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.29983,47.57993,0],"name":"ATS 2906","engineType":"CE","vin":"WMEEJ3BA1FK800055","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"56th Ave S 9231, 98118 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.26286,47.51979,0],"name":"AWL4648","engineType":"CE","vin":"WMEEJ3BA9FK795008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Thomas St 563, 98102 Seattle","city":"seattle","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.32446,47.62078,0],"name":"AKN 2853","engineType":"CE","vin":"WMEEJ3BA6CK579614","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave NW 8553, 98117 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.38118,47.6916,0],"name":"ATZ5092","engineType":"CE","vin":"WMEEJ3BA0FK787508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 75th St 5801, 98115 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.26515,47.68268,0],"name":"AKN 2690","engineType":"CE","vin":"WMEEJ3BA1CK573655","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"43rd Ave NE 6537, 98115 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.28225,47.6765,0],"name":"AKN 2663","engineType":"CE","vin":"WMEEJ3BA5CK569933","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"18th Ave NW 7751, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38009,47.68595,0],"name":"ATZ5019","engineType":"CE","vin":"WMEEJ3BA1EK783465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 85th St 1662, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.37853,47.69064,0],"name":"ALU 5907","engineType":"CE","vin":"WMEEJ3BA1DK660179","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Marion St 3270, 98122 Seattle","city":"seattle","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-122.29068,47.6104,0],"name":"APT6437","engineType":"CE","vin":"WMEEJ3BA6CK574042","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th Ave 2717, 98121 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.34831,47.61791,0],"name":"ATZ5001","engineType":"CE","vin":"WMEEJ3BAXEK779642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Interlake Ave N 10373, 98133 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.34074,47.7046,0],"name":"ATS2943","engineType":"CE","vin":"WMEEJ3BA0FK799951","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dayton Ave N 9011, 98103 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.35263,47.69439,0],"name":"ATS 2946","engineType":"CE","vin":"WMEEJ3BA4FK799824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James St 274, 98104 Seattle","city":"seattle","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-122.33168,47.60262,0],"name":"ATS 2934","engineType":"CE","vin":"WMEEJ3BAXFK799648","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 45th St 632, 98107 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.3647,47.66151,0],"name":"AUK2206","engineType":"CE","vin":"WMEEJ3BA0FK787749","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 70th St 950, 98115 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.31809,47.67953,0],"name":"ALU 5927","engineType":"CE","vin":"WMEEJ3BA9DK657420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave NW 8565, 98117 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.37692,47.6918,0],"name":"ALU5955","engineType":"CE","vin":"WMEEJ3BA1DK655239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sand Point Way NE 7456, 98115 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.26361,47.68261,0],"name":"ATE 9154","engineType":"CE","vin":"WMEEJ3BA6CK562926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 67th St 2379, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38709,47.67768,0],"name":"AKN2875","engineType":"CE","vin":"WMEEJ3BA5CK569754","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave E 1087, 98112 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.3004,47.62898,0],"name":"AKN 2783","engineType":"CE","vin":"WMEEJ3BA1CK577334","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 36th St 2157, 98103 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.33317,47.65047,0],"name":"ALU 5998","engineType":"CE","vin":"WMEEJ3BA0DK659573","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave S 547, 98144 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29884,47.59744,0],"name":"AKN 2610","engineType":"CE","vin":"WMEEJ3BA9CK563357","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave NE 13245, 98125 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.29094,47.72522,0],"name":"ALU 5989","engineType":"CE","vin":"WMEEJ3BA4DK660077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Main St 523, 98104 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.32737,47.59998,0],"name":"AKN 2817","engineType":"CE","vin":"WMEEJ3BA3CK573981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Oregon St 4263, 98116 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.38631,47.56285,0],"name":"AKN 2899","engineType":"CE","vin":"WMEEJ3BA2CK569940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"40th Ave NE 14395, 98125 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.28576,47.7332,0],"name":"ATS2901","engineType":"CE","vin":"WMEEJ3BA5FK799735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 120th St 1523, 98133 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33897,47.71592,0],"name":"AKN 2791","engineType":"CE","vin":"WMEEJ3BA4CK570183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd Ave SW 6591, 98106 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.36271,47.54354,0],"name":"AKN 2884","engineType":"CE","vin":"WMEEJ3BA7CK574468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave S 3253, 98144 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.3053,47.57453,0],"name":"AKN2703","engineType":"CE","vin":"WMEEJ3BA0CK570813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James St 166, 98104 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.33292,47.6021,0],"name":"AKN2616","engineType":"CE","vin":"WMEEJ3BA6CK569259","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave SW 6005, 98106 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.35987,47.54761,0],"name":"AUK2230","engineType":"CE","vin":"WMEEJ3BA7EK784183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 138, 98108 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.33348,47.55199,0],"name":"ATZ5097","engineType":"CE","vin":"WMEEJ3BA6FK787562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave S 549, 98104 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.32381,47.59794,0],"name":"ATZ5136","engineType":"CE","vin":"WMEEJ3BA2FK794525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 88th St 689, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36569,47.69282,0],"name":"ANK7374","engineType":"CE","vin":"WMEEJ3BAXDK684867","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N, 98133 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.34842,47.72254,0],"name":"AWB6190","engineType":"CE","vin":"WMEEJ3BA8FK790706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S King St 125, 98104 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.33349,47.59818,0],"name":"AKN2897","engineType":"CE","vin":"WMEEJ3BAXCK567773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 64th St 835, 98115 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.31957,47.67502,0],"name":"AKN 2890","engineType":"CE","vin":"WMEEJ3BA0CK574862","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Alaska St 43, 98134 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.33818,47.56007,0],"name":"ANK7420","engineType":"CE","vin":"WMEEJ3BA3DK685388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave S 6037, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31738,47.54897,0],"name":"ATS2907","engineType":"CE","vin":"WMEEJ3BA5FK799850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Valley St 337, 98109 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.35051,47.62627,0],"name":"AUK2229","engineType":"CE","vin":"WMEEJ3BA4EK783332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"5th Ave SW 9477, 98106 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.34165,47.51769,0],"name":"ANK7381","engineType":"CE","vin":"WMEEJ3BA9DK684116","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway E 783, 98102 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.32133,47.62655,0],"name":"ATZ5053","engineType":"CE","vin":"WMEEJ3BA3FK789138","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th Ave NW 8379, 98117 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.39439,47.69021,0],"name":"ATZ5051","engineType":"CE","vin":"WMEEJ3BA4FK788712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave NW 8389, 98117 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.37793,47.69041,0],"name":"ANK7414","engineType":"CE","vin":"WMEEJ3BA1DK683638","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave SW 5635, 98106 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35484,47.55235,0],"name":"AKN 2807","engineType":"CE","vin":"WMEEJ3BA5CK577675","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Francis Ave N 4287, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35338,47.65886,0],"name":"AKN 2819","engineType":"CE","vin":"WMEEJ3BA2CK569856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave 177, 98122 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.29995,47.60311,0],"name":"ALU5987","engineType":"CE","vin":"WMEEJ3BA1DK660201","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 62nd St 2434, 98107 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.38844,47.67382,0],"name":"ATS 2920","engineType":"CE","vin":"WMEEJ3BA9FK799818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1641, 98134 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.33421,47.58884,0],"name":"AUK2208","engineType":"CE","vin":"WMEEJ3BAXFK788438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Jackson St 668, 98104 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.32456,47.59927,0],"name":"ALU 5966","engineType":"CE","vin":"WMEEJ3BA9DK655425","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 59th St 5698, 98105 Seattle","city":"seattle","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-122.26669,47.6717,0],"name":"AKN 2716","engineType":"CE","vin":"WMEEJ3BA3CK570840","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Union St 1856, 98122 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.30803,47.61296,0],"name":"AKN2901","engineType":"CE","vin":"WMEEJ3BA9CK570499","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave S 1768, 98144 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.29908,47.58737,0],"name":"AWB6186","engineType":"CE","vin":"WMEEJ3BA7FK794150","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave 711, 98122 Seattle","city":"seattle","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.31152,47.60818,0],"name":"ATZ5004","engineType":"CE","vin":"WMEEJ3BA2EK780543","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Yesler Way 2933, 98122 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.29449,47.6016,0],"name":"ANK7372","engineType":"CE","vin":"WMEEJ3BA9DK685282","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave W 3854, 98119 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.38102,47.65475,0],"name":"ATZ5123","engineType":"CE","vin":"WMEEJ3BA3FK794825","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Ave NE 14304, 98125 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.29376,47.73207,0],"name":"AKN2641","engineType":"CE","vin":"WMEEJ3BA6CK570234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 7021, 98136 Seattle","city":"seattle","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-122.38736,47.54056,0],"name":"ATZ5074","engineType":"CE","vin":"WMEEJ3BA1FK793172","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave NW 7271, 98117 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.35949,47.68153,0],"name":"AKN 2770","engineType":"CE","vin":"WMEEJ3BA2CK575074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Post Ave 724, 98104 Seattle","city":"seattle","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-122.33514,47.60265,0],"name":"ANK7405","engineType":"CE","vin":"WMEEJ3BA7DK683580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fremont Ave N 12031, 98133 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35022,47.71656,0],"name":"ATS 2938","engineType":"CE","vin":"WMEEJ3BA2FK799725","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"44th Ave NE 6807, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28092,47.67791,0],"name":"AKN 2754","engineType":"CE","vin":"WMEEJ3BA3CK573110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Willow St 2228, 98106 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36152,47.54191,0],"name":"ANK7396","engineType":"CE","vin":"WMEEJ3BA8DK683877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave 1047, 98122 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.28711,47.6113,0],"name":"AKL 4097","engineType":"CE","vin":"WMEEJ3BA9CK567859","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beacon Ave S 2291, 98144 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.31722,47.58246,0],"name":"AKN2680","engineType":"CE","vin":"WMEEJ3BA7CK572705","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th Ave SW 9423, 98106 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.34013,47.51855,0],"name":"AKN 2682","engineType":"CE","vin":"WMEEJ3BA3CK573821","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 362, 98108 Seattle","city":"seattle","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-122.33006,47.55193,0],"name":"AKN 2857","engineType":"CE","vin":"WMEEJ3BA8CK568677","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whitman Ave N 10767, 98133 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.34616,47.70755,0],"name":"AKN 2638","engineType":"CE","vin":"WMEEJ3BA7CK568606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Yale Ave N 353, 98109 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33049,47.62144,0],"name":"AKN 2803","engineType":"CE","vin":"WMEEJ3BA0CK577597","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave NW, 98107 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.37363,47.66546,0],"name":"AUK2219","engineType":"CE","vin":"WMEEJ3BAXEK780113","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McGraw St 712, 98109 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.34355,47.63953,0],"name":"ATS 2925","engineType":"CE","vin":"WMEEJ3BA7FK799641","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry St 337, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33155,47.60362,0],"name":"AKN2659","engineType":"CE","vin":"WMEEJ3BA8CK563589","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Edmunds St 3614, 98118 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.2879,47.55864,0],"name":"ATZ5059","engineType":"CE","vin":"WMEEJ3BA4FK791268","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Shilshole Ave NW, 98107 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.38199,47.66428,0],"name":"ATZ5030","engineType":"CE","vin":"WMEEJ3BA4FK787754","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave S 719, 98104 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.32252,47.59652,0],"name":"ALU 5948","engineType":"CE","vin":"WMEEJ3BA9DK659555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Hudson St 5263, 98118 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.26685,47.55707,0],"name":"AUK2239","engineType":"CE","vin":"WMEEJ3BA9FK792965","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Green Lake Way N 5931, 98103 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.34301,47.6701,0],"name":"AKN2846","engineType":"CE","vin":"WMEEJ3BA6CK577295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 75th St 3575, 98115 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.28967,47.68309,0],"name":"ATZ5012","engineType":"CE","vin":"WMEEJ3BA5EK782027","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NW 4377, 98107 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.35723,47.6603,0],"name":"ATS2900","engineType":"CE","vin":"WMEEJ3BA7FK800111","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NW 7029, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36613,47.68011,0],"name":"ATZ5078","engineType":"CE","vin":"WMEEJ3BA4FK795028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave NE 5067, 98105 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.30557,47.66582,0],"name":"ATZ5055","engineType":"CE","vin":"WMEEJ3BA7FK790793","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave 684, 98104 Seattle","city":"seattle","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[-122.32748,47.60527,0],"name":"AKN 2715","engineType":"CE","vin":"WMEEJ3BA2CK572840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Henderson Pl SW 9068, 98106 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.34573,47.5215,0],"name":"AKN2699","engineType":"CE","vin":"WMEEJ3BA0CK577471","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Kinnear Pl 529, 98119 Seattle","city":"seattle","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-122.36357,47.62767,0],"name":"ALU 5970","engineType":"CE","vin":"WMEEJ3BA0DK655488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 66th St 818, 98115 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.31953,47.67664,0],"name":"AKN 2895","engineType":"CE","vin":"WMEEJ3BA3CK569297","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 2492, 98134 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.33411,47.58125,0],"name":"AKN 2870","engineType":"CE","vin":"WMEEJ3BA0CK570553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Dakota St 4029, 98118 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.28251,47.56623,0],"name":"ATZ5094","engineType":"CE","vin":"WMEEJ3BA7FK787523","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th Ave W 2879, 98119 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.37365,47.64625,0],"name":"ALU 5913","engineType":"CE","vin":"WMEEJ3BA2DK660272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ohio Ave S 4762, 98134 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.33798,47.56087,0],"name":"ATZ 5088","engineType":"CE","vin":"WMEEJ3BA9FK787281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S King St 54, 98104 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.33483,47.59837,0],"name":"AKN 2601","engineType":"CE","vin":"WMEEJ3BAXCK574898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd Ave NE 3635, 98105 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.28218,47.6548,0],"name":"ALU 5969","engineType":"CE","vin":"WMEEJ3BA7DK655438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dayton Ave N 14387, 98133 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.35307,47.73396,0],"name":"AUK2204","engineType":"CE","vin":"WMEEJ3BA6FK787206","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave 2055, 98121 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.33731,47.61612,0],"name":"ATZ5040","engineType":"CE","vin":"WMEEJ3BA0FK788402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave NW 6787, 98117 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.38874,47.67928,0],"name":"AKN 2879","engineType":"CE","vin":"WMEEJ3BAXCK568308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Holgate St 2810, 98144 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.29541,47.58638,0],"name":"AKN2822","engineType":"CE","vin":"WMEEJ3BA9CK572964","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave NE 14373, 98125 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.30864,47.73343,0],"name":"AVC6229","engineType":"CE","vin":"WMEEJ3BA9CK577520","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th Ave 1829, 98122 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.29734,47.61803,0],"name":"AUK2240","engineType":"CE","vin":"WMEEJ3BA3FK793223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th Ave NE 8883, 98115 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.30684,47.69289,0],"name":"ATZ5034","engineType":"CE","vin":"WMEEJ3BA5FK787844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Pike St 1854, 98122 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.30831,47.61413,0],"name":"AKN2840","engineType":"CE","vin":"WMEEJ3BA6CK577670","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave SW 2675, 98116 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.38133,47.57978,0],"name":"AUK2216","engineType":"CE","vin":"WMEEJ3BA8FK787286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave SW 4109, 98106 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.36438,47.56642,0],"name":"AKN2735","engineType":"CE","vin":"WMEEJ3BA1CK568665","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Kenny St 4527, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.27672,47.54891,0],"name":"AKN 2656","engineType":"CE","vin":"WMEEJ3BA9CK562354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Main St 258, 98104 Seattle","city":"seattle","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-122.33087,47.60007,0],"name":"AKN2631","engineType":"CE","vin":"WMEEJ3BA8CK569070","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 122nd St 929, 98125 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31901,47.71688,0],"name":"ANK 7353","engineType":"CE","vin":"WMEEJ3BA4DK684086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th Ave SW 7719, 98136 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.39151,47.53306,0],"name":"APT 6486","engineType":"CE","vin":"WMEEJ3BA6DK660730","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"50th Ave NE 3781, 98105 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.27356,47.65658,0],"name":"ATZ5013","engineType":"CE","vin":"WMEEJ3BA1EK782039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave NE 12357, 98125 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.28931,47.71845,0],"name":"ATS2922","engineType":"CE","vin":"WMEEJ3BA8FK799969","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Olive Way 1622, 98102 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32475,47.6194,0],"name":"ATS 2926","engineType":"CE","vin":"WMEEJ3BA6FK799999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Republican St 3622, 98112 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.28766,47.62321,0],"name":"AKN 2728","engineType":"CE","vin":"WMEEJ3BA6CK572727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 10511, 98133 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.34747,47.70527,0],"name":"ATZ5010","engineType":"CE","vin":"WMEEJ3BA4EK781483","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave NE 5069, 98105 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.30565,47.66583,0],"name":"ALU5911","engineType":"CE","vin":"WMEEJ3BA0DK660237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"View Ave NW 9021, 98117 Seattle","city":"seattle","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-122.40101,47.69464,0],"name":"AKN2658","engineType":"CE","vin":"WMEEJ3BA3CK563225","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 831, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32239,47.55019,0],"name":"ANK7421","engineType":"CE","vin":"WMEEJ3BA5DK683660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5251, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32632,47.55505,0],"name":"ALU 5959","engineType":"CE","vin":"WMEEJ3BA8DK655934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Airport Way S 6031, 98108 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.31672,47.54898,0],"name":"AKN 2774","engineType":"CE","vin":"WMEEJ3BA6CK568936","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Utah Ave S 1657, 98134 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.33519,47.58787,0],"name":"AKN2615","engineType":"CE","vin":"WMEEJ3BAXCK568325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"5th Ave 2617, 98121 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.34654,47.61799,0],"name":"AKN2692","engineType":"CE","vin":"WMEEJ3BA7CK570582","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bigelow Ave N 2373, 98109 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.34835,47.63975,0],"name":"ALU5975","engineType":"CE","vin":"WMEEJ3BA6DK660128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave S 9241, 98118 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.28374,47.52094,0],"name":"ATZ5027","engineType":"CE","vin":"WMEEJ3BA0EK785398","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Occidental Ave S 3211, 98134 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.33335,47.57547,0],"name":"AKN 2689","engineType":"CE","vin":"WMEEJ3BA7CK570288","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave 1633, 98122 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.3115,47.61568,0],"name":"ANK7397","engineType":"CE","vin":"WMEEJ3BA0DK684733","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NE, 98155 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.32882,47.73371,0],"name":"ATZ5115","engineType":"CE","vin":"WMEEJ3BA7FK790048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 283, 98104 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.32649,47.60026,0],"name":"ATS 2924","engineType":"CE","vin":"WMEEJ3BA7FK799932","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"30th Ave S 5163, 98108 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.29422,47.55569,0],"name":"AQS 1619","engineType":"CE","vin":"WMEEJ3BA6CK572680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NW 10787, 98177 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.3662,47.70701,0],"name":"AKN 2859","engineType":"CE","vin":"WMEEJ3BA9CK569742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave NW 6515, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.37195,47.67626,0],"name":"ALU5912","engineType":"CE","vin":"WMEEJ3BAXDK660889","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 5123, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.26928,47.55109,0],"name":"AKN 2666","engineType":"CE","vin":"WMEEJ3BA8CK569103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Aki Kurose Vlg, 98133 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.34211,47.71349,0],"name":"AKN2697","engineType":"CE","vin":"WMEEJ3BA7CK570808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"37th Ave SW 8559, 98126 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.37932,47.52681,0],"name":"AKN 2736","engineType":"CE","vin":"WMEEJ3BA6CK569679","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"48th Ave S 5347, 98118 Seattle","city":"seattle","fuel":24,"exterior":"GOOD","coordinates":[-122.27261,47.55366,0],"name":"ATZ5668","engineType":"CE","vin":"WMEEJ3BA9FK794585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Raymond St 3141, 98126 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.37271,47.54828,0],"name":"ATZ5080","engineType":"CE","vin":"WMEEJ3BA6FK795113","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th Ave NE 6507, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.2789,47.67594,0],"name":"ATZ5089","engineType":"CE","vin":"WMEEJ3BA0FK787296","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th Ave 1175, 98122 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.30625,47.61178,0],"name":"AKN 2781","engineType":"CE","vin":"WMEEJ3BAXCK579549","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 47th St 1174, 98105 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31547,47.66313,0],"name":"AKN 2841","engineType":"CE","vin":"WMEEJ3BA1CK577611","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maynard Ave S 841, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32508,47.59549,0],"name":"ATZ5104","engineType":"CE","vin":"WMEEJ3BA5FK789321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S 112th St 7555, 98178 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.23847,47.50277,0],"name":"AUK2214","engineType":"CE","vin":"WMEEJ3BA1FK788392","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"52nd Ave SW 3929, 98116 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.39876,47.56917,0],"name":"AKN 2860","engineType":"CE","vin":"WMEEJ3BA5CK568443","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave NW 13283, 98177 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.36371,47.72654,0],"name":"ALU 5951","engineType":"CE","vin":"WMEEJ3BA5DK657690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Piper Canyon Rd 1298, 98177 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.37875,47.7128,0],"name":"AUK0610","engineType":"CE","vin":"WMEEJ3BA7DK683370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Alder St 2250, 98122 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.30306,47.60433,0],"name":"AKN 2775","engineType":"CE","vin":"WMEEJ3BA5CK577417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 5129, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.26914,47.5511,0],"name":"AKN2802","engineType":"CE","vin":"WMEEJ3BA1CK577558","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Brockman Pl 1201, 98125 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31399,47.72448,0],"name":"ALU 5979","engineType":"CE","vin":"WMEEJ3BA5DK660850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gilman Dr W 2310, 98119 Seattle","city":"seattle","fuel":24,"exterior":"GOOD","coordinates":[-122.37441,47.64076,0],"name":"AKN 2644","engineType":"CE","vin":"WMEEJ3BA9CK563889","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 88th St 2329, 98115 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.30392,47.6921,0],"name":"AKN2813","engineType":"CE","vin":"WMEEJ3BA9CK574696","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Occidental Ave S 3244, 98134 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.33316,47.57508,0],"name":"ATZ5087","engineType":"CE","vin":"WMEEJ3BA6FK787271","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fremont Ave N 10788, 98133 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35009,47.70845,0],"name":"AKN 2820","engineType":"CE","vin":"WMEEJ3BA4CK572855","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave S 5363, 98108 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.31353,47.55435,0],"name":"AKN 2734","engineType":"CE","vin":"WMEEJ3BA5CK569396","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Seneca St 886, 98101 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3288,47.60979,0],"name":"AKN 2633","engineType":"CE","vin":"WMEEJ3BA1CK574109","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 5919, 98108 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.32691,47.5498,0],"name":"ALU 5994","engineType":"CE","vin":"WMEEJ3BA4DK659303","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Barton St 2804, 98126 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36857,47.52116,0],"name":"AKN 2800","engineType":"CE","vin":"WMEEJ3BA8CK577699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 7759, 98103 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.34728,47.68523,0],"name":"ATZ 5126","engineType":"CE","vin":"WMEEJ3BA6FK793295","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"49th Ave NE 9215, 98115 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.27443,47.69508,0],"name":"AKN2917","engineType":"CE","vin":"WMEEJ3BA5CK563985","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Main St, 98144 Seattle","city":"seattle","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-122.29765,47.6003,0],"name":"ALU 5999","engineType":"CE","vin":"WMEEJ3BA8DK659255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S College St 1323, 98144 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31566,47.58301,0],"name":"ANK 7408","engineType":"CE","vin":"WMEEJ3BA3DK685598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Alaska St 35, 98134 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.33844,47.56027,0],"name":"AUK2231","engineType":"CE","vin":"WMEEJ3BA7EK784135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Halladay St 413, 98109 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.34901,47.64227,0],"name":"AKN2707","engineType":"CE","vin":"WMEEJ3BA3CK577626","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 61st St 1411, 98107 Seattle","city":"seattle","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-122.3739,47.67311,0],"name":"AKN 2743","engineType":"CE","vin":"WMEEJ3BA4CK568899","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave NE 5239, 98105 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.31079,47.66722,0],"name":"ANK7368","engineType":"CE","vin":"WMEEJ3BA1DK683672","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 374, 98104 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.32632,47.59941,0],"name":"ANK7355","engineType":"CE","vin":"WMEEJ3BA9DK684939","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave SW 8605, 98106 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.34553,47.52627,0],"name":"ATZ5664","engineType":"CE","vin":"WMEEJ3BA5FK789335","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 87th St 1991, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38156,47.6924,0],"name":"ATZ5000","engineType":"CE","vin":"WMEEJ3BA3EK779207","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Westlake Ave 1984, 98101 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.33755,47.61468,0],"name":"AUK2218","engineType":"CE","vin":"WMEEJ3BA5EK782304","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"46th Ave S 6473, 98118 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.27539,47.5445,0],"name":"AWB6195","engineType":"CE","vin":"WMEEJ3BA8FK793119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th Ave S 5695, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31614,47.55199,0],"name":"AKN 2683","engineType":"CE","vin":"WMEEJ3BA2CK573096","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Warren Ave N 559, 98109 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.35413,47.62405,0],"name":"ATZ5025","engineType":"CE","vin":"WMEEJ3BA1EK785264","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James St 210, 98104 Seattle","city":"seattle","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-122.33243,47.60238,0],"name":"AKN2902","engineType":"CE","vin":"WMEEJ3BA1CK577446","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jones Ave NW 6523, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38647,47.67642,0],"name":"AUK2207","engineType":"CE","vin":"WMEEJ3BA8FK787191","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 59th St 2484, 98107 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.38971,47.67162,0],"name":"AKN2862","engineType":"CE","vin":"WMEEJ3BA6CK569987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Edmunds St 1315, 98108 Seattle","city":"seattle","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-122.31592,47.55941,0],"name":"ALU 5974","engineType":"CE","vin":"WMEEJ3BA2DK655346","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maynard Ave S 351, 98104 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.32506,47.59962,0],"name":"ANK7371","engineType":"CE","vin":"WMEEJ3BA6DK683943","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Garfield St, 98199 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.38729,47.63351,0],"name":"ATZ5671","engineType":"CE","vin":"WMEEJ3BA8EK781261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Olympic Pl 683, 98119 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.36723,47.62807,0],"name":"AKN 2871","engineType":"CE","vin":"WMEEJ3BA2CK574037","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave NE, 98125 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.32581,47.70269,0],"name":"ALU 5939","engineType":"CE","vin":"WMEEJ3BAXDK659144","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E John St 3704, 98112 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.28566,47.62022,0],"name":"AKN 2642","engineType":"CE","vin":"WMEEJ3BA1CK576247","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave SW 5928, 98106 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.35469,47.55052,0],"name":"AKN 2843","engineType":"CE","vin":"WMEEJ3BA1CK577382","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Western Ave 1063, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33785,47.60469,0],"name":"AKN 2801","engineType":"CE","vin":"WMEEJ3BA9CK577646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fischer Pl NE 10363, 98125 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.29986,47.70428,0],"name":"ATZ5049","engineType":"CE","vin":"WMEEJ3BA9FK788687","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th Ave SW 9463, 98126 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36725,47.51809,0],"name":"ATS2948","engineType":"CE","vin":"WMEEJ3BA0FK800063","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Graham St 4315, 98136 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.3874,47.54664,0],"name":"ANK7416","engineType":"CE","vin":"WMEEJ3BA6DK683750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5439, 98108 Seattle","city":"seattle","fuel":12,"exterior":"UNACCEPTABLE","coordinates":[-122.32436,47.5539,0],"name":"ANK7358","engineType":"CE","vin":"WMEEJ3BA5DK683500","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Occidental Ave S 449, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33286,47.59875,0],"name":"ALU 5991","engineType":"CE","vin":"WMEEJ3BA0DK660397","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Denny Way 569, 98122 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32434,47.61848,0],"name":"ATZ5112","engineType":"CE","vin":"WMEEJ3BA8FK789572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 4551, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3486,47.6618,0],"name":"ANK7360","engineType":"CE","vin":"WMEEJ3BA9DK684388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 931, 98134 Seattle","city":"seattle","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.33418,47.59358,0],"name":"ALU 5960","engineType":"CE","vin":"WMEEJ3BA6DK655690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Yesler Way 2422, 98122 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.30081,47.6017,0],"name":"ATZ5079","engineType":"CE","vin":"WMEEJ3BA3FK795103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NW 9735, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36613,47.70121,0],"name":"AKN 2620","engineType":"CE","vin":"WMEEJ3BA4CK569485","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Palatine Ave N 12773, 98133 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.357,47.72277,0],"name":"AUK2213","engineType":"CE","vin":"WMEEJ3BA0FK787055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"43rd Ave S 7115, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.2794,47.53861,0],"name":"ALU5981","engineType":"CE","vin":"WMEEJ3BA7DK660428","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave SW 5807, 98106 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.35487,47.55135,0],"name":"AKN 2622","engineType":"CE","vin":"WMEEJ3BA9CK569465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 49th St 1433, 98107 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.37446,47.6644,0],"name":"AKN2761","engineType":"CE","vin":"WMEEJ3BAXCK569586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alki Ave SW 1087, 98116 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.38698,47.59515,0],"name":"ATZ5009","engineType":"CE","vin":"WMEEJ3BA4EK781466","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave E 1909, 98112 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.29952,47.63668,0],"name":"AKN2621","engineType":"CE","vin":"WMEEJ3BA5CK569625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Highland Dr 2443, 98112 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.30108,47.63026,0],"name":"AKN 2914","engineType":"CE","vin":"WMEEJ3BA6CK563736","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd Ave W 3011, 98199 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.3847,47.6468,0],"name":"AKN 2872","engineType":"CE","vin":"WMEEJ3BA4CK573746","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave NE 11039, 98125 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.29084,47.70908,0],"name":"AKN2756","engineType":"CE","vin":"WMEEJ3BA0CK570505","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Creston St 5105, 98178 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.27002,47.50701,0],"name":"ATZ5138","engineType":"CE","vin":"WMEEJ3BA3FK794730","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd Ave SW 8478, 98136 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.38539,47.52806,0],"name":"AME6384","engineType":"CE","vin":"WMEEJ3BA2CK570117","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 144th St 155, 98133 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.35683,47.73315,0],"name":"ATZ5121","engineType":"CE","vin":"WMEEJ3BAXFK790481","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"7th Ave S 5637, 98108 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32382,47.55233,0],"name":"ALU5996","engineType":"CE","vin":"WMEEJ3BA7DK660042","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave E 545, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.30726,47.62375,0],"name":"AKN 2851","engineType":"CE","vin":"WMEEJ3BA5CK579264","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave SW 9436, 98106 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.35283,47.51853,0],"name":"ATZ5659","engineType":"CE","vin":"WMEEJ3BA2EK781644","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Washington St 685, 98104 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32526,47.60082,0],"name":"AKN 2818","engineType":"CE","vin":"WMEEJ3BAXCK569667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 62nd St 127, 98115 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32741,47.67363,0],"name":"AKN2900","engineType":"CE","vin":"WMEEJ3BA3CK570756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alki Ave SW 1414, 98116 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.39083,47.59281,0],"name":"ATZ5114","engineType":"CE","vin":"WMEEJ3BA1FK789588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 2070, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33414,47.58487,0],"name":"AKN2604","engineType":"CE","vin":"WMEEJ3BA9CK570244","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 552, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33415,47.59736,0],"name":"ATZ5135","engineType":"CE","vin":"WMEEJ3BA8FK794500","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dayton Ave N 8708, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35261,47.69261,0],"name":"AWB6196","engineType":"CE","vin":"WMEEJ3BA5FK788573","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Western Ave 1393, 98101 Seattle","city":"seattle","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-122.34024,47.60728,0],"name":"ANK7410","engineType":"CE","vin":"WMEEJ3BA5DK685036","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave S 5337, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31352,47.55454,0],"name":"AKN 2723","engineType":"CE","vin":"WMEEJ3BA3CK561281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 143rd St 1673, 98125 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.31032,47.73208,0],"name":"ATZ5141","engineType":"CE","vin":"WMEEJ3BA1FK794810","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5385, 98108 Seattle","city":"seattle","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-122.32476,47.55421,0],"name":"ATS 2930","engineType":"CE","vin":"WMEEJ3BA4FK799788","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Brandon St 639, 98108 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.32568,47.55409,0],"name":"AKN 2665","engineType":"CE","vin":"WMEEJ3BA8CK569201","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 62nd St 155, 98115 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.32663,47.6736,0],"name":"AUK2236","engineType":"CE","vin":"WMEEJ3BAXFK794465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olive Way 821, 98101 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.33362,47.61404,0],"name":"AUK2223","engineType":"CE","vin":"WMEEJ3BA8EK784242","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Dakota St 657, 98108 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.32512,47.56714,0],"name":"AKN 2825","engineType":"CE","vin":"WMEEJ3BA6CK573988","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Massachusetts St 3058, 98144 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.29293,47.58796,0],"name":"AKN 2826","engineType":"CE","vin":"WMEEJ3BA7CK570789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NE 6374, 98115 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.32,47.67482,0],"name":"AKN 2920","engineType":"CE","vin":"WMEEJ3BA1CK567919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Delridge Way SW 9436, 98106 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35566,47.51827,0],"name":"AKN2702","engineType":"CE","vin":"WMEEJ3BA6CK570024","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th Ave 1337, 98122 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29755,47.61269,0],"name":"ATZ5052","engineType":"CE","vin":"WMEEJ3BA0FK789128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 49th St 442, 98103 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.35341,47.66429,0],"name":"AKN 2898","engineType":"CE","vin":"WMEEJ3BA0CK569452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NE, 98155 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32879,47.73312,0],"name":"ATS2931","engineType":"CE","vin":"WMEEJ3BA1FK799957","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lucile St 632, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32581,47.5534,0],"name":"ALU 5953","engineType":"CE","vin":"WMEEJ3BA2DK656030","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 84th St 105, 98103 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.35785,47.68981,0],"name":"AKN 2869","engineType":"CE","vin":"WMEEJ3BA0CK556166","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave SW 9481, 98106 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.35398,47.51772,0],"name":"ATZ 5026","engineType":"CE","vin":"WMEEJ3BA0EK785367","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 51st St 1162, 98107 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.3725,47.66573,0],"name":"ALU 5938","engineType":"CE","vin":"WMEEJ3BAXDK660293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Queen Anne Ave N 1667, 98109 Seattle","city":"seattle","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-122.35693,47.63438,0],"name":"AKN 2613","engineType":"CE","vin":"WMEEJ3BA4CK562830","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Dakota St 2582, 98106 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.36524,47.56651,0],"name":"AKN 2652","engineType":"CE","vin":"WMEEJ3BA4CK562780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave W 2931, 98199 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.38899,47.64668,0],"name":"AKN 2722","engineType":"CE","vin":"WMEEJ3BA3CK569056","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olive Way 714, 98101 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.33508,47.6138,0],"name":"AKN 2847","engineType":"CE","vin":"WMEEJ3BA5CK579281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1129, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33436,47.59268,0],"name":"ATS 2928","engineType":"CE","vin":"WMEEJ3BA6FK799856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Spruce St 1019, 98122 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.31923,47.60356,0],"name":"AUK2237","engineType":"CE","vin":"WMEEJ3BA4FK795093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Columbia St 505, 98104 Seattle","city":"seattle","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-122.3303,47.60515,0],"name":"ALU 5935","engineType":"CE","vin":"WMEEJ3BA9DK660706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"40th Ave NE 4605, 98105 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.28483,47.66197,0],"name":"ATS 2916","engineType":"CE","vin":"WMEEJ3BA3FK799829","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 120th St 2379, 98133 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32933,47.7159,0],"name":"ATZ5670","engineType":"CE","vin":"WMEEJ3BA5FK794745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Prospect St 1062, 98102 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.31885,47.62865,0],"name":"ALU 5988","engineType":"CE","vin":"WMEEJ3BA7DK660333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"12th Ave S 8517, 98108 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.31762,47.52717,0],"name":"AKN 2827","engineType":"CE","vin":"WMEEJ3BA8CK569747","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bigelow Ave N 1961, 98109 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.34838,47.63625,0],"name":"AUK2209","engineType":"CE","vin":"WMEEJ3BA4FK787513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th Ave S 3619, 98144 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.31351,47.57098,0],"name":"AKN2882","engineType":"CE","vin":"WMEEJ3BA1CK569637","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave 1651, 98122 Seattle","city":"seattle","fuel":12,"exterior":"GOOD","coordinates":[-122.28325,47.6161,0],"name":"AKN 2892","engineType":"CE","vin":"WMEEJ3BA3CK575228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 4063, 98116 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.38686,47.56728,0],"name":"AKN2764","engineType":"CE","vin":"WMEEJ3BA5CK570404","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"42nd Ave SW 2139, 98116 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.38509,47.58452,0],"name":"ALU 5972","engineType":"CE","vin":"WMEEJ3BA2DK655377","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mercer St 1940, 98112 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.30676,47.62439,0],"name":"AKN 2634","engineType":"CE","vin":"WMEEJ3BA4CK569275","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"25th Ave NE 14365, 98125 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.30205,47.73322,0],"name":"AKN 2688","engineType":"CE","vin":"WMEEJ3BA0CK569080","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson St 288, 98104 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.32935,47.60276,0],"name":"AKN 2773","engineType":"CE","vin":"WMEEJ3BA5CK570029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Piedmont Pl W 2555, 98199 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.40301,47.64238,0],"name":"ATZ5143","engineType":"CE","vin":"WMEEJ3BA0FK791865","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 67th St 2321, 98117 Seattle","city":"seattle","fuel":39,"exterior":"GOOD","coordinates":[-122.3858,47.6777,0],"name":"AKN 2630","engineType":"CE","vin":"WMEEJ3BA6CK570122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"17th Ave NW 8359, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.379,47.68987,0],"name":"AKN 2730","engineType":"CE","vin":"WMEEJ3BA6DK629218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lewis Pl SW 4960, 98116 Seattle","city":"seattle","fuel":12,"exterior":"UNACCEPTABLE","coordinates":[-122.38799,47.55796,0],"name":"AKN 2679","engineType":"CE","vin":"WMEEJ3BA1CK572795","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Utah Ave S 3239, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33522,47.57515,0],"name":"AKN2845","engineType":"CE","vin":"WMEEJ3BA9CK577713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 52nd St 138, 98105 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.32736,47.66643,0],"name":"AKN 2717","engineType":"CE","vin":"WMEEJ3BA3CK570160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave S 4729, 98118 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.2889,47.56018,0],"name":"ALU 5925","engineType":"CE","vin":"WMEEJ3BA4DK656563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 80th St 364, 98117 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.3624,47.68698,0],"name":"AKN 2653","engineType":"CE","vin":"WMEEJ3BA6CK564000","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 82nd St 515, 98103 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.35215,47.68837,0],"name":"AKN 2625","engineType":"CE","vin":"WMEEJ3BA2CK570196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"30th Ave W 3123, 98199 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.39574,47.64795,0],"name":"ATZ 5070","engineType":"CE","vin":"WMEEJ3BA1FK792894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave SW 4430, 98116 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.38135,47.56413,0],"name":"ATZ5008","engineType":"CE","vin":"WMEEJ3BA4EK781449","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave 1647, 98122 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31151,47.61583,0],"name":"ATZ5102","engineType":"CE","vin":"WMEEJ3BA5FK789299","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Weller St 610, 98104 Seattle","city":"seattle","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-122.32576,47.59757,0],"name":"ALU 5986","engineType":"CE","vin":"WMEEJ3BA3DK659860","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 78th St 335, 98103 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.35431,47.68545,0],"name":"ALU 5976","engineType":"CE","vin":"WMEEJ3BA3DK660460","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 143rd St 973, 98133 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.34578,47.7323,0],"name":"ALU5902","engineType":"CE","vin":"WMEEJ3BA0DK659167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave NE 5271, 98105 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28915,47.66803,0],"name":"AKN 2850","engineType":"CE","vin":"WMEEJ3BA3CK579196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th Ave W 3755, 98199 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.39425,47.65375,0],"name":"ATZ5125","engineType":"CE","vin":"WMEEJ3BA1FK794998","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Woodlawn Ave N 4919, 98103 Seattle","city":"seattle","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-122.33919,47.66445,0],"name":"AKN 2657","engineType":"CE","vin":"WMEEJ3BA2CK562650","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Creston St 5117, 98178 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.26979,47.50704,0],"name":"ALU 5945","engineType":"CE","vin":"WMEEJ3BAXDK660116","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 425, 98104 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.32649,47.599,0],"name":"AKN 2830","engineType":"CE","vin":"WMEEJ3BA0CK570276","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Yesler Way 2545, 98122 Seattle","city":"seattle","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-122.29946,47.60161,0],"name":"AKN 2674","engineType":"CE","vin":"WMEEJ3BAXCK570656","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Donovan St 515, 98108 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.32805,47.52559,0],"name":"ALU 5985","engineType":"CE","vin":"WMEEJ3BA2DK660921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave NW 4415, 98107 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.35724,47.66063,0],"name":"AKN 2731","engineType":"CE","vin":"WMEEJ3BA3DK629046","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carleton Ave S 6653, 98108 Seattle","city":"seattle","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-122.32144,47.54375,0],"name":"ANK7402","engineType":"CE","vin":"WMEEJ3BA9DK683693","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 95th St 1025, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31726,47.69763,0],"name":"AKN 2606","engineType":"CE","vin":"WMEEJ3BA5CK568121","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lander St 447, 98134 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.32834,47.57975,0],"name":"ALU 5946","engineType":"CE","vin":"WMEEJ3BA9DK660365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"47th Ave S 6060, 98118 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.27366,47.54782,0],"name":"ATZ5106","engineType":"CE","vin":"WMEEJ3BA0FK789386","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"4th Ave S 3174, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32896,47.57569,0],"name":"ALU 5964","engineType":"CE","vin":"WMEEJ3BA0DK656186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Roy St 470, 98119 Seattle","city":"seattle","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-122.36289,47.62584,0],"name":"ANK7407","engineType":"CE","vin":"WMEEJ3BA0DK684585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Beacon Ave S 2554, 98144 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.31276,47.57999,0],"name":"ATZ5015","engineType":"CE","vin":"WMEEJ3BA8EK782684","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 85th St 1349, 98117 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.37339,47.69058,0],"name":"ALU 5905","engineType":"CE","vin":"WMEEJ3BA4DK660595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Genesee St 5332, 98116 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.40055,47.5649,0],"name":"ALU 5906","engineType":"CE","vin":"WMEEJ3BA2DK660417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Forest St 717, 98134 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.32341,47.57762,0],"name":"ALU 5977","engineType":"CE","vin":"WMEEJ3BA7DK660218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Washington St 565, 98104 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.32681,47.60084,0],"name":"AWL4649","engineType":"CE","vin":"WMEEJ3BA7FK795203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 68th St 4218, 98115 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.28335,47.67764,0],"name":"ATZ5119","engineType":"CE","vin":"WMEEJ3BA8FK790348","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry St 226, 98104 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.33293,47.60322,0],"name":"AKN2611","engineType":"CE","vin":"WMEEJ3BA8CK561082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lake Washington Blvd E 139, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28161,47.61871,0],"name":"ANK7387","engineType":"CE","vin":"WMEEJ3BA0DK684926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave W 2129, 98119 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.35829,47.63753,0],"name":"AKN 2655","engineType":"CE","vin":"WMEEJ3BAXCK562234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Avalon Way 3249, 98126 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.37425,47.56399,0],"name":"AKN 2772","engineType":"CE","vin":"WMEEJ3BA6CK570282","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jones Ave NW 8719, 98117 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.38685,47.69222,0],"name":"ATZ5011","engineType":"CE","vin":"WMEEJ3BA4EK781953","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 86th St 2339, 98117 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.38589,47.69111,0],"name":"AKN 2733","engineType":"CE","vin":"WMEEJ3BA1CK562963","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maynard Ave S 549, 98104 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.32506,47.59794,0],"name":"AKN2805","engineType":"CE","vin":"WMEEJ3BA9CK577551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boylston Ave E 277, 98102 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.32312,47.6208,0],"name":"ATZ5100","engineType":"CE","vin":"WMEEJ3BA7FK790647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Graham St 1768, 98106 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.35625,47.5466,0],"name":"ALU 5958","engineType":"CE","vin":"WMEEJ3BA0DK655572","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"California Ave SW 2126, 98116 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3861,47.58505,0],"name":"AWB6191","engineType":"CE","vin":"WMEEJ3BA7FK795198","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 381, 98104 Seattle","city":"seattle","fuel":12,"exterior":"GOOD","coordinates":[-122.33433,47.59937,0],"name":"ALU 5931","engineType":"CE","vin":"WMEEJ3BA2DK655962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Helix Way, 98119 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.37496,47.62921,0],"name":"ATS 2909","engineType":"CE","vin":"WMEEJ3BA0FK800077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Mead St 4675, 98118 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.27435,47.55037,0],"name":"ATZ5656","engineType":"CE","vin":"WMEEJ3BA8EK780370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harrison St 29, 98109 Seattle","city":"seattle","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.35635,47.62206,0],"name":"AKN2866","engineType":"CE","vin":"WMEEJ3BA8CK569795","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Myrtle St 2680, 98106 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.36755,47.53915,0],"name":"ATZ5072","engineType":"CE","vin":"WMEEJ3BA9FK792996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th Ave NE 14319, 98125 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29933,47.7322,0],"name":"AKN 2838","engineType":"CE","vin":"WMEEJ3BA9CK577503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 36th St 1854, 98103 Seattle","city":"seattle","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-122.33562,47.65054,0],"name":"AKN 2790","engineType":"CE","vin":"WMEEJ3BA4CK570006","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brooklyn Ave NE 4225, 98105 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.31442,47.65871,0],"name":"ALU5901","engineType":"CE","vin":"WMEEJ3BA7DK659229","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mercer St 1859, 98112 Seattle","city":"seattle","fuel":12,"exterior":"GOOD","coordinates":[-122.30783,47.62438,0],"name":"ATZ5062","engineType":"CE","vin":"WMEEJ3BA5FK791876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"30th Ave SW 3406, 98126 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.37135,47.57286,0],"name":"AKN 2855","engineType":"CE","vin":"WMEEJ3BAXCK577509","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 65th St 3553, 98115 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.28968,47.67575,0],"name":"AKN 2742","engineType":"CE","vin":"WMEEJ3BAXCK568552","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"20th Ave NW 4853, 98107 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.38219,47.66501,0],"name":"ATZ5018","engineType":"CE","vin":"WMEEJ3BA7EK783373","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E John St 3478, 98112 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.28821,47.62017,0],"name":"ATZ5083","engineType":"CE","vin":"WMEEJ3BA5FK795278","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Bayview St 1714, 98144 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.31003,47.58102,0],"name":"ALU 5947","engineType":"CE","vin":"WMEEJ3BA2DK660465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th Ave NW 8817, 98117 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.39292,47.69332,0],"name":"AKN 2763","engineType":"CE","vin":"WMEEJ3BA4CK575044","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Alaska St 37, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33837,47.56029,0],"name":"AKN 2797","engineType":"CE","vin":"WMEEJ3BA0CK572870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 1093, 98134 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33433,47.5928,0],"name":"AKN2695","engineType":"CE","vin":"WMEEJ3BA7CK570520","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wabash Ave S 8389, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.26781,47.52792,0],"name":"ATZ5117","engineType":"CE","vin":"WMEEJ3BA5FK790226","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Armour St 3165, 98199 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.39778,47.64464,0],"name":"ALU 5936","engineType":"CE","vin":"WMEEJ3BAXDK660407","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Weller St 881, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32184,47.59748,0],"name":"AKN 2614","engineType":"CE","vin":"WMEEJ3BA9CK568624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"8th Ave NE 10582, 98125 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.32033,47.70579,0],"name":"AUK2205","engineType":"CE","vin":"WMEEJ3BA0FK787668","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"39th Ave W 5476, 98199 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.40861,47.66917,0],"name":"ANK 7375","engineType":"CE","vin":"WMEEJ3BA3DK685326","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Findlay St 5114, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.26958,47.55187,0],"name":"AKN2887","engineType":"CE","vin":"WMEEJ3BA7CK568802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 74th St 2818, 98117 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.39345,47.6824,0],"name":"ALU 5914","engineType":"CE","vin":"WMEEJ3BA7DK660770","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"48th Ave S 4979, 98118 Seattle","city":"seattle","fuel":90,"exterior":"GOOD","coordinates":[-122.27329,47.55723,0],"name":"ATZ5660","engineType":"CE","vin":"WMEEJ3BA2EK783880","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"9th Ave NE 4376, 98105 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31869,47.66095,0],"name":"AKN2698","engineType":"CE","vin":"WMEEJ3BA9CK574973","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Irving St 2966, 98144 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.29477,47.59125,0],"name":"ANK7401","engineType":"CE","vin":"WMEEJ3BA3DK684614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave S 8639, 98108 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.31497,47.52613,0],"name":"AKN2886","engineType":"CE","vin":"WMEEJ3BA6CK573022","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Ave S 7017, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29031,47.53971,0],"name":"AKN 2718","engineType":"CE","vin":"WMEEJ3BA2CK569548","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Stacy St 740, 98134 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.32358,47.58198,0],"name":"ANK7362","engineType":"CE","vin":"WMEEJ3BA3DK684418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 763, 98104 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32637,47.59616,0],"name":"AKN2809","engineType":"CE","vin":"WMEEJ3BA0CK577423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eagle St 22, 98121 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.35443,47.61722,0],"name":"AKN 2782","engineType":"CE","vin":"WMEEJ3BA1CK579696","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Portland St 3184, 98108 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.29089,47.53309,0],"name":"ATZ5033","engineType":"CE","vin":"WMEEJ3BA9FK787832","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 143rd St 1973, 98125 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.30768,47.73203,0],"name":"AKN 2854","engineType":"CE","vin":"WMEEJ3BA3CK577478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave NW 6515, 98117 Seattle","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.38969,47.67618,0],"name":"AKN 2911","engineType":"CE","vin":"WMEEJ3BA3CK568683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave SW 5817, 98106 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35483,47.55128,0],"name":"ANK7413","engineType":"CE","vin":"WMEEJ3BA0DK684649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th Ave SW 9079, 98126 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36992,47.52144,0],"name":"AKL 4096","engineType":"CE","vin":"WMEEJ3BA8CK570333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"18th Ave 1453, 98122 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.30885,47.61355,0],"name":"ANK7363","engineType":"CE","vin":"WMEEJ3BA6DK683800","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E John St 1120, 98102 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.31794,47.61995,0],"name":"ATS2936","engineType":"CE","vin":"WMEEJ3BA6FK799954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Garfield St 466, 98119 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.36324,47.63351,0],"name":"ATZ5090","engineType":"CE","vin":"WMEEJ3BA3FK787311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"43rd Ave S 7188, 98118 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.27934,47.53726,0],"name":"ALU 5984","engineType":"CE","vin":"WMEEJ3BA4DK660189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McGilvra Blvd E 1655, 98112 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.28133,47.63415,0],"name":"AKN 2648","engineType":"CE","vin":"WMEEJ3BA8CK561731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 83rd St 553, 98115 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.32156,47.68888,0],"name":"ATS 2932","engineType":"CE","vin":"WMEEJ3BA6FK799338","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Queen Anne Ave N 1587, 98109 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.35697,47.63339,0],"name":"ATZ5061","engineType":"CE","vin":"WMEEJ3BA3FK791469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"28th Ave SW 4195, 98126 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.3681,47.5662,0],"name":"ALU 5956","engineType":"CE","vin":"WMEEJ3BA0DK655474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 95th St 776, 98103 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.34783,47.69783,0],"name":"ATZ5066","engineType":"CE","vin":"WMEEJ3BA6FK792387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olive Way 472, 98101 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.33771,47.6126,0],"name":"AKN 2913","engineType":"CE","vin":"WMEEJ3BAXCK561293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Alder St, 98122 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.29175,47.60423,0],"name":"AKN2873","engineType":"CE","vin":"WMEEJ3BA8CK575581","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Corliss Ave N 7479, 98103 Seattle","city":"seattle","fuel":48,"exterior":"GOOD","coordinates":[-122.33045,47.68463,0],"name":"ATZ5096","engineType":"CE","vin":"WMEEJ3BA0FK787542","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 2013, 98134 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.33434,47.58533,0],"name":"ATZ5111","engineType":"CE","vin":"WMEEJ3BA5FK789562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 92nd St 2831, 98117 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.39324,47.69602,0],"name":"AWB6184","engineType":"CE","vin":"WMEEJ3BA1EK782820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stanley Ave S 6272, 98108 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.31442,47.5466,0],"name":"AKN 2704","engineType":"CE","vin":"WMEEJ3BA8CK574267","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"52nd Ave S 6569, 98118 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.2672,47.54368,0],"name":"ANK7354","engineType":"CE","vin":"WMEEJ3BA5DK683447","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Minor Ave 1921, 98101 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.33215,47.6177,0],"name":"ANK7383","engineType":"CE","vin":"WMEEJ3BA0DK684327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stanley Ave S 6216, 98108 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.31563,47.54769,0],"name":"AKN 2670","engineType":"CE","vin":"WMEEJ3BA3CK573513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 87th St 231, 98117 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.35973,47.69242,0],"name":"ALU5924","engineType":"CE","vin":"WMEEJ3BA6DK660288","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave W 3035, 98119 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.36101,47.64692,0],"name":"AKN 2628","engineType":"CE","vin":"WMEEJ3BA8CK575743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"17th Ave NE 4744, 98105 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.3095,47.66388,0],"name":"AKN 2739","engineType":"CE","vin":"WMEEJ3BA8CK567867","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Alder St 1482, 98122 Seattle","city":"seattle","fuel":15,"exterior":"GOOD","coordinates":[-122.31306,47.60431,0],"name":"ATS2902","engineType":"CE","vin":"WMEEJ3BA2FK800100","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Greenwood Ave N 13367, 98133 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.35566,47.72614,0],"name":"AKN 2751","engineType":"CE","vin":"WMEEJ3BA7CK570713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave NE 5081, 98105 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.30554,47.66601,0],"name":"ATZ5082","engineType":"CE","vin":"WMEEJ3BA3FK795148","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5465, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32422,47.55374,0],"name":"ALU 5952","engineType":"CE","vin":"WMEEJ3BA1DK657119","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave S 3277, 98144 Seattle","city":"seattle","fuel":12,"exterior":"GOOD","coordinates":[-122.31492,47.57446,0],"name":"AKN 2618","engineType":"CE","vin":"WMEEJ3BA2CK575026","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Carleton Ave S 6631, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32118,47.54394,0],"name":"AKN 2785","engineType":"CE","vin":"WMEEJ3BA7CK577693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Erie Ave 283, 98122 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.28576,47.60375,0],"name":"ATZ5068","engineType":"CE","vin":"WMEEJ3BA4FK792517","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave S 476, 98104 Seattle","city":"seattle","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-122.33146,47.59854,0],"name":"AKN 2909","engineType":"CE","vin":"WMEEJ3BA3CK570725","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boylston Ave E 2385, 98102 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32355,47.64072,0],"name":"AUK2234","engineType":"CE","vin":"WMEEJ3BAXFK793249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave 1089, 98122 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.28711,47.61157,0],"name":"AKN 2776","engineType":"CE","vin":"WMEEJ3BA5CK575165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eastern Ave N 4343, 98103 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.32897,47.65961,0],"name":"AUK2233","engineType":"CE","vin":"WMEEJ3BAXFK794515","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 87th St 1580, 98117 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.37767,47.69241,0],"name":"ALU 5904","engineType":"CE","vin":"WMEEJ3BA7DK660140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave 955, 98122 Seattle","city":"seattle","fuel":60,"exterior":"GOOD","coordinates":[-122.30762,47.611,0],"name":"ATZ5065","engineType":"CE","vin":"WMEEJ3BA3FK792041","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Denver Ave S 5403, 98108 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32465,47.55412,0],"name":"AWB6198","engineType":"CE","vin":"WMEEJ3BA9FK793260","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Linden Ave N 8628, 98103 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3472,47.69152,0],"name":"ATS2908","engineType":"CE","vin":"WMEEJ3BA5FK800298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Angelo St 1245, 98108 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.31709,47.54706,0],"name":"AKN 2907","engineType":"CE","vin":"WMEEJ3BA9CK569921","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Angeline St 5047, 98118 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.27011,47.55939,0],"name":"ALU 5982","engineType":"CE","vin":"WMEEJ3BA0DK659850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midvale Ave N 14363, 98133 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.34396,47.73387,0],"name":"ALU 5983","engineType":"CE","vin":"WMEEJ3BA1DK660277","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave N 251, 98109 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.35541,47.62036,0],"name":"ALU 5968","engineType":"CE","vin":"WMEEJ3BA3DK655257","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"60th Ave NE 6363, 98115 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.26356,47.67474,0],"name":"ALU 5954","engineType":"CE","vin":"WMEEJ3BA8DK657716","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lake Washington Blvd 700, 98122 Seattle","city":"seattle","fuel":30,"exterior":"GOOD","coordinates":[-122.28325,47.608,0],"name":"ATZ5134","engineType":"CE","vin":"WMEEJ3BA0FK794300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"38th Ave SW 6683, 98126 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.38059,47.5426,0],"name":"AWB6189","engineType":"CE","vin":"WMEEJ3BA8FK791886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave SW 9053, 98126 Seattle","city":"seattle","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-122.37683,47.5219,0],"name":"AKN 2835","engineType":"CE","vin":"WMEEJ3BA9CK572737","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"19th Ave NE 7025, 98115 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.30774,47.67989,0],"name":"AKN 2789","engineType":"CE","vin":"WMEEJ3BA7CK573594","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave N 1877, 98109 Seattle","city":"seattle","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-122.35201,47.63554,0],"name":"ATZ5662","engineType":"CE","vin":"WMEEJ3BA4FK788578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Garfield St, 98199 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.38729,47.63344,0],"name":"AKN 2848","engineType":"CE","vin":"WMEEJ3BA1CK579519","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave S 580, 98104 Seattle","city":"seattle","fuel":36,"exterior":"GOOD","coordinates":[-122.33399,47.59683,0],"name":"AKN 2654","engineType":"CE","vin":"WMEEJ3BA3CK564150","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Findlay St 5134, 98118 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.2691,47.55186,0],"name":"ALU5950","engineType":"CE","vin":"WMEEJ3BA5DK655941","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Thistle St 3964, 98118 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.28179,47.52789,0],"name":"AKN 2676","engineType":"CE","vin":"WMEEJ3BA4CK573083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"49th Ave SW 3709, 98116 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.39481,47.57111,0],"name":"ATZ5032","engineType":"CE","vin":"WMEEJ3BA6FK787822","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 90th St 239, 98117 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.35989,47.69418,0],"name":"ATZ5023","engineType":"CE","vin":"WMEEJ3BA0EK784624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 82nd St 2643, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.29914,47.68845,0],"name":"ATS2912","engineType":"CE","vin":"WMEEJ3BA5FK800284","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th Ave S 5555, 98108 Seattle","city":"seattle","fuel":72,"exterior":"GOOD","coordinates":[-122.31621,47.55308,0],"name":"ANK7419","engineType":"CE","vin":"WMEEJ3BA6DK685143","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"34th Ave NE 7063, 98115 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.29151,47.68057,0],"name":"AKN 2829","engineType":"CE","vin":"WMEEJ3BAXCK570706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd Ave E 1193, 98112 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.30238,47.63075,0],"name":"AKN 2646","engineType":"CE","vin":"WMEEJ3BA7CK561008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Denny Way 2463, 98122 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.30037,47.61893,0],"name":"ATS 2919","engineType":"CE","vin":"WMEEJ3BA1FK799716","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"James St 208, 98104 Seattle","city":"seattle","fuel":78,"exterior":"GOOD","coordinates":[-122.33246,47.6024,0],"name":"AUK2215","engineType":"CE","vin":"WMEEJ3BA1FK789316","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Garfield St, 98199 Seattle","city":"seattle","fuel":18,"exterior":"GOOD","coordinates":[-122.38759,47.63346,0],"name":"ATZ5050","engineType":"CE","vin":"WMEEJ3BA2FK788692","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th Ave SW 5261, 98106 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.35479,47.55522,0],"name":"AKN 2815","engineType":"CE","vin":"WMEEJ3BA3CK574130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Latona Ave NE 4467, 98105 Seattle","city":"seattle","fuel":27,"exterior":"GOOD","coordinates":[-122.32517,47.661,0],"name":"ATZ5067","engineType":"CE","vin":"WMEEJ3BA6FK792454","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th Ave NE 7368, 98115 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.2902,47.68254,0],"name":"ATS 2941","engineType":"CE","vin":"WMEEJ3BA5FK799962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Orcas St 318, 98108 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.33069,47.55187,0],"name":"AKN2868","engineType":"CE","vin":"WMEEJ3BA7CK568508","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Massachusetts St 883, 98134 Seattle","city":"seattle","fuel":75,"exterior":"GOOD","coordinates":[-122.32172,47.58814,0],"name":"AKN 2624","engineType":"CE","vin":"WMEEJ3BA5CK573464","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Maynard Ave S 354, 98104 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.32502,47.59959,0],"name":"ANK7367","engineType":"CE","vin":"WMEEJ3BA4DK684525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st Ave N 2159, 98109 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.35562,47.63791,0],"name":"AKN 2760","engineType":"CE","vin":"WMEEJ3BA6CK569195","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 90th St 1787, 98115 Seattle","city":"seattle","fuel":9,"exterior":"GOOD","coordinates":[-122.30714,47.69394,0],"name":"AKN 2714","engineType":"CE","vin":"WMEEJ3BA9CK568428","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Harney St 976, 98108 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.31811,47.54854,0],"name":"ATZ5105","engineType":"CE","vin":"WMEEJ3BA2FK789356","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 54th St 2425, 98105 Seattle","city":"seattle","fuel":42,"exterior":"GOOD","coordinates":[-122.30154,47.66792,0],"name":"AKN 2626","engineType":"CE","vin":"WMEEJ3BA6CK573506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 49th St 1437, 98107 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.37452,47.6644,0],"name":"AKN 2627","engineType":"CE","vin":"WMEEJ3BAXCK569183","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boston St 115, 98109 Seattle","city":"seattle","fuel":57,"exterior":"GOOD","coordinates":[-122.35526,47.6382,0],"name":"AKN 2727","engineType":"CE","vin":"WMEEJ3BA3CK563239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"43rd Ave S 7113, 98118 Seattle","city":"seattle","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.27937,47.53867,0],"name":"ATZ5139","engineType":"CE","vin":"WMEEJ3BA6FK794740","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Dawson St 1589, 98108 Seattle","city":"seattle","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.31209,47.5556,0],"name":"AKN2779","engineType":"CE","vin":"WMEEJ3BA0CK572951","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd Ave SW 8111, 98126 Seattle","city":"seattle","fuel":84,"exterior":"GOOD","coordinates":[-122.37397,47.52996,0],"name":"AUK2228","engineType":"CE","vin":"WMEEJ3BAXEK783545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 97th St 1606, 98103 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.33901,47.69971,0],"name":"AKN 2804","engineType":"CE","vin":"WMEEJ3BAXCK577638","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 86th St 661, 98117 Seattle","city":"seattle","fuel":87,"exterior":"GOOD","coordinates":[-122.36499,47.69139,0],"name":"AKN2685","engineType":"CE","vin":"WMEEJ3BA3CK567890","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"21st Ave NE 4721, 98105 Seattle","city":"seattle","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-122.30552,47.66341,0],"name":"ATZ5663","engineType":"CE","vin":"WMEEJ3BA9FK789273","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"14th Ave NW 9511, 98117 Seattle","city":"seattle","fuel":45,"exterior":"GOOD","coordinates":[-122.37419,47.69805,0],"name":"ATS2918","engineType":"CE","vin":"WMEEJ3BA2FK799658","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th Ave S 851, 98134 Seattle","city":"seattle","fuel":33,"exterior":"GOOD","coordinates":[-122.32635,47.59549,0],"name":"ATZ5085","engineType":"CE","vin":"WMEEJ3BAXFK786964","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Phinney Ave N 3975, 98103 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.35446,47.65504,0],"name":"ANK7365","engineType":"CE","vin":"WMEEJ3BA6DK684431","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 61st St 6379, 98115 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.25869,47.6728,0],"name":"AKN2636","engineType":"CE","vin":"WMEEJ3BA2CK569145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"I-5, 98144 Yesler Terrace","city":"seattle","fuel":81,"exterior":"GOOD","coordinates":[-122.32132,47.59908,0],"name":"AWB6193","engineType":"CE","vin":"WMEEJ3BA0FK794863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Roy St 182, 98109 Seattle","city":"seattle","fuel":54,"exterior":"GOOD","coordinates":[-122.35319,47.62548,0],"name":"AKN2677","engineType":"CE","vin":"WMEEJ3BA8CK573359","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"9th Ave NE 4315, 98105 Seattle","city":"seattle","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-122.31881,47.65973,0],"name":"ATZ5130","engineType":"CE","vin":"WMEEJ3BA2FK794220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"John St 134, 98109 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.3545,47.61978,0],"name":"AKN 2721","engineType":"CE","vin":"WMEEJ3BA2CK569033","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N 50th St 2124, 98103 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.33187,47.66508,0],"name":"AKN 2910","engineType":"CE","vin":"WMEEJ3BAXCK572892","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Whitman Ave N 3885, 98103 Seattle","city":"seattle","fuel":96,"exterior":"GOOD","coordinates":[-122.34602,47.65394,0],"name":"ALU 5971","engineType":"CE","vin":"WMEEJ3BA3DK655467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Washington St 2624, 98144 Seattle","city":"seattle","fuel":69,"exterior":"GOOD","coordinates":[-122.29867,47.60089,0],"name":"AKN2836","engineType":"CE","vin":"WMEEJ3BA9CK577582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Adams St 4628, 98118 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.27539,47.56527,0],"name":"ALU 5995","engineType":"CE","vin":"WMEEJ3BA6DK659917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pike St 890, 98101 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.33122,47.61247,0],"name":"ATZ5028","engineType":"CE","vin":"WMEEJ3BA2EK785418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"26th Ave E 1821, 98112 Seattle","city":"seattle","fuel":21,"exterior":"GOOD","coordinates":[-122.29952,47.63553,0],"name":"ATZ5127","engineType":"CE","vin":"WMEEJ3BA2FK793312","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd Ave 1203, 98101 Seattle","city":"seattle","fuel":63,"exterior":"GOOD","coordinates":[-122.33662,47.60674,0],"name":"AKN 2668","engineType":"CE","vin":"WMEEJ3BA4CK569759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Thorndyke Ave W 2508, 98199 Seattle","city":"seattle","fuel":21,"exterior":"UNACCEPTABLE","coordinates":[-122.38546,47.64174,0],"name":"ANK7385","engineType":"CE","vin":"WMEEJ3BA1DK684479","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th Ave E 241, 98112 Seattle","city":"seattle","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.28693,47.62084,0],"name":"AKN2758","engineType":"CE","vin":"WMEEJ3BA1CK570089","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Jackson St 961, 98104 Seattle","city":"seattle","fuel":93,"exterior":"GOOD","coordinates":[-122.32009,47.59916,0],"name":"ATZ5021","engineType":"CE","vin":"WMEEJ3BA3EK783984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Roosevelt Way N 14333, 98133 Seattle","city":"seattle","fuel":66,"exterior":"GOOD","coordinates":[-122.34312,47.73282,0],"name":"AWL4647","engineType":"CE","vin":"WMEEJ3BA0FK795043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"24th Ave NE 14031, 98125 Seattle","city":"seattle","fuel":100,"exterior":"GOOD","coordinates":[-122.30301,47.73072,0],"name":"ALU 5909","engineType":"CE","vin":"WMEEJ3BA2DK660742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"3rd Ave W 653, 98119 Seattle","city":"seattle","fuel":51,"exterior":"GOOD","coordinates":[-122.36068,47.6254,0],"name":"AUK2241","engineType":"CE","vin":"WMEEJ3BA1FK787291","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

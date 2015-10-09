@@ -1,0 +1,378 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Fanfani 2, 50127 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.22835,43.8051,0],"name":"083\/EV995NS","engineType":"CE","vin":"WME4513341K783461","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Cappuccini 5, 50139 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.25039,43.79374,0],"name":"099\/EV204TT","engineType":"CE","vin":"WME4513341K784273","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tiziano 4, 50143 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.20189,43.76842,0],"name":"101\/EV227TT","engineType":"CE","vin":"WME4513341K784534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ragazzi del '99 69, 50141 Firenze","city":"firenze","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[11.23858,43.80284,0],"name":"106\/EV246TT","engineType":"CE","vin":"WME4513341K785086","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gherardo Silvani 34, 50125 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.23612,43.73857,0],"name":"140\/EV984NS","engineType":"CE","vin":"WME4513341K782813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Assisi 20, 50142 Firenze","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.20095,43.78212,0],"name":"094\/EV996NS","engineType":"CE","vin":"WME4513341K783292","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Francavilla 8, 50142 Firenze","city":"firenze","fuel":78,"exterior":"GOOD","coordinates":[11.22403,43.77378,0],"name":"166\/EX646DK","engineType":"CE","vin":"WME4513341K747660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Domenico Moreni 1, 50135 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.30178,43.77713,0],"name":"042\/EV277TP","engineType":"CE","vin":"WME4513341K776293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Domenico 98 - 100, 50133 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28529,43.79994,0],"name":"070\/EV201TT","engineType":"CE","vin":"WME4513341K783726","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Santa Chiara 25, 50124 Firenze","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.22316,43.73678,0],"name":"171\/EX618DK","engineType":"CE","vin":"WME4513341K747336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pistoiese 417, 50145 Firenze","city":"firenze","fuel":96,"exterior":"GOOD","coordinates":[11.15938,43.7938,0],"name":"031\/EV266TP","engineType":"CE","vin":"WME4513341K774275","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Legnaia 3, 50143 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.21671,43.76865,0],"name":"135\/EV923NS","engineType":"CE","vin":"WME4513341K783441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Brozzi 31, 50145 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.18512,43.79541,0],"name":"113\/EV249TT","engineType":"CE","vin":"WME4513341K784980","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Niccolò da Tolentino 50, 50141 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.24343,43.80906,0],"name":"114\/EV265TT","engineType":"CE","vin":"WME4513341K785632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Chimera, 50135 Firenze","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.30945,43.76917,0],"name":"038\/EV273TP","engineType":"CE","vin":"WME4513341K774920","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Schiff, 50019 Sesto Fiorentino","city":"firenze","fuel":63,"exterior":"GOOD","coordinates":[11.19529,43.8204,0],"name":"086\/EV963NS","engineType":"CE","vin":"WME4513341K782480","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Boccaccio 72, 50133 Firenze","city":"firenze","fuel":72,"exterior":"GOOD","coordinates":[11.27327,43.79043,0],"name":"046\/EV281TP","engineType":"CE","vin":"WME4513341K776780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padre Ernesto Balducci 16, 50145 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.1745,43.79737,0],"name":"189\/EX599DK","engineType":"CE","vin":"WME4513341K745104","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lorenzo Bardelli 9, 50139 Firenze","city":"firenze","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[11.24944,43.79631,0],"name":"193\/EX709DK","engineType":"CE","vin":"WME4513341K751743","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Costituzione, 50018 Scandicci","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.17417,43.75521,0],"name":"148\/EV235TT","engineType":"CE","vin":"WME4513341K784471","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giuseppe Poggi 15 - 17, 50125 Firenze (raggio 100m)","city":"firenze","fuel":90,"exterior":"GOOD","coordinates":[11.26355,43.76301,0],"name":"139\/EV991NS","engineType":"CE","vin":"WME4513341K783041","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Brozzi 513, 50145 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.15953,43.79407,0],"name":"117\/EV209TT","engineType":"CE","vin":"WME4513341K783904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fiume 7, 50123 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.25015,43.77695,0],"name":"160\/EX718DK","engineType":"CE","vin":"WME4513341K748555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Unione Sovietica 18, 50126 Firenze","city":"firenze","fuel":75,"exterior":"GOOD","coordinates":[11.297,43.75877,0],"name":"061\/EV200TT","engineType":"CE","vin":"WME4513341K783886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Parlatore 7, 50126 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.29392,43.75381,0],"name":"177\/EX728DK","engineType":"CE","vin":"WME4513341K746992","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Piazzuola 37, 50133 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.27567,43.78768,0],"name":"091\/EV245TT","engineType":"CE","vin":"WME4513341K784286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Reginaldo Giuliani 595, 50141 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.22158,43.82056,0],"name":"126\/EV210TT","engineType":"CE","vin":"WME4513341K784004","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 33, 50127 Firenze (raggio 300m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.22446,43.79702,0],"name":"027\/EV262TP","engineType":"CE","vin":"WME4513341K776243","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Augusto Righi 29, 50137 Firenze","city":"firenze","fuel":39,"exterior":"GOOD","coordinates":[11.29204,43.785,0],"name":"190\/EX596DK","engineType":"CE","vin":"WME4513341K745062","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Galileo 12, 50125 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.26389,43.7601,0],"name":"107\/EV999NS","engineType":"CE","vin":"WME4513341K783716","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viuzzo della Cavalla 12, 50145 Firenze","city":"firenze","fuel":39,"exterior":"GOOD","coordinates":[11.19575,43.79516,0],"name":"017\/EV252TP","engineType":"CE","vin":"WME4513341K774412","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Adriani 2, 50126 Firenze","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.28373,43.76346,0],"name":"048\/EV283TP","engineType":"CE","vin":"WME4513341K774962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Faentina 384, 50133 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.2775,43.80128,0],"name":"022\/EV257TP","engineType":"CE","vin":"WME4513341K775648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Coppo di Marcovaldo 61, 50143 Firenze","city":"firenze","fuel":63,"exterior":"GOOD","coordinates":[11.21589,43.76655,0],"name":"158\/EX701DK","engineType":"CE","vin":"WME4513341K749525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Tartini 15, 50144 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.2211,43.78771,0],"name":"183\/EX708DK","engineType":"CE","vin":"WME4513341K746044","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enrico Mayer 14, 50134 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.24622,43.79,0],"name":"145\/EV233TT","engineType":"CE","vin":"WME4513341K784345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giandomenico Romagnosi 9, 50134 Firenze","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.24938,43.79215,0],"name":"164\/EX587DK","engineType":"CE","vin":"WME4513341K747860","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Bini 19, 50134 Firenze","city":"firenze","fuel":48,"exterior":"GOOD","coordinates":[11.24202,43.7948,0],"name":"035\/EV270TP","engineType":"CE","vin":"WME4513341K774344","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Iugoslavia 4, 50126 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.29481,43.75859,0],"name":"092\/EV213TT","engineType":"CE","vin":"WME4513341K783239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Campora 48, 50124 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23364,43.75576,0],"name":"028\/EV263TP","engineType":"CE","vin":"WME4513341K776669","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Corsica 96 - 100, 50127 Firenze (raggio 100m)","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.23974,43.79362,0],"name":"051\/EV286TP","engineType":"CE","vin":"WME4513341K774981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Benedetto Dei 85, 50127 Firenze","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.2331,43.79797,0],"name":"040\/EV275TP","engineType":"CE","vin":"WME4513341K775402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pistoiese 433, 50145 Firenze","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.15772,43.7939,0],"name":"179\/EX726DK","engineType":"CE","vin":"WME4513341K746788","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Porte Sante 34, 50125 Firenze (raggio 100m)","city":"firenze","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[11.26379,43.75974,0],"name":"064\/EV263TT","engineType":"CE","vin":"WME4513341K785644","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Giovanni Rosadi 2, 50136 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28811,43.7678,0],"name":"128\/EV253TT","engineType":"CE","vin":"WME4513341K784755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padre Ernesto Balducci 16, 50145 Firenze (raggio 100m)","city":"firenze","fuel":63,"exterior":"GOOD","coordinates":[11.17452,43.79722,0],"name":"182\/EX722DK","engineType":"CE","vin":"WME4513341K746318","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovan Filippo Mariti 11, 50127 Firenze","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.23426,43.79056,0],"name":"115\/EV207TT","engineType":"CE","vin":"WME4513341K783642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Madonna del Piano 1, 50019 Sesto Fiorentino (raggio 300m)","city":"firenze","fuel":63,"exterior":"GOOD","coordinates":[11.20128,43.81719,0],"name":"123\/EV230TT","engineType":"CE","vin":"WME4513341K784450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gaetano Filangieri 5, 50133 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.27287,43.79406,0],"name":"029\/EV264TP","engineType":"CE","vin":"WME4513341K774904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Famiglia Benini, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.2212,43.80714,0],"name":"024\/EV259TP","engineType":"CE","vin":"WME4513341K776734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pistoiese 448, 50145 Firenze","city":"firenze","fuel":96,"exterior":"GOOD","coordinates":[11.16438,43.79304,0],"name":"018\/EV253TP","engineType":"CE","vin":"WME4513341K775462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Taddeo Gaddi 1, 50019 Sesto Fiorentino (raggio 300m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.2172,43.82459,0],"name":"104\/EV228TT","engineType":"CE","vin":"WME4513341K784083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Faentina 263, 50139 Firenze (raggio 100m)","city":"firenze","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[11.27693,43.80053,0],"name":"121\/EV251TT","engineType":"CE","vin":"WME4513341K784879","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Maggio 70, 50125 Firenze","city":"firenze","fuel":87,"exterior":"GOOD","coordinates":[11.24821,43.76552,0],"name":"153\/EX582DK","engineType":"CE","vin":"WME4513341K747214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Novoli 89, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.21748,43.79438,0],"name":"173\/EX170DK","engineType":"CE","vin":"WME4513341K747303","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Falcucci 39, 50137 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.29056,43.77716,0],"name":"168\/EX651DK","engineType":"CE","vin":"WME4513341K747493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Maso di Banco 25, 50143 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.21466,43.76894,0],"name":"004\/EV241TP","engineType":"CE","vin":"WME4513341K770752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Grecchi 14, 50125 Firenze","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.24284,43.75035,0],"name":"132\/EV978NS","engineType":"CE","vin":"WME4513341K782314","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vincenzo Gioberti 43, 50121 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.27625,43.77014,0],"name":"047\/EV282TP","engineType":"CE","vin":"WME4513341K774327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Camerata 27, 50133 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.28847,43.79164,0],"name":"079\/EV220TT","engineType":"CE","vin":"WME4513341K783861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Arturo Chiari 2 - 8, 50127 Firenze (raggio 100m)","city":"firenze","fuel":78,"exterior":"GOOD","coordinates":[11.19708,43.80194,0],"name":"096\/EV203TT","engineType":"CE","vin":"WME4513341K783266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza dei Nerli 11, 50124 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.24157,43.77005,0],"name":"124\/EV261TT","engineType":"CE","vin":"WME4513341K785461","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Accursio 10, 50125 Firenze","city":"firenze","fuel":78,"exterior":"GOOD","coordinates":[11.23652,43.74977,0],"name":"072\/EV244TT","engineType":"CE","vin":"WME4513341K784772","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pratese 166, 50127 Firenze","city":"firenze","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[11.18652,43.80347,0],"name":"049\/EV284TP","engineType":"CE","vin":"WME4513341K774636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Faentina 127, 50133 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.26923,43.7911,0],"name":"041\/EV276TP","engineType":"CE","vin":"WME4513341K774964","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lippo Memmi 4, 50142 Firenze","city":"firenze","fuel":90,"exterior":"GOOD","coordinates":[11.21809,43.77494,0],"name":"011\/EV246TP","engineType":"CE","vin":"WME4513341K774902","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Claudio Monteverdi 55, 50019 Sesto Fiorentino","city":"firenze","fuel":66,"exterior":"GOOD","coordinates":[11.2176,43.82247,0],"name":"084\/EV981NS","engineType":"CE","vin":"WME4513341K782623","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuliano Bugiardini 29, 50143 Firenze","city":"firenze","fuel":66,"exterior":"GOOD","coordinates":[11.19349,43.76544,0],"name":"138\/EV990NS","engineType":"CE","vin":"WME4513341K783395","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 123, 50127 Firenze","city":"firenze","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[11.21448,43.79807,0],"name":"155\/EX600DK","engineType":"CE","vin":"WME4513341K745140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Famiglia Benini, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.22151,43.80736,0],"name":"006\/EV243TP","engineType":"CE","vin":"WME4513341K771008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Pisacane 1, 50134 Firenze","city":"firenze","fuel":87,"exterior":"GOOD","coordinates":[11.24612,43.79262,0],"name":"194\/EX685DK","engineType":"CE","vin":"WME4513341K751723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Ravenna 16, 50126 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.28109,43.76356,0],"name":"131\/EV983NS","engineType":"CE","vin":"WME4513341K782879","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Gramsci 576, 50019 Sesto Fiorentino","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.21707,43.82454,0],"name":"120\/EV250TT","engineType":"CE","vin":"WME4513341K784845","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Undici Agosto 100, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.21479,43.80395,0],"name":"129\/EV921NS","engineType":"CE","vin":"WME4513341K783309","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Michelangiolo 50, 50125 Firenze","city":"firenze","fuel":78,"exterior":"GOOD","coordinates":[11.2695,43.76138,0],"name":"178\/EX727DK","engineType":"CE","vin":"WME4513341K746894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzetta Valdambra 3, 50127 Firenze","city":"firenze","fuel":96,"exterior":"GOOD","coordinates":[11.21643,43.79525,0],"name":"026\/EV261TP","engineType":"CE","vin":"WME4513341K775126","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Gignoro 38, 50135 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.30145,43.77592,0],"name":"100\/EV226TT","engineType":"CE","vin":"WME4513341K784703","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vincenzo Gioberti 91, 50121 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.27379,43.7704,0],"name":"009\/EV245TP","engineType":"CE","vin":"WME4513341K770995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Barbadori 19, 50125 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.25207,43.76742,0],"name":"180\/EX725DK","engineType":"CE","vin":"WME4513341K746424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sette Regole 42, 50018 Scandicci (raggio 300m)","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.17183,43.75588,0],"name":"014\/EV249TP","engineType":"CE","vin":"WME4513341K775112","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Gaetano Pieraccini 11, 50139 Firenze","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.25029,43.81212,0],"name":"073\/EV217TT","engineType":"CE","vin":"WME4513341K784417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Caboto 67, 50127 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.23311,43.79936,0],"name":"055\/EV290TP","engineType":"CE","vin":"WME4513341K775085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fontanelle, 50014 Fiesole","city":"firenze","fuel":33,"exterior":"GOOD","coordinates":[11.28589,43.8007,0],"name":"039\/EV274TP","engineType":"CE","vin":"WME4513341K774401","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pistoiese 292, 50145 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.17575,43.7933,0],"name":"059\/EV294TP","engineType":"CE","vin":"WME4513341K774908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gherardo Silvani 105, 50125 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23656,43.73878,0],"name":"088\/EV222TT","engineType":"CE","vin":"WME4513341K784372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Leoncavallo 26, 50019 Sesto Fiorentino","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.21569,43.82381,0],"name":"122\/EV266TT","engineType":"CE","vin":"WME4513341K785685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Europa 120, 50126 Firenze","city":"firenze","fuel":96,"exterior":"GOOD","coordinates":[11.29619,43.75681,0],"name":"069\/EV993NS","engineType":"CE","vin":"WME4513341K783497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Giunchi 125, 50019 Sesto Fiorentino","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.18837,43.80835,0],"name":"060\/EV262TT","engineType":"CE","vin":"WME4513341K785695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Porte Sante 34, 50125 Firenze (raggio 300m)","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.26501,43.76054,0],"name":"152\/EX647DK","engineType":"CE","vin":"WME4513341K747433","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Camerata 31, 50133 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28843,43.79204,0],"name":"188\/EX614DK","engineType":"CE","vin":"WME4513341K745521","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Campani 40, 50127 Firenze","city":"firenze","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[11.22537,43.79979,0],"name":"080\/EV221TT","engineType":"CE","vin":"WME4513341K784282","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Strada Provinciale Lucchese per Prato 19, 50019 Sesto Fiorentino (raggio 100m)","city":"firenze","fuel":24,"exterior":"GOOD","coordinates":[11.18139,43.80511,0],"name":"098\/EV225TT","engineType":"CE","vin":"WME4513341K784694","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Almerico da Schio 2, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.22042,43.79826,0],"name":"021\/EV256TP","engineType":"CE","vin":"WME4513341K774749","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Amedeo Avogadro 26, 50019 Sesto Fiorentino","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.18394,43.81046,0],"name":"043\/EV278TP","engineType":"CE","vin":"WME4513341K775005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Pirandello 11, 50135 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.29812,43.78056,0],"name":"068\/EV242TT","engineType":"CE","vin":"WME4513341K784840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pratese 221, 50145 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.18805,43.80268,0],"name":"050\/EV285TP","engineType":"CE","vin":"WME4513341K774425","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza della Costituzione 2 - 18, 50019 Sesto Fiorentino (raggio 100m)","city":"firenze","fuel":60,"exterior":"GOOD","coordinates":[11.21732,43.82364,0],"name":"172\/EX418DK","engineType":"CE","vin":"WME4513341K747325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Mercalli 201, 50019 Sesto Fiorentino (raggio 100m)","city":"firenze","fuel":63,"exterior":"GOOD","coordinates":[11.17944,43.80432,0],"name":"077\/EV985NS","engineType":"CE","vin":"WME4513341K783190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aretina 155, 50136 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.28842,43.7689,0],"name":"136\/EV211TT","engineType":"CE","vin":"WME4513341K782960","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lippo Memmi 10, 50142 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.21777,43.77448,0],"name":"008\/EV296TP","engineType":"CE","vin":"WME4513341K768098","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leonardo Ximenes 20, 50125 Firenze","city":"firenze","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[11.24468,43.75145,0],"name":"016\/EV251TP","engineType":"CE","vin":"WME4513341K775097","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di San Bartolo a Cintoia 90, 50142 Firenze (raggio 100m)","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.18882,43.7793,0],"name":"075\/EV979NS","engineType":"CE","vin":"WME4513341K782987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Brozzi 491, 50145 Firenze","city":"firenze","fuel":39,"exterior":"GOOD","coordinates":[11.16089,43.79404,0],"name":"198\/EX446DK","engineType":"CE","vin":"WME4513341K751252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Francavilla 14, 50142 Firenze","city":"firenze","fuel":66,"exterior":"GOOD","coordinates":[11.22409,43.77336,0],"name":"175\/EX583DK","engineType":"CE","vin":"WME4513341K747243","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza dei Tigli 1 - 2, 50142 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.22105,43.77533,0],"name":"196\/EX477DK","engineType":"CE","vin":"WME4513341K751516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Gignoro 36, 50135 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.30166,43.77597,0],"name":"062\/EV239TT","engineType":"CE","vin":"WME4513341K784296","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Gore 24, 50141 Firenze (raggio 300m)","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.24616,43.81081,0],"name":"147\/EV254TT","engineType":"CE","vin":"WME4513341K784768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Paisiello 129, 50144 Firenze","city":"firenze","fuel":24,"exterior":"GOOD","coordinates":[11.22523,43.78483,0],"name":"063\/EV257TT","engineType":"CE","vin":"WME4513341K785184","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Pescetti 4, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23161,43.80513,0],"name":"192\/EX483DK","engineType":"CE","vin":"WME4513341K751599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Giovanni Rosadi 2, 50136 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28796,43.76804,0],"name":"169\/EX620DK","engineType":"CE","vin":"WME4513341K747419","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Vicolo di San Marco Vecchio 2, 50133 Firenze","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.27015,43.79467,0],"name":"108\/EV247TT","engineType":"CE","vin":"WME4513341K784380","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pompeo Neri 18, 50134 Firenze","city":"firenze","fuel":33,"exterior":"GOOD","coordinates":[11.24558,43.79074,0],"name":"001\/EV327TP","engineType":"CE","vin":"WME4513341K768918","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Ugo Ojetti 23 - 49, 50137 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.29395,43.78353,0],"name":"119\/EV920NS","engineType":"CE","vin":"WME4513341K783513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Reginaldo Giuliani 235, 50141 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.2335,43.81163,0],"name":"142\/EV924NS","engineType":"CE","vin":"WME4513341K782901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Galliano 142, 50144 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.23153,43.78595,0],"name":"053\/EV288TP","engineType":"CE","vin":"WME4513341K775477","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Unione Sovietica 49, 50126 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.29362,43.75795,0],"name":"176\/EX729DK","engineType":"CE","vin":"WME4513341K747160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Mezzetta 19, 50135 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.29076,43.77379,0],"name":"002\/EV328TP","engineType":"CE","vin":"WME4513341K769527","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Clasio 45, 50135 Firenze","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.29588,43.77729,0],"name":"045\/EV280TP","engineType":"CE","vin":"WME4513341K775357","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vittorio Emanuele II 5, 50129 Firenze","city":"firenze","fuel":48,"exterior":"GOOD","coordinates":[11.26076,43.78631,0],"name":"195\/EX665DK","engineType":"CE","vin":"WME4513341K751626","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Boccaccio 139, 50133 Firenze","city":"firenze","fuel":81,"exterior":"GOOD","coordinates":[11.28357,43.79978,0],"name":"197\/EX447DK","engineType":"CE","vin":"WME4513341K751264","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 95, 50127 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.21665,43.79777,0],"name":"116\/EV208TT","engineType":"CE","vin":"WME4513341K783698","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Virgilio 24, 50127 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.22279,43.79512,0],"name":"154\/EX704DK","engineType":"CE","vin":"WME4513341K745612","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Olmatello 20, 50127 Firenze","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.21715,43.80442,0],"name":"112\/EV260TT","engineType":"CE","vin":"WME4513341K785210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale della Pace, 50019 Sesto Fiorentino","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.19875,43.82242,0],"name":"005\/EV242TP","engineType":"CE","vin":"WME4513341K769842","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Chiantigiana 26, 50126 Firenze","city":"firenze","fuel":90,"exterior":"GOOD","coordinates":[11.29706,43.75343,0],"name":"065\/EV264TT","engineType":"CE","vin":"WME4513341K785719","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pio Fedi 69, 50142 Firenze","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.20587,43.77788,0],"name":"161\/EX717DK","engineType":"CE","vin":"WME4513341K748493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vasco De Gama 51, 50127 Firenze","city":"firenze","fuel":60,"exterior":"GOOD","coordinates":[11.23522,43.80047,0],"name":"010\/EV297TP","engineType":"CE","vin":"WME4513341K768078","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sette Regole 42, 50018 Scandicci (raggio 300m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.17194,43.7559,0],"name":"097\/EV214TT","engineType":"CE","vin":"WME4513341K783523","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Macedonio Melloni 16, 50133 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28335,43.78784,0],"name":"036\/EV271TP","engineType":"CE","vin":"WME4513341K775902","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale della Pace, 50019 Sesto Fiorentino","city":"firenze","fuel":60,"exterior":"GOOD","coordinates":[11.19604,43.82375,0],"name":"186\/EX705DK","engineType":"CE","vin":"WME4513341K745636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Olmatello 27, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.21683,43.80398,0],"name":"134\/EV988NS","engineType":"CE","vin":"WME4513341K783159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Volterrana 6, 50124 Firenze","city":"firenze","fuel":72,"exterior":"GOOD","coordinates":[11.22281,43.73547,0],"name":"025\/EV260TP","engineType":"CE","vin":"WME4513341K774471","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Sette Santi 70 - 74, 50131 Firenze (raggio 100m)","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.28013,43.78167,0],"name":"133\/EV270TT","engineType":"CE","vin":"WME4513341K782516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Domenico 98 - 100, 50133 Firenze (raggio 100m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28518,43.80014,0],"name":"125\/EV231TT","engineType":"CE","vin":"WME4513341K784039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viuzzo delle Case Nuove 9 - 12, 50143 Firenze (raggio 100m)","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.19814,43.76596,0],"name":"093\/EV224TT","engineType":"CE","vin":"WME4513341K784352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Nazioni Unite 57, 50126 Firenze","city":"firenze","fuel":15,"exterior":"GOOD","coordinates":[11.29227,43.7626,0],"name":"165\/EX652DK","engineType":"CE","vin":"WME4513341K747735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Boccaccio 72, 50133 Firenze","city":"firenze","fuel":81,"exterior":"GOOD","coordinates":[11.2733,43.79044,0],"name":"081\/EV258TT","engineType":"CE","vin":"WME4513341K785525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Frullino 1, 50137 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28834,43.79014,0],"name":"141\/EV271TT","engineType":"CE","vin":"WME4513341K783594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Gignoro 42, 50135 Firenze","city":"firenze","fuel":78,"exterior":"GOOD","coordinates":[11.30494,43.77977,0],"name":"003\/EV240TP","engineType":"CE","vin":"WME4513341K769320","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessandro Morettini, 50019 Sesto Fiorentino","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.20007,43.8162,0],"name":"066\/EV240TT","engineType":"CE","vin":"WME4513341K785073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Scialoia 39, 50136 Firenze","city":"firenze","fuel":18,"exterior":"GOOD","coordinates":[11.2738,43.77352,0],"name":"163\/EX715DK","engineType":"CE","vin":"WME4513341K747970","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Rastrelli 6 - 10, 50127 Firenze (raggio 100m)","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.22897,43.79166,0],"name":"030\/EV265TP","engineType":"CE","vin":"WME4513341K774940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Giovambattista Giorgini 9 - 12, 50134 Firenze (raggio 100m)","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.25042,43.79207,0],"name":"067\/EV241TT","engineType":"CE","vin":"WME4513341K784889","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Camerata 71, 50133 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.28489,43.79785,0],"name":"185\/EX706DK","engineType":"CE","vin":"WME4513341K745646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Olmatello 20, 50127 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.21765,43.80464,0],"name":"034\/EV269TP","engineType":"CE","vin":"WME4513341K775519","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ignazio Danti 1, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23498,43.78996,0],"name":"037\/EV272TP","engineType":"CE","vin":"WME4513341K774788","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Caracciolo 25 - 29, 50133 Firenze (raggio 100m)","city":"firenze","fuel":87,"exterior":"GOOD","coordinates":[11.27335,43.79119,0],"name":"090\/EV223TT","engineType":"CE","vin":"WME4513341K784328","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Domenico 98 - 100, 50133 Firenze (raggio 100m)","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.28527,43.80006,0],"name":"054\/EV289TP","engineType":"CE","vin":"WME4513341K775529","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 93, 50127 Firenze","city":"firenze","fuel":30,"exterior":"GOOD","coordinates":[11.21942,43.79761,0],"name":"012\/EV247TP","engineType":"CE","vin":"WME4513341K775509","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Brozzi 73, 50145 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.18355,43.79568,0],"name":"089\/EV982NS","engineType":"CE","vin":"WME4513341K782942","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Porte Sante 34, 50125 Firenze (raggio 100m)","city":"firenze","fuel":81,"exterior":"GOOD","coordinates":[11.26386,43.7598,0],"name":"137\/EV989NS","engineType":"CE","vin":"WME4513341K783079","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Famiglia Benini, 50127 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.22076,43.80686,0],"name":"007\/EV244TP","engineType":"CE","vin":"WME4513341K769333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Nazioni Unite 43, 50126 Firenze","city":"firenze","fuel":69,"exterior":"GOOD","coordinates":[11.29382,43.76262,0],"name":"130\/EV987NS","engineType":"CE","vin":"WME4513341K783346","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Cappuccini 3, 50139 Firenze","city":"firenze","fuel":90,"exterior":"GOOD","coordinates":[11.25042,43.79334,0],"name":"150\/EV366TT","engineType":"CE","vin":"WME4513341K784637","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Cattani 75, 50145 Firenze","city":"firenze","fuel":57,"exterior":"GOOD","coordinates":[11.16996,43.79764,0],"name":"149\/EV236TT","engineType":"CE","vin":"WME4513341K784465","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leonardo Ximenes 64 - 68, 50125 Firenze (raggio 300m)","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.2377,43.74874,0],"name":"020\/EV255TP","engineType":"CE","vin":"WME4513341K774452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Boccaccio 137, 50133 Firenze","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.28353,43.79963,0],"name":"187\/EX702DK","engineType":"CE","vin":"WME4513341K745575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leonardo Ximenes 64 - 68, 50125 Firenze (raggio 300m)","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23715,43.74874,0],"name":"200\/EX448DK","engineType":"CE","vin":"WME4513341K751203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Santucci 5, 50127 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.23128,43.79059,0],"name":"019\/EV254TP","engineType":"CE","vin":"WME4513341K776611","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Federico Cammeo 3, 50127 Firenze","city":"firenze","fuel":81,"exterior":"GOOD","coordinates":[11.23099,43.7939,0],"name":"044\/EV279TP","engineType":"CE","vin":"WME4513341K774444","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bolognese 77, 50139 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.26134,43.79311,0],"name":"151\/EX654DK","engineType":"CE","vin":"WME4513341K747524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Strada Regionale della Futa 2, 50139 Firenze","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.26559,43.80004,0],"name":"143\/EV232TT","engineType":"CE","vin":"WME4513341K784358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Brozzi 576 - 586, 50145 Firenze (raggio 100m)","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.15818,43.79411,0],"name":"033\/EV268TP","engineType":"CE","vin":"WME4513341K775807","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 9 - 15, 50127 Firenze (raggio 100m)","city":"firenze","fuel":51,"exterior":"GOOD","coordinates":[11.2304,43.79452,0],"name":"167\/EX653DK","engineType":"CE","vin":"WME4513341K747504","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Marcellino 1, 50126 Firenze","city":"firenze","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[11.29518,43.75082,0],"name":"109\/EV248TT","engineType":"CE","vin":"WME4513341K785122","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Salvi Cristiani 6, 50135 Firenze","city":"firenze","fuel":60,"exterior":"GOOD","coordinates":[11.29729,43.77628,0],"name":"078\/EV219TT","engineType":"CE","vin":"WME4513341K784718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Masaccio 11, 50136 Firenze","city":"firenze","fuel":60,"exterior":"GOOD","coordinates":[11.27718,43.77438,0],"name":"058\/EV293TP","engineType":"CE","vin":"WME4513341K774231","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Enrico Mattei 3, 50127 Firenze (raggio 100m)","city":"firenze","fuel":48,"exterior":"GOOD","coordinates":[11.23041,43.80264,0],"name":"144\/EV992NS","engineType":"CE","vin":"WME4513341K783328","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Nazioni Unite 45, 50126 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.29374,43.76259,0],"name":"181\/EX723DK","engineType":"CE","vin":"WME4513341K746332","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gabriele D'Annunzio, 50135 Firenze","city":"firenze","fuel":45,"exterior":"GOOD","coordinates":[11.30815,43.78158,0],"name":"146\/EV234TT","engineType":"CE","vin":"WME4513341K784336","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Dino del Garbo 4, 50134 Firenze","city":"firenze","fuel":72,"exterior":"GOOD","coordinates":[11.24489,43.79786,0],"name":"057\/EV292TP","engineType":"CE","vin":"WME4513341K775051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Squarcialupi 5, 50144 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.23102,43.78279,0],"name":"095\/EV997NS","engineType":"CE","vin":"WME4513341K783210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pompeo Neri 22, 50134 Firenze","city":"firenze","fuel":42,"exterior":"GOOD","coordinates":[11.24526,43.79069,0],"name":"015\/EV250TP","engineType":"CE","vin":"WME4513341K776622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Aretina 130, 50136 Firenze","city":"firenze","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[11.28814,43.76893,0],"name":"082\/EV980NS","engineType":"CE","vin":"WME4513341K782833","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via de' Perfetti Ricasoli 74, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.2253,43.80686,0],"name":"071\/EV243TT","engineType":"CE","vin":"WME4513341K784642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Umberto Crocetta 6, 50141 Firenze","city":"firenze","fuel":96,"exterior":"GOOD","coordinates":[11.22786,43.81555,0],"name":"174\/EX443DK","engineType":"CE","vin":"WME4513341K747277","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Ponte Rosso 4, 50129 Firenze","city":"firenze","fuel":21,"exterior":"GOOD","coordinates":[11.26239,43.78552,0],"name":"184\/EX707DK","engineType":"CE","vin":"WME4513341K745893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Edoardo Detti, 50019 Sesto Fiorentino","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.19269,43.82137,0],"name":"052\/EV287TP","engineType":"CE","vin":"WME4513341K774331","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Amilcare Ponchielli 151, 50019 Sesto Fiorentino (raggio 100m)","city":"firenze","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[11.21631,43.82126,0],"name":"191\/EX593DK","engineType":"CE","vin":"WME4513341K744781","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via di Camerata 35, 50133 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.28845,43.79221,0],"name":"074\/EV994NS","engineType":"CE","vin":"WME4513341K783452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuliano Bugiardini 19, 50143 Firenze","city":"firenze","fuel":72,"exterior":"GOOD","coordinates":[11.19519,43.76809,0],"name":"118\/EV229TT","engineType":"CE","vin":"WME4513341K784651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Lungarno Aldo Moro 6, 50136 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.29108,43.76694,0],"name":"056\/EV291TP","engineType":"CE","vin":"WME4513341K775898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Tacca 28, 50125 Firenze","city":"firenze","fuel":84,"exterior":"GOOD","coordinates":[11.26852,43.75479,0],"name":"105\/EV205TT","engineType":"CE","vin":"WME4513341K783678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Gaetano Pieraccini 23, 50139 Firenze","city":"firenze","fuel":93,"exterior":"GOOD","coordinates":[11.24981,43.81035,0],"name":"103\/EV998NS","engineType":"CE","vin":"WME4513341K783316","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fontebuoni 17, 50137 Firenze","city":"firenze","fuel":54,"exterior":"GOOD","coordinates":[11.29489,43.78,0],"name":"013\/EV248TP","engineType":"CE","vin":"WME4513341K775799","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alessandro Guidoni 37, 50127 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.22322,43.79704,0],"name":"159\/EX719DK","engineType":"CE","vin":"WME4513341K748999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Pescetti 17, 50127 Firenze","city":"firenze","fuel":100,"exterior":"GOOD","coordinates":[11.23181,43.80491,0],"name":"023\/EV258TP","engineType":"CE","vin":"WME4513341K776025","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mariotto Albertinelli 12, 50143 Firenze","city":"firenze","fuel":90,"exterior":"GOOD","coordinates":[11.21267,43.76935,0],"name":"085\/EV986NS","engineType":"CE","vin":"WME4513341K783202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessandro Fei 31, 50143 Firenze","city":"firenze","fuel":36,"exterior":"GOOD","coordinates":[11.19937,43.76649,0],"name":"111\/EV259TT","engineType":"CE","vin":"WME4513341K785171","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

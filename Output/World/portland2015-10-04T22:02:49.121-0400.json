@@ -1,0 +1,808 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Tillamook St 2860, 97212 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.63615,45.53711,0],"name":"BIKE RACK 034HAL","engineType":"CE","vin":"WMEEJ3BA0EK779732","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW River Pky 2130, 97201 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6729,45.50686,0],"name":"584FYV","engineType":"CE","vin":"WMEEJ3BA9CK574293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Montana Ave 4267, 97217 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.67988,45.55444,0],"name":"583FYV","engineType":"CE","vin":"WMEEJ3BA9CK575704","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pacific Hwy E, 97202 Portland","city":"portland","fuel":9,"exterior":"GOOD","coordinates":[-122.63909,45.46215,0],"name":"158FRH","engineType":"CE","vin":"WMEEJ3BA4CK560852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 11th Ave 1160, 97209 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.68238,45.53124,0],"name":"558HDE","engineType":"CE","vin":"WMEEJ3BA6FK795158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 15th Ave 3508, 97202 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.65027,45.49741,0],"name":"181 FRH","engineType":"CE","vin":"WMEEJ3BAXCK561939","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd Ave 569, 97210 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.69852,45.52675,0],"name":"301FRH","engineType":"CE","vin":"WMEEJ3BA1CK564082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Division St 2330, 97202 Portland","city":"portland","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-122.64191,45.50477,0],"name":"BIKE RACK 028HAL","engineType":"CE","vin":"WMEEJ3BAXEK778118","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Michigan Ave 5435, 97217 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.67706,45.56234,0],"name":"268FRH","engineType":"CE","vin":"WMEEJ3BA0CK560931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Bancroft St 660, 97239 Portland","city":"portland","fuel":9,"exterior":"GOOD","coordinates":[-122.67136,45.49318,0],"name":"BIKE RACK 590HDE","engineType":"CE","vin":"WMEEJ3BA1FK789526","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Madison St 275, 97214 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.66304,45.51298,0],"name":"174 FRH","engineType":"CE","vin":"WMEEJ3BA7CK561462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Congress Ave 7051, 97217 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.67179,45.57391,0],"name":"BIKE RACK 047HAL","engineType":"CE","vin":"WMEEJ3BA7EK777301","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hancock St 2009, 97212 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.64563,45.53649,0],"name":"BIKE RACK 004HAL","engineType":"CE","vin":"WMEEJ3BAXEK778796","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Laurelhurst Pl 769, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62554,45.52866,0],"name":"BIKE RACK 905HDE","engineType":"CE","vin":"WMEEJ3BA0FK794295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Alberta St 1471, 97211 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.65027,45.55914,0],"name":"394FRH","engineType":"CE","vin":"WMEEJ3BA1CK563210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandy Blvd 5486, 97213 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.60657,45.54118,0],"name":"580FYV","engineType":"CE","vin":"WMEEJ3BA9CK568039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Church St 1056, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6776,45.56338,0],"name":"464HDE","engineType":"CE","vin":"WMEEJ3BA8FK792570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Clay St 1158, 97214 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.65408,45.51147,0],"name":"BIKE RACK 572HDE","engineType":"CE","vin":"WMEEJ3BA6FK794625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th Ave 1767, 97214 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.65882,45.51034,0],"name":"BIKE RACK 895HDE","engineType":"CE","vin":"WMEEJ3BA5FK794700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Michigan Ave 3939, 97227 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.67671,45.55133,0],"name":"326FRH","engineType":"CE","vin":"WMEEJ3BAXCK561570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Willamette Blvd 2857, 97217 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.69676,45.56211,0],"name":"291FRH","engineType":"CE","vin":"WMEEJ3BA5CK569513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 60th Ave 2473, 97213 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.60149,45.54073,0],"name":"223FRH","engineType":"CE","vin":"WMEEJ3BA5CK561329","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 77th Pl 2841, 97213 Portland","city":"portland","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-122.5834,45.54296,0],"name":"BIKE RACK 710HDE","engineType":"CE","vin":"WMEEJ3BA0FK790294","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Highland St 1243, 97211 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.65239,45.56891,0],"name":"BIKE RACK 272GXY","engineType":"CE","vin":"WMEEJ3BA0EK778869","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Banfield Expy, 97213 Portland","city":"portland","fuel":9,"exterior":"UNACCEPTABLE","coordinates":[-122.61982,45.53308,0],"name":"BIKE RACK 966HDE","engineType":"CE","vin":"WMEEJ3BA0FK792787","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Milwaukie Ave 4674, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65079,45.489,0],"name":"467HDE","engineType":"CE","vin":"WMEEJ3BA3FK792802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Burnside St 1825, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64719,45.52308,0],"name":"359FRH","engineType":"CE","vin":"WMEEJ3BA2CK568559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Condor Ave 3887, 97239 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.6812,45.49506,0],"name":"BIKE RACK 594HDE","engineType":"CE","vin":"WMEEJ3BA5FK794325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Steele St 3384, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.62902,45.48465,0],"name":"277FRH","engineType":"CE","vin":"WMEEJ3BA3CK568358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Holgate Blvd 4074, 97202 Portland","city":"portland","fuel":81,"exterior":"GOOD","coordinates":[-122.62004,45.49031,0],"name":"337FRH","engineType":"CE","vin":"WMEEJ3BA6CK562134","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Vancouver Ave 2468, 97227 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.66767,45.54047,0],"name":"270FRH","engineType":"CE","vin":"WMEEJ3BA1CK562851","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Wilson St 3091, 97210 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.71356,45.5374,0],"name":"399FRH","engineType":"CE","vin":"WMEEJ3BA2CK563300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 38th Ave 2322, 97214 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.62388,45.50606,0],"name":"BIKE RACK 969HDE","engineType":"CE","vin":"WMEEJ3BA9FK788608","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Hamilton St 47, 97239 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.67889,45.49093,0],"name":"283FRH","engineType":"CE","vin":"WMEEJ3BA9CK568302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Halsey St 1301, 97232 Portland","city":"portland","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-122.65318,45.53367,0],"name":"169 FRH","engineType":"CE","vin":"WMEEJ3BA4CK561712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Garfield Ave 4941, 97211 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.66272,45.55873,0],"name":"303FRH","engineType":"CE","vin":"WMEEJ3BA2CK562664","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Slavin Rd 4985, 97239 Portland","city":"portland","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-122.68005,45.48735,0],"name":"BIKE RACK 275GXY","engineType":"CE","vin":"WMEEJ3BA5EK779287","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Orange Ave 2406, 97214 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.65084,45.50573,0],"name":"470HDE","engineType":"CE","vin":"WMEEJ3BA9FK793159","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 51st Ave 1803, 97213 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.61097,45.53585,0],"name":"BIKE RACK 195GUD","engineType":"CE","vin":"WMEEJ3BA4EK778583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Seward Ave 7201, 97217 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.70386,45.57514,0],"name":"177FRH","engineType":"CE","vin":"WMEEJ3BA7CK561560","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Oregon St 4950, 97213 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.61094,45.52907,0],"name":"BIKE RACK 900HDE","engineType":"CE","vin":"WMEEJ3BA8FK792701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Stafford St 4667, 97203 Portland","city":"portland","fuel":12,"exterior":"GOOD","coordinates":[-122.71515,45.57718,0],"name":"BIKE RACK 726HDE","engineType":"CE","vin":"WMEEJ3BA9FK793307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Haight Ave 5571, 97217 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.67015,45.56313,0],"name":"BIKE RACK 007HDR","engineType":"CE","vin":"WMEEJ3BAXFK790092","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Dekum St 366, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6617,45.57179,0],"name":"363FRH","engineType":"CE","vin":"WMEEJ3BA8CK561812","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Sherman St 1141, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65431,45.50656,0],"name":"564FYV","engineType":"CE","vin":"WMEEJ3BAXCK573993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Pacific St 4829, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61232,45.52976,0],"name":"BIKE RACK 180GUD","engineType":"CE","vin":"WMEEJ3BA3EK778185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Grant St 1136, 97214 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.65432,45.50719,0],"name":"253FRH","engineType":"CE","vin":"WMEEJ3BA2CK562714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Delaware Ave 5869, 97217 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.69258,45.5656,0],"name":"BIKE RACK 892HDE","engineType":"CE","vin":"WMEEJ3BA7FK794570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Francis St 5265, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60841,45.49457,0],"name":"238FRH","engineType":"CE","vin":"WMEEJ3BA8CK562362","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Wygant St 4272, 97218 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.61954,45.55745,0],"name":"329FRH","engineType":"CE","vin":"WMEEJ3BA9CK561849","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Mathison Pl 3510, 97212 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.62745,45.54296,0],"name":"BIKE RACK 201GXY","engineType":"CE","vin":"WMEEJ3BA0EK778967","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 59th Ave 1535, 97215 Portland","city":"portland","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-122.60272,45.51166,0],"name":"BIKE RACK 200GUD","engineType":"CE","vin":"WMEEJ3BA8EK777517","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Durham Ave 6735, 97211 Portland","city":"portland","fuel":12,"exterior":"GOOD","coordinates":[-122.65642,45.57143,0],"name":"BIKE RACK 908HDE","engineType":"CE","vin":"WMEEJ3BA9FK790343","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW California St 626, 97219 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67244,45.47439,0],"name":"BIKE RACK 783HDE","engineType":"CE","vin":"WMEEJ3BA6FK790817","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"OHSU TreeHouse Apartments (Marked Spaces ONLY)","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.68898,45.498,0],"name":"458HDE","engineType":"CE","vin":"WMEEJ3BA8FK794495","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 9th Ave 3211, 97202 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.65676,45.50026,0],"name":"342FRH","engineType":"CE","vin":"WMEEJ3BA1CK562266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Corbett Ave 7065, 97219 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.6769,45.47329,0],"name":"BIKE RACK 950HDE","engineType":"CE","vin":"WMEEJ3BA8FK788356","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Shaver St 937, 97227 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.67588,45.55213,0],"name":"369FRH","engineType":"CE","vin":"WMEEJ3BA7CK563437","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Albina Ave 3971, 97227 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67443,45.5517,0],"name":"BIKE RACK 017HAL","engineType":"CE","vin":"WMEEJ3BAXEK779432","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 16th Ave 813, 97214 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.64967,45.51711,0],"name":"367FRH","engineType":"CE","vin":"WMEEJ3BA9CK563293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 35th Pl 3693, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62776,45.49629,0],"name":"BIKE RACK 202GUD","engineType":"CE","vin":"WMEEJ3BA2EK778856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Holgate Blvd 6119, 97206 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.59961,45.49028,0],"name":"398FRH","engineType":"CE","vin":"WMEEJ3BA8CK562846","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hoyt St 3946, 97232 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.62249,45.52714,0],"name":"BIKE RACK 709HDE","engineType":"CE","vin":"WMEEJ3BA4FK795188","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Hawthorne Blvd 2766, 97214 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.63742,45.51201,0],"name":"328FRH","engineType":"CE","vin":"WMEEJ3BA6CK561095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 34th Ave 5335, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62964,45.5616,0],"name":"BIKE RACK 023HAL","engineType":"CE","vin":"WMEEJ3BA2EK778467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Mallory Ave 5881, 97211 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.66368,45.56568,0],"name":"221FRH","engineType":"CE","vin":"WMEEJ3BA3CK561300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 52nd Ave 5085, 97218 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.60961,45.55982,0],"name":"381FRH","engineType":"CE","vin":"WMEEJ3BAXCK563979","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 22nd Ave 1485, 97214 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.64361,45.51221,0],"name":"389FRH","engineType":"CE","vin":"WMEEJ3BA1CK563868","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandy Blvd 5930, 97213 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.60214,45.54311,0],"name":"BIKE RACK 962HDE","engineType":"CE","vin":"WMEEJ3BA4FK789536","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 47th Ave 1818, 97213 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.61493,45.53596,0],"name":"BIKE RACK 901HDE","engineType":"CE","vin":"WMEEJ3BA8FK795078","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ankeny St 1818, 97214 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.64728,45.52215,0],"name":"BIKE RACK 787HDE","engineType":"CE","vin":"WMEEJ3BA6FK789327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"US-30 W, 97210 Portland","city":"portland","fuel":72,"exterior":"GOOD","coordinates":[-122.69597,45.53711,0],"name":"BIKE RACK 717HDE","engineType":"CE","vin":"WMEEJ3BA3FK793013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 38th Ave 3437, 97202 Portland","city":"portland","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-122.6239,45.49806,0],"name":"335FRH","engineType":"CE","vin":"WMEEJ3BA6CK563431","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Killingsworth St 2923, 97217 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.69683,45.56276,0],"name":"212GUD","engineType":"CE","vin":"WMEEJ3BA0EK776748","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 57th Ave 5911, 97206 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.60479,45.47997,0],"name":"BIKE RACK 186GUD","engineType":"CE","vin":"WMEEJ3BA3EK777327","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Couch St 1888, 97232 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.6466,45.52357,0],"name":"465HDE","engineType":"CE","vin":"WMEEJ3BA8FK794545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 44th Ave 5647, 97206 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.61742,45.48175,0],"name":"BIKE RACK 006HAL","engineType":"CE","vin":"WMEEJ3BA3EK777392","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Stark St 1476, 97214 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.65077,45.51927,0],"name":"288FRH","engineType":"CE","vin":"WMEEJ3BA5CK568197","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Baldwin St 111, 97217 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.66762,45.57862,0],"name":"153 FRH","engineType":"CE","vin":"WMEEJ3BA5CK561475","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th Ave 8029, 97202 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.65906,45.46536,0],"name":"BIKE RACK 032HAL","engineType":"CE","vin":"WMEEJ3BA7EK779419","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Lincoln St 5204, 97215 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.60888,45.508,0],"name":"BIKE RACK 586HDE","engineType":"CE","vin":"WMEEJ3BA7FK794780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 77th Ave 2349, 97215 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.5837,45.50577,0],"name":"BIKE RACK 020HAL","engineType":"CE","vin":"WMEEJ3BA7EK778996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Salmon St 1130, 97214 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.65436,45.51439,0],"name":"270GXY","engineType":"CE","vin":"WMEEJ3BA7EK778495","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hazelfern Pl 961, 97232 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.62395,45.52993,0],"name":"384FRH","engineType":"CE","vin":"WMEEJ3BA1CK564115","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Thompson St 705, 97227 Portland","city":"portland","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-122.67377,45.53871,0],"name":"BIKE RACK 269GXY","engineType":"CE","vin":"WMEEJ3BA1EK778525","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandy Blvd 3340, 97232 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.62986,45.53198,0],"name":"190FRH","engineType":"CE","vin":"WMEEJ3BA7CK564121","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Knapp St 4217, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61932,45.47053,0],"name":"681FZK","engineType":"CE","vin":"WMEEJ3BA9CK564184","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Fargo St 637, 97227 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.67248,45.54635,0],"name":"BIKE RACK 708HDE","engineType":"CE","vin":"WMEEJ3BA2FK795108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Morgan St 2450, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64102,45.57389,0],"name":"439HDE","engineType":"CE","vin":"WMEEJ3BA9FK790536","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 29th Ave 2581, 97202 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.63558,45.5043,0],"name":"BIKE RACK 174GUD","engineType":"CE","vin":"WMEEJ3BA7EK778058","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 33rd Ave 4819, 97211 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.63064,45.55795,0],"name":"298FRH","engineType":"CE","vin":"WMEEJ3BA5CK568653","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 19th Ave 443, 97232 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.64648,45.52608,0],"name":"BIKE RACK 886HDE","engineType":"CE","vin":"WMEEJ3BA3FK794775","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Blandena St 1272, 97217 Portland","city":"portland","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-122.6798,45.55686,0],"name":"BIKE RACK 498HDE","engineType":"CE","vin":"WMEEJ3BA6FK795208","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Woodward St 2637, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63923,45.50194,0],"name":"176FRH","engineType":"CE","vin":"WMEEJ3BA3CK561748","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Kelly Ave 4325, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67473,45.49219,0],"name":"226 FRH","engineType":"CE","vin":"WMEEJ3BAXCK564095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Salmon St 637, 97214 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.65936,45.51436,0],"name":"212FRH","engineType":"CE","vin":"WMEEJ3BA7CK561882","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Sherman St 1038, 97214 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.65535,45.50649,0],"name":"BIKE RACK 189GUD","engineType":"CE","vin":"WMEEJ3BA7EK776505","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Wygant St 2153, 97217 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.68941,45.55767,0],"name":"BIKE RACK 793HDE","engineType":"CE","vin":"WMEEJ3BAXFK789346","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Harrison St 976, 97214 Portland","city":"portland","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-122.65594,45.50867,0],"name":"BIKE RACK 042HAL","engineType":"CE","vin":"WMEEJ3BA0EK778192","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Water Ave 1479, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66596,45.51251,0],"name":"213FRH","engineType":"CE","vin":"WMEEJ3BA8CK564189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Wasco St 651, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6591,45.53223,0],"name":"BIKE RACK 245HEY","engineType":"CE","vin":"WMEEJ3BA9FK792772","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 37th Ave 2611, 97202 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.6253,45.50403,0],"name":"BIKE RACK 904HDE","engineType":"CE","vin":"WMEEJ3BA3FK792492","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 48th Ave 1873, 97215 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.61322,45.5096,0],"name":"BIKE RACK 719HDE","engineType":"CE","vin":"WMEEJ3BAXFK794210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Bryant St 2855, 97211 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.63721,45.57327,0],"name":"BIKE RACK 700HDE","engineType":"CE","vin":"WMEEJ3BA4FK792226","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Failing St 941, 97212 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.65626,45.55082,0],"name":"BIKE RACK 198GUD","engineType":"CE","vin":"WMEEJ3BA4EK778096","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 19th Ave 2073, 97209 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.69072,45.5374,0],"name":"265FRH","engineType":"CE","vin":"WMEEJ3BA1CK563076","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Kerby Ave 7450, 97217 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.67269,45.57684,0],"name":"373FRH","engineType":"CE","vin":"WMEEJ3BA7CK561784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 47th Ave 1423, 97213 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.61505,45.53315,0],"name":"574FYV","engineType":"CE","vin":"WMEEJ3BA0CK567992","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Milwaukie Ave 3621, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65363,45.4966,0],"name":"317FRH","engineType":"CE","vin":"WMEEJ3BAXCK563061","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Woolsey Ave 7085, 97203 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.71355,45.57681,0],"name":"392FRH","engineType":"CE","vin":"WMEEJ3BA5CK563128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Condor Ave 4601, 97239 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.67934,45.48999,0],"name":"BIKE RACK 188GUD","engineType":"CE","vin":"WMEEJ3BA8EK777646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW River Pky 3535, 97239 Portland","city":"portland","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-122.66974,45.49747,0],"name":"BIKE RACK 179GUD","engineType":"CE","vin":"WMEEJ3BA0EK777348","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Davis St 1969, 97232 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.64578,45.52439,0],"name":"BIKE RACK 865HDE","engineType":"CE","vin":"WMEEJ3BA4FK792260","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Couch St 4705, 97213 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.6149,45.52384,0],"name":"BIKE RACK 888HDE","engineType":"CE","vin":"WMEEJ3BA2FK795173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 57th Ave 2177, 97213 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.60473,45.53818,0],"name":"419HDE","engineType":"CE","vin":"WMEEJ3BA7FK792656","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Mississippi Ave 5411, 97217 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.67605,45.56196,0],"name":"BIKE RACK 873HDE","engineType":"CE","vin":"WMEEJ3BAXFK794420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hazelfern Pl 4235, 97213 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.61983,45.53029,0],"name":"BIKE RACK 181GUD","engineType":"CE","vin":"WMEEJ3BA7EK778559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 13th Ave 79, 97214 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.65266,45.52236,0],"name":"161FRH","engineType":"CE","vin":"WMEEJ3BA0CK561173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 18th Ave 1175, 97205 Portland","city":"portland","fuel":84,"exterior":"GOOD","coordinates":[-122.69239,45.51889,0],"name":"BIKE RACK 884HDE","engineType":"CE","vin":"WMEEJ3BA7FK794505","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Spokane St 691, 97202 Portland","city":"portland","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-122.65906,45.46502,0],"name":"379FRH","engineType":"CE","vin":"WMEEJ3BA2CK563040","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 60th Ave 5963, 97206 Portland","city":"portland","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.60224,45.47951,0],"name":"422HDE","engineType":"CE","vin":"WMEEJ3BA3FK795098","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Stanton St 4679, 97213 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.61495,45.54377,0],"name":"BIKE RACK 521HDE","engineType":"CE","vin":"WMEEJ3BA1FK792555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 57th Ave 291, 97215 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.60501,45.52074,0],"name":"BIKE RACK 753HDE","engineType":"CE","vin":"WMEEJ3BA6FK792681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Insley St 5229, 97206 Portland","city":"portland","fuel":84,"exterior":"GOOD","coordinates":[-122.60852,45.48384,0],"name":"170 FRH","engineType":"CE","vin":"WMEEJ3BA5CK561430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Broadway 2111, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64466,45.5351,0],"name":"BIKE RACK 027HAL","engineType":"CE","vin":"WMEEJ3BA7EK779615","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 31st Ave 3549, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63352,45.4973,0],"name":"482GPG","engineType":"CE","vin":"WMEEJ3BA6CK568127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 33rd Pl 4249, 97202 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.63082,45.49249,0],"name":"267FRH","engineType":"CE","vin":"WMEEJ3BA7CK561395","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Front Ave 929, 97209 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67525,45.52975,0],"name":"224 FRH","engineType":"CE","vin":"WMEEJ3BA1CK560971","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Francis St 5321, 97206 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.60789,45.49456,0],"name":"370FRH","engineType":"CE","vin":"WMEEJ3BA1CK563966","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Bancroft St 255, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6753,45.49243,0],"name":"BIKE RACK 947HDE","engineType":"CE","vin":"WMEEJ3BA4FK790217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 17th Ave 4446, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64833,45.49087,0],"name":"BIKE RACK 159HEY","engineType":"CE","vin":"WMEEJ3BAXEK778863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Vermont St 520, 97219 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.67365,45.47582,0],"name":"198 FRH","engineType":"CE","vin":"WMEEJ3BAXCK561987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Gay Ave 6008, 97217 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.68915,45.56639,0],"name":"284FRH","engineType":"CE","vin":"WMEEJ3BA6CK568368","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 34th Ave 3705, 97202 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.62939,45.49613,0],"name":"180FRH","engineType":"CE","vin":"WMEEJ3BA1CK561778","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Portsmouth Ave 7457, 97203 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.7246,45.58191,0],"name":"BIKE RACK 714HDE","engineType":"CE","vin":"WMEEJ3BA9FK794750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Farragut St 24, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66642,45.5793,0],"name":"385FRH","engineType":"CE","vin":"WMEEJ3BA1CK564129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Harrison St 4318, 97215 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61797,45.50871,0],"name":"569FYV","engineType":"CE","vin":"WMEEJ3BA7CK575622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Water Ave 4543, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67709,45.49059,0],"name":"338FRH","engineType":"CE","vin":"WMEEJ3BA7CK562773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Halsey St 1948, 97232 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.6462,45.53357,0],"name":"582FYV","engineType":"CE","vin":"WMEEJ3BA3CK567596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Long St 5282, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.608,45.48912,0],"name":"BIKE RACK 974HDE","engineType":"CE","vin":"WMEEJ3BA0FK794815","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 57th Ave 1790, 97213 Portland","city":"portland","fuel":81,"exterior":"GOOD","coordinates":[-122.60465,45.53575,0],"name":"BIKE RACK 197GUD","engineType":"CE","vin":"WMEEJ3BA7EK777640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Corbett Ave 7053, 97219 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67693,45.47336,0],"name":"163 FRH","engineType":"CE","vin":"WMEEJ3BA1CK561926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Wasco St 3358, 97232 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.62961,45.53242,0],"name":"572FYV","engineType":"CE","vin":"WMEEJ3BA1CK574059","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 23rd Ave 2128, 97212 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.64213,45.53766,0],"name":"BIKE RACK 765HDE","engineType":"CE","vin":"WMEEJ3BA9FK794330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW King Ave 869, 97205 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.6955,45.52214,0],"name":"BIKE RACK 033HAL","engineType":"CE","vin":"WMEEJ3BAXEK778782","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 60th Ave 5259, 97206 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.60207,45.48497,0],"name":"BIKE RACK 704HDE","engineType":"CE","vin":"WMEEJ3BA5FK789285","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Madison St 1278, 97214 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.65288,45.51294,0],"name":"704GVR","engineType":"CE","vin":"WMEEJ3BA8CK560904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Wasco St 3354, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62973,45.5324,0],"name":"269FRH","engineType":"CE","vin":"WMEEJ3BA8CK562751","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Alameda St 5642, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60524,45.54243,0],"name":"438HDE","engineType":"CE","vin":"WMEEJ3BA5FK794485","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Mississippi Ave 6923, 97217 Portland","city":"portland","fuel":81,"exterior":"GOOD","coordinates":[-122.67583,45.5728,0],"name":"BIKE RACK 902HDE","engineType":"CE","vin":"WMEEJ3BA8FK790804","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Haight Ave 3748, 97227 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67003,45.54983,0],"name":"BIKE RACK 029HAL","engineType":"CE","vin":"WMEEJ3BA8EK778814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Rodney Ave 2811, 97212 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66417,45.54296,0],"name":"568FYV","engineType":"CE","vin":"WMEEJ3BA7CK567925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Tibbetts St 3945, 97202 Portland","city":"portland","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-122.62196,45.50049,0],"name":"BIKE RACK 763HDE","engineType":"CE","vin":"WMEEJ3BA0FK794510","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 17th Ave, 97209 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.68835,45.53816,0],"name":"188FRH","engineType":"CE","vin":"WMEEJ3BA9CK563682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 7th Ave 3089, 97202 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.65891,45.50086,0],"name":"471HDE","engineType":"CE","vin":"WMEEJ3BA9FK792464","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Wygant St 3051, 97217 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.69853,45.55815,0],"name":"BIKE RACK 504HDE","engineType":"CE","vin":"WMEEJ3BAXFK792926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Grant St 2881, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63608,45.50677,0],"name":"230 FRH","engineType":"CE","vin":"WMEEJ3BA4CK562228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Main St 3577, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62711,45.51363,0],"name":"BIKE RACK 182GUD","engineType":"CE","vin":"WMEEJ3BA3EK777974","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 62nd Ave 4557, 97206 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.59898,45.48984,0],"name":"510FSK","engineType":"CE","vin":"WMEEJ3BA7CK570338","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Corbett Ave 4441, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6763,45.49133,0],"name":"021HAL","engineType":"CE","vin":"WMEEJ3BA7EK779713","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st Ave 1743, 97209 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.6948,45.53518,0],"name":"BIKE RACK 875HDE","engineType":"CE","vin":"WMEEJ3BA0FK794765","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 10th Ave 1687, 97214 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.6558,45.51087,0],"name":"BIKE RACK 207GUD","engineType":"CE","vin":"WMEEJ3BA9EK777283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE San Rafael St 191, 97212 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.66335,45.53709,0],"name":"BIKE RACK 887HDE","engineType":"CE","vin":"WMEEJ3BA8FK789376","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 28th Ave 3979, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63761,45.49423,0],"name":"214FRH","engineType":"CE","vin":"WMEEJ3BA9CK561690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Belmont St 2414, 97214 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.64114,45.51639,0],"name":"BIKE RACK 191GUD","engineType":"CE","vin":"WMEEJ3BA8EK776707","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Willis Blvd 3633, 97217 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.70366,45.58405,0],"name":"BIKE RACK 194GUD","engineType":"CE","vin":"WMEEJ3BA1EK776693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Savier St 2517, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.70313,45.53473,0],"name":"BIKE RACK 560HDE","engineType":"CE","vin":"WMEEJ3BA5FK793109","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 33rd Ave 5733, 97211 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.63062,45.56408,0],"name":"278HEK","engineType":"CE","vin":"WMEEJ3BA3CK562642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Killingsworth St 2143, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.68891,45.56275,0],"name":"345FRH","engineType":"CE","vin":"WMEEJ3BA7CK561770","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Portsmouth Ave 7489, 97203 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.72425,45.58233,0],"name":"BIKE RACK 722HDE","engineType":"CE","vin":"WMEEJ3BA0FK795253","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 31st Ave 5543, 97211 Portland","city":"portland","fuel":30,"exterior":"GOOD","coordinates":[-122.63383,45.56296,0],"name":"BIKE RACK 203GUD","engineType":"CE","vin":"WMEEJ3BA0EK778435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 12th Ave 219, 97214 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.65358,45.52135,0],"name":"377FRH","engineType":"CE","vin":"WMEEJ3BA0CK562940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Michigan Ave 3949, 97227 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.6767,45.55147,0],"name":"172 FRH","engineType":"CE","vin":"WMEEJ3BA5CK564196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Clinton St 2368, 97202 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.64179,45.5032,0],"name":"570GZK","engineType":"CE","vin":"WMEEJ3BA0CK574585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 21st Ave 1584, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6441,45.51159,0],"name":"155FRH","engineType":"CE","vin":"WMEEJ3BA2CK561322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Insley St 1822, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64717,45.48389,0],"name":"237 FRH","engineType":"CE","vin":"WMEEJ3BA5CK562805","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Shaver St 22, 97212 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66626,45.55203,0],"name":"421HDE","engineType":"CE","vin":"WMEEJ3BA9FK790066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Front Ave 742, 97209 Portland","city":"portland","fuel":9,"exterior":"GOOD","coordinates":[-122.67357,45.52854,0],"name":"397FRH","engineType":"CE","vin":"WMEEJ3BA5CK562108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 1st Ave 4729, 97239 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.67881,45.48902,0],"name":"836HNZ","engineType":"CE","vin":"WMEEJ3BA7CK564202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hazelfern Pl 4357, 97213 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.61796,45.53067,0],"name":"BIKE RACK 861HDE","engineType":"CE","vin":"WMEEJ3BA3FK792959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 57th Ave 2475, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60467,45.54047,0],"name":"272FRH","engineType":"CE","vin":"WMEEJ3BA7CK569285","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Hamilton St 64, 97239 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.67728,45.49084,0],"name":"BIKE RACK 598HDE","engineType":"CE","vin":"WMEEJ3BA9FK792206","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th Ave 5947, 97211 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.63502,45.56584,0],"name":"BIKE RACK 036HAL","engineType":"CE","vin":"WMEEJ3BA7EK777377","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Water Ave 1472, 97214 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.66579,45.51254,0],"name":"347FRH","engineType":"CE","vin":"WMEEJ3BA9CK561480","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 60th Ave 4625, 97218 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.60095,45.55684,0],"name":"445HDE","engineType":"CE","vin":"WMEEJ3BA7FK790020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Irving St 2215, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.69682,45.52772,0],"name":"290FRH","engineType":"CE","vin":"WMEEJ3BA4CK569051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Roosevelt St 2319, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.69929,45.5384,0],"name":"360FRH","engineType":"CE","vin":"WMEEJ3BA2CK564110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 60th Ave 1371, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60224,45.5331,0],"name":"BIKE RACK 203GXY","engineType":"CE","vin":"WMEEJ3BA8EK778389","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 60th Ave 1059, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60216,45.53071,0],"name":"293HGM","engineType":"CE","vin":"WMEEJ3BA1CK560808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Northrup St 2104, 97210 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.69479,45.53126,0],"name":"285FRH","engineType":"CE","vin":"WMEEJ3BA4CK568417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Knight St 4754, 97206 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.61387,45.47988,0],"name":"175FRH","engineType":"CE","vin":"WMEEJ3BA8CK561258","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Rex St 1311, 97202 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.65281,45.47009,0],"name":"BIKE RACK 756HDE","engineType":"CE","vin":"WMEEJ3BA7FK793029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Failing St 6013, 97213 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.60143,45.55111,0],"name":"189 FRH","engineType":"CE","vin":"WMEEJ3BA4CK562293","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Taggart St 1625, 97202 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.64942,45.50275,0],"name":"BIKE RACK 522HDE","engineType":"CE","vin":"WMEEJ3BA9FK791833","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st Ave 483, 97209 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.69448,45.5262,0],"name":"571FYV","engineType":"CE","vin":"WMEEJ3BA1CK574305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 16th Ave 290, 97232 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.64954,45.52525,0],"name":"BIKE RACK 990HNZ","engineType":"CE","vin":"WMEEJ3BA8FK790799","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Church St 1229, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67941,45.5634,0],"name":"BIKE RACK 045HAL","engineType":"CE","vin":"WMEEJ3BA9EK779387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ivon St 6179, 97206 Portland","city":"portland","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.59954,45.5044,0],"name":"026HAL","engineType":"CE","vin":"WMEEJ3BA4EK778518","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Villard Ave 6525, 97217 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.6976,45.57011,0],"name":"207FRH","engineType":"CE","vin":"WMEEJ3BA9CK561446","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 2nd Ave 1467, 97232 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.66373,45.53345,0],"name":"263FRH","engineType":"CE","vin":"WMEEJ3BA8CK562037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Slavin Rd 4993, 97239 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.68021,45.48729,0],"name":"BIKE RACK 207GXY","engineType":"CE","vin":"WMEEJ3BA0EK778676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 52nd Ave 7287, 97206 Portland","city":"portland","fuel":72,"exterior":"GOOD","coordinates":[-122.61012,45.47056,0],"name":"589FYV","engineType":"CE","vin":"WMEEJ3BA2CK572787","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Interstate Ave 4219, 97217 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.68185,45.55413,0],"name":"511FSK","engineType":"CE","vin":"WMEEJ3BA6CK570718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Liberty St 3379, 97211 Portland","city":"portland","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-122.6298,45.57067,0],"name":"BIKE RACK 019HAL","engineType":"CE","vin":"WMEEJ3BA4EK778261","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Fremont St 4623, 97213 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.61557,45.54828,0],"name":"801HCE","engineType":"CE","vin":"WMEEJ3BA1CK561635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 14th Ave 822, 97209 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.68532,45.52878,0],"name":"195 FRH","engineType":"CE","vin":"WMEEJ3BA3CK561698","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Sumner St 719, 97217 Portland","city":"portland","fuel":30,"exterior":"GOOD","coordinates":[-122.67415,45.56048,0],"name":"BIKE RACK 754HDE","engineType":"CE","vin":"WMEEJ3BA1FK790546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Flanders St 2287, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.69813,45.52553,0],"name":"BIKE RACK 727HDE","engineType":"CE","vin":"WMEEJ3BA9FK793338","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Prescott St 1456, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.68166,45.55533,0],"name":"187 FRH","engineType":"CE","vin":"WMEEJ3BA7CK563700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Halsey St 369, 97232 Portland","city":"portland","fuel":21,"exterior":"GOOD","coordinates":[-122.66108,45.5337,0],"name":"BIKE RACK 208GXY","engineType":"CE","vin":"WMEEJ3BA5EK779399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 15th Ave 3421, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.65034,45.49805,0],"name":"BIKE RACK 562HDE","engineType":"CE","vin":"WMEEJ3BA8FK791936","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 57th Ave 5917, 97206 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.60479,45.47992,0],"name":"355FRH","engineType":"CE","vin":"WMEEJ3BAXCK568292","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Glisan St 2276, 97210 Portland","city":"portland","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-122.69792,45.52619,0],"name":"193FRH","engineType":"CE","vin":"WMEEJ3BA2CK561451","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 55th Ave 25, 97215 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.60757,45.5227,0],"name":"BIKE RACK 951HDE","engineType":"CE","vin":"WMEEJ3BA2FK794265","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Division St 3588, 97202 Portland","city":"portland","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-122.62644,45.50473,0],"name":"BIKE RACK 975HDE","engineType":"CE","vin":"WMEEJ3BA7FK787599","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 57th Ave 3546, 97213 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.6045,45.54857,0],"name":"BIKE RACK 589HDE","engineType":"CE","vin":"WMEEJ3BA7FK791751","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandycrest Ter 5370, 97213 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.60775,45.54066,0],"name":"BIKE RACK 575HDE","engineType":"CE","vin":"WMEEJ3BA3FK795053","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ash St 3954, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62218,45.52168,0],"name":"BIKE RACK 587HDE","engineType":"CE","vin":"WMEEJ3BA0FK794670","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Anchor St, 97217 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.70174,45.55958,0],"name":"BIKE RACK 554HDE","engineType":"CE","vin":"WMEEJ3BA0FK792756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Front Ave 1019, 97209 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.67588,45.53033,0],"name":"BIKE RACK 716HDE","engineType":"CE","vin":"WMEEJ3BA9FK792691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 3rd Ave 1205, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66264,45.53177,0],"name":"201 FRH","engineType":"CE","vin":"WMEEJ3BA0CK563666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 13th Ave 1329, 97214 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.65275,45.51345,0],"name":"BIKE RACK 025HAL","engineType":"CE","vin":"WMEEJ3BAXEK779740","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Bryant St 2869, 97211 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.63714,45.57325,0],"name":"BIKE RACK 862HDE","engineType":"CE","vin":"WMEEJ3BA9FK794800","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Monroe St 14, 97212 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.66633,45.54538,0],"name":"BIKE RACK 520HDE","engineType":"CE","vin":"WMEEJ3BA7FK794665","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Skidmore St 1351, 97211 Portland","city":"portland","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-122.65223,45.55457,0],"name":"BIKE RACK 048HAL","engineType":"CE","vin":"WMEEJ3BA4EK777014","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 31st Ave 1925, 97210 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.71372,45.53596,0],"name":"307FRH","engineType":"CE","vin":"WMEEJ3BAXCK562251","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 7th Ave 4963, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65849,45.55882,0],"name":"312FRH","engineType":"CE","vin":"WMEEJ3BA1CK562221","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 42nd Ave 6649, 97206 Portland","city":"portland","fuel":90,"exterior":"GOOD","coordinates":[-122.6195,45.47496,0],"name":"BIKE RACK 713HDE","engineType":"CE","vin":"WMEEJ3BA0FK794555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 27th Ave 4339, 97211 Portland","city":"portland","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.63796,45.55454,0],"name":"382FRH","engineType":"CE","vin":"WMEEJ3BA9CK555954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 18th Ave, 97201 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.69354,45.51579,0],"name":"154FRH","engineType":"CE","vin":"WMEEJ3BA1CK561389","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Burnside St 10135, 97216 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.55914,45.52285,0],"name":"396FRH","engineType":"CE","vin":"WMEEJ3BA1CK561165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Hamilton St 48, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67738,45.49083,0],"name":"BIKE RACK 193GUD","engineType":"CE","vin":"WMEEJ3BA2EK779344","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Nehalem St 2228, 97202 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.64203,45.46567,0],"name":"BIKE RACK 184GUD","engineType":"CE","vin":"WMEEJ3BA2EK776699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Willamette Blvd 5271, 97203 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.72806,45.57581,0],"name":"273FRH","engineType":"CE","vin":"WMEEJ3BA6CK569911","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 56th Ave 2621, 97213 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.60563,45.54151,0],"name":"194FRH","engineType":"CE","vin":"WMEEJ3BA9CK561897","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Clackamas St 3352, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63001,45.53306,0],"name":"366FRH","engineType":"CE","vin":"WMEEJ3BA4CK563363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Bidwell St 1243, 97202 Portland","city":"portland","fuel":90,"exterior":"GOOD","coordinates":[-122.65354,45.46792,0],"name":"BIKE RACK 899HDE","engineType":"CE","vin":"WMEEJ3BA5FK793935","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 16th Ave 2779, 97202 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.64973,45.50293,0],"name":"330FRH","engineType":"CE","vin":"WMEEJ3BA7CK561591","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Lambert St 1675, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64767,45.46829,0],"name":"BIKE RACK 015HAL","engineType":"CE","vin":"WMEEJ3BA6EK778715","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Buffalo St 1649, 97211 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.64834,45.57486,0],"name":"469HDE","engineType":"CE","vin":"WMEEJ3BA0FK794720","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Miller St 1476, 97202 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.65118,45.46643,0],"name":"BIKE RACK 041HAL","engineType":"CE","vin":"WMEEJ3BA9EK778045","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 31st Ave 6191, 97211 Portland","city":"portland","fuel":72,"exterior":"GOOD","coordinates":[-122.63386,45.56758,0],"name":"BIKE RACK 711HDE","engineType":"CE","vin":"WMEEJ3BA3FK792444","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Gibbs St 251, 97239 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.68058,45.49951,0],"name":"BIKE RACK 518HDE","engineType":"CE","vin":"WMEEJ3BA0FK794913","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 35th Pl 6339, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62762,45.56863,0],"name":"BIKE RACK 785HDE","engineType":"CE","vin":"WMEEJ3BA6FK791305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 77th Ave 2365, 97215 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.58369,45.50565,0],"name":"BIKE RACK 720HDE","engineType":"CE","vin":"WMEEJ3BA3FK794520","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Division St 7852, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.58235,45.50532,0],"name":"348FRH","engineType":"CE","vin":"WMEEJ3BA0CK563537","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Shaver St 1125, 97227 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.67779,45.55214,0],"name":"206FRH","engineType":"CE","vin":"WMEEJ3BA8CK563706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 18th Ave 48, 97232 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.6472,45.52325,0],"name":"235 FRH","engineType":"CE","vin":"WMEEJ3BAXCK563724","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Ralston Dr 5836, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.68273,45.4814,0],"name":"BIKE RACK 503HDE","engineType":"CE","vin":"WMEEJ3BA8FK793301","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Hereford Ave 7643, 97203 Portland","city":"portland","fuel":81,"exterior":"GOOD","coordinates":[-122.72201,45.58253,0],"name":"587FYV","engineType":"CE","vin":"WMEEJ3BA4CK575691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 52nd Ave 2233, 97213 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.60989,45.53865,0],"name":"437HDE","engineType":"CE","vin":"WMEEJ3BA8FK794285","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Alameda St 5759, 97213 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.60396,45.54225,0],"name":"BIKE RACK 049HAL","engineType":"CE","vin":"WMEEJ3BA4EK777658","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Knapp St 1691, 97202 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.64772,45.47198,0],"name":"BIKE RACK 010HAL","engineType":"CE","vin":"WMEEJ3BA0EK777706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 14th Ave 574, 97214 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.65156,45.5188,0],"name":"BIKE RACK 595HDE","engineType":"CE","vin":"WMEEJ3BA3FK787101","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Woodstock Blvd 5972, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60238,45.47911,0],"name":"472HDE","engineType":"CE","vin":"WMEEJ3BA8FK793024","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 27th Ave 223, 97214 Portland","city":"portland","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-122.63827,45.52133,0],"name":"BIKE RACK 499HDE","engineType":"CE","vin":"WMEEJ3BA7FK792527","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Idaho St 624, 97239 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.67264,45.47651,0],"name":"BIKE RACK 907HDE","engineType":"CE","vin":"WMEEJ3BA6FK794575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 15th Ave 4359, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65043,45.49163,0],"name":"202 FRH","engineType":"CE","vin":"WMEEJ3BA3CK563323","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 22nd Ave 3933, 97212 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.64311,45.55099,0],"name":"BIKE RACK 183GUD","engineType":"CE","vin":"WMEEJ3BA3EK777232","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 28th Ave 3025, 97212 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63712,45.54459,0],"name":"BIKE RACK 721HDE","engineType":"CE","vin":"WMEEJ3BA7FK794858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 47th Ave 1445, 97213 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.61503,45.53332,0],"name":"BIKE RACK 035HAL","engineType":"CE","vin":"WMEEJ3BA3EK776310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW River Pky 3470, 97239 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.66965,45.49806,0],"name":"BIKE RACK 553HDE","engineType":"CE","vin":"WMEEJ3BA0FK794040","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Albina Ave 4209, 97217 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.67451,45.55404,0],"name":"204FRH","engineType":"CE","vin":"WMEEJ3BA8CK562877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Rosa Parks Way 738, 97211 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.65792,45.57036,0],"name":"BIKE RACK 757HDE","engineType":"CE","vin":"WMEEJ3BA4FK792436","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Albina Ave 4047, 97227 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67444,45.55269,0],"name":"BIKE RACK 949HDE","engineType":"CE","vin":"WMEEJ3BA1FK789557","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Sumner St 628, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67319,45.56043,0],"name":"157FRH","engineType":"CE","vin":"WMEEJ3BA2CK561742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"G St, 97219 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.72932,45.4403,0],"name":"246 FRH","engineType":"CE","vin":"WMEEJ3BA8CK561647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Morrison St 3189, 97214 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.63247,45.51719,0],"name":"242FRH","engineType":"CE","vin":"WMEEJ3BA4CK561676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 53rd Ave 3151, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6086,45.54579,0],"name":"423HDE","engineType":"CE","vin":"WMEEJ3BA0FK790506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Russet St 429, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.66106,45.57796,0],"name":"BIKE RACK 204GUD","engineType":"CE","vin":"WMEEJ3BAXEK777681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Vermont St 604, 97219 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.67282,45.47585,0],"name":"368FRH","engineType":"CE","vin":"WMEEJ3BA0CK563506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Slavin Rd 5089, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.68179,45.48658,0],"name":"BIKE RACK 755HDE","engineType":"CE","vin":"WMEEJ3BA5FK792980","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Waverleigh Blvd 3308, 97202 Portland","city":"portland","fuel":84,"exterior":"GOOD","coordinates":[-122.63136,45.49817,0],"name":"292FRH","engineType":"CE","vin":"WMEEJ3BA8CK567786","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 59th Ave 2867, 97213 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.60248,45.54349,0],"name":"BIKE RACK 003HAL","engineType":"CE","vin":"WMEEJ3BA9EK778790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 42nd Ave 1049, 97213 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.62033,45.53057,0],"name":"590FYV","engineType":"CE","vin":"WMEEJ3BA5CK575778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 52nd Ave 7032, 97206 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.60982,45.47237,0],"name":"BIKE RACK 699HDE","engineType":"CE","vin":"WMEEJ3BA5FK794650","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sacramento St 5975, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60173,45.53998,0],"name":"361FRH","engineType":"CE","vin":"WMEEJ3BA0CK561352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 31st Ave 1867, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.71373,45.53561,0],"name":"BIKE RACK 777HDE","engineType":"CE","vin":"WMEEJ3BAXFK790738","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hollyrood Ct 3577, 97212 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.62633,45.54145,0],"name":"BIKE RACK 176GUD","engineType":"CE","vin":"WMEEJ3BAXEK779317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lower Columbia River Hwy, 97210 Portland","city":"portland","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-122.7029,45.5441,0],"name":"325FRH","engineType":"CE","vin":"WMEEJ3BA9CK562127","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Couch St 5523, 97213 Portland","city":"portland","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-122.60724,45.52357,0],"name":"245FRH","engineType":"CE","vin":"WMEEJ3BA9CK561804","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW View Point Ter 4517, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.6779,45.4906,0],"name":"264FRH","engineType":"CE","vin":"WMEEJ3BA5CK562058","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Dunckley St 2892, 97212 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.63597,45.55108,0],"name":"BIKE RACK 206GXY","engineType":"CE","vin":"WMEEJ3BA2EK778615","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 36th Ave 3550, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62618,45.49733,0],"name":"BIKE RACK 551HDE","engineType":"CE","vin":"WMEEJ3BA0FK794605","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Taylor St 3958, 97214 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.62208,45.51498,0],"name":"BIKE RACK 789HDE","engineType":"CE","vin":"WMEEJ3BA8FK794450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandycrest Ter 5380, 97213 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.60768,45.54069,0],"name":"BIKE RACK 051HAL","engineType":"CE","vin":"WMEEJ3BA3EK778011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Marion St 800, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65789,45.46002,0],"name":"BIKE RACK 718HDE","engineType":"CE","vin":"WMEEJ3BA0FK791820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 48th Ave 2331, 97215 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61327,45.50629,0],"name":"573FYV","engineType":"CE","vin":"WMEEJ3BA0CK567930","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Mirimar Pl 573, 97232 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.63016,45.52702,0],"name":"BIKE RACK 173GUD","engineType":"CE","vin":"WMEEJ3BAXEK776322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 32nd Ave 5273, 97211 Portland","city":"portland","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-122.63277,45.5612,0],"name":"BIKE RACK 894HDE","engineType":"CE","vin":"WMEEJ3BA6FK791840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 8th Ave 2235, 97214 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.65782,45.50699,0],"name":"BIKE RACK 874HDE","engineType":"CE","vin":"WMEEJ3BA0FK792711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 53rd Ave 465, 97215 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.60886,45.51954,0],"name":"386FRH","engineType":"CE","vin":"WMEEJ3BAXCK561214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Stafford St 748, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65736,45.57648,0],"name":"BIKE RACK 037HAL","engineType":"CE","vin":"WMEEJ3BAXEK777664","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 22nd Ave 1486, 97232 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.64291,45.53352,0],"name":"248 FRH","engineType":"CE","vin":"WMEEJ3BA8CK564208","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Corbett Ave 5559, 97239 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.6768,45.48348,0],"name":"BIKE RACK 863HDE","engineType":"CE","vin":"WMEEJ3BA2FK787638","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Simpson St 1463, 97217 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.68176,45.56553,0],"name":"440HDE","engineType":"CE","vin":"WMEEJ3BA3FK792721","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 9th Ave 1755, 97212 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.65664,45.53545,0],"name":"BIKE RACK 016HAL","engineType":"CE","vin":"WMEEJ3BA5EK777460","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 15th Ave 3377, 97202 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.65034,45.49853,0],"name":"380FRH","engineType":"CE","vin":"WMEEJ3BA0CK564025","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Woolsey Ave 7455, 97203 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.71357,45.57827,0],"name":"313FRH","engineType":"CE","vin":"WMEEJ3BA0CK561268","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th Ave 5715, 97211 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.63491,45.56396,0],"name":"BIKE RACK 024HAL","engineType":"CE","vin":"WMEEJ3BA4EK779605","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Raymond St 6024, 97206 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.60098,45.48661,0],"name":"280FRH","engineType":"CE","vin":"WMEEJ3BA9CK568834","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 18th Ave 5175, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64739,45.48531,0],"name":"BIKE RACK 959HDE","engineType":"CE","vin":"WMEEJ3BA6FK791708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Corbett Ave 3637, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67588,45.49697,0],"name":"BIKE RACK 552HDE","engineType":"CE","vin":"WMEEJ3BA2FK790393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Yamhill St 2840, 97214 Portland","city":"portland","fuel":84,"exterior":"GOOD","coordinates":[-122.63664,45.51573,0],"name":"222FRH","engineType":"CE","vin":"WMEEJ3BA4CK561032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Garfield Ave 4667, 97211 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.66256,45.55684,0],"name":"165FRH","engineType":"CE","vin":"WMEEJ3BA2CK561756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"H St, 97219 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.73339,45.43942,0],"name":"292GXY","engineType":"CE","vin":"WMEEJ3BA0EK776720","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Kelly Ave 4025, 97239 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.67511,45.49422,0],"name":"218 FRH","engineType":"CE","vin":"WMEEJ3BA4CK561841","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 100th Ave 445, 97220 Portland","city":"portland","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-122.56087,45.52593,0],"name":"BIKE RACK 002HAL","engineType":"CE","vin":"WMEEJ3BAXEK777261","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 35th Pl 3071, 97212 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.62761,45.54517,0],"name":"638HQJ","engineType":"CE","vin":"WMEEJ3BA9CK563925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 42nd Ave 1797, 97215 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61917,45.51004,0],"name":"BIKE RACK 038HAL","engineType":"CE","vin":"WMEEJ3BA5EK777250","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Mill St 965, 97214 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65607,45.51012,0],"name":"BIKE RACK 209GUD","engineType":"CE","vin":"WMEEJ3BA7EK776455","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 56th Ave 3477, 97213 Portland","city":"portland","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-122.60558,45.54812,0],"name":"565FYV","engineType":"CE","vin":"WMEEJ3BA0CK573999","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Bancroft St 269, 97239 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.67512,45.49251,0],"name":"358FRH","engineType":"CE","vin":"WMEEJ3BA1CK568648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 58th Ave 447, 97213 Portland","city":"portland","fuel":78,"exterior":"GOOD","coordinates":[-122.60437,45.52606,0],"name":"BIKE RACK 510HDE","engineType":"CE","vin":"WMEEJ3BA8FK794190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Cesar E Chavez Blvd 4399, 97211 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.6235,45.55462,0],"name":"468HDE","engineType":"CE","vin":"WMEEJ3BA7FK791779","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd Pl 139, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.69974,45.5241,0],"name":"374FRH","engineType":"CE","vin":"WMEEJ3BA0CK562758","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Morgan St 364, 97211 Portland","city":"portland","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-122.66168,45.57441,0],"name":"210 FRH","engineType":"CE","vin":"WMEEJ3BA4CK562391","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 17th Ave 377, 97232 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.64873,45.52565,0],"name":"185FRH","engineType":"CE","vin":"WMEEJ3BA0CK562954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 16th Ave 835, 97214 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.64955,45.51697,0],"name":"BIKE RACK 509HDE","engineType":"CE","vin":"WMEEJ3BA2FK795223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 11th Ave 8183, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.655,45.46374,0],"name":"319FRH","engineType":"CE","vin":"WMEEJ3BA9CK563522","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 22nd Ave 269, 97214 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.64344,45.52098,0],"name":"229 FRH","engineType":"CE","vin":"WMEEJ3BA3CK562575","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Cora Dr 3459, 97202 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.62726,45.49218,0],"name":"BIKE RACK 791HDE","engineType":"CE","vin":"WMEEJ3BA8FK789541","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Rosa Parks Way 3291, 97211 Portland","city":"portland","fuel":72,"exterior":"GOOD","coordinates":[-122.6308,45.57,0],"name":"BIKE RACK 778HDE","engineType":"CE","vin":"WMEEJ3BA4FK794770","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Flanders St 2258, 97210 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.69758,45.52548,0],"name":"383FRH","engineType":"CE","vin":"WMEEJ3BA9CK564007","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 99th Ave 1309, 97220 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.56242,45.53176,0],"name":"BIKE RACK 274HDA","engineType":"CE","vin":"WMEEJ3BA5EK778303","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Flanders St 5849, 97213 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.60375,45.52576,0],"name":"BIKE RACK 208GUD","engineType":"CE","vin":"WMEEJ3BA4EK777322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 33rd Ave 4557, 97211 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.63064,45.55593,0],"name":"286FRH","engineType":"CE","vin":"WMEEJ3BA7CK568170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Nebraska St 520, 97239 Portland","city":"portland","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-122.67369,45.47725,0],"name":"BIKE RACK 046HAL","engineType":"CE","vin":"WMEEJ3BA5EK776647","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 18th Ave 2591, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64762,45.50424,0],"name":"BIKE RACK 011HAL","engineType":"CE","vin":"WMEEJ3BA3EK778123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Broadway 3369, 97232 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.62986,45.53522,0],"name":"160FRH","engineType":"CE","vin":"WMEEJ3BA0CK560816","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Portsmouth Ave 7597, 97203 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.72366,45.58297,0],"name":"BIKE RACK 559HDE","engineType":"CE","vin":"WMEEJ3BA2FK790667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Ralston Dr 5949, 97239 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.68189,45.48101,0],"name":"420HDE","engineType":"CE","vin":"WMEEJ3BAXEK782217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 42nd Ave 851, 97215 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.6195,45.51694,0],"name":"BIKE RACK 196GUD","engineType":"CE","vin":"WMEEJ3BAXEK778622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Multnomah St 6019, 97213 Portland","city":"portland","fuel":15,"exterior":"GOOD","coordinates":[-122.60198,45.53162,0],"name":"376FRH","engineType":"CE","vin":"WMEEJ3BA8CK563169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Hassalo St 3826, 97232 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.62343,45.5307,0],"name":"BIKE RACK 505HDE","engineType":"CE","vin":"WMEEJ3BA2FK792354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Franklin St, 97202 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.65327,45.49962,0],"name":"236 FRH","engineType":"CE","vin":"WMEEJ3BA7CK562627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 32nd Pl 6755, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63159,45.57174,0],"name":"252FRH","engineType":"CE","vin":"WMEEJ3BA4CK562567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 48th Ave 2175, 97215 Portland","city":"portland","fuel":36,"exterior":"GOOD","coordinates":[-122.6133,45.50752,0],"name":"BIKE RACK 617HRV","engineType":"CE","vin":"WMEEJ3BA3FK790659","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Portsmouth Ave 7116, 97203 Portland","city":"portland","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-122.72659,45.57902,0],"name":"151FRH","engineType":"CE","vin":"WMEEJ3BA9CK561737","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Portsmouth Ave 7816, 97203 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.72313,45.58365,0],"name":"331FRH","engineType":"CE","vin":"WMEEJ3BA7CK561154","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Franklin St 633, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.65921,45.49973,0],"name":"200 FRH","engineType":"CE","vin":"WMEEJ3BA1CK561490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Carlton St 5169, 97206 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.60911,45.47774,0],"name":"BIKE RACK 274GXY","engineType":"CE","vin":"WMEEJ3BA9EK778398","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 23rd Ave 5911, 97202 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.64253,45.47967,0],"name":"BIKE RACK 496HDE","engineType":"CE","vin":"WMEEJ3BA4FK792310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Spokane St 307, 97202 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.66231,45.46506,0],"name":"BIKE RACK 495HDE","engineType":"CE","vin":"WMEEJ3BA8FK794240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Foster Rd 5362, 97206 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.6075,45.49483,0],"name":"349FRH","engineType":"CE","vin":"WMEEJ3BA0CK563974","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Blandena St 1483, 97217 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.682,45.55683,0],"name":"300FRH","engineType":"CE","vin":"WMEEJ3BA1CK569038","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 7th Ave 4947, 97211 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.65849,45.55864,0],"name":"199FRH","engineType":"CE","vin":"WMEEJ3BA0CK562324","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th Ave 5355, 97211 Portland","city":"portland","fuel":96,"exterior":"GOOD","coordinates":[-122.63492,45.56183,0],"name":"332FRH","engineType":"CE","vin":"WMEEJ3BA1CK564213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Flanders St 5913, 97213 Portland","city":"portland","fuel":66,"exterior":"GOOD","coordinates":[-122.60312,45.52575,0],"name":"BIKE RACK 497HDE","engineType":"CE","vin":"WMEEJ3BA6FK795063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Bush St 5123, 97206 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.61011,45.49546,0],"name":"BIKE RACK 512HDE","engineType":"CE","vin":"WMEEJ3BAXFK792537","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 59th Ave 4883, 97206 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.60264,45.48751,0],"name":"BIKE RACK 960HDE","engineType":"CE","vin":"WMEEJ3BA5FK793322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 16th Ave 3758, 97202 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.64928,45.49564,0],"name":"BIKE RACK 501HDE","engineType":"CE","vin":"WMEEJ3BA7FK793189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Bryant St 999, 97217 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.67674,45.57345,0],"name":"208FRH","engineType":"CE","vin":"WMEEJ3BA9CK560880","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st Ave 479, 97209 Portland","city":"portland","fuel":48,"exterior":"GOOD","coordinates":[-122.69451,45.52617,0],"name":"327FRH","engineType":"CE","vin":"WMEEJ3BA6CK561890","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Belmont St 1754, 97214 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.64798,45.51643,0],"name":"BIKE RACK 976HDE","engineType":"CE","vin":"WMEEJ3BAXFK790464","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 9th Ave 8145, 97202 Portland","city":"portland","fuel":42,"exterior":"GOOD","coordinates":[-122.65698,45.46402,0],"name":"441HDE","engineType":"CE","vin":"WMEEJ3BA5FK794180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Kelly Ave 3821, 97239 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.67494,45.49565,0],"name":"792HDE","engineType":"CE","vin":"WMEEJ3BA9FK795218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 3rd Ave 459, 97204 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.67465,45.51987,0],"name":"241FRH","engineType":"CE","vin":"WMEEJ3BA1CK561117","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Slavin Rd 5071, 97239 Portland","city":"portland","fuel":30,"exterior":"GOOD","coordinates":[-122.68163,45.48688,0],"name":"196 FRH","engineType":"CE","vin":"WMEEJ3BA1CK561912","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Emerson St 345, 97211 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.66206,45.56161,0],"name":"BIKE RACK 725HDE","engineType":"CE","vin":"WMEEJ3BA2FK791561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Kelly St 2880, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63596,45.4998,0],"name":"322FRH","engineType":"CE","vin":"WMEEJ3BA4CK560723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Water Ave 1421, 97214 Portland","city":"portland","fuel":33,"exterior":"GOOD","coordinates":[-122.66583,45.51284,0],"name":"BIKE RACK 205GUD","engineType":"CE","vin":"WMEEJ3BA9EK777980","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 56th Ave 3407, 97206 Portland","city":"portland","fuel":30,"exterior":"GOOD","coordinates":[-122.60506,45.49817,0],"name":"311FRH","engineType":"CE","vin":"WMEEJ3BA4CK561337","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Lafayette Ct 3738, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.62451,45.49615,0],"name":"BIKE RACK 291GXY","engineType":"CE","vin":"WMEEJ3BA1EK778539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 47th Ave 3597, 97213 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.61502,45.54917,0],"name":"323FRH","engineType":"CE","vin":"WMEEJ3BA2CK561238","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Oak St 868, 97214 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.65684,45.52001,0],"name":"BIKE RACK 009HAL","engineType":"CE","vin":"WMEEJ3BA0EK777222","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Glisan St 5233, 97213 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.60963,45.52655,0],"name":"BIKE RACK 511HDE","engineType":"CE","vin":"WMEEJ3BA0FK790764","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Taggart St 1613, 97202 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.64951,45.50274,0],"name":"356FRH","engineType":"CE","vin":"WMEEJ3BA5CK568488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 7th Ave 1373, 97232 Portland","city":"portland","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-122.65861,45.53277,0],"name":"BIKE RACK 210GUD","engineType":"CE","vin":"WMEEJ3BA2EK776573","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Winchell St 2345, 97217 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.69056,45.58029,0],"name":"320FRH","engineType":"CE","vin":"WMEEJ3BA4CK564013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 40th Ave 3627, 97202 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.62081,45.49724,0],"name":"BIKE RACK 972HDE","engineType":"CE","vin":"WMEEJ3BAXFK791727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Insley St 1966, 97202 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.64577,45.48388,0],"name":"215FRH","engineType":"CE","vin":"WMEEJ3BAXCK561682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pacific Hwy E, 97202 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.63899,45.46261,0],"name":"BIKE RACK 023HLC","engineType":"CE","vin":"WMEEJ3BAXEK779110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"G St, 97219 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.73133,45.44133,0],"name":"249 FRH","engineType":"CE","vin":"WMEEJ3BA9CK564136","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Sandy Blvd 3424, 97232 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.62864,45.53246,0],"name":"466HDE","engineType":"CE","vin":"WMEEJ3BA5FK792431","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ankeny St 709, 97214 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.65857,45.5222,0],"name":"344FRH","engineType":"CE","vin":"WMEEJ3BA4CK561919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Upshur St 1851, 97209 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.69021,45.53637,0],"name":"BIKE RACK 561HDE","engineType":"CE","vin":"WMEEJ3BA6FK791739","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 52nd Ave 467, 97213 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.61023,45.52627,0],"name":"BIKE RACK 885HDE","engineType":"CE","vin":"WMEEJ3BA2FK790488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Fiske Ave 7483, 97203 Portland","city":"portland","fuel":93,"exterior":"GOOD","coordinates":[-122.71854,45.5801,0],"name":"BIKE RACK 192GUD","engineType":"CE","vin":"WMEEJ3BAXEK777289","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 57th Ave 69, 97215 Portland","city":"portland","fuel":51,"exterior":"GOOD","coordinates":[-122.60503,45.52229,0],"name":"BIKE RACK 597HDE","engineType":"CE","vin":"WMEEJ3BA8FK794755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 20th Ave 305, 97209 Portland","city":"portland","fuel":57,"exterior":"GOOD","coordinates":[-122.69232,45.52498,0],"name":"346FRH","engineType":"CE","vin":"WMEEJ3BAXCK561469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 32nd Ave 669, 97232 Portland","city":"portland","fuel":81,"exterior":"GOOD","coordinates":[-122.63114,45.52772,0],"name":"159FRH","engineType":"CE","vin":"WMEEJ3BA1CK560923","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Skidmore St 667, 97217 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.67299,45.55462,0],"name":"BIKE RACK 707HDE","engineType":"CE","vin":"WMEEJ3BA2FK794170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Shaver St 646, 97212 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.65909,45.55203,0],"name":"219FRH","engineType":"CE","vin":"WMEEJ3BA5CK561668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Wilson St 2590, 97210 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.70471,45.53749,0],"name":"585FYV","engineType":"CE","vin":"WMEEJ3BA2CK573728","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Main St 65, 97214 Portland","city":"portland","fuel":63,"exterior":"GOOD","coordinates":[-122.66555,45.5137,0],"name":"350GSP","engineType":"CE","vin":"WMEEJ3BA6CK563140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Boise St 6027, 97206 Portland","city":"portland","fuel":69,"exterior":"GOOD","coordinates":[-122.60142,45.49247,0],"name":"BIKE RACK 018HAL","engineType":"CE","vin":"WMEEJ3BA1EK779352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 37th Ave 5667, 97211 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.6255,45.56372,0],"name":"321FRH","engineType":"CE","vin":"WMEEJ3BA2CK560896","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ash St 1519, 97214 Portland","city":"portland","fuel":18,"exterior":"GOOD","coordinates":[-122.65037,45.52151,0],"name":"182 FRH","engineType":"CE","vin":"WMEEJ3BA2CK562065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Oak St 4048, 97214 Portland","city":"portland","fuel":54,"exterior":"GOOD","coordinates":[-122.62077,45.52022,0],"name":"BIKE RACK 715HDE","engineType":"CE","vin":"WMEEJ3BA5FK791134","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Gile Ter 2356, 97212 Portland","city":"portland","fuel":27,"exterior":"GOOD","coordinates":[-122.64123,45.55129,0],"name":"BIKE RACK 968HDE","engineType":"CE","vin":"WMEEJ3BA8FK795193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 8th Ave 71, 97232 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.65765,45.52346,0],"name":"282FRH","engineType":"CE","vin":"WMEEJ3BA0CK570701","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Everett St 2068, 97209 Portland","city":"portland","fuel":45,"exterior":"GOOD","coordinates":[-122.69372,45.52464,0],"name":"BIKE RACK 764HDE","engineType":"CE","vin":"WMEEJ3BAXFK795213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Ogden St 5165, 97206 Portland","city":"portland","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-122.61033,45.4712,0],"name":"443HDE","engineType":"CE","vin":"WMEEJ3BA6FK794978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Bond Ave 3900, 97239 Portland","city":"portland","fuel":60,"exterior":"GOOD","coordinates":[-122.6708,45.49546,0],"name":"315FRH","engineType":"CE","vin":"WMEEJ3BA3CK561720","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 24th Ave 4219, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.64091,45.55383,0],"name":"BIKE RACK 209GXY","engineType":"CE","vin":"WMEEJ3BA1EK777844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW Clay St 1043, 97201 Portland","city":"portland","fuel":84,"exterior":"GOOD","coordinates":[-122.68538,45.51487,0],"name":"BIKE RACK 050HAL","engineType":"CE","vin":"WMEEJ3BA5EK777555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Salmon St 69, 97214 Portland","city":"portland","fuel":39,"exterior":"GOOD","coordinates":[-122.66544,45.51445,0],"name":"130GUB","engineType":"CE","vin":"WMEEJ3BA3CK563712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE US Grant Pl 3278, 97212 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.63115,45.53783,0],"name":"BIKE RACK 775HDE","engineType":"CE","vin":"WMEEJ3BAXFK792991","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW Front Ave 878, 97209 Portland","city":"portland","fuel":75,"exterior":"GOOD","coordinates":[-122.67466,45.52948,0],"name":"324FRH","engineType":"CE","vin":"WMEEJ3BA7CK562305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW View Point Ter 4117, 97239 Portland","city":"portland","fuel":12,"exterior":"GOOD","coordinates":[-122.67802,45.49374,0],"name":"259FRH","engineType":"CE","vin":"WMEEJ3BA1CK564177","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Missouri Ave 3825, 97227 Portland","city":"portland","fuel":24,"exterior":"GOOD","coordinates":[-122.67777,45.55046,0],"name":"250 FRH","engineType":"CE","vin":"WMEEJ3BA1CK564163","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE Sherman St 4875, 97215 Portland","city":"portland","fuel":87,"exterior":"GOOD","coordinates":[-122.61248,45.5067,0],"name":"162 FRH","engineType":"CE","vin":"WMEEJ3BA1CK561506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE Liberty St 858, 97211 Portland","city":"portland","fuel":100,"exterior":"GOOD","coordinates":[-122.65644,45.57105,0],"name":"354FRH","engineType":"CE","vin":"WMEEJ3BA4CK567686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

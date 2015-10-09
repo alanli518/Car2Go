@@ -1,0 +1,650 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Louise Wentstraat 135, 1018 Amsterdam","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.92304,52.3655,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-73","vin":"WME4513901K820973","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jaagpad 37 - 40, 1059 Amsterdam","city":"amsterdam","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[4.84592,52.33981,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"1-ZFZ-36","vin":"WME4513901K820911","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Brinkstraat 4, 1097 VL Amsterdam","city":"amsterdam","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[4.9473,52.34282,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-68","vin":"WME4513901K821876","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Duivendrechtsekade 84, 1096 AJ Amsterdam","city":"amsterdam","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[4.93507,52.33768,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-40","vin":"WME4513901K821183","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Burgemeester Fockstraat 22","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.83181,52.37858,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFZ-90","vin":"WME4513901K821174","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Oostenburgergracht 73 - 75, 1018 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":51,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92381,52.3681,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZPF-31","vin":"WME4513901K821313","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Karel Doormanplein, 1055 WL Amsterdam","city":"amsterdam","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[4.85958,52.37882,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-06","vin":"WME4513901K823156","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gerard Doustraat 87, 1072 VN Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.89203,52.35575,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-10","vin":"WME4513901K821957","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sperwerlaan 8","city":"amsterdam","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[4.91434,52.3849,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZDV-83","vin":"WME4513901K823240","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Spilbergenstraat 118, 1057 Amsterdam","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[4.8513,52.36763,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-97","vin":"WME4513901K820893","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Pieter Lastmankade 4, 1075 KJ Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.86394,52.35068,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-73","vin":"WME4513901K821696","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Krugerplein 17, 1092 KA Amsterdam","city":"amsterdam","fuel":99,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92037,52.35407,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-27","vin":"WME4513901K821448","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Henri Berssenbruggehof, 1087 Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.99261,52.35811,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFB-20","vin":"WME4513901K822312","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rijswijkstraat 163 - 179, 1062 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[4.84043,52.3501,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-90","vin":"WME4513901K822770","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 120 - 280, 1102 Amsterdam-Zuidoost (Actieradius 300m)","city":"amsterdam","fuel":35,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95404,52.31585,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZGX-34","vin":"WME4513901K822164","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Raoul Wallenbergstraat 26, 1102 AX Amsterdam-Zuidoost","city":"amsterdam","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[4.95292,52.31685,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-53","vin":"WME4513901K821677","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eeuwige Jeugdlaan, 1022 KL Amsterdam","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[4.93187,52.40674,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"9-ZGX-56","vin":"WME4513901K823236","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ben van Meerendonkstraat 102, 1087 Amsterdam","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[5.00919,52.35051,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-22","vin":"WME4513901K822762","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Westerlengte 145, 1034 Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.91989,52.41346,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-05","vin":"WME4513901K821836","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Orteliuskade 73, 1057 AN Amsterdam","city":"amsterdam","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[4.84859,52.36957,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-02","vin":"WME4513901K821290","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Reggestraat 9, 1078 Amsterdam","city":"amsterdam","fuel":97,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.90197,52.34748,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-64","vin":"WME4513901K822827","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rietwijkerstraat 36, 1059 Amsterdam","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.8487,52.3495,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFG-97","vin":"WME4513901K820657","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Daniël Goedkoopstraat 18 - 36, 1096 BD Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.9222,52.33464,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZFZ-94","vin":"WME4513901K821952","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"H.J.E. Wenckebachweg 1964, 1096 Amsterdam","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92637,52.3387,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-69","vin":"WME4513901K821888","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Burgemeester de Vlugtlaan 194","city":"amsterdam","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[4.82097,52.38162,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDV-75","vin":"WME4513901K822984","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haardstee 251, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.95229,52.31047,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZNJ-00","vin":"WME4513901K823080","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Frederik Hendrikstraat 155, 1052 HS Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.87193,52.37322,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFX-92","vin":"WME4513901K822678","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Vliegtuigstraat 16, 1059 CL Amsterdam","city":"amsterdam","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[4.84422,52.34009,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFZ-03","vin":"WME4513901K823299","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Voorburgstraat 262, 1062 JB Amsterdam","city":"amsterdam","fuel":86,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.83705,52.34856,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-35","vin":"WME4513901K820826","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eva Besnyöstraat 32, 1087 Amsterdam","city":"amsterdam","fuel":94,"exterior":"GOOD","charging":false,"coordinates":[5.00373,52.35215,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-22","vin":"WME4513901K821595","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Krijn Taconiskade 440, 1087 Amsterdam","city":"amsterdam","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[5.00655,52.35379,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-45","vin":"WME4513901K822732","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Waldenlaan, 1093 Amsterdam","city":"amsterdam","fuel":96,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92909,52.35732,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFG-02","vin":"WME4513901K822529","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Weidestraat 54, 1097 Amsterdam","city":"amsterdam","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[4.94737,52.33976,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFX-15","vin":"WME4513901K822643","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Keizersgracht 448, 1016 Amsterdam","city":"amsterdam","fuel":91,"exterior":"GOOD","charging":true,"coordinates":[4.88419,52.36737,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-44","vin":"WME4513901K821613","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Barentszplein 3, 1013 Amsterdam","city":"amsterdam","fuel":74,"exterior":"UNACCEPTABLE","charging":true,"coordinates":[4.89069,52.38934,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZFG-54","vin":"WME4513901K821810","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zaanstraat 100, 1013 RW Amsterdam","city":"amsterdam","fuel":49,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.87775,52.38815,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZGX-34","vin":"WME4513901K822290","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Troepiaalsingel 12, 1102 SG Amsterdam-Zuidoost","city":"amsterdam","fuel":55,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95913,52.31659,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZGX-38","vin":"WME4513901K822078","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Prinsengracht 627 - 663, 1016 HV Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":true,"coordinates":[4.88258,52.36684,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFB-38","vin":"WME4513901K820985","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Newtonstraat 67, 1098 HA Amsterdam","city":"amsterdam","fuel":40,"exterior":"GOOD","charging":false,"coordinates":[4.93593,52.35602,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-71","vin":"WME4513901K821002","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eerste Oosterparkstraat 279, 1091 Amsterdam","city":"amsterdam","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[4.9146,52.35729,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-89","vin":"WME4513901K821146","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"De Rijpstraat 128, 1055 Amsterdam","city":"amsterdam","fuel":36,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.85906,52.37733,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZDR-82","vin":"WME4513901K822201","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Dijksgracht 3, 1019 Amsterdam","city":"amsterdam","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[4.91623,52.37633,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-90","vin":"WME4513901K823165","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hertspieghelweg 23, 1055 KK Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.85234,52.38117,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"8-ZGX-66","vin":"WME4513901K820808","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Joan Muyskenweg 10 - 12, 1096 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[4.91383,52.33339,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDR-23","vin":"WME4513901K822372","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Delflandlaan 17, 1062 EA Amsterdam","city":"amsterdam","fuel":24,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.84119,52.3503,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFG-71","vin":"WME4513901K822470","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sumatrakade 1001, 1019 Amsterdam","city":"amsterdam","fuel":93,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92805,52.37919,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFB-83","vin":"WME4513901K821868","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jaagpad","city":"amsterdam","fuel":22,"exterior":"GOOD","charging":false,"coordinates":[4.84592,52.33985,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-53","vin":"WME4513901K821606","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kiekstraat 43, 1087 GK Amsterdam","city":"amsterdam","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[4.99781,52.35429,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-23","vin":"WME4513901K820968","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Prins Hendriklaan 49, 1075 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.86035,52.3532,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-91","vin":"WME4513901K821657","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 158, 1102 AB Amsterdam-Zuidoost","city":"amsterdam","fuel":88,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95368,52.31615,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZDR-91","vin":"WME4513901K823115","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Nachtwachtlaan 352, 1058 Amsterdam","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.84296,52.3626,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZDR-45","vin":"WME4513901K822634","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Florijn 498, 1102 JT Amsterdam-Zuidoost","city":"amsterdam","fuel":40,"exterior":"GOOD","charging":false,"coordinates":[4.95777,52.31864,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFB-02","vin":"WME4513901K822454","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Entrepotbrug 184, 1019 JJ Amsterdam","city":"amsterdam","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[4.93594,52.37098,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-89","vin":"WME4513901K821226","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Mt Ondinaweg 9, 1033 Amsterdam","city":"amsterdam","fuel":49,"exterior":"GOOD","charging":false,"coordinates":[4.8903,52.40196,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-97","vin":"WME4513901K820770","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gulden Kruispad, 1102 CG Amsterdam-Zuidoost","city":"amsterdam","fuel":48,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95621,52.31323,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFG-68","vin":"WME4513901K821431","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sarphatipark 3","city":"amsterdam","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[4.89402,52.35453,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFZ-12","vin":"WME4513901K821380","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Vrolikstraat 395, 1092 TE Amsterdam","city":"amsterdam","fuel":48,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.9216,52.35719,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-22","vin":"WME4513901K822699","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Noorderhaakspad, 1025 XJ Amsterdam","city":"amsterdam","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[4.94418,52.3981,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-28","vin":"WME4513901K821484","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Stolwijkstraat 10, 1059 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.84844,52.35136,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-76","vin":"WME4513901K821206","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Frans Zieglerstraat 42, 1087 HN Amsterdam","city":"amsterdam","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[5.00659,52.35293,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-07","vin":"WME4513901K821520","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Vlaardingenlaan 25, 1062 Amsterdam","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.83542,52.34713,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZDV-12","vin":"WME4513901K822240","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Merwedeplein 39 - 51, 1078 NC Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[4.90056,52.34535,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-82","vin":"WME4513901K821009","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"H. Cleijndertweg 221 - 433, 1025 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[4.93702,52.40313,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-48","vin":"WME4513901K822494","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJburglaan 544, 1087 Amsterdam","city":"amsterdam","fuel":46,"exterior":"GOOD","charging":false,"coordinates":[4.98912,52.35832,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-60","vin":"WME4513901K823173","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gerard Callenburgstraat 26, 1055 VC Amsterdam","city":"amsterdam","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[4.85945,52.37826,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"1-ZFZ-83","vin":"WME4513901K823201","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 374, 1102 AC Amsterdam-Zuidoost","city":"amsterdam","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[4.95572,52.31683,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-49","vin":"WME4513901K822721","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rooseveltlaan 67 - 189, 1079 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":57,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.89759,52.3433,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFB-27","vin":"WME4513901K822560","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Stuurmankade 146 - 264, 1019 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[4.94371,52.37201,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-62","vin":"WME4513901K820485","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan Hanzenstraat 272, 1053 Amsterdam","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.86327,52.36737,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"9-ZFX-49","vin":"WME4513901K822017","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Grote Bickersstraat 35, 1013 KN Amsterdam","city":"amsterdam","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[4.88905,52.38463,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-35","vin":"WME4513901K821702","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan van Galenstraat 315, 1056 CB Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[4.84527,52.37241,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZDR-95","vin":"WME4513901K822007","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Planciusstraat 12, 1013 MH Amsterdam","city":"amsterdam","fuel":61,"exterior":"GOOD","charging":false,"coordinates":[4.8851,52.38708,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-58","vin":"WME4513901K821096","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haarlemmerweg 603, 1055 PP Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.8494,52.38484,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"9-ZGX-07","vin":"WME4513901K822935","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Gentstraat 4 - 16, 1055 PE Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.85095,52.38306,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-22","vin":"WME4513901K821426","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Olof Palmeplein 144, 1025 Amsterdam","city":"amsterdam","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[4.94149,52.39649,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-77","vin":"WME4513901K821138","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 120 - 280, 1102 Amsterdam-Zuidoost (Actieradius 300m)","city":"amsterdam","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[4.95431,52.31593,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-96","vin":"WME4513901K822615","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Buikslotermeerplein 2000, 1025 XL Amsterdam","city":"amsterdam","fuel":21,"exterior":"GOOD","charging":false,"coordinates":[4.93232,52.40081,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-38","vin":"WME4513901K821199","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hoogte Kadijk 192, 1018 BW Amsterdam","city":"amsterdam","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[4.91829,52.3683,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZDR-53","vin":"WME4513901K821368","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Daniël Goedkoopstraat 14, 1096 BD Amsterdam","city":"amsterdam","fuel":54,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92153,52.33523,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-38","vin":"WME4513901K823291","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haparandadam 2, 1013 AK Amsterdam","city":"amsterdam","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[4.88156,52.39705,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-32","vin":"WME4513901K822124","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kiefskamp 17, 1082 Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.87271,52.3303,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-43","vin":"WME4513901K821489","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Amstelkade 170 - 186, 1078 BA Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":34,"exterior":"GOOD","charging":false,"coordinates":[4.88666,52.34811,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-45","vin":"WME4513901K823213","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tweede Kostverlorenkade 156, 1053 Amsterdam","city":"amsterdam","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[4.8582,52.36217,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-93","vin":"WME4513901K821305","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Conradstraat 471, 1018 NN Amsterdam","city":"amsterdam","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[4.93147,52.37186,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-50","vin":"WME4513901K821142","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"The Curve","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.89147,52.40539,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-70","vin":"WME4513901K820789","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Emilie Knappertstraat 4, 1066 XB Amsterdam","city":"amsterdam","fuel":49,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.82889,52.35084,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFX-60","vin":"WME4513901K822889","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kadijksplein 17 - 18, 1018 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.91278,52.37072,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-66","vin":"WME4513901K822685","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Anthony Fokkerweg 71, 1059 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.84206,52.34046,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-22","vin":"WME4513901K821024","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Th Weeversweg 31, 1025 Amsterdam","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.94373,52.39767,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-19","vin":"WME4513901K823123","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Claus van Amsbergstraat 9, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[4.95384,52.31686,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZGX-19","vin":"WME4513901K822801","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rijnstraat 74, 1079 Amsterdam","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[4.90543,52.34562,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZDR-37","vin":"WME4513901K823217","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Uiterwaardenstraat 138, 1079 Amsterdam","city":"amsterdam","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[4.90567,52.34275,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFB-74","vin":"WME4513901K823256","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Herman Gorterstraat 12, 1077 Amsterdam","city":"amsterdam","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[4.88455,52.34681,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-73","vin":"WME4513901K821300","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Pilotenstraat 17, 1059 Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.84353,52.34148,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-87","vin":"WME4513901K821723","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zwanebloemlaan 222","city":"amsterdam","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[4.99569,52.35363,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-97","vin":"WME4513901K822609","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zeevaart 52 - 132, 1034 RC Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.921,52.41154,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-85","vin":"WME4513901K822908","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Noorderbreedte 156, 1034 PP Amsterdam","city":"amsterdam","fuel":63,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92211,52.41356,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZGX-87","vin":"WME4513901K822975","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Patrice Lumumbastraat 3, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[4.95779,52.3187,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-77","vin":"WME4513901K822303","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"H. Cleijndertweg 221 - 433, 1025 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.93707,52.40311,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-99","vin":"WME4513901K822508","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Da Costakade 178","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.87415,52.36723,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-86","vin":"WME4513901K820864","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gooiseweg 11, 1097 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.93807,52.33881,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-79","vin":"WME4513901K821373","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kea Boumanstraat, 1095 KN Amsterdam","city":"amsterdam","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[4.9669,52.37519,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-58","vin":"WME4513901K821164","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Roelantstraat 4, 1055 Amsterdam","city":"amsterdam","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[4.85749,52.37711,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-29","vin":"WME4513901K822319","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Grote Wittenburgerstraat 29, 1018 KV Amsterdam","city":"amsterdam","fuel":40,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92024,52.37079,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZGX-33","vin":"WME4513901K822479","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Carolina Macgillavrylaan 2200, 1098 XE Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[4.94971,52.35506,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZFB-17","vin":"WME4513901K821539","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Duivendrechtsekade 40, 1096 AH Amsterdam","city":"amsterdam","fuel":62,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92925,52.33763,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-09","vin":"WME4513901K822191","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Radioweg 89, 1098 Amsterdam","city":"amsterdam","fuel":81,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95451,52.34461,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFG-10","vin":"WME4513901K821134","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zwaansvliet 20, 1081 AP Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.86637,52.32571,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-58","vin":"WME4513901K821707","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Houweningenstraat 64, 1052 Amsterdam","city":"amsterdam","fuel":24,"exterior":"GOOD","charging":false,"coordinates":[4.87083,52.3732,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZDR-32","vin":"WME4513901K823179","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ottho Heldringstraat 19, 1066 AZ Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.83233,52.34987,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-03","vin":"WME4513901K821030","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Burgemeester de Vlugtlaan 208, 1063 BT Amsterdam","city":"amsterdam","fuel":22,"exterior":"GOOD","charging":false,"coordinates":[4.82087,52.38162,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFX-77","vin":"WME4513901K822951","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"James Wattstraat 4, 1097 DM Amsterdam","city":"amsterdam","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[4.92659,52.35258,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-80","vin":"WME4513901K821730","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van der Kunstraat 13, 1097 Amsterdam","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.91515,52.34658,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZDV-84","vin":"WME4513901K822967","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eikenweg 2","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.92113,52.35875,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-38","vin":"WME4513901K820945","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Paramariboplein 16, 1058 AS Amsterdam","city":"amsterdam","fuel":66,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.85479,52.35952,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZLJ-04","vin":"WME4513901K823044","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Carolina Macgillavrylaan 70, 1098 Amsterdam","city":"amsterdam","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[4.94207,52.35788,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-12","vin":"WME4513901K823330","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Oostelijke Handelskade 36 - 48, 1019 BN Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[4.93586,52.37425,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-50","vin":"WME4513901K821651","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Burgemeester de Vlugtlaan 180, 1063 Amsterdam","city":"amsterdam","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[4.82228,52.38139,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFX-41","vin":"WME4513901K821715","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tweede Schinkelstraat 164, 1075 TT Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.85359,52.35314,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-32","vin":"WME4513901K821789","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sumatrakade 853 - 891, 1019 RA Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92839,52.37923,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFB-79","vin":"WME4513901K820877","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Troepiaalsingel 7, 1102 SG Amsterdam-Zuidoost","city":"amsterdam","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[4.95892,52.31681,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-94","vin":"WME4513901K821553","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Boeierstraat 1, 1086 VD Amsterdam","city":"amsterdam","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.98535,52.36457,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-06","vin":"WME4513901K821273","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zuidgorsstraat, 1025 XR Amsterdam","city":"amsterdam","fuel":55,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.94459,52.39891,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZDR-86","vin":"WME4513901K823264","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Boulevardpad 34, 1018 Amsterdam","city":"amsterdam","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[4.92337,52.3689,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-69","vin":"WME4513901K821500","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Baron de Coubertinlaan 2 - 8, 1034 ZK Amsterdam","city":"amsterdam","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[4.92057,52.40301,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-56","vin":"WME4513901K821129","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eeuwige Jeugdlaan, 1025 Amsterdam","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.93237,52.4065,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-08","vin":"WME4513901K821231","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Eeghenstraat 180, 1071 Amsterdam","city":"amsterdam","fuel":47,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.86858,52.35614,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZFB-24","vin":"WME4513901K822445","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Generaal Vetterstraat 67, 1059 Amsterdam","city":"amsterdam","fuel":29,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.84681,52.3446,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFZ-66","vin":"WME4513901K823008","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Max de Haasstraat 9, 1087 Amsterdam","city":"amsterdam","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[5.00061,52.35074,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-95","vin":"WME4513901K822211","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Merwedeplein 45, 1078 NC Amsterdam","city":"amsterdam","fuel":44,"exterior":"UNACCEPTABLE","charging":true,"coordinates":[4.90047,52.34528,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZFG-56","vin":"WME4513901K822899","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Krijn Taconiskade 228, 1087 HW Amsterdam","city":"amsterdam","fuel":27,"exterior":"GOOD","charging":false,"coordinates":[5.00445,52.35223,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDR-46","vin":"WME4513901K822059","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"James Bradleystraat 34, 1086 Amsterdam","city":"amsterdam","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[4.97988,52.36022,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-40","vin":"WME4513901K823148","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Insulindeweg 790 - 892, 1095 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[4.9442,52.36248,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZGX-47","vin":"WME4513901K823248","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Blankenstraat 55, 1018 RR Amsterdam","city":"amsterdam","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[4.92821,52.36883,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZLJ-09","vin":"WME4513901K823197","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Vinkenstraat 35, 1013 Amsterdam","city":"amsterdam","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[4.8877,52.38183,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFZ-92","vin":"WME4513901K822704","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gooiseweg 10, 1097 ST Amsterdam","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.9381,52.33878,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZDR-03","vin":"WME4513901K823244","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Marquette 42, 1081 Amsterdam","city":"amsterdam","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[4.86656,52.32436,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDV-26","vin":"WME4513901K821469","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ben Viljoenstraat 6, 1091 Amsterdam","city":"amsterdam","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[4.91545,52.35289,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-28","vin":"WME4513901K822515","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Oostelijke Handelskade 6 - 8, 1019 BM Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.93104,52.3751,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-45","vin":"WME4513901K822603","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zaaiersweg 177, 1097 ST Amsterdam","city":"amsterdam","fuel":46,"exterior":"GOOD","charging":false,"coordinates":[4.93973,52.33984,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDR-59","vin":"WME4513901K823271","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Plantage Middenlaan 45, 1018 DC Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[4.91485,52.36543,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZDV-40","vin":"WME4513901K822537","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sarphatipark 123, 1073 CX Amsterdam","city":"amsterdam","fuel":25,"exterior":"GOOD","charging":false,"coordinates":[4.89874,52.35473,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"8-ZFX-47","vin":"WME4513901K820821","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jacob Frankhof 9, 1063 XD Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.83067,52.38073,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFZ-64","vin":"WME4513901K822259","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Blauwvoetstraat 27, 1061 BM Amsterdam","city":"amsterdam","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[4.83957,52.37753,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-64","vin":"WME4513901K821060","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Prinsengracht 787, 1017 JZ Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.88759,52.36323,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-78","vin":"WME4513901K822071","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bataviastraat 67, 1095 Amsterdam","city":"amsterdam","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[4.94453,52.3617,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZDR-83","vin":"WME4513901K820997","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sumatrakade 295, 1019 PL Amsterdam","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[4.93344,52.37828,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-86","vin":"WME4513901K821015","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kustvaarderstraat 33, 1034 JP Amsterdam","city":"amsterdam","fuel":97,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.91597,52.40518,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZGX-98","vin":"WME4513901K822345","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Anton de Komplein 240, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":34,"exterior":"GOOD","charging":false,"coordinates":[4.95908,52.31446,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZDR-50","vin":"WME4513901K820906","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Derde Oosterparkstraat 117, 1092 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.91869,52.35699,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDV-42","vin":"WME4513901K823283","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"H.J.E. Wenckebachweg 208, 1096 AS Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.93811,52.33664,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZLJ-27","vin":"WME4513901K823287","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Joan Muyskenweg 10, 1096 CJ Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.91325,52.33572,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-84","vin":"WME4513901K822672","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Motorkade 11","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.91904,52.38529,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-74","vin":"WME4513901K821989","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Prinsengracht 671, 1017 JT Amsterdam","city":"amsterdam","fuel":60,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.88319,52.36606,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZGX-38","vin":"WME4513901K823089","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Frissenstein 1 - 956, 1102 AP Amsterdam-Zuidoost (Actieradius 100m)","city":"amsterdam","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[4.95283,52.31677,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-02","vin":"WME4513901K823232","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Laan Der Hesperiden 138, 1076 Amsterdam","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[4.85293,52.34477,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-44","vin":"WME4513901K821110","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Fokkemast 58, 1034 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.9211,52.41172,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFZ-44","vin":"WME4513901K823062","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Nieuwe Herengracht 143, 1011 Amsterdam","city":"amsterdam","fuel":95,"exterior":"GOOD","charging":false,"coordinates":[4.90937,52.3691,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-13","vin":"WME4513901K822794","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Andreas Bonnstraat 7, 1091 Amsterdam","city":"amsterdam","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[4.91382,52.35945,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-07","vin":"WME4513901K823139","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan van Galenstraat 231 - 265, 1056 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[4.85101,52.37321,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-20","vin":"WME4513901K821689","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Minervahavenweg 7, 1013 Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.87567,52.39882,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZDR-52","vin":"WME4513901K820709","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Linnaeusparkweg 134 - 142, 1098 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[4.9369,52.35232,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-97","vin":"WME4513901K822410","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kerkstraat 150, 1017 GV Amsterdam","city":"amsterdam","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[4.88879,52.36335,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-53","vin":"WME4513901K822251","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bataviastraat 45, 1095 EN Amsterdam","city":"amsterdam","fuel":24,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.94379,52.36158,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFX-87","vin":"WME4513901K822436","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Staringstraat 30, 1054 VR Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.86251,52.36162,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-40","vin":"WME4513901K821019","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tuinbouwstraat 91 - 105, 1097 XT Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":87,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.94369,52.33876,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZFG-61","vin":"WME4513901K821443","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Schoenerstraat 11 - 13, 1034 XZ Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.9086,52.40468,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFB-31","vin":"WME4513901K822419","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Banne Buikslootlaan 84 - 164, 1034 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.91151,52.40597,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFB-42","vin":"WME4513901K821056","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Admiralengracht 102, 1057 Amsterdam","city":"amsterdam","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[4.85775,52.36823,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZDR-49","vin":"WME4513901K821050","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Staalmeesterslaan 359, 1057 Amsterdam","city":"amsterdam","fuel":34,"exterior":"GOOD","charging":false,"coordinates":[4.84284,52.36654,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-89","vin":"WME4513901K821102","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gooiseweg 10, 1097 ST Amsterdam","city":"amsterdam","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[4.93809,52.33875,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-84","vin":"WME4513901K821711","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Noorderbreedte 145, 1034 PP Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.92247,52.41343,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZDR-04","vin":"WME4513901K821362","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan Voermanstraat 64, 1061 Amsterdam","city":"amsterdam","fuel":90,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.8392,52.36873,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZDV-54","vin":"WME4513901K822991","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Carolina Macgillavrylaan 2200, 1098 XE Amsterdam","city":"amsterdam","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[4.94952,52.3552,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFB-19","vin":"WME4513901K821034","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Carolina Macgillavrylaan 218 - 628, 1098 XB Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.9443,52.35759,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-17","vin":"WME4513901K821919","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJburglaan 1323, 1087 Amsterdam","city":"amsterdam","fuel":61,"exterior":"GOOD","charging":false,"coordinates":[4.9982,52.35381,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-91","vin":"WME4513901K821415","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zuidgorsstraat, 1025 XR Amsterdam","city":"amsterdam","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[4.9436,52.39931,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZGX-09","vin":"WME4513901K822777","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bankastraat 63, 1094 EC Amsterdam","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[4.93442,52.3648,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-23","vin":"WME4513901K820930","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Olof Palmeplein 144, 1025 WS Amsterdam","city":"amsterdam","fuel":64,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.94143,52.39652,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZDR-14","vin":"WME4513901K821115","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Wanningstraat 4, 1071 LB Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.87734,52.35687,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"9-ZFX-79","vin":"WME4513901K820953","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Da Costakade 357, 1053 WV Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.87315,52.36858,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-59","vin":"WME4513901K821509","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJdoornlaan, 1025 CW Amsterdam","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.93765,52.40008,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZFB-05","vin":"WME4513901K820723","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Krijn Taconiskade 96, 1087 HV Amsterdam","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[5.00326,52.35301,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-03","vin":"WME4513901K820857","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Prinsengracht 600 - 644, 1017 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":68,"exterior":"GOOD","charging":true,"coordinates":[4.89049,52.36226,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-21","vin":"WME4513901K822051","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zeebergweg 7, 1051 Amsterdam","city":"amsterdam","fuel":91,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.86517,52.3834,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-86","vin":"WME4513901K821089","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Wielingenstraat 28, 1078 KL Amsterdam","city":"amsterdam","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[4.88864,52.34441,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-35","vin":"WME4513901K822754","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van der Kunstraat 18, 1097 LX Amsterdam","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[4.91491,52.34621,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-98","vin":"WME4513901K823131","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Science Park 701, 1098 XH Amsterdam","city":"amsterdam","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[4.9549,52.35593,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-81","vin":"WME4513901K822038","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sassenheimstraat 61, 1059 BE Amsterdam","city":"amsterdam","fuel":27,"exterior":"GOOD","charging":false,"coordinates":[4.84721,52.3487,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-67","vin":"WME4513901K822232","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zuidgorsstraat, 1025 XR Amsterdam","city":"amsterdam","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[4.94371,52.39921,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZGX-31","vin":"WME4513901K822871","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ottho Heldringstraat 3, 1066 Amsterdam","city":"amsterdam","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[4.83228,52.35093,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-47","vin":"WME4513901K821265","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Agamemnonstraat 55, 1076 LS Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.86394,52.34382,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZGX-29","vin":"WME4513901K823017","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zuider Ijdijk 25, 1095 Amsterdam","city":"amsterdam","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[4.95936,52.36866,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-64","vin":"WME4513901K821495","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haringvlietstraat 4, 1078 KC Amsterdam","city":"amsterdam","fuel":63,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.88676,52.34676,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZFZ-10","vin":"WME4513901K821344","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Pieter Aertszstraat 73, 1073 SL Amsterdam","city":"amsterdam","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[4.90139,52.35246,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-40","vin":"WME4513901K822712","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Amstelvlietstraat 351","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.91741,52.33928,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-85","vin":"WME4513901K821663","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Spaklerweg 22, 1096 Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.91943,52.3386,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-90","vin":"WME4513901K822926","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eerste Schinkelstraat 8, 1075 TX Amsterdam","city":"amsterdam","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[4.85534,52.35413,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-21","vin":"WME4513901K822045","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan Evertsenstraat 257, 1057 Amsterdam","city":"amsterdam","fuel":31,"exterior":"GOOD","charging":false,"coordinates":[4.84349,52.36932,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-60","vin":"WME4513901K821044","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Raphael Lemkinstraat 45 - 61, 1102 JX Amsterdam-Zuidoost (Actieradius 100m)","city":"amsterdam","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95938,52.32021,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZGX-99","vin":"WME4513901K822694","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan van Galenstraat 325, 1056 CH Amsterdam","city":"amsterdam","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[4.84327,52.37181,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-00","vin":"WME4513901K821763","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Claus van Amsbergstraat 5, 1102 AZ Amsterdam-Zuidoost","city":"amsterdam","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[4.95355,52.31677,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZGX-29","vin":"WME4513901K823207","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jacob Geelstraat 37 - 47, 1065 VP Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.83111,52.36096,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZGX-72","vin":"WME4513901K822173","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zuidgorsstraat, 1025 XR Amsterdam","city":"amsterdam","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[4.94368,52.39917,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-46","vin":"WME4513901K821212","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Reinier Claeszenstraat 108, 1056 WT Amsterdam","city":"amsterdam","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[4.86189,52.3745,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-51","vin":"WME4513901K820990","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Diemerparklaan 389, 1087 Amsterdam","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.99778,52.35706,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"1-ZLL-60","vin":"WME4513901K822400","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Windroosplein 70 - 102, 1018 ZW Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[4.92454,52.37307,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFX-13","vin":"WME4513901K821066","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Entrepotdok 61, 1018 AD Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.91611,52.36811,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"9-ZDV-09","vin":"WME4513901K822112","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Raoul Wallenbergstraat 28, 1102 AX Amsterdam-Zuidoost","city":"amsterdam","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[4.95292,52.31686,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-13","vin":"WME4513901K823316","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"De Boelelaan 769 - 1051, 1082 SB Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[4.87103,52.33486,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZGX-09","vin":"WME4513901K823033","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Loenermark 158, 1025 Amsterdam","city":"amsterdam","fuel":66,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92855,52.39787,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDV-32","vin":"WME4513901K822819","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Albert Cuypstraat 44, 1072 CV Amsterdam","city":"amsterdam","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[4.88912,52.35466,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFZ-55","vin":"WME4513901K821829","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Wim Noordhoekkade 36, 1087 LH Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[5.01087,52.35075,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-79","vin":"WME4513901K822958","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bilderdijkkade 91, 1053 Amsterdam","city":"amsterdam","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[4.87156,52.36626,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"8-ZDV-93","vin":"WME4513901K822661","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Daniël Stalpertstraat 83, 1072 XC Amsterdam","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.8912,52.35629,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-77","vin":"WME4513901K821899","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 624 - 694, 1102 AC Amsterdam-Zuidoost (Actieradius 100m)","city":"amsterdam","fuel":40,"exterior":"GOOD","charging":false,"coordinates":[4.95937,52.31796,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-14","vin":"WME4513901K822085","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eemsstraat 28, 1079 Amsterdam","city":"amsterdam","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[4.90868,52.3423,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-91","vin":"WME4513901K821577","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Antonio Vivaldistraat 116, 1083 HP Amsterdam","city":"amsterdam","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[4.88484,52.33591,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFZ-58","vin":"WME4513901K821262","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kraanspoor 41, 1033 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[4.88683,52.4034,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-35","vin":"WME4513901K822091","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hugo de Vrieslaan 125 - 143, 1097 EK Amsterdam","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[4.9226,52.34591,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-55","vin":"WME4513901K822364","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Valeriusstraat 20, 1071 Amsterdam","city":"amsterdam","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[4.87253,52.35519,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-57","vin":"WME4513901K822276","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Da Costakade 134, 1053 Amsterdam","city":"amsterdam","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[4.87256,52.36856,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-84","vin":"WME4513901K823000","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Johan Greivestraat 14, 1061 Amsterdam","city":"amsterdam","fuel":64,"exterior":"GOOD","charging":true,"coordinates":[4.83595,52.36523,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDR-25","vin":"WME4513901K822391","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Eerste van Swindenstraat 205, 1093 Amsterdam","city":"amsterdam","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[4.92598,52.36233,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFX-83","vin":"WME4513901K821456","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Beverwijkstraat 186, 1024 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.95393,52.39242,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZGX-55","vin":"WME4513901K822787","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Buiksloterbreek 92, 1034 Amsterdam","city":"amsterdam","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[4.90633,52.40221,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-57","vin":"WME4513901K823336","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Nijenrodeweg 2 - 216, 1083 EN Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[4.88481,52.32778,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZNJ-74","vin":"WME4513901K821328","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gerard Brandtstraat 9, 1054 Amsterdam","city":"amsterdam","fuel":35,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.86835,52.36021,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFB-68","vin":"WME4513901K823224","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Erik de Roodestraat 17, 1056 AK Amsterdam","city":"amsterdam","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[4.84429,52.37319,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-13","vin":"WME4513901K822219","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJsbaanpad 10, 1076 CV Amsterdam","city":"amsterdam","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[4.85434,52.34132,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-35","vin":"WME4513901K820872","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tolstraat 67, 1073 Amsterdam","city":"amsterdam","fuel":86,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.90185,52.35203,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFB-06","vin":"WME4513901K821823","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Burgerweeshuispad 83, 1076 Amsterdam","city":"amsterdam","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[4.85474,52.34037,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFB-78","vin":"WME4513901K821862","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rheastraat 84, 1076 DS Amsterdam","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[4.85456,52.34572,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFB-20","vin":"WME4513901K820670","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Westerdoksdijk 510, 1013 AE Amsterdam","city":"amsterdam","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[4.89276,52.386,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-28","vin":"WME4513901K822098","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gooiseweg 11, 1097 Amsterdam","city":"amsterdam","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[4.93813,52.33876,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-06","vin":"WME4513901K821120","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Spilbergenstraat 72, 1057 Amsterdam","city":"amsterdam","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[4.85188,52.36637,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZDR-29","vin":"WME4513901K821156","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rijswijkstraat 165","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.8403,52.35008,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-10","vin":"WME4513901K820780","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Suikerdiefjestraat 2, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.9593,52.31679,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-02","vin":"WME4513901K820731","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Spilbergenstraat 125, 1057 RC Amsterdam","city":"amsterdam","fuel":46,"exterior":"GOOD","charging":false,"coordinates":[4.85102,52.36812,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-71","vin":"WME4513901K820939","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Lumeijstraat 8, 1056 Amsterdam","city":"amsterdam","fuel":25,"exterior":"GOOD","charging":false,"coordinates":[4.86136,52.37228,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-47","vin":"WME4513901K822625","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tweede Sweelinckstraat 9, 1073 EG Amsterdam","city":"amsterdam","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[4.89959,52.35366,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZDR-99","vin":"WME4513901K821356","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Landskroon 60, 1081 CD Amsterdam","city":"amsterdam","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[4.86019,52.3255,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFX-99","vin":"WME4513901K821739","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tweede Schinkelstraat 164, 1075 TT Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.85359,52.35309,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-39","vin":"WME4513901K822863","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Willy Sluiterstraat 8 - 40, 1061 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[4.84115,52.3649,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-37","vin":"WME4513901K821338","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Amstelveenseweg 73, 1075 Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.85594,52.35351,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-72","vin":"WME4513901K822463","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Boymansweg 35, 1064 Amsterdam","city":"amsterdam","fuel":69,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.82728,52.3644,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-83","vin":"WME4513901K821802","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ferdinand Huyckstraat 31, 1061 HJ Amsterdam","city":"amsterdam","fuel":36,"exterior":"GOOD","charging":false,"coordinates":[4.84245,52.38302,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-75","vin":"WME4513901K822943","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Botterstraat 38, 1034 BT Amsterdam","city":"amsterdam","fuel":80,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.90942,52.40486,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZFB-26","vin":"WME4513901K821548","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Brigantijnkade 66, 1086 Amsterdam","city":"amsterdam","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[4.986,52.36395,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZGX-09","vin":"WME4513901K821476","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Flevoparkweg 2 - 114, 1095 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.95438,52.36608,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZGX-74","vin":"WME4513901K820815","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Jan Olphert Vaillantlaan 26, 1086 ZA Amsterdam","city":"amsterdam","fuel":31,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.97868,52.36219,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-06","vin":"WME4513901K821642","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Heesterveld 88 - 137, 1102 SC Amsterdam-Zuidoost (Actieradius 100m)","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[4.95451,52.30602,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFB-35","vin":"WME4513901K821071","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"J.P. Kloosstraat, 1025 Amsterdam","city":"amsterdam","fuel":68,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.93182,52.40591,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-64","vin":"WME4513901K821407","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 24 - 38, 1102 BN Amsterdam-Zuidoost (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.94714,52.31316,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-17","vin":"WME4513901K822487","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Silodam 462, 1013 AW Amsterdam","city":"amsterdam","fuel":45,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.89062,52.39143,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"2-ZFX-80","vin":"WME4513901K821076","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"TT. Vasumweg 6, 1033 SC Amsterdam","city":"amsterdam","fuel":41,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.89837,52.40186,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFB-19","vin":"WME4513901K821981","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJsbaanpad 45, 1076 CV Amsterdam","city":"amsterdam","fuel":26,"exterior":"GOOD","charging":false,"coordinates":[4.84994,52.34069,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-07","vin":"WME4513901K822845","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hogevecht 1, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[4.95846,52.30997,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-36","vin":"WME4513901K822806","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"The Curve","city":"amsterdam","fuel":99,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.89147,52.40539,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZGX-12","vin":"WME4513901K822746","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 462, 1102 AC Amsterdam-Zuidoost","city":"amsterdam","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[4.95652,52.31707,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZLJ-13","vin":"WME4513901K823275","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Nassaukade 357, 1054 AA Amsterdam","city":"amsterdam","fuel":56,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.87746,52.36641,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFG-66","vin":"WME4513901K822428","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bert Haanstrakade 212, 1087 DK Amsterdam","city":"amsterdam","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[4.99617,52.35953,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-55","vin":"WME4513901K822585","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Cruquiuskade 179, 1018 Amsterdam","city":"amsterdam","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[4.93018,52.36745,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-31","vin":"WME4513901K821256","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sloterkade 159, 1059 EB Amsterdam","city":"amsterdam","fuel":95,"exterior":"UNACCEPTABLE","charging":true,"coordinates":[4.85191,52.35082,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFB-94","vin":"WME4513901K822156","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Omval 300, 1096 Amsterdam","city":"amsterdam","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[4.91582,52.34326,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-71","vin":"WME4513901K822382","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Borgerstraat 118, 1053 PX Amsterdam","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":true,"coordinates":[4.86474,52.36469,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDR-66","vin":"WME4513901K821105","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Karspeldreef 2, 1101 Amsterdam-Zuidoost","city":"amsterdam","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[4.94733,52.30493,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDR-30","vin":"WME4513901K823324","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Postjeskade 200, 1058 Amsterdam","city":"amsterdam","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[4.85004,52.36161,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"1-ZFZ-07","vin":"WME4513901K821188","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hugo de Vrieslaan 125 - 143, 1097 Amsterdam","city":"amsterdam","fuel":64,"exterior":"GOOD","charging":true,"coordinates":[4.92222,52.34603,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-13","vin":"WME4513901K821084","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rijnstraat 18, 1078 Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.90447,52.3481,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZGX-50","vin":"WME4513901K821194","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Koningin Wilhelminaplein 2, 1062 HK Amsterdam","city":"amsterdam","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[4.83985,52.35526,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-15","vin":"WME4513901K820751","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Kruislaan 182, 1098 SK Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.94161,52.3485,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZGX-05","vin":"WME4513901K823260","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Conradstraat 411, 1018 NM Amsterdam","city":"amsterdam","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[4.93072,52.3714,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZDR-20","vin":"WME4513901K822196","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Onderlangs 1, 1097 ZH Amsterdam","city":"amsterdam","fuel":53,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.95075,52.34057,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"5-ZFG-92","vin":"WME4513901K822296","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Veemkade 1088, 1019 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.93318,52.37505,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDR-68","vin":"WME4513901K820883","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Weesperzijde 1028, 1091 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.90733,52.35547,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFG-64","vin":"WME4513901K823183","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gooiseweg 11, 1097 Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.93806,52.33873,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDR-01","vin":"WME4513901K821631","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Daniël Goedkoopstraat 14, 1096 Amsterdam","city":"amsterdam","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[4.92155,52.33538,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-57","vin":"WME4513901K821758","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Vlaardingenlaan 25, 1062 Amsterdam","city":"amsterdam","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[4.83544,52.34712,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"4-ZFZ-01","vin":"WME4513901K822811","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Nachtwachtlaan 343, 1058 Amsterdam","city":"amsterdam","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[4.84362,52.36318,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-41","vin":"WME4513901K821882","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Marie Altelaarplein, 1018 Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.92119,52.37106,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-01","vin":"WME4513901K823025","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Amstelvlietstraat, 1096 GG Amsterdam","city":"amsterdam","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[4.91624,52.33962,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-47","vin":"WME4513901K821461","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Duarte Pachecostraat 8, 1086 Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.97591,52.3616,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-83","vin":"WME4513901K821283","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Willem de Zwijgerlaan 350, 1055 RD Amsterdam","city":"amsterdam","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[4.85775,52.38242,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZLJ-37","vin":"WME4513901K822521","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Ezelsbrug, 1018 LR Amsterdam","city":"amsterdam","fuel":49,"exterior":"GOOD","charging":false,"coordinates":[4.92294,52.36983,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-69","vin":"WME4513901K821039","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Rustenburgerstraat 280, 1073 Amsterdam","city":"amsterdam","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[4.89596,52.35207,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFZ-78","vin":"WME4513901K822328","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"IJburglaan 464, 1086 ZJ Amsterdam","city":"amsterdam","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[4.98168,52.36209,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-93","vin":"WME4513901K822726","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Cornelis Schuytstraat 74, 1071 JL Amsterdam","city":"amsterdam","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[4.87296,52.35268,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-67","vin":"WME4513901K822917","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Joan Muyskenweg 21, 1096 CJ Amsterdam","city":"amsterdam","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[4.91496,52.33307,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-18","vin":"WME4513901K821392","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Cas Oorthuyskade 130, 1087 BB Amsterdam","city":"amsterdam","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[4.98935,52.36025,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFB-80","vin":"WME4513901K820834","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Fokkemast 36 - 46, 1034 Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[4.9209,52.41159,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFB-78","vin":"WME4513901K823189","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Claus van Amsbergstraat 5, 1102 Amsterdam-Zuidoost","city":"amsterdam","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[4.95358,52.31681,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZFG-72","vin":"WME4513901K821771","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haparandasteiger 1 - 16, 1013 CZ Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[4.88313,52.39785,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-43","vin":"WME4513901K821968","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Barentszplein 1 - 7, 1013 Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.89075,52.38937,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-90","vin":"WME4513901K821622","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Brigantijnkade 49, 1086 VB Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[4.98706,52.363,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-43","vin":"WME4513901K823307","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tweede Sweelinckstraat 6, 1073 EH Amsterdam","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.89935,52.35392,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFG-72","vin":"WME4513901K822033","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Van Tuyll van Serooskerkenweg 8, 1076 Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.86374,52.34481,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZDR-04","vin":"WME4513901K822336","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Martin Cortesstraat 6, 1086 XS Amsterdam","city":"amsterdam","fuel":46,"exterior":"GOOD","charging":false,"coordinates":[4.97796,52.36226,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-96","vin":"WME4513901K820962","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Zeeburgerdijk 73, 1094 AC Amsterdam","city":"amsterdam","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[4.93559,52.36617,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-31","vin":"WME4513901K821849","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Palmgracht 22, 1015 HM Amsterdam","city":"amsterdam","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.88421,52.38226,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"3-ZFG-94","vin":"WME4513901K820738","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Brouwersgracht 163 - 175, 1015 GH Amsterdam (Actieradius 100m)","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[4.88503,52.38224,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-23","vin":"WME4513901K823053","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 394, 1102 AC Amsterdam-Zuidoost","city":"amsterdam","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[4.95586,52.31688,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFX-07","vin":"WME4513901K822648","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Weesperzijde 1100, 1097 Amsterdam","city":"amsterdam","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[4.91429,52.34627,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-55","vin":"WME4513901K820679","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Tilanusstraat 43, 1091 Amsterdam","city":"amsterdam","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[4.91227,52.35866,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-72","vin":"WME4513901K820839","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Cornelis van der Lindenstraat 31, 1071 Amsterdam","city":"amsterdam","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[4.8844,52.35058,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZFZ-09","vin":"WME4513901K820978","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Valentijnkade 104, 1095 Amsterdam","city":"amsterdam","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[4.94385,52.35853,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFG-03","vin":"WME4513901K821421","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gustav Mahlerlaan 210, 1082 MS Amsterdam","city":"amsterdam","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[4.87108,52.33669,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-65","vin":"WME4513901K822573","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Haarlerbergweg 13 - 47, 1101 CH Amsterdam-Zuidoost","city":"amsterdam","fuel":52,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.9513,52.30194,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"9-ZGX-38","vin":"WME4513901K822141","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Johannes Verhulststraat 94, 1071 NL Amsterdam","city":"amsterdam","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[4.87259,52.35461,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZFB-66","vin":"WME4513901K821220","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Oostelijke Handelskade 4, 1019 BW Amsterdam","city":"amsterdam","fuel":25,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.93043,52.37523,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZGX-04","vin":"WME4513901K823320","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Emmastraat 24, 1075 HV Amsterdam","city":"amsterdam","fuel":21,"exterior":"GOOD","charging":false,"coordinates":[4.86944,52.35358,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-60","vin":"WME4513901K822591","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Science Park 701, 1098 XH Amsterdam","city":"amsterdam","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[4.95481,52.35591,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"8-ZGX-22","vin":"WME4513901K822836","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Sean MacBridestraat 7, 1102 JW Amsterdam-Zuidoost","city":"amsterdam","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[4.95939,52.31907,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZDR-96","vin":"WME4513901K820848","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bijlmerdreef 344, 1102 AC Amsterdam-Zuidoost","city":"amsterdam","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[4.95543,52.31674,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-61","vin":"WME4513901K823228","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Diopter 89, 1025 MR Amsterdam","city":"amsterdam","fuel":42,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.92983,52.40913,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"6-ZFZ-07","vin":"WME4513901K821963","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Hestiastraat 21, 1076 Amsterdam","city":"amsterdam","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[4.85591,52.34643,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"4-ZFX-04","vin":"WME4513901K821946","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Borneostraat 3, 1094 Amsterdam","city":"amsterdam","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[4.93311,52.36574,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-51","vin":"WME4513901K823193","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Bos en Lommerweg 244","city":"amsterdam","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[4.84788,52.37839,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"6-ZGX-90","vin":"WME4513901K823071","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Gerrie Knetemannlaan 270, 1061 MC Amsterdam (Actieradius 300m)","city":"amsterdam","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[4.84139,52.37407,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZGX-56","vin":"WME4513901K823295","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Afrikanerplein 15, 1091 PP Amsterdam","city":"amsterdam","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[4.91751,52.35262,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"5-ZGX-72","vin":"WME4513901K822132","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Admiralengracht 150, 1057 GH Amsterdam","city":"amsterdam","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[4.85734,52.36979,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFV-67","vin":"WME4513901K821320","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Erik de Roodestraat 13, 1056 AK Amsterdam","city":"amsterdam","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[4.84424,52.37306,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"2-ZGX-43","vin":"WME4513901K822880","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Joan Muyskenweg 14, 1115 Amsterdam","city":"amsterdam","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[4.91353,52.33374,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7-ZFG-62","vin":"WME4513901K821387","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Postjesweg 43, 1057 Amsterdam","city":"amsterdam","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[4.85589,52.36429,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"3-ZFG-83","vin":"WME4513901K821237","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"netherlands","address":"Weesperzijde 1012, 1091 Amsterdam","city":"amsterdam","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[4.90641,52.35781,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7-ZGX-97","vin":"WME4513901K823252","time":"2015-10-04T22:02:49.121-0400"}

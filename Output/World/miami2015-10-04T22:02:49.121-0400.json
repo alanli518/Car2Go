@@ -1,0 +1,536 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pan American Dr 3563, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23522,25.72935,0],"name":"DRZJ29","engineType":"CE","vin":"WMEEJ3BA2EK764908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 15th St 135, 33136 Miami","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.19743,25.78934,0],"name":"CLSH17","engineType":"CE","vin":"WMEEJ3BA7EK730995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 4th Ave 46, 33130 Miami","city":"miami","fuel":63,"exterior":"GOOD","coordinates":[-80.20169,25.7735,0],"name":"BELV96","engineType":"CE","vin":"WMEEJ3BAXCK568034","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Deauville Beach Garage, 1st floor, 67 & Harding","city":"miami","fuel":9,"exterior":"UNACCEPTABLE","coordinates":[-80.12086,25.85055,0],"name":"BGDN55","engineType":"CE","vin":"WMEEJ3BA3CK577089","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collins Ave 8474, 33141 Miami Beach","city":"miami","fuel":36,"exterior":"GOOD","coordinates":[-80.12157,25.86972,0],"name":"BDNF69","engineType":"CE","vin":"WMEEJ3BA9CK576321","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alton Rd 2710, 33140 Miami Beach","city":"miami","fuel":15,"exterior":"GOOD","coordinates":[-80.13849,25.80451,0],"name":"BDNF46","engineType":"CE","vin":"WMEEJ3BA7CK577452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dr Lucia Lorenzo Rd, 33129 Miami","city":"miami","fuel":87,"exterior":"GOOD","coordinates":[-80.19088,25.75698,0],"name":"BDNF23","engineType":"CE","vin":"WMEEJ3BA0CK577681","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dr Lucia Lorenzo Rd, 33129 Miami","city":"miami","fuel":63,"exterior":"GOOD","coordinates":[-80.19198,25.75741,0],"name":"DRZJ63","engineType":"CE","vin":"WMEEJ3BA6EK748257","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P13, 10th St and Washington Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13325,25.78099,0],"name":"BGDK12","engineType":"CE","vin":"WMEEJ3BA2CK566388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vagabond Hotel-7301 Biscayne Blvd","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18349,25.84321,0],"name":"BKLJ80","engineType":"CE","vin":"WMEEJ3BA2CK565631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 5th Ave 1956, 33129 Miami","city":"miami","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-80.20484,25.76156,0],"name":"CDNW10","engineType":"CE","vin":"WMEEJ3BAXCK577719","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 29th St 446, 33127 Miami","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.20259,25.8037,0],"name":"BGDK21","engineType":"CE","vin":"WMEEJ3BA4CK576209","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 8th St 1147, 33130 Miami","city":"miami","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-80.21351,25.76596,0],"name":"CGNX31","engineType":"CE","vin":"WMEEJ3BA3CK575908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P2, Nikki Beach","city":"miami","fuel":66,"exterior":"GOOD","coordinates":[-80.13292,25.76936,0],"name":"CLSS22","engineType":"CE","vin":"WMEEJ3BAXEK731185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"FIU North- Student Parking","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.14126,25.91006,0],"name":"BKMB14","engineType":"CE","vin":"WMEEJ3BA8CK576388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harding Ave 6783, 33141 Miami Beach","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.12128,25.85212,0],"name":"BDNF40","engineType":"CE","vin":"WMEEJ3BA1CK577589","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olga Guillot Way, 33135 Miami","city":"miami","fuel":57,"exterior":"GOOD","coordinates":[-80.21466,25.76585,0],"name":"BDNF68","engineType":"CE","vin":"WMEEJ3BA4CK576047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alton Rd 424, 33139 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.14041,25.77365,0],"name":"BJPI46","engineType":"CE","vin":"WMEEJ3BA5CK576395","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 5th Ave 5222, 33127 Miami","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.20411,25.82343,0],"name":"BKMB12","engineType":"CE","vin":"WMEEJ3BA9CK576528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 24th Ave 2689, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23368,25.74227,0],"name":"BGDK11","engineType":"CE","vin":"WMEEJ3BA0CK564820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Historic Virginia Key Beach Park, Key Biscayne, FL","city":"miami","fuel":90,"exterior":"GOOD","coordinates":[-80.15809,25.73566,0],"name":"BDNF21","engineType":"CE","vin":"WMEEJ3BA7CK566404","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Bayshore Dr 2587, 33133 Miami","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.2334,25.73259,0],"name":"CLSS43","engineType":"CE","vin":"WMEEJ3BA0EK730594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 45th St 177, 33127 Miami","city":"miami","fuel":45,"exterior":"GOOD","coordinates":[-80.1992,25.81682,0],"name":"CLRV84","engineType":"CE","vin":"WMEEJ3BA1EK732869","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st Ter 691, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.20652,25.79727,0],"name":"DRZJ10","engineType":"CE","vin":"WMEEJ3BA5EK764319","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 11th Ave 780, 33130 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.2128,25.76611,0],"name":"BJPI50","engineType":"CE","vin":"WMEEJ3BA0CK576160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 11th St 115, 33130 Miami","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.1958,25.76344,0],"name":"065TAH","engineType":"CE","vin":"WMEEJ3BA3CK576895","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 26th St 3676, 33133 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.25371,25.74292,0],"name":"BKMB16","engineType":"CE","vin":"WMEEJ3BA2CK576533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olga Guillot Way, 33135 Miami","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.21469,25.76581,0],"name":"BDNF39","engineType":"CE","vin":"WMEEJ3BA1CK576958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Bayshore Dr 2596, 33133 Miami","city":"miami","fuel":57,"exterior":"GOOD","coordinates":[-80.23326,25.73224,0],"name":"BJPI59","engineType":"CE","vin":"WMEEJ3BA1CK576944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 85th St 643, 33138 Miami","city":"miami","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-80.1841,25.85366,0],"name":"BGDK13","engineType":"CE","vin":"WMEEJ3BA8CK576889","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 161st St, 33054 Opa-Locka","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.25602,25.9205,0],"name":"CLRV85","engineType":"CE","vin":"WMEEJ3BA1EK734878","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Flagler St 79, 33131 Miami","city":"miami","fuel":84,"exterior":"GOOD","coordinates":[-80.19212,25.7742,0],"name":"DRZJ08","engineType":"CE","vin":"WMEEJ3BA2EK766013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P16, 13th St and Collins Ave","city":"miami","fuel":84,"exterior":"GOOD","coordinates":[-80.13146,25.78394,0],"name":"BDNF24","engineType":"CE","vin":"WMEEJ3BA1CK565667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Coral Way 2448, 33145 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.23513,25.75036,0],"name":"BGDN93","engineType":"CE","vin":"WMEEJ3BA5CK576509","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st St 231, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.1994,25.79686,0],"name":"BGDK09","engineType":"CE","vin":"WMEEJ3BA2CK565824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 5th St 580, 33128 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.20424,25.77858,0],"name":"DRZJ44","engineType":"CE","vin":"WMEEJ3BA9EK762878","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 10th St 2183, 33135 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.2304,25.76356,0],"name":"BKMB07","engineType":"CE","vin":"WMEEJ3BA8CK576987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P16, 13th St and Collins Ave","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.13146,25.78394,0],"name":"BKMB43","engineType":"CE","vin":"WMEEJ3BA6CK576373","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 87th St 825, 33138 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.18047,25.85534,0],"name":"BKMB17","engineType":"CE","vin":"WMEEJ3BA6CK576504","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 8th St 23, 33136 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.19431,25.78184,0],"name":"365TAK","engineType":"CE","vin":"WMEEJ3BA1CK566396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Miami Ave 2067, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.1948,25.79644,0],"name":"BGDN88","engineType":"CE","vin":"WMEEJ3BA2CK576404","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 26th St 158, 33137 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.19175,25.80166,0],"name":"CLRV92","engineType":"CE","vin":"WMEEJ3BA4EK735474","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 22nd Ave 2998, 33133 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.22972,25.738,0],"name":"BJPI47","engineType":"CE","vin":"WMEEJ3BA0CK576174","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"71st St 1636, 33141 Miami Beach","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.13639,25.85186,0],"name":"CLSS46","engineType":"CE","vin":"WMEEJ3BA7EK736134","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 1st St 747, 33128 Miami","city":"miami","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-80.20684,25.7747,0],"name":"BDNF56","engineType":"CE","vin":"WMEEJ3BA7CK577175","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 13th St 129, 33131 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19119,25.76123,0],"name":"DRZJ64","engineType":"CE","vin":"WMEEJ3BA7EK764385","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kagoshima Way, 33130 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.195,25.75985,0],"name":"341YLN","engineType":"CE","vin":"WMEEJ3BA9CK576108","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Miami IRONSIDE, 7580 NE 4th Ct","city":"miami","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-80.18812,25.84619,0],"name":"BKMB19","engineType":"CE","vin":"WMEEJ3BA5CK576090","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P12, 9th St and Washington Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13352,25.77968,0],"name":"029TAJ","engineType":"CE","vin":"WMEEJ3BA7CK567455","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 13th St 2191, 33145 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23033,25.7604,0],"name":"EIMB74","engineType":"CE","vin":"WMEEJ3BA7CK567181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th St 545, 33137 Miami","city":"miami","fuel":66,"exterior":"GOOD","coordinates":[-80.1863,25.80539,0],"name":"BDNF45","engineType":"CE","vin":"WMEEJ3BA0CK576305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 74th St 625, 33138 Miami","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.18377,25.84334,0],"name":"BJPI42","engineType":"CE","vin":"WMEEJ3BA0CK576420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Royal Carribean-1050 Carribean Way","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.1779,25.77512,0],"name":"BJPI35","engineType":"CE","vin":"WMEEJ3BA5CK576624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 2nd Ct 1731, 33132 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.18982,25.79269,0],"name":"BDNF80","engineType":"CE","vin":"WMEEJ3BAXCK564792","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"72nd St 665, 33141 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12474,25.85718,0],"name":"781TAH","engineType":"CE","vin":"WMEEJ3BA1CK577219","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Deauville Beach Garage, 1st floor, 67 & Harding","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12086,25.85055,0],"name":"BJPI64","engineType":"CE","vin":"WMEEJ3BA4CK576873","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 12th Ave 145, 33128 Miami","city":"miami","fuel":27,"exterior":"GOOD","coordinates":[-80.21461,25.77493,0],"name":"CLSS44","engineType":"CE","vin":"WMEEJ3BA6EK730101","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P20, Lincoln Ln S and Jefferson Ave","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.13812,25.78984,0],"name":"BKLJ95","engineType":"CE","vin":"WMEEJ3BA6CK577250","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Miami Ave 3013, 33127 Miami","city":"miami","fuel":75,"exterior":"GOOD","coordinates":[-80.19509,25.80515,0],"name":"874TAH","engineType":"CE","vin":"WMEEJ3BA2CK577441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Island Ave, 33139 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.14856,25.79159,0],"name":"BDNF03","engineType":"CE","vin":"WMEEJ3BA2CK565516","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 30th Rd 314, 33129 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21188,25.75324,0],"name":"BDNF13","engineType":"CE","vin":"WMEEJ3BA8CK566735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Virginia St 3310, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.24152,25.72977,0],"name":"BJPI49","engineType":"CE","vin":"WMEEJ3BA3CK576993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 893, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21531,25.76516,0],"name":"BKMB21","engineType":"CE","vin":"WMEEJ3BA3CK576055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mpa Lot Watson Island, 1050 MacArthur Causeway","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.17308,25.78506,0],"name":"BDNF07","engineType":"CE","vin":"WMEEJ3BA8CK567562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Unity Blvd, 33145 Miami","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.23823,25.7474,0],"name":"BKMB01","engineType":"CE","vin":"WMEEJ3BA0CK576367","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dr Lucia Lorenzo Rd, 33129 Miami","city":"miami","fuel":90,"exterior":"GOOD","coordinates":[-80.19183,25.75747,0],"name":"BJPI32","engineType":"CE","vin":"WMEEJ3BA0CK576224","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 22nd St 539, 33127 Miami","city":"miami","fuel":36,"exterior":"GOOD","coordinates":[-80.20375,25.79815,0],"name":"BELV94","engineType":"CE","vin":"WMEEJ3BA6CK576969","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 36th Ct 2990, 33133 Miami","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.2531,25.73529,0],"name":"BKMB22","engineType":"CE","vin":"WMEEJ3BA2CK576290","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th St 263, 33139 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13232,25.78076,0],"name":"BDNF27","engineType":"CE","vin":"WMEEJ3BA3CK566111","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"11th St 537, 33139 Miami Beach","city":"miami","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-80.13368,25.78191,0],"name":"BJPI68","engineType":"CE","vin":"WMEEJ3BA4CK576002","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Galleon St 1840, 33141 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.14779,25.84539,0],"name":"CLSS05","engineType":"CE","vin":"WMEEJ3BA2EK734467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 6th Ave 687, 33136 Miami","city":"miami","fuel":18,"exterior":"GOOD","coordinates":[-80.2046,25.78046,0],"name":"BDNF19","engineType":"CE","vin":"WMEEJ3BA7CK575944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 74th St 631, 33138 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.18367,25.84331,0],"name":"CLRR95","engineType":"CE","vin":"WMEEJ3BA7EK731032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P2, Nikki Beach","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.13292,25.76936,0],"name":"BJPI67","engineType":"CE","vin":"WMEEJ3BA1CK576331","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 70th St 575, 33138 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18481,25.83969,0],"name":"BGDK07","engineType":"CE","vin":"WMEEJ3BA8CK565794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 877, 33135 Miami","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.21536,25.76529,0],"name":"CLSS26","engineType":"CE","vin":"WMEEJ3BA3EK730220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 32nd St 277, 33127 Miami","city":"miami","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-80.20081,25.8066,0],"name":"BJPI61","engineType":"CE","vin":"WMEEJ3BA6CK577040","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 21st St 230, 33127 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.19938,25.79678,0],"name":"BGDN94","engineType":"CE","vin":"WMEEJ3BA5CK577224","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 850, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21556,25.76547,0],"name":"CLSS53","engineType":"CE","vin":"WMEEJ3BA4EK729982","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th St 337, 33130 Miami","city":"miami","fuel":87,"exterior":"GOOD","coordinates":[-80.19839,25.76243,0],"name":"BDNF16","engineType":"CE","vin":"WMEEJ3BA9CK566839","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 23rd Ave 1876, 33145 Miami","city":"miami","fuel":57,"exterior":"GOOD","coordinates":[-80.23228,25.7545,0],"name":"BGDN96","engineType":"CE","vin":"WMEEJ3BA2CK566309","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 1st Ct 2218, 33127 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.19782,25.79827,0],"name":"DRZJ21","engineType":"CE","vin":"WMEEJ3BA9EK762752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 2nd St 129, 33130 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.19665,25.77248,0],"name":"BJPI37","engineType":"CE","vin":"WMEEJ3BAXCK576666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 74th St 623, 33138 Miami","city":"miami","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-80.18382,25.84331,0],"name":"BKLJ90","engineType":"CE","vin":"WMEEJ3BA9CK576027","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 2nd St 713, 33130 Miami","city":"miami","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-80.20614,25.77185,0],"name":"BDNF52","engineType":"CE","vin":"WMEEJ3BA8CK576259","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tiger Tail Ave 2823, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23884,25.73054,0],"name":"BGDN53","engineType":"CE","vin":"WMEEJ3BA0CK576689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 27th Rd 853, 33129 Miami","city":"miami","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-80.21281,25.75938,0],"name":"BKMB37","engineType":"CE","vin":"WMEEJ3BAXCK576926","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Miami Ave 3113, 33127 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.19511,25.80623,0],"name":"BGDN95","engineType":"CE","vin":"WMEEJ3BA8CK577525","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olga Guillot Way, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21463,25.76578,0],"name":"BDNF78","engineType":"CE","vin":"WMEEJ3BAXCK566784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 13th St 1213, 33145 Miami","city":"miami","fuel":36,"exterior":"GOOD","coordinates":[-80.2145,25.76084,0],"name":"326YLN","engineType":"CE","vin":"WMEEJ3BA4CK576727","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 87th St 845, 33138 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.18015,25.85531,0],"name":"BGDK10","engineType":"CE","vin":"WMEEJ3BAXCK565022","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collins Ave 8637, 33141 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12139,25.87132,0],"name":"BLQR01","engineType":"CE","vin":"WMEEJ3BA2CK577066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd St 146, 33127 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.1979,25.7991,0],"name":"BKLJ82","engineType":"CE","vin":"WMEEJ3BA0CK566101","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 25th Ter 3434, 33133 Miami","city":"miami","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-80.24973,25.74383,0],"name":"BGDN50","engineType":"CE","vin":"WMEEJ3BA0CK577017","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dadeland Station, 8350 S Dixie Hwy","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.30444,25.69349,0],"name":"CLSH27","engineType":"CE","vin":"WMEEJ3BA5EK730882","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 6th St 19, 33130 Miami","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.1939,25.76834,0],"name":"CLSH19","engineType":"CE","vin":"WMEEJ3BA6EK731085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P92, 72nd St and Collins Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12162,25.85757,0],"name":"118TAH","engineType":"CE","vin":"WMEEJ3BA0CK568012","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"JWU Arch Creek Lot-1660 NE 127th St.","city":"miami","fuel":63,"exterior":"GOOD","coordinates":[-80.16521,25.89262,0],"name":"BGDN51","engineType":"CE","vin":"WMEEJ3BA4CK567574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 61st St 671, 33137 Miami","city":"miami","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[-80.18249,25.83274,0],"name":"CXBB32","engineType":"CE","vin":"WMEEJ3BA0CK576546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alton Rd 379, 33139 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13983,25.77332,0],"name":"BKMB52","engineType":"CE","vin":"WMEEJ3BA3CK576797","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kagoshima Way, 33130 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.195,25.76023,0],"name":"CLSS29","engineType":"CE","vin":"WMEEJ3BA4EK729948","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 5th Ave 2466, 33127 Miami","city":"miami","fuel":69,"exterior":"GOOD","coordinates":[-80.20324,25.80032,0],"name":"DRZJ70","engineType":"CE","vin":"WMEEJ3BA8EK762225","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mpa Lot Watson Island, 1050 MacArthur Causeway","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.17308,25.78506,0],"name":"DRZJ55","engineType":"CE","vin":"WMEEJ3BAXEK763165","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 22nd Ter 2989, 33145 Miami","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.24181,25.7494,0],"name":"BDNF57","engineType":"CE","vin":"WMEEJ3BA1CK576216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 826, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21545,25.76569,0],"name":"DRZJ53","engineType":"CE","vin":"WMEEJ3BA5EK761999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 867, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21534,25.76536,0],"name":"DRZJ58","engineType":"CE","vin":"WMEEJ3BA7EK769487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 8th Ave 762, 33130 Miami","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.20748,25.76627,0],"name":"DRZJ06","engineType":"CE","vin":"WMEEJ3BA1EK762129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P10, 15th St and Michigan Ave","city":"miami","fuel":21,"exterior":"UNACCEPTABLE","coordinates":[-80.13862,25.78678,0],"name":"DRZJ67","engineType":"CE","vin":"WMEEJ3BA9EK764839","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 22nd St 337, 33137 Miami","city":"miami","fuel":45,"exterior":"GOOD","coordinates":[-80.18872,25.79813,0],"name":"DRZJ01","engineType":"CE","vin":"WMEEJ3BA8EK764041","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 20th Ter 382, 33137 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.1874,25.79617,0],"name":"DRZJ03","engineType":"CE","vin":"WMEEJ3BA9EK764033","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Coral Way 2787, 33145 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23936,25.75041,0],"name":"BKMB45","engineType":"CE","vin":"WMEEJ3BA9CK577632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 25th Ter 2219, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23026,25.745,0],"name":"DRZJ47","engineType":"CE","vin":"WMEEJ3BA8EK772544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bird Rd, 33133 Miami","city":"miami","fuel":57,"exterior":"GOOD","coordinates":[-80.23885,25.73546,0],"name":"DRZJ05","engineType":"CE","vin":"WMEEJ3BA7EK762362","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 28th St 29, 33127 Miami","city":"miami","fuel":12,"exterior":"GOOD","coordinates":[-80.19564,25.80306,0],"name":"DRZJ15","engineType":"CE","vin":"WMEEJ3BA4EK753070","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Rd 1773, 33139 Miami Beach","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.14342,25.79318,0],"name":"BJPI25","engineType":"CE","vin":"WMEEJ3BA7CK577032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 22nd Ter 2185, 33145 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.2298,25.74982,0],"name":"DRZJ59","engineType":"CE","vin":"WMEEJ3BA4EK761766","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 11th Ave 654, 33136 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.21315,25.7799,0],"name":"BJPI55","engineType":"CE","vin":"WMEEJ3BA8CK575984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 17th St 3111, 33145 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.24482,25.75584,0],"name":"BRXR59","engineType":"CE","vin":"WMEEJ3BA1CK576412","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 69th St 875, 33138 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.17978,25.83935,0],"name":"BDNF41","engineType":"CE","vin":"WMEEJ3BA7CK576950","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P2, Nikki Beach","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.13292,25.76936,0],"name":"BJPI44","engineType":"CE","vin":"WMEEJ3BA6CK576065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Byron Ave 7039, 33141 Miami Beach","city":"miami","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-80.123,25.85576,0],"name":"BDNF01","engineType":"CE","vin":"WMEEJ3BA3CK576539","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 11th St 19, 33136 Miami","city":"miami","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[-80.19431,25.78471,0],"name":"CSSQ74","engineType":"CE","vin":"WMEEJ3BA3CK567419","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brickell Bay Dr 928, 33131 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18985,25.7646,0],"name":"BKMB20","engineType":"CE","vin":"WMEEJ3BA8CK576021","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 19th Ter 315, 33136 Miami","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.20052,25.79415,0],"name":"CLSS47","engineType":"CE","vin":"WMEEJ3BA5EK730204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 30th St 356, 33137 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.18889,25.80524,0],"name":"BKMB04","engineType":"CE","vin":"WMEEJ3BA0CK576594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1st St 767, 33139 Miami Beach","city":"miami","fuel":87,"exterior":"GOOD","coordinates":[-80.13567,25.77004,0],"name":"BGDK06","engineType":"CE","vin":"WMEEJ3BA5CK576865","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 3rd Ave 575, 33130 Miami","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.19913,25.76842,0],"name":"DRZJ66","engineType":"CE","vin":"WMEEJ3BA6EK761865","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"I-95, 33129 Brickell Hammock","city":"miami","fuel":27,"exterior":"GOOD","coordinates":[-80.19909,25.77196,0],"name":"BDNF76","engineType":"CE","vin":"WMEEJ3BA5CK567115","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 4th Ave 1770, 33132 Miami","city":"miami","fuel":93,"exterior":"GOOD","coordinates":[-80.18821,25.79293,0],"name":"CLRV93","engineType":"CE","vin":"WMEEJ3BA5EK735497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 12th Ave 232, 33128 Miami","city":"miami","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-80.2147,25.77574,0],"name":"BGDK01","engineType":"CE","vin":"WMEEJ3BA1CK576765","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 9th St, 33136 Miami","city":"miami","fuel":63,"exterior":"GOOD","coordinates":[-80.19465,25.78275,0],"name":"BKMB06","engineType":"CE","vin":"WMEEJ3BA3CK577058","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McDonald Ave 3386, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.24557,25.72823,0],"name":"BKMB15","engineType":"CE","vin":"WMEEJ3BA7CK576186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Royal Carribean-1050 Carribean Way","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.1779,25.77512,0],"name":"BKMB50","engineType":"CE","vin":"WMEEJ3BA6CK576650","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 27th Ln 2935, 33133 Miami","city":"miami","fuel":36,"exterior":"GOOD","coordinates":[-80.24101,25.73992,0],"name":"CLSS40","engineType":"CE","vin":"WMEEJ3BAXEK731333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"JWU Arch Creek Lot-1660 NE 127th St.","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.16521,25.89262,0],"name":"BKLJ81","engineType":"CE","vin":"WMEEJ3BA1CK566057","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 3rd St 259, 33132 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.18915,25.77717,0],"name":"CLRV89","engineType":"CE","vin":"WMEEJ3BA9EK735440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 30th Rd 315, 33129 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.2118,25.75334,0],"name":"BKLJ92","engineType":"CE","vin":"WMEEJ3BA8CK577430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collins Ave 8344, 33141 Miami Beach","city":"miami","fuel":75,"exterior":"GOOD","coordinates":[-80.12129,25.8685,0],"name":"BGDK04","engineType":"CE","vin":"WMEEJ3BA9CK577243","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P2, Nikki Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13292,25.76936,0],"name":"CLRV91","engineType":"CE","vin":"WMEEJ3BA1EK732905","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 876, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21537,25.7653,0],"name":"BGDK17","engineType":"CE","vin":"WMEEJ3BA5CK576168","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 8th St 947, 33130 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.21005,25.76603,0],"name":"BDNF55","engineType":"CE","vin":"WMEEJ3BA1CK575857","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Parking - Top Floor - 500 Collins Avenue","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.13321,25.77506,0],"name":"BKMB40","engineType":"CE","vin":"WMEEJ3BA5CK576137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th St 643, 33139 Miami Beach","city":"miami","fuel":66,"exterior":"GOOD","coordinates":[-80.13469,25.78914,0],"name":"362YLN","engineType":"CE","vin":"WMEEJ3BA9CK576450","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Day Ave 3167, 33133 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.24489,25.73169,0],"name":"BKLJ84","engineType":"CE","vin":"WMEEJ3BA6CK576129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Rd 1970, 33139 Miami Beach","city":"miami","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-80.14383,25.79528,0],"name":"BKLJ88","engineType":"CE","vin":"WMEEJ3BA6CK576194","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Normandy Dr 1632, 33141 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.1368,25.85271,0],"name":"EILA37","engineType":"CE","vin":"WMEEJ3BA1CK576619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 10th St 669, 33136 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.20617,25.78346,0],"name":"BDNF71","engineType":"CE","vin":"WMEEJ3BA0CK576613","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 26th Ter 3691, 33133 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.25405,25.74209,0],"name":"BGDN52","engineType":"CE","vin":"WMEEJ3BA9CK576013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Franklin Ave 3464, 33133 Miami","city":"miami","fuel":87,"exterior":"GOOD","coordinates":[-80.24904,25.72483,0],"name":"BKLJ94","engineType":"CE","vin":"WMEEJ3BA3CK576931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 5th Ave 2295, 33127 Miami","city":"miami","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-80.20298,25.7992,0],"name":"DRZJ02","engineType":"CE","vin":"WMEEJ3BAXEK763084","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 24th Ave 2160, 33145 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23422,25.75109,0],"name":"CLRV81","engineType":"CE","vin":"WMEEJ3BA0EK731065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 38th St 165, 33137 Miami","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.19195,25.81194,0],"name":"CLSH16","engineType":"CE","vin":"WMEEJ3BAXEK731266","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ave 892, 33130 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21445,25.76495,0],"name":"CLRV80","engineType":"CE","vin":"WMEEJ3BA8EK733193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 8th Ave 1954, 33136 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.20903,25.79372,0],"name":"BELV95","engineType":"CE","vin":"WMEEJ3BA4CK576694","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 59th St 408, 33137 Miami","city":"miami","fuel":90,"exterior":"GOOD","coordinates":[-80.18752,25.82951,0],"name":"BKMB39","engineType":"CE","vin":"WMEEJ3BA4CK577148","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"10th St 136, 33139 Miami Beach","city":"miami","fuel":45,"exterior":"GOOD","coordinates":[-80.13101,25.78044,0],"name":"BDNF18","engineType":"CE","vin":"WMEEJ3BA0CK577101","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 11th St 182, 33132 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19091,25.78479,0],"name":"BDNF49","engineType":"CE","vin":"WMEEJ3BA1CK577687","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Franklin Ave 3565, 33133 Miami","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.25049,25.72486,0],"name":"CLSS32","engineType":"CE","vin":"WMEEJ3BAXEK730876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kagoshima Way, 33130 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19517,25.76134,0],"name":"BJPI26","engineType":"CE","vin":"WMEEJ3BA9CK577095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 6th St 933, 33136 Miami","city":"miami","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-80.21075,25.77939,0],"name":"BJPI30","engineType":"CE","vin":"WMEEJ3BA3CK576153","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd St 133, 33127 Miami","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.19777,25.79913,0],"name":"CLSH28","engineType":"CE","vin":"WMEEJ3BA8EK734747","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 11th St 164, 33130 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19631,25.76338,0],"name":"DRZJ14","engineType":"CE","vin":"WMEEJ3BA3EK764447","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Indiana St 3015, 33133 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.24672,25.73507,0],"name":"EIKY28","engineType":"CE","vin":"WMEEJ3BA1CK576202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brickell Bay Dr 937, 33131 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.1894,25.76418,0],"name":"CLRV87","engineType":"CE","vin":"WMEEJ3BA2EK730970","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 3rd St 219, 33132 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.18991,25.77713,0],"name":"327YLN","engineType":"CE","vin":"WMEEJ3BA6CK566913","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Treasure Dr 7508, 33141 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.14628,25.84501,0],"name":"DRZJ51","engineType":"CE","vin":"WMEEJ3BA7EK764726","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collins Ave 1261, 33139 Miami Beach","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.13102,25.78358,0],"name":"BJPI38","engineType":"CE","vin":"WMEEJ3BA5CK577143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arthur Godfrey Rd 762, 33140 Miami Beach","city":"miami","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-80.13212,25.81381,0],"name":"BRXN61","engineType":"CE","vin":"WMEEJ3BA5CK576722","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 25th St 639, 33137 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18658,25.80109,0],"name":"BKMB09","engineType":"CE","vin":"WMEEJ3BAXCK577400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 28th St 57, 33127 Miami","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.19624,25.803,0],"name":"CLRV83","engineType":"CE","vin":"WMEEJ3BA0EK730918","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd St 421, 33127 Miami","city":"miami","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-80.20194,25.79945,0],"name":"CSSJ32","engineType":"CE","vin":"WMEEJ3BAXCK577137","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 3rd Ave 2532, 33127 Miami","city":"miami","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-80.20105,25.8009,0],"name":"CLSS45","engineType":"CE","vin":"WMEEJ3BA2EK730256","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SE 25th Rd 105, 33129 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.20282,25.7509,0],"name":"BKMB08","engineType":"CE","vin":"WMEEJ3BAXCK577185","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 29th St 440, 33127 Miami","city":"miami","fuel":27,"exterior":"GOOD","coordinates":[-80.20255,25.80369,0],"name":"CLRV88","engineType":"CE","vin":"WMEEJ3BA8EK736031","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"13th St 225, 33139 Miami Beach","city":"miami","fuel":30,"exterior":"GOOD","coordinates":[-80.13125,25.78411,0],"name":"BKMB38","engineType":"CE","vin":"WMEEJ3BA5CK577160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 6th Pl 2194, 33127 Miami","city":"miami","fuel":75,"exterior":"GOOD","coordinates":[-80.20621,25.79743,0],"name":"BJPI65","engineType":"CE","vin":"WMEEJ3BA5CK576882","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"JWU Arch Creek Lot-1660 NE 127th St.","city":"miami","fuel":21,"exterior":"GOOD","coordinates":[-80.16521,25.89262,0],"name":"DRZJ62","engineType":"CE","vin":"WMEEJ3BA4EK768426","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 9th Ave 2678, 33129 Miami","city":"miami","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[-80.21286,25.75972,0],"name":"EILT05","engineType":"CE","vin":"WMEEJ3BA2CK576712","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 22nd St 523, 33127 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.20345,25.79814,0],"name":"CLSH18","engineType":"CE","vin":"WMEEJ3BA1EK731026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Abel Holtz Blvd, 33132 Miami","city":"miami","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-80.19037,25.77834,0],"name":"CLSS36","engineType":"CE","vin":"WMEEJ3BA7EK730267","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Island Ave, 33139 Miami Beach","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.14882,25.79158,0],"name":"BGDN85","engineType":"CE","vin":"WMEEJ3BA0CK576661","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Day Ave 3695, 33133 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.25355,25.73146,0],"name":"BDNF28","engineType":"CE","vin":"WMEEJ3BA3CK566724","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Olga Guillot Way, 33135 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.2148,25.76582,0],"name":"CYKP02","engineType":"CE","vin":"WMEEJ3BA0CK576272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harding Ave 7346, 33141 Miami Beach","city":"miami","fuel":96,"exterior":"GOOD","coordinates":[-80.12213,25.85894,0],"name":"BGDK05","engineType":"CE","vin":"WMEEJ3BA2CK576354","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 30th Rd 319, 33129 Miami","city":"miami","fuel":51,"exterior":"GOOD","coordinates":[-80.21183,25.75337,0],"name":"BJPI24","engineType":"CE","vin":"WMEEJ3BA8CK576939","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 6th St 1049, 33130 Miami","city":"miami","fuel":18,"exterior":"GOOD","coordinates":[-80.212,25.76791,0],"name":"BELV98","engineType":"CE","vin":"WMEEJ3BA7CK576673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sr-5, 33131 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19272,25.75878,0],"name":"BGDK19","engineType":"CE","vin":"WMEEJ3BA2CK576919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Sheridan Ave 2858, 33140 Miami Beach","city":"miami","fuel":21,"exterior":"GOOD","coordinates":[-80.12895,25.80522,0],"name":"DRZJ18","engineType":"CE","vin":"WMEEJ3BA3EK767333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"23rd St 356, 33139 Miami Beach","city":"miami","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-80.12969,25.79882,0],"name":"DRZD13","engineType":"CE","vin":"WMEEJ3BA4CK566831","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 78th St 711, 33138 Miami","city":"miami","fuel":93,"exterior":"GOOD","coordinates":[-80.18356,25.84723,0],"name":"CLSS23","engineType":"CE","vin":"WMEEJ3BA9EK731016","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 1st Ct 1515, 33136 Miami","city":"miami","fuel":93,"exterior":"GOOD","coordinates":[-80.19745,25.78947,0],"name":"CLRV90","engineType":"CE","vin":"WMEEJ3BAXEK733082","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 35th St 571, 33137 Miami","city":"miami","fuel":87,"exterior":"GOOD","coordinates":[-80.18583,25.8096,0],"name":"DRZJ31","engineType":"CE","vin":"WMEEJ3BA2EK767145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 57th St 446, 33137 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18535,25.82836,0],"name":"BGDK02","engineType":"CE","vin":"WMEEJ3BAXCK576103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 33rd Ave 2180, 33145 Miami","city":"miami","fuel":63,"exterior":"GOOD","coordinates":[-80.24861,25.75035,0],"name":"BGDN49","engineType":"CE","vin":"WMEEJ3BAXCK576778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 10th St 2677, 33135 Miami","city":"miami","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-80.23851,25.76367,0],"name":"BJPI39","engineType":"CE","vin":"WMEEJ3BAXCK576702","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"FIU West-Student Housing Parking","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.37701,25.75443,0],"name":"BKMB02","engineType":"CE","vin":"WMEEJ3BA6CK576552","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P10, 15th St and Michigan Ave","city":"miami","fuel":69,"exterior":"GOOD","coordinates":[-80.13862,25.78678,0],"name":"BJPI52","engineType":"CE","vin":"WMEEJ3BA4CK577053","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 872, 33135 Miami","city":"miami","fuel":75,"exterior":"GOOD","coordinates":[-80.21546,25.76532,0],"name":"BDNF20","engineType":"CE","vin":"WMEEJ3BA7CK576379","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bay Rd 1846, 33139 Miami Beach","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.14374,25.79403,0],"name":"BKLJ83","engineType":"CE","vin":"WMEEJ3BA7CK566368","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pine Tree Dr 2462, 33140 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12956,25.8023,0],"name":"BDNF10","engineType":"CE","vin":"WMEEJ3BA7CK567469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 2nd St 263, 33132 Miami","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.18951,25.77634,0],"name":"BKMB05","engineType":"CE","vin":"WMEEJ3BA4CK577117","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bird Rd, 33133 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.23925,25.73545,0],"name":"BKMB29","engineType":"CE","vin":"WMEEJ3BA8CK576746","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brickell Bay Dr 1212, 33131 Miami","city":"miami","fuel":18,"exterior":"GOOD","coordinates":[-80.18981,25.76156,0],"name":"CLSH20","engineType":"CE","vin":"WMEEJ3BA2EK730399","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 2nd Ave 2214, 33127 Miami","city":"miami","fuel":24,"exterior":"GOOD","coordinates":[-80.19901,25.7982,0],"name":"BKLJ99","engineType":"CE","vin":"WMEEJ3BA9CK576965","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 887, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21533,25.76519,0],"name":"CLSS41","engineType":"CE","vin":"WMEEJ3BA9EK731310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 49th St 255, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.20091,25.82053,0],"name":"BELV99","engineType":"CE","vin":"WMEEJ3BA0CK577180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P12, 9th St and Washington Ave","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.13352,25.77968,0],"name":"BRXR15","engineType":"CE","vin":"WMEEJ3BA6CK564949","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Coral Way 2264, 33145 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.23143,25.75048,0],"name":"CLRV82","engineType":"CE","vin":"WMEEJ3BA0EK734693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 1st Ave 3128, 33127 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.19733,25.806,0],"name":"BJPI40","engineType":"CE","vin":"WMEEJ3BA6CK575899","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 78th St 663, 33138 Miami","city":"miami","fuel":30,"exterior":"GOOD","coordinates":[-80.18399,25.84722,0],"name":"BDNF22","engineType":"CE","vin":"WMEEJ3BA6CK577457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"JWU Arch Creek Lot-1660 NE 127th St.","city":"miami","fuel":36,"exterior":"GOOD","coordinates":[-80.16521,25.89262,0],"name":"CLSH22","engineType":"CE","vin":"WMEEJ3BA2EK731343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 29th Ave 2716, 33133 Miami","city":"miami","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-80.24043,25.74166,0],"name":"BKLJ87","engineType":"CE","vin":"WMEEJ3BA3CK576735","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P13, 10th St and Washington Ave","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.13325,25.78099,0],"name":"BDNF05","engineType":"CE","vin":"WMEEJ3BA2CK564902","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 26th Ter 223, 33137 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.1906,25.80223,0],"name":"BKMB13","engineType":"CE","vin":"WMEEJ3BA9CK576755","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 6th Pl 2192, 33127 Miami","city":"miami","fuel":45,"exterior":"GOOD","coordinates":[-80.20624,25.79736,0],"name":"CLRV94","engineType":"CE","vin":"WMEEJ3BA3EK733957","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tiger Tail Ave 2851, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23904,25.73028,0],"name":"BJPI72","engineType":"CE","vin":"WMEEJ3BA3CK576489","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 1st Ave 4020, 33137 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19348,25.81358,0],"name":"CLSS49","engineType":"CE","vin":"WMEEJ3BA2EK734663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P12, 9th St and Washington Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13352,25.77968,0],"name":"BLQR02","engineType":"CE","vin":"WMEEJ3BA0CK577048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 10th St 671, 33136 Miami","city":"miami","fuel":78,"exterior":"GOOD","coordinates":[-80.20621,25.78347,0],"name":"BKLJ86","engineType":"CE","vin":"WMEEJ3BA9CK575959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"I-195\/SR-112, 33137 Buena Vista","city":"miami","fuel":9,"exterior":"GOOD","coordinates":[-80.19329,25.81148,0],"name":"BJPI66","engineType":"CE","vin":"WMEEJ3BA5CK576039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 14th St 15, 33130 Miami","city":"miami","fuel":69,"exterior":"GOOD","coordinates":[-80.19374,25.7607,0],"name":"BJPI63","engineType":"CE","vin":"WMEEJ3BA6CK576096","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 2nd Ave 2555, 33129 Miami","city":"miami","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-80.20665,25.75442,0],"name":"BGDN54","engineType":"CE","vin":"WMEEJ3BA8CK567545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midtown Blvd 3417, 33137 Miami","city":"miami","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-80.19261,25.80879,0],"name":"EILI02","engineType":"CE","vin":"WMEEJ3BAXCK576232","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd St 135, 33127 Miami","city":"miami","fuel":75,"exterior":"GOOD","coordinates":[-80.19781,25.79921,0],"name":"BKMB10","engineType":"CE","vin":"WMEEJ3BA9CK576562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 24th Ter 2215, 33145 Miami","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.23028,25.74658,0],"name":"BDNF64","engineType":"CE","vin":"WMEEJ3BA1CK577155","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Dr Lucia Lorenzo Rd, 33129 Miami","city":"miami","fuel":57,"exterior":"GOOD","coordinates":[-80.1913,25.75697,0],"name":"BJPI48","engineType":"CE","vin":"WMEEJ3BA3CK576802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"2nd St 965, 33139 Miami Beach","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.13789,25.77121,0],"name":"BGDN92","engineType":"CE","vin":"WMEEJ3BA8CK576360","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 25th Ave 1044, 33135 Miami","city":"miami","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-80.2367,25.76346,0],"name":"BJPI27","engineType":"CE","vin":"WMEEJ3BA2CK565595","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 22nd St 545, 33127 Miami","city":"miami","fuel":39,"exterior":"GOOD","coordinates":[-80.20389,25.79807,0],"name":"CLSS48","engineType":"CE","vin":"WMEEJ3BA5EK729411","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"72nd St 655, 33141 Miami Beach","city":"miami","fuel":42,"exterior":"GOOD","coordinates":[-80.12465,25.85729,0],"name":"BJPI29","engineType":"CE","vin":"WMEEJ3BA8CK576634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 1st Ave 4236, 33137 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19352,25.81514,0],"name":"BJPI57","engineType":"CE","vin":"WMEEJ3BA9CK576903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 6th St 629, 33130 Miami","city":"miami","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-80.20479,25.76804,0],"name":"BELV90","engineType":"CE","vin":"WMEEJ3BA8CK576858","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 836, 33135 Miami","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.21544,25.76559,0],"name":"BGDK20","engineType":"CE","vin":"WMEEJ3BA2CK576760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway, 33129 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.1976,25.76087,0],"name":"BKMB47","engineType":"CE","vin":"WMEEJ3BA6CK577071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 27th St 15, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19534,25.80233,0],"name":"BJPI28","engineType":"CE","vin":"WMEEJ3BA9CK565559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Da Dorsey Blvd, 33136 Miami","city":"miami","fuel":24,"exterior":"GOOD","coordinates":[-80.20036,25.79402,0],"name":"BJPI31","engineType":"CE","vin":"WMEEJ3BA1CK576443","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"N Miami Ave 2041, 33127 Miami","city":"miami","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-80.1948,25.79609,0],"name":"CLRV95","engineType":"CE","vin":"WMEEJ3BA4EK733868","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 26th St 3671, 33133 Miami","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.25356,25.743,0],"name":"BGDN99","engineType":"CE","vin":"WMEEJ3BA4CK566599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 3rd St 41, 33130 Miami","city":"miami","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-80.1947,25.77165,0],"name":"BDNF72","engineType":"CE","vin":"WMEEJ3BA2CK576340","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway, 33129 Miami","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.19762,25.76087,0],"name":"BDNF09","engineType":"CE","vin":"WMEEJ3BAXCK567935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 8th St 2287, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23248,25.76543,0],"name":"BDNF17","engineType":"CE","vin":"WMEEJ3BA9CK577193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"6th St 1148, 33139 Miami Beach","city":"miami","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-80.14009,25.77532,0],"name":"BGDK08","engineType":"CE","vin":"WMEEJ3BA0CK566440","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 31st Ave 858, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.24472,25.76443,0],"name":"BKLJ96","engineType":"CE","vin":"WMEEJ3BAXCK577123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 12th Ct 850, 33135 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21546,25.76547,0],"name":"BKLJ85","engineType":"CE","vin":"WMEEJ3BAXCK575954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 10th Ave 358, 33130 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.21132,25.77009,0],"name":"CLSS42","engineType":"CE","vin":"WMEEJ3BAXEK730599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 20th Rd 315, 33129 Miami","city":"miami","fuel":60,"exterior":"GOOD","coordinates":[-80.20333,25.75913,0],"name":"DBCW18","engineType":"CE","vin":"WMEEJ3BA1CK576295","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ocean Dr 884, 33139 Miami Beach","city":"miami","fuel":72,"exterior":"GOOD","coordinates":[-80.1309,25.779,0],"name":"CLSH26","engineType":"CE","vin":"WMEEJ3BA0EK731180","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midtown Blvd 3505, 33137 Miami","city":"miami","fuel":54,"exterior":"GOOD","coordinates":[-80.1923,25.81015,0],"name":"BJPI23","engineType":"CE","vin":"WMEEJ3BA2CK576497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Coral Way 2967, 33145 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.24177,25.75037,0],"name":"BGDN91","engineType":"CE","vin":"WMEEJ3BA7CK576740","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 24th St 79, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19657,25.79987,0],"name":"BKMB18","engineType":"CE","vin":"WMEEJ3BAXCK576313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grand Ave 3231, 33133 Miami","city":"miami","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-80.24584,25.728,0],"name":"BJPI54","engineType":"CE","vin":"WMEEJ3BA1CK576345","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Collins Ave 1273, 33139 Miami Beach","city":"miami","fuel":81,"exterior":"GOOD","coordinates":[-80.13099,25.78372,0],"name":"CLSH23","engineType":"CE","vin":"WMEEJ3BAXEK734765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Unity Blvd, 33145 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23808,25.74913,0],"name":"BKMB46","engineType":"CE","vin":"WMEEJ3BA2CK577083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P13, 10th St and Washington Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13325,25.78099,0],"name":"BKMB42","engineType":"CE","vin":"WMEEJ3BAXCK575968","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Oak Ave 2933, 33133 Miami","city":"miami","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-80.24084,25.73004,0],"name":"BGDK18","engineType":"CE","vin":"WMEEJ3BA7CK576656","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"LOT-P12, 9th St and Washington Ave","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.13352,25.77968,0],"name":"BKLJ91","engineType":"CE","vin":"WMEEJ3BAXCK576974","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Tiger Tail Ave 2839, 33133 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.23896,25.73046,0],"name":"BDNF42","engineType":"CE","vin":"WMEEJ3BA7CK576589","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 48th Ter 363, 33137 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.18953,25.82004,0],"name":"BDNF65","engineType":"CE","vin":"WMEEJ3BA2CK576239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 4th St 959, 33130 Miami","city":"miami","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-80.21044,25.76991,0],"name":"BJPI45","engineType":"CE","vin":"WMEEJ3BA9CK576464","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pine Tree Dr 2586, 33140 Miami Beach","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.12939,25.80315,0],"name":"BDNF43","engineType":"CE","vin":"WMEEJ3BA0CK575994","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SW 11th Ave 237, 33130 Miami","city":"miami","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-80.21285,25.77125,0],"name":"DRZJ68","engineType":"CE","vin":"WMEEJ3BA4EK768863","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Deauville Beach Garage, 1st floor, 67 & Harding","city":"miami","fuel":48,"exterior":"GOOD","coordinates":[-80.12086,25.85055,0],"name":"BKMB23","engineType":"CE","vin":"WMEEJ3BA7CK575975","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"McDonald Ave 3040, 33133 Miami","city":"miami","fuel":18,"exterior":"GOOD","coordinates":[-80.24576,25.73462,0],"name":"BJPI71","engineType":"CE","vin":"WMEEJ3BA4CK576145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 6th Pl 2192, 33127 Miami","city":"miami","fuel":33,"exterior":"GOOD","coordinates":[-80.20619,25.79738,0],"name":"CLSH21","engineType":"CE","vin":"WMEEJ3BA5EK733118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NW 23rd St 54, 33127 Miami","city":"miami","fuel":100,"exterior":"GOOD","coordinates":[-80.19608,25.79918,0],"name":"BDNF51","engineType":"CE","vin":"WMEEJ3BA9CK577341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jefferson Ave 628, 33139 Miami Beach","city":"miami","fuel":69,"exterior":"GOOD","coordinates":[-80.13729,25.77613,0],"name":"730TAH","engineType":"CE","vin":"WMEEJ3BA7CK576267","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bird Rd, 33133 Miami","city":"miami","fuel":45,"exterior":"GOOD","coordinates":[-80.23851,25.73555,0],"name":"CSSG46","engineType":"CE","vin":"WMEEJ3BA5CK565767","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"NE 66th St 549, 33138 Miami","city":"miami","fuel":69,"exterior":"GOOD","coordinates":[-80.18528,25.83662,0],"name":"BJPI53","engineType":"CE","vin":"WMEEJ3BAXCK576179","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

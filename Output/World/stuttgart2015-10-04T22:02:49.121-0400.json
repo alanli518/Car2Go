@@ -1,0 +1,890 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Archivstraße 20, 70182 Stuttgart","city":"stuttgart","fuel":46,"exterior":"GOOD","charging":false,"coordinates":[9.18711,48.77589,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4017","vin":"WME4513911K473932","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bottroper Straße 8, 70376 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.2132,48.81823,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2503","vin":"WME4513901K698045","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weimarer Straße 9, 73730 Esslingen am Neckar","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.3397,48.73371,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1013","vin":"WME4513911K444950","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Meistersingerstraße 9, 70597 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.17071,48.75253,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2309","vin":"WME4513901K663927","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Probststraße 37, 70567 Stuttgart","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":true,"coordinates":[9.14853,48.73126,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1025","vin":"WME4513911K441090","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Taubenheimstraße 60, 70372 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.229,48.80267,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2259","vin":"WME4513901K662367","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Solitudestraße 197, 70499 Stuttgart","city":"stuttgart","fuel":40,"exterior":"GOOD","charging":true,"coordinates":[9.11041,48.81249,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2445","vin":"WME4513901K683054","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ostendstraße 25, 70190 Stuttgart","city":"stuttgart","fuel":51,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.20751,48.78826,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2660","vin":"WME4513901K820427","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Karl-Schurz-Straße 16, 70190 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.20856,48.79611,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2422","vin":"WME4513901K672852","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Etzelstraße 10, 70180 Stuttgart","city":"stuttgart","fuel":93,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.18225,48.7677,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"B-GO4014","vin":"WME4513911K473506","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zellerstraße 52, 70180 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[9.1725,48.76098,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2668","vin":"WME4513901K820568","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Universitätsstraße 61, 70569 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":true,"coordinates":[9.10594,48.74474,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2358","vin":"WME4513901K666929","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Comburgstraße 30, 70188 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.22005,48.78299,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2620","vin":"WME4513901K820005","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weilimdorfer Straße 105, 70469 Stuttgart","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.1407,48.81318,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2637","vin":"WME4513901K820178","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Öhringer Straße 21, 70435 Stuttgart","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[9.17852,48.82646,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2632","vin":"WME4513901K820127","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Planiestraße 9, 71063 Sindelfingen","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.00183,48.70858,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2323","vin":"WME4513901K663977","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sechselberger Straße 36, 70374 Stuttgart","city":"stuttgart","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[9.25208,48.80512,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2572","vin":"WME4513901K728497","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Parkstraße 113, 73734 Esslingen am Neckar","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.29127,48.73419,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2418","vin":"WME4513901K672872","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Giebelstraße 30, 70499 Stuttgart","city":"stuttgart","fuel":94,"exterior":"GOOD","charging":false,"coordinates":[9.08949,48.80582,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2419","vin":"WME4513901K672902","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wernhaldenstraße 102, 70184 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.18273,48.76049,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2347","vin":"WME4513901K667454","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kriegsbergstraße 55, 70174 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.17293,48.78273,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2622","vin":"WME4513901K820023","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mahatma-Gandhi-Straße 3, 70376 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.1916,48.81784,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2316","vin":"WME4513901K658410","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Filderhauptstraße 36, 70599 Stuttgart","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.20971,48.70146,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2551","vin":"WME4513901K728359","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mahatma-Gandhi-Straße 36, 70376 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.19198,48.81891,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2443","vin":"WME4513901K683032","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weinklinge 1, 70329 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.21712,48.75662,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2579","vin":"WME4513901K728485","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gehrenwaldstraße 21, 70327 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.25817,48.78486,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4015","vin":"WME4513911K473891","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bardiliweg 13, 70186 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[9.19836,48.77018,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2341","vin":"WME4513901K667574","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Elbestraße 55, 70376 Stuttgart","city":"stuttgart","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[9.21807,48.82196,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2657","vin":"WME4513901K820390","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zamenhofstraße 24 - 26, 70197 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[9.13936,48.77152,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2604","vin":"WME4513901K819846","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wolframstraße 61, 70191 Stuttgart","city":"stuttgart","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[9.18037,48.79298,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2326","vin":"WME4513901K663997","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gablenberger Hauptstraße 103, Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":true,"coordinates":[9.20442,48.77623,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2346","vin":"WME4513901K667349","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Meluner Straße 3, 70563 Stuttgart","city":"stuttgart","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.09267,48.73838,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2211","vin":"WME4513901K651161","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wartbergstraße 22, 70191 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.17991,48.80573,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2438","vin":"WME4513901K683021","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rennweg, 70327 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.22986,48.77047,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2027","vin":"WME4513911K475982","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kremser Straße 5, 70469 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[9.16803,48.81209,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2022","vin":"WME4513911K475506","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wildunger Straße 59, 70372 Stuttgart","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.22725,48.80348,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2365","vin":"WME4513901K667306","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ernst-Reuter Platz 4,70499 Stuttgart","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":true,"coordinates":[9.09205,48.80334,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2574","vin":"WME4513901K728473","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedes-Jellinek-Straße, 70372 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.23128,48.78798,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2242","vin":"WME4513901K658093","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Messe Stuttgart \/ Flughafen, Messepiazza 1","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.19236,48.69395,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2634","vin":"WME4513901K820152","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Probststraße 37, 70567 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":true,"coordinates":[9.14853,48.73126,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2266","vin":"WME4513901K662196","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 195, 70197 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.14643,48.77007,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2427","vin":"WME4513901K672982","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Seerosenstraße 7, 70563 Stuttgart","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.10693,48.73046,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2031","vin":"WME4513911K477206","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Siemensstraße 7,Mercedes-Benz Bank, 70469 Stgt","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":true,"coordinates":[9.18056,48.81052,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2268","vin":"WME4513901K657805","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fellnerstraße 9, 70327 Stuttgart","city":"stuttgart","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[9.23887,48.77417,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2280","vin":"WME4513901K658185","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohenstaufenstraße 18, 70178 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.16814,48.7657,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2475","vin":"WME4513901K690785","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gaussstraße 116, 70193 Stuttgart","city":"stuttgart","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[9.13791,48.77649,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2228","vin":"WME4513901K658079","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kastanienweg 39, 73732 Esslingen am Neckar","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[9.30996,48.75768,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2488","vin":"WME4513901K698166","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schmellbachstraße 19, 70565 Stuttgart","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.10035,48.71504,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2278","vin":"WME4513901K819622","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wunnensteinstraße 23, 70188 Stuttgart","city":"stuttgart","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[9.20369,48.78159,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2391","vin":"WME4513901K672486","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Adelbortenstraße 11, 71063 Sindelfingen","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[8.99818,48.70856,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2034","vin":"WME4513911K477541","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 41, 73732 Esslingen am Neckar","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.31429,48.75653,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2575","vin":"WME4513901K728537","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Lohbauerstraße 4, 70597 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.15473,48.74127,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2328","vin":"WME4513901K664017","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schiltacher Straße 40, 70569 Stuttgart","city":"stuttgart","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[9.13972,48.74143,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2194","vin":"WME4513901K819571","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Seidenstraße 73, 70174 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[9.16333,48.78462,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2017","vin":"WME4513911K442785","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Biklenstraße 14, 70327 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.24894,48.78849,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2366","vin":"WME4513901K666870","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hirschbergstraße 1, 70839 Gerlingen","city":"stuttgart","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[9.06401,48.7905,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2518","vin":"WME4513901K705702","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Goppeltstraße 21, 70191 Stuttgart","city":"stuttgart","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[9.1932,48.80087,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2229","vin":"WME4513901K664117","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sillenbucher Straße 20, 70329 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.23053,48.75636,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2432","vin":"WME4513901K672952","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hoffeldstraße 232, 70597 Stuttgart","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.18319,48.73336,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2426","vin":"WME4513901K673020","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Marco-Polo-Weg 8, 70439 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.15697,48.84295,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2183","vin":"WME4513901K649788","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Haußmannstraße 28, 70188 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.19128,48.7804,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2245","vin":"WME4513901K662479","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Friedrichshaller Straße 38 - 40, 70439 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.1669,48.83936,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1017","vin":"WME4513911K442072","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"In den Stubenweinbergen 2, 70327 Stuttgart","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.2327,48.77,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4002","vin":"WME4513911K469364","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bromberger Straße 4, 70374 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[9.23148,48.81243,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2325","vin":"WME4513901K663987","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Supperstraße 28, 70565 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.09848,48.71871,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2420","vin":"WME4513901K672826","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Kräherwald 190, 70193 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.14409,48.78528,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2398","vin":"WME4513901K672365","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Klingenbach 43 - 59, 70188 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.21344,48.78322,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2623","vin":"WME4513901K820033","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Türkenstraße 6, 70327 Stuttgart","city":"stuttgart","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[9.25146,48.77676,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2505","vin":"WME4513901K698009","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fuchswaldstraße 36, 70569 Stuttgart","city":"stuttgart","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[9.13197,48.74419,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2635","vin":"WME4513901K820159","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wildensteinstraße 21, 70469 Stuttgart","city":"stuttgart","fuel":63,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.15572,48.80485,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2591","vin":"WME4513901K819719","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Seerosenstraße 7, 70563 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.10693,48.73046,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2189","vin":"WME4513901K650184","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reutlinger Straße 48, 70597 Stuttgart","city":"stuttgart","fuel":93,"exterior":"GOOD","charging":false,"coordinates":[9.17569,48.74565,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2272","vin":"WME4513901K658061","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wagenburgstraße 28, 70184 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.19502,48.77935,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2525","vin":"WME4513901K705807","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Siemensstraße 7,Mercedes-Benz Bank, 70469 Stgt","city":"stuttgart","fuel":47,"exterior":"GOOD","charging":true,"coordinates":[9.18056,48.81052,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2392","vin":"WME4513901K672469","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feldbergstraße 140, 71067 Sindelfingen","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.00946,48.72525,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2609","vin":"WME4513901K819900","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 88, 70372 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.23277,48.78987,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2510","vin":"WME4513901K698263","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerbacher Heide 51, 70192 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.15568,48.7906,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2005","vin":"WME4513901K819490","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Pfaffenwaldring 11, 70569 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.10658,48.74798,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2364","vin":"WME4513901K666799","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 55, 73732 Esslingen am Neckar","city":"stuttgart","fuel":95,"exterior":"GOOD","charging":false,"coordinates":[9.31348,48.75721,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2018","vin":"WME4513911K423395","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kornbergstraße 2, 71032 Böblingen","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.02123,48.6814,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2528","vin":"WME4513901K705852","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Achalmstraße 60, 71032 Böblingen","city":"stuttgart","fuel":95,"exterior":"GOOD","charging":false,"coordinates":[9.02285,48.67995,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2295","vin":"WME4513901K658525","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Waldebene Ost 223, 70186 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.22549,48.77119,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2407","vin":"WME4513901K672378","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Affalterstraße 9, 70469 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.17187,48.81638,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2204","vin":"WME4513901K650338","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Obere Straße 7, 70190 Stuttgart","city":"stuttgart","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[9.20916,48.79574,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2587","vin":"WME4513901K728449","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Pestalozzistraße 11, 70563 Stuttgart","city":"stuttgart","fuel":81,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.11241,48.73556,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2028","vin":"WME4513911K476768","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 77, 73733 Esslingen am Neckar","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.29242,48.7536,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2225","vin":"WME4513901K657876","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dürrbachstraße 51, 70329 Stuttgart","city":"stuttgart","fuel":73,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.23498,48.76085,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2370","vin":"WME4513901K667330","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Haußmannstraße 28, 70188 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.19128,48.7804,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2540","vin":"WME4513901K728374","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Badbrunnenstraße 5, 70374 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.2369,48.80614,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4006","vin":"WME4513911K469811","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Uhlandstraße 29, 73734 Esslingen am Neckar","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":true,"coordinates":[9.29846,48.73473,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2435","vin":"WME4513901K672026","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohentwielstraße 46, 70199 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.15296,48.76365,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2577","vin":"WME4513901K728525","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mönchstraße 15, 70191 Stuttgart","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.18455,48.79275,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2539","vin":"WME4513901K728393","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Badstraße 23, 70372 Stuttgart","city":"stuttgart","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[9.21423,48.80322,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2297","vin":"WME4513901K658496","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Daimlerstraße 71, 70372 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.22032,48.80179,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2254","vin":"WME4513901K662232","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 53, 73732 Esslingen am Neckar","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.31349,48.75723,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2397","vin":"WME4513901K672601","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Strohgäustraße 29, 70435 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":true,"coordinates":[9.15311,48.83505,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2362","vin":"WME4513901K667470","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 88, 70372 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.2322,48.7903,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2021","vin":"WME4513901K819500","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Behlesstraße 4, 70329 Stuttgart","city":"stuttgart","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[9.2771,48.77803,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2320","vin":"WME4513901K664077","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 88, 70372 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":62,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.23246,48.79006,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2649","vin":"WME4513901K820290","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Weissenhof 19, 70191 Stuttgart","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.17664,48.80049,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2586","vin":"WME4513901K728505","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Im Oberen Kienle 87, 70184 Stuttgart","city":"stuttgart","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[9.1889,48.76646,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2638","vin":"WME4513901K820190","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weilimdorfer Straße 129, 70469 Stuttgart","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.13809,48.81365,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2403","vin":"WME4513901K672439","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ludwigsburger Straße 194, 70435 Stuttgart","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.17548,48.83574,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2256","vin":"WME4513901K657975","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Olgastraße 32, 70182 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":true,"coordinates":[9.18587,48.77501,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2293","vin":"WME4513901K819632","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Klippeneckstraße 1, 70186 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.22102,48.77902,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4001","vin":"WME4513911K469347","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohewartstraße 95, 70469 Stuttgart","city":"stuttgart","fuel":77,"exterior":"GOOD","charging":true,"coordinates":[9.14674,48.80549,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2235","vin":"WME4513901K664147","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Keltenweg 2, 70378 Stuttgart","city":"stuttgart","fuel":70,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.24015,48.82914,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2531","vin":"WME4513901K705897","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 149, 70197 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.15125,48.76862,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2327","vin":"WME4513901K664007","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerbacher Weg 123, 70192 Stuttgart","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.16231,48.8003,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2451","vin":"WME4513901K682998","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Jahnstraße 60, 70597 Stuttgart","city":"stuttgart","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[9.17816,48.75228,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2590","vin":"WME4513901K819708","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 88, 70372 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.23232,48.79028,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2547","vin":"WME4513901K728441","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gutenbergstraße 73, 70197 Stuttgart","city":"stuttgart","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[9.15726,48.77133,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2417","vin":"WME4513901K672635","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ulmer Straße 71 - 73, 70188 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":56,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.22202,48.78673,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2592","vin":"WME4513901K819728","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Seyfferstraße 33, 70197 Stuttgart","city":"stuttgart","fuel":93,"exterior":"UNACCEPTABLE","charging":true,"coordinates":[9.15441,48.77015,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"UL-ED1008","vin":"WME4513911K443447","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mia-Seeger-Straße, 70191 Stuttgart","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.18259,48.80477,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2581","vin":"WME4513901K728529","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mozartweg 10, 73732 Esslingen am Neckar","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.31792,48.75109,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2486","vin":"WME4513901K698142","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Marbacher Straße 16, 70435 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":true,"coordinates":[9.17605,48.83158,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2560","vin":"WME4513901K728493","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Eulerstraße 33, 70565 Stuttgart","city":"stuttgart","fuel":69,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.1225,48.71618,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2414","vin":"WME4513901K672962","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dachswaldweg 79, 70569 Stuttgart","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.11686,48.74459,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2168","vin":"WME4513901K651109","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wilhelmstraße 7, 70182 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.17999,48.77066,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2511","vin":"WME4513901K698274","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ernst-Reuter-Straße 2, 71034 Böblingen","city":"stuttgart","fuel":96,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.00252,48.67487,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2226","vin":"WME4513901K658337","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Seyfferstraße 33, 70197 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.15441,48.77015,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2261","vin":"WME4513901K657949","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wilhelm-Geiger-Platz 10, 70469 Stuttgart","city":"stuttgart","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[9.15871,48.81197,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2613","vin":"WME4513901K819933","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kappelbergstraße 64, 70327 Stuttgart","city":"stuttgart","fuel":78,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.25621,48.78724,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2441","vin":"WME4513901K682973","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Comburgstraße 30, 70188 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.22005,48.78299,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2289","vin":"WME4513901K658326","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Chopinstraße 75, 70195 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.11202,48.7793,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2221","vin":"WME4513901K649815","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Frauenstraße 23, 70199 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.15916,48.76059,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2669","vin":"WME4513901K820583","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sickstraße 80, 70190 Stuttgart","city":"stuttgart","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.20905,48.79086,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2661","vin":"WME4513901K820441","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Freihofstraße 17, 70439 Stuttgart","city":"stuttgart","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[9.15628,48.84783,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2354","vin":"WME4513901K667436","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Donizettistraße 12, 70195 Stuttgart","city":"stuttgart","fuel":52,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.12121,48.78044,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2450","vin":"WME4513901K683148","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gundelsheimer Straße 6, 70437 Stuttgart","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.1931,48.83309,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2255","vin":"WME4513901K662352","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Steubenstraße 24, 70190 Stuttgart","city":"stuttgart","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[9.20701,48.79511,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2223","vin":"WME4513901K649907","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hedwig-Dohm-Straße 1 - 3, 70191 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.18532,48.79859,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2466","vin":"WME4513901K690986","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mozartstraße 9, 70180 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.1791,48.76886,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4007","vin":"WME4513911K469827","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bergstraße 4, 70186 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.2041,48.77459,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2465","vin":"WME4513901K691005","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Universitätsstraße 61, 70569 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.10597,48.74475,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2361","vin":"WME4513901K667153","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Karl-Kloß-Straße 34, 70199 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.15922,48.7583,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2348","vin":"WME4513901K667178","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Silberburgstraße 60, 70176 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.16098,48.78172,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2626","vin":"WME4513901K820069","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Handwerkstraße 15, 70565 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":true,"coordinates":[9.12961,48.72017,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2234","vin":"WME4513901K657817","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Asangstraße 167, 70329 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.27464,48.77134,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2299","vin":"WME4513901K658468","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 4, 73733 Esslingen am Neckar","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.29352,48.75942,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2513","vin":"WME4513901K698297","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Thomastraße 43 - 57, 70192 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":93,"exterior":"GOOD","charging":false,"coordinates":[9.16852,48.80096,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2541","vin":"WME4513901K728409","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wernhaldenstraße 94, 70184 Stuttgart","city":"stuttgart","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[9.1822,48.76127,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2421","vin":"WME4513901K672629","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohenloher Straße 23, 70435 Stuttgart","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":true,"coordinates":[9.17618,48.82913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2257","vin":"WME4513901K662511","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Große Falterstraße 151, 70597 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.1775,48.74015,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2476","vin":"WME4513901K690815","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Z-Box, Albstadtweg 3, bei Mietende bitte laden","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.13196,48.72755,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2573","vin":"WME4513901K728461","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rostocker Straße 27, 70376 Stuttgart","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.20681,48.81826,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2284","vin":"WME4513901K662445","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wildunger Straße 83, 70372 Stuttgart","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.23032,48.80403,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2351","vin":"WME4513901K667599","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hochwiesenweg 42, 73733 Esslingen am Neckar","city":"stuttgart","fuel":82,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.29705,48.75259,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2301","vin":"WME4513901K658511","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 45, 73732 Esslingen am Neckar","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.31372,48.75684,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2195","vin":"WME4513901K650104","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dresdener Straße 14, 73730 Esslingen am Neckar","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.33866,48.73479,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2477","vin":"WME4513901K690752","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vaihinger Landstraße 99, 70195 Stuttgart","city":"stuttgart","fuel":85,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.1252,48.77315,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"UL-ED1023","vin":"WME4513911K430414","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlachthofstraße 17, 70188 Stuttgart","city":"stuttgart","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[9.22016,48.78713,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2467","vin":"WME4513901K691073","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Oberdorfstraße 31, 70567 Stuttgart","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.14207,48.72606,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2313","vin":"WME4513901K658539","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerbacher Heide 8, 70192 Stuttgart","city":"stuttgart","fuel":39,"exterior":"GOOD","charging":true,"coordinates":[9.15172,48.78777,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2232","vin":"WME4513901K658160","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sickstraße 121, 70190 Stuttgart","city":"stuttgart","fuel":84,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.20891,48.7909,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2311","vin":"WME4513901K663947","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Wildbädle 18, 70329 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.249,48.75569,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2382","vin":"WME4513901K666961","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Breslauer Straße 22, 73730 Esslingen am Neckar","city":"stuttgart","fuel":52,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.34067,48.73109,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2536","vin":"WME4513901K690690","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Chopinstraße 46, 70195 Stuttgart","city":"stuttgart","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[9.11522,48.77971,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2670","vin":"WME4513901K820603","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Solitudestraße 197, 70499 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.11041,48.81249,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2463","vin":"WME4513901K682942","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vaihinger Straße 57 - 59, 71032 Böblingen (Umkreis 100m)","city":"stuttgart","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[9.01812,48.69536,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2595","vin":"WME4513901K819760","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Talstraße 212, 70372 Stuttgart","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.22686,48.78916,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2294","vin":"WME4513901K664057","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Talstraße 210, 70372 Stuttgart","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.22656,48.78932,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2640","vin":"WME4513901K820210","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Illerstraße 29, 70376 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.22309,48.82091,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2290","vin":"WME4513901K662415","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schelmenwasenstraße 15, 70567 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":true,"coordinates":[9.16684,48.71323,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2614","vin":"WME4513901K819947","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wäldenbronner Straße 7, 73732 Esslingen am Neckar","city":"stuttgart","fuel":43,"exterior":"GOOD","charging":true,"coordinates":[9.31273,48.75039,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2489","vin":"WME4513901K698130","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Remstalstraße 11, 70374 Stuttgart","city":"stuttgart","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[9.23715,48.80561,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2631","vin":"WME4513901K820115","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Trettachstraße 1, 71067 Sindelfingen (Umkreis 300m)","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.00454,48.72717,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2308","vin":"WME4513901K658309","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Volkerstraße 20, 70191 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.18181,48.80533,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2492","vin":"WME4513901K698202","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Burgherrenstraße 10, 70469 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.15895,48.80534,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2429","vin":"WME4513901K673007","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Regerstraße 23, 70195 Stuttgart","city":"stuttgart","fuel":30,"exterior":"GOOD","charging":true,"coordinates":[9.12842,48.77903,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2650","vin":"WME4513901K820300","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hellerweg 46, 73728 Esslingen am Neckar","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.30287,48.74834,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2286","vin":"WME4513901K662143","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Metzinger Straße 45, 70597 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[9.17143,48.74161,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2461","vin":"WME4513901K682926","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wigandstraße 16, 70439 Stuttgart","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.1578,48.84815,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2376","vin":"WME4513901K667485","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Segelfalterstraße 18, 70439 Stuttgart","city":"stuttgart","fuel":72,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16587,48.84847,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2567","vin":"WME4513901K728553","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wernhaldenstraße 92, 70184 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.18212,48.76147,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2368","vin":"WME4513901K667194","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Klosterhof 16, 70376 Stuttgart","city":"stuttgart","fuel":89,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.22483,48.82111,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2087","vin":"WME4513901K819529","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Im Götzen 17, 70191 Stuttgart","city":"stuttgart","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[9.18243,48.80886,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2527","vin":"WME4513901K705837","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schwerzstraße 2, 70599 Stuttgart","city":"stuttgart","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[9.21514,48.71622,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2584","vin":"WME4513901K728533","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nürnbergerstraße 106, 70374 Stuttgart","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.24374,48.80839,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4008","vin":"WME4513911K469859","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schneewittchenweg 46, 70567 Stuttgart","city":"stuttgart","fuel":99,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.14907,48.72092,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2171","vin":"WME4513901K649351","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Maybachstraße 24, 70469 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.17693,48.80975,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2629","vin":"WME4513901K820093","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ostendstraße 1, 70190 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":true,"coordinates":[9.20717,48.79058,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2179","vin":"WME4513901K649635","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Strohgäustraße 29, 70435 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.15306,48.83512,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2196","vin":"WME4513901K819585","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stuttgarter Straße 146, 71032 Böblingen","city":"stuttgart","fuel":97,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.02679,48.69319,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2258","vin":"WME4513901K658009","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sonnenbergstraße 17, 71065 Sindelfingen","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.0224,48.70854,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2395","vin":"WME4513901K672407","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zaunkönigweg, 70499 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.11431,48.80768,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2383","vin":"WME4513901K667284","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Äxtlestraße 3, 70599 Stuttgart","city":"stuttgart","fuel":98,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.20806,48.72029,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2658","vin":"WME4513901K820402","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kercheräckerstraße, 70378 Stuttgart","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.24026,48.83461,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2173","vin":"WME4513901K649114","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Glemsgaustraße 28, 70499 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.11093,48.81593,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2512","vin":"WME4513901K698285","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hackstraße 96, 70190 Stuttgart","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[9.20892,48.78891,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2319","vin":"WME4513901K663957","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 148, 70197 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.15237,48.7682,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2515","vin":"WME4513901K728371","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Karlsbader Straße 6, 73730 Esslingen am Neckar (Umkreis 100m)","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.33982,48.73252,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2642","vin":"WME4513901K820230","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gablenberger Hauptstraße 103, Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.20442,48.77623,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2250","vin":"WME4513901K658198","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Maurener Weg 116, 71034 Böblingen","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[8.99739,48.67233,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2246","vin":"WME4513901K658286","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Pfefferstraße 14, 70619 Stuttgart","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.23441,48.74574,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2639","vin":"WME4513901K820198","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Thingstraße 21, 70565 Stuttgart","city":"stuttgart","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[9.09723,48.71851,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2357","vin":"WME4513901K667268","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wilhelmstraße 7, 70182 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.17999,48.77066,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2471","vin":"WME4513901K690911","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Z-Box, Albstadtweg 3, bei Mietende bitte laden","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.13196,48.72755,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2315","vin":"WME4513901K658454","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mönchhaldenstraße 153, 70191 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.181,48.79738,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2273","vin":"WME4513901K657964","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Spechtweg 40, 70499 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.10586,48.80397,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2251","vin":"WME4513901K658596","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Pfaffenwaldring 54, 70569 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.10259,48.74509,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2439","vin":"WME4513901K683114","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"EasyParking Leinfelden, Meisenweg","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.14566,48.70611,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2576","vin":"WME4513901K728469","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Maybachstraße 35, 70469 Stuttgart","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.17682,48.81014,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2350","vin":"WME4513901K667250","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlachthofstraße 21, 70188 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.2199,48.7872,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2561","vin":"WME4513901K728521","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Köstlinstraße 174 - 178, 70499 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[9.11191,48.80211,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2497","vin":"WME4513901K697961","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Baienfurter Weg 4 - 18, 70599 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.20353,48.72603,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2538","vin":"WME4513901K728367","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bientzlestraße 12, 70599 Stuttgart","city":"stuttgart","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[9.20873,48.71814,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2240","vin":"WME4513901K662500","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hasenbergsteige 16, 70178 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.16159,48.76757,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2474","vin":"WME4513901K690872","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kornwestheimer Straße 25, 70439 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.15952,48.84902,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2602","vin":"WME4513901K819824","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Aulendorfer Straße 91, 70599 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.20364,48.72523,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2469","vin":"WME4513901K690953","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Lerchenstraße 38, 70176 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.16186,48.78149,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2487","vin":"WME4513901K698154","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hainbuchenweg 22, 70597 Stuttgart","city":"stuttgart","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[9.18035,48.7508,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2636","vin":"WME4513901K820170","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Lilienstraße 62, 71063 Sindelfingen","city":"stuttgart","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[8.99148,48.71243,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4012","vin":"WME4513911K472241","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dürrlewangstraße 36, 70565 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":true,"coordinates":[9.11221,48.71836,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2269","vin":"WME4513901K662260","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Esslinger Straße 1, 73732 Esslingen am Neckar (Umkreis 100m)","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.3401,48.74318,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2336","vin":"WME4513901K664097","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Etzelstraße 29, 70180 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.17919,48.76613,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2516","vin":"WME4513901K705672","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlachthofstraße 21, 70188 Stuttgart","city":"stuttgart","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[9.2197,48.78728,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2275","vin":"WME4513901K662538","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Segelfalterstraße 13, 70439 Stuttgart","city":"stuttgart","fuel":51,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16535,48.84857,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2053","vin":"WME4513901K819521","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Machtolfweg 56, 70567 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.16962,48.71754,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2191","vin":"WME4513901K651006","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schneideräckerstraße 57, 70378 Stuttgart","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.23497,48.83495,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2433","vin":"WME4513901K672836","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fleckenweinberg 39, 70192 Stuttgart","city":"stuttgart","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16489,48.80344,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2217","vin":"WME4513901K649563","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Albert-Schäffle-Straße 47, 70186 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.20218,48.77148,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2491","vin":"WME4513901K698190","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Karl-Schurz-Straße 7, 70190 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.20829,48.79682,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2566","vin":"WME4513901K728513","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Albrecht-Berblinger-Weg 2 - 12, 71034 Sindelfingen (Umkreis 300m)","city":"stuttgart","fuel":69,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[8.99672,48.68723,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2233","vin":"WME4513901K664137","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Höhbergstraße 34, 70327 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.24354,48.77031,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2332","vin":"WME4513901K658384","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Donizettistraße 13, 70195 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.12169,48.78051,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2455","vin":"WME4513901K683134","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fürsaalstraße 4, 70839 Gerlingen","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.06687,48.80325,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2624","vin":"WME4513901K820044","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Winterbacher Straße 36, 70374 Stuttgart","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.24373,48.80604,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2672","vin":"WME4513901K820630","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerbacher Weg 107, 70192 Stuttgart","city":"stuttgart","fuel":87,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16287,48.7991,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2314","vin":"WME4513901K658638","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Faberstraße 16, 70188 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.21778,48.78567,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2375","vin":"WME4513901K666738","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Treiberstraße 8, 70619 Stuttgart","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[9.22142,48.75145,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2175","vin":"WME4513901K649304","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Maienplatz 3 - 6, 71032 Böblingen (Umkreis 100m)","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.01875,48.68652,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2412","vin":"WME4513901K672136","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wehrneckarstraße 5 - 9, 73728 Esslingen am Neckar (Umkreis 100m)","city":"stuttgart","fuel":60,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.30598,48.74068,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2496","vin":"WME4513901K698251","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wilhelm-Blos-Straße 59, 70191 Stuttgart","city":"stuttgart","fuel":81,"exterior":"GOOD","charging":true,"coordinates":[9.18175,48.80217,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2673","vin":"WME4513901K820650","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Robert-Leicht-Straße 121, 70569 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.10771,48.74187,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2035","vin":"WME4513911K478347","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Röckenwiesenstraße 68 - 76, 70197 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.15296,48.76732,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2339","vin":"WME4513901K667209","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 209, 70197 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[9.14482,48.77108,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2317","vin":"WME4513901K658480","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Masurenstraße 1, 70374 Stuttgart","city":"stuttgart","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[9.24917,48.80982,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2508","vin":"WME4513901K698118","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weilimdorfer Straße 67, 70469 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.14496,48.81237,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2569","vin":"WME4513901K728453","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rotebühlbau\/Rotebühlstraße 33, Finanzamt Stuttgart","city":"stuttgart","fuel":34,"exterior":"GOOD","charging":true,"coordinates":[9.17016,48.77462,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2440","vin":"WME4513901K683070","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kanalstraße 24, 73728 Esslingen am Neckar","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.31106,48.73743,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1024","vin":"WME4513911K456106","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlachthofstraße 17, 70188 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.22028,48.78709,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2352","vin":"WME4513901K667586","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stöckachstraße 17, 70190 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.19937,48.7904,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2607","vin":"WME4513901K819878","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ernst-Reuter Platz 4,70499 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.09205,48.80334,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2260","vin":"WME4513901K657846","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Alfdorfer Straße 38, 70188 Stuttgart","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.21813,48.78517,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2559","vin":"WME4513901K728445","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Obere Ringstraße 43, 70839 Gerlingen","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.05832,48.79328,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2594","vin":"WME4513901K819749","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohenloher Straße 23, 70435 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":true,"coordinates":[9.17617,48.82914,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2218","vin":"WME4513901K649500","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Falchstraße 5, 70378 Stuttgart","city":"stuttgart","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.23364,48.82627,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2186","vin":"WME4513901K650940","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weissacher Straße 10, 70499 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.09239,48.82126,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2437","vin":"WME4513901K672072","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mittenfeldstraße 110, 70499 Stuttgart","city":"stuttgart","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[9.09387,48.80489,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2165","vin":"WME4513901K650644","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mönchhaldenstraße 41, 70191 Stuttgart","city":"stuttgart","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[9.17316,48.79121,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2307","vin":"WME4513901K664067","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hinterweiler Straße 37, Sindelfingen","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[8.99465,48.71657,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2550","vin":"WME4513901K728425","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mittlere Ringstraße 71, 70839 Gerlingen","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.05704,48.79554,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2241","vin":"WME4513901K662329","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Max-Brod-Weg 16, 70437 Stuttgart","city":"stuttgart","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[9.20361,48.83451,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2401","vin":"WME4513901K672257","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 143, 70197 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.1519,48.76829,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2651","vin":"WME4513901K820312","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reuteweg, 73733 Esslingen am Neckar","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.29121,48.75682,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2209","vin":"WME4513901K650830","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Immenhofer Straße 89, 70180 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[9.17773,48.75993,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2394","vin":"WME4513901K672456","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohenfriedberger Straße 72 - 86, 70499 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.11768,48.82048,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2220","vin":"WME4513901K649948","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Eugen-Bolz-Straße 23, 73732 Esslingen am Neckar","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.32074,48.74747,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2578","vin":"WME4513901K728501","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Friedrich-Ebert-Straße 5, 73730 Esslingen am Neckar","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.32245,48.73479,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2340","vin":"WME4513901K667639","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vogelrainstraße 3, 70199 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.13762,48.7534,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4013","vin":"WME4513911K472307","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Christian-Fink-Straße 3, 73732 Esslingen am Neckar","city":"stuttgart","fuel":84,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.33984,48.74313,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2333","vin":"WME4513901K658110","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fleckenweinberg 13, 70192 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.16233,48.80173,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2276","vin":"WME4513901K658050","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Lohengrinstraße 14, 70597 Stuttgart","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.17028,48.75261,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2481","vin":"WME4513901K691049","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Arthur-Gruber-Straße 45, 71065 Sindelfingen","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.01572,48.71217,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2464","vin":"WME4513901K682916","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Robert-Koch-Straße 17, 70839 Gerlingen","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.07447,48.79739,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2555","vin":"WME4513901K728429","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Marco-Polo-Weg 8, 70439 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.15659,48.84287,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2360","vin":"WME4513901K666909","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 16, 70199 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.15508,48.76003,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2264","vin":"WME4513901K662287","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gaswerk 1, 70190 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.21909,48.78771,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2554","vin":"WME4513901K728433","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wurmlinger Straße 22, 70597 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.1671,48.74519,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2247","vin":"WME4513901K662464","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bauernwaldstraße 110, 70195 Stuttgart","city":"stuttgart","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[9.12074,48.78402,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1016","vin":"WME4513911K443419","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nauener Straße 12, 70597 Stuttgart","city":"stuttgart","fuel":36,"exterior":"GOOD","charging":false,"coordinates":[9.18018,48.73356,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2563","vin":"WME4513901K819687","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Steigstraße 1, 70565 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":true,"coordinates":[9.10714,48.71899,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2353","vin":"WME4513901K667016","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bockelstraße 92, 70619 Stuttgart","city":"stuttgart","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[9.22951,48.74261,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2671","vin":"WME4513901K820617","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hallstraße 71, 70376 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.21328,48.81013,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2386","vin":"WME4513901K667502","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hainbuchenweg 32, 70597 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.18146,48.74931,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2549","vin":"WME4513901K728397","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Unter dem Birkenkopf 19, 70197 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.14047,48.76856,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2621","vin":"WME4513901K820014","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sonnenbergstraße 117, 70184 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.19756,48.76581,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2495","vin":"WME4513901K698238","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fohrenbühlstraße 28, 70569 Stuttgart","city":"stuttgart","fuel":92,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.12345,48.742,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2231","vin":"WME4513901K664127","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hölderlinweg 162, 73728 Esslingen am Neckar","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.31242,48.74586,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2616","vin":"WME4513901K819966","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stuttgarter Straße 7, 73734 Esslingen am Neckar","city":"stuttgart","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[9.29992,48.73559,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2199","vin":"WME4513901K650518","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Silberburgstraße 34, 70176 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.15986,48.78326,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2393","vin":"WME4513901K672419","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerseeplatz 13, 70176 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":true,"coordinates":[9.16392,48.77268,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2236","vin":"WME4513901K657888","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Robert-Mayer-Straße 7, 70191 Stuttgart","city":"stuttgart","fuel":69,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.17671,48.79313,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2355","vin":"WME4513901K667067","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Weinklinge 1, 70329 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.21712,48.75662,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2329","vin":"WME4513901K664027","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Himmelsleiter 42, 70437 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.19942,48.83791,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2472","vin":"WME4513901K690796","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hopfauer Straße 23, 70563 Stuttgart","city":"stuttgart","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[9.11061,48.73493,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2565","vin":"WME4513901K728457","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Supperstraße 24, 70565 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.09911,48.71904,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2163","vin":"WME4513901K645194","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Marco-Polo-Weg 8, 70439 Stuttgart","city":"stuttgart","fuel":72,"exterior":"GOOD","charging":true,"coordinates":[9.15659,48.84287,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2237","vin":"WME4513901K658252","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Flandernstraße 52 - 56, 73732 Esslingen am Neckar (Umkreis 100m)","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.31509,48.74684,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2369","vin":"WME4513901K666884","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rotenbergstraße 162, 70190 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[9.21588,48.78789,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2344","vin":"WME4513901K666994","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohentwielstraße 126, 70199 Stuttgart","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.1485,48.76035,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2279","vin":"WME4513901K662212","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Günzelburgweg 2, 70469 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.14585,48.80482,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2178","vin":"WME4513901K649726","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Tiergartenstraße 4, 71032 Böblingen","city":"stuttgart","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[9.01689,48.67331,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2335","vin":"WME4513901K657923","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dreizlerstraße 63, 70619 Stuttgart","city":"stuttgart","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[9.23675,48.74906,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1026","vin":"WME4513911K467378","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 64, 73733 Esslingen am Neckar","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.29369,48.75429,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2015","vin":"WME4513911K467730","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wolfstraße 25, 71063 Sindelfingen (Umkreis 100m)","city":"stuttgart","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[8.99556,48.71878,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2454","vin":"WME4513901K683102","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Birkenhofstraße 4, 70599 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[9.20821,48.71907,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2656","vin":"WME4513901K820368","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wagenburgstraße 28, 70184 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.19502,48.77935,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2373","vin":"WME4513901K667372","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kullenbergstraße 39, 70195 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.12269,48.77428,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2166","vin":"WME4513901K819550","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Knappenweg 91, 70569 Stuttgart","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.12387,48.74856,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2628","vin":"WME4513901K820086","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Burghaldenstaffel 11, 70469 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":89,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16605,48.80693,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2524","vin":"WME4513901K705792","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Laupheimer Straße 10, 70327 Stuttgart","city":"stuttgart","fuel":93,"exterior":"GOOD","charging":false,"coordinates":[9.23925,48.77357,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2493","vin":"WME4513901K698226","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Im Geiger 5, 70374 Stuttgart","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[9.2379,48.80571,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2521","vin":"WME4513901K705747","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schmollerstraße 196, 70378 Stuttgart","city":"stuttgart","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[9.23954,48.8293,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2479","vin":"WME4513901K690850","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reiherstraße 21 - 23, 70567 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":61,"exterior":"GOOD","charging":false,"coordinates":[9.14036,48.72904,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2449","vin":"WME4513901K683044","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Waldebene Ost 223, 70186 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.22706,48.77109,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2580","vin":"WME4513901K728549","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kleinstraße 7, 70191 Stuttgart","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.19098,48.79619,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2533","vin":"WME4513901K705928","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Liebknechtstraße 29, 70565 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":true,"coordinates":[9.11296,48.72528,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2667","vin":"WME4513901K820553","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wildermuthweg 12, 70197 Stuttgart","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.13648,48.7704,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2456","vin":"WME4513901K683280","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Erligheimer Straße 10, 70437 Stuttgart","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.18703,48.8324,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1015","vin":"WME4513911K444846","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Kochenhof 68, 70192 Stuttgart","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.16694,48.79818,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2570","vin":"WME4513901K728477","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Göppinger Straße 21, 70329 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":true,"coordinates":[9.26787,48.76282,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2367","vin":"WME4513901K666837","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rohrackerstraße 178, 70329 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.23779,48.75844,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1020","vin":"WME4513911K441002","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Maichinger Straße 80 - 94, 71063 Sindelfingen (Umkreis 100m)","city":"stuttgart","fuel":98,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[8.9914,48.71512,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2300","vin":"WME4513901K658269","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wäldenbronner Straße 7, 73732 Esslingen am Neckar","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":true,"coordinates":[9.31275,48.75039,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2522","vin":"WME4513901K705763","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wolframstraße 60, 70191 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.1806,48.79293,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2219","vin":"WME4513901K649403","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hohenzollernstraße 13, 70178 Stuttgart","city":"stuttgart","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[9.16404,48.76554,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2023","vin":"WME4513911K475557","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Heinrich-Baumann-Straße 33, 70190 Stuttgart","city":"stuttgart","fuel":57,"exterior":"GOOD","charging":false,"coordinates":[9.20062,48.78952,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2416","vin":"WME4513901K672935","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Feuerbacher Weg 99, 70192 Stuttgart","city":"stuttgart","fuel":93,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.16332,48.79846,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2598","vin":"WME4513901K819792","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vogelsangstraße 31, 70176 Stuttgart","city":"stuttgart","fuel":73,"exterior":"GOOD","charging":true,"coordinates":[9.15647,48.77317,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2374","vin":"WME4513901K666940","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stuttgarter Straße 46, 70469 Stuttgart","city":"stuttgart","fuel":67,"exterior":"GOOD","charging":true,"coordinates":[9.16386,48.81055,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2182","vin":"WME4513901K649752","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fritz-Walter-Weg 5, 70372 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.23219,48.79044,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2267","vin":"WME4513901K662431","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Alosenweg 29, 70329 Stuttgart","city":"stuttgart","fuel":87,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.25307,48.76043,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2252","vin":"WME4513901K662522","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlüsselwiesen 21, 70186 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.21886,48.78182,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2349","vin":"WME4513901K667118","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gablenberger Hauptstraße 80, 70186 Stuttgart","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.20554,48.77698,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2205","vin":"WME4513901K650429","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nordbahnhofstraße 101, 70191 Stuttgart","city":"stuttgart","fuel":76,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.19,48.79886,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2274","vin":"WME4513901K662185","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rasmussenweg 23, 70439 Stuttgart","city":"stuttgart","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[9.15474,48.8422,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2627","vin":"WME4513901K820077","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Heidewinkel 3, 70192 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.16948,48.79177,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2485","vin":"WME4513901K698069","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ameisenbergstraße 28, 70188 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.1978,48.78429,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2322","vin":"WME4513901K663967","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bopseräcker 31, 70597 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.16998,48.73398,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2281","vin":"WME4513901K658368","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nürtinger Straße 4, 71032 Böblingen","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.02634,48.67621,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2270","vin":"WME4513901K658173","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kremmlerstraße 8A, 70597 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.15254,48.74066,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2585","vin":"WME4513901K728517","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hildebrandstraße 55, 70191 Stuttgart","city":"stuttgart","fuel":31,"exterior":"GOOD","charging":false,"coordinates":[9.18413,48.80832,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2310","vin":"WME4513901K663937","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Günzelburgweg 23, 70469 Stuttgart","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.14523,48.80451,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2238","vin":"WME4513901K663906","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Oppenheimer Straße 24, 70499 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.12256,48.80914,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2526","vin":"WME4513901K705822","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Knollstraße 9, 70191 Stuttgart","city":"stuttgart","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[9.19222,48.79749,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2605","vin":"WME4513901K819856","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schwendestraße 7, 70619 Stuttgart","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.23821,48.74496,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2244","vin":"WME4513901K662246","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hauptstätter Straße 85 - 87, 70178 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.17342,48.7689,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2544","vin":"WME4513901K728417","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlachthofstraße 15 - 17, 70188 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":74,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.22064,48.78694,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2248","vin":"WME4513901K657789","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stresemannstraße 7, 70191 Stuttgart","city":"stuttgart","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[9.17302,48.80082,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2448","vin":"WME4513901K683186","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nordbahnhofstraße 62, 70191 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.1901,48.79575,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2389","vin":"WME4513901K666775","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kolpingstraße 69, 70378 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.22841,48.828,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2506","vin":"WME4513901K698106","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"EnBW Pfostenackerweg 99, esslingen","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.34059,48.72881,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2377","vin":"WME4513901K667652","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 41, 73732 Esslingen am Neckar","city":"stuttgart","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[9.31442,48.75643,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2653","vin":"WME4513901K820331","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Finkenweg 8, 70839 Gerlingen","city":"stuttgart","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[9.06485,48.78826,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2529","vin":"WME4513901K705867","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Neue Straße 112, 70186 Stuttgart","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[9.20707,48.77136,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2305","vin":"WME4513901K658442","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rohrackerstraße 222, 70329 Stuttgart","city":"stuttgart","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[9.23334,48.75752,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2430","vin":"WME4513901K672972","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Lochenstraße 7, 70186 Stuttgart","city":"stuttgart","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[9.22028,48.77979,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2239","vin":"WME4513901K657908","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Renettenweg 21, 70329 Stuttgart","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.23448,48.76044,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2331","vin":"WME4513901K658628","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Max-Brod-Weg 11, 70437 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[9.20413,48.83383,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2253","vin":"WME4513901K658023","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ulmer Straße 71 - 73, 70188 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.22216,48.78662,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2519","vin":"WME4513901K705717","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Tiroler Straße 35, 70329 Stuttgart","city":"stuttgart","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[9.28317,48.77375,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2558","vin":"WME4513901K728489","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ernst-Barlach-Straße 4 - 36, 71065 Sindelfingen","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.03411,48.70809,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2321","vin":"WME4513901K657991","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fiechtnerstraße 23 - 35, 70327 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":62,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.24933,48.78739,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2534","vin":"WME4513901K705943","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gaswerk 1, 70190 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.21907,48.78769,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2177","vin":"WME4513901K649537","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Galileistraße 39 - 45, 70565 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.11767,48.71895,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2499","vin":"WME4513901K697985","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Obere Brandstraße 4, 70567 Stuttgart","city":"stuttgart","fuel":87,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.14551,48.72379,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2500","vin":"WME4513901K697997","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zavelsteinstraße 22, 70469 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.15456,48.80497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2643","vin":"WME4513901K820239","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Flandernstraße 114, 73732 Esslingen am Neckar","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.32255,48.74432,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2249","vin":"WME4513901K658563","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zeppelinstraße 74, 70193 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.15075,48.77927,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2655","vin":"WME4513901K820358","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kurt-Schumacher-Straße 17, 70565 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":true,"coordinates":[9.15711,48.71463,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2630","vin":"WME4513901K820103","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Reinsburgstraße 185, 70197 Stuttgart","city":"stuttgart","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[9.14742,48.76919,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2413","vin":"WME4513901K673030","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Heinrich-Ebner-Straße 4, 70372 Stuttgart","city":"stuttgart","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[9.22249,48.79964,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2644","vin":"WME4513901K820247","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hölderlinplatz 5, 70193 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":true,"coordinates":[9.15787,48.78333,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2338","vin":"WME4513901K658125","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Erlacher Straße 39, 70437 Stuttgart","city":"stuttgart","fuel":85,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.19957,48.83294,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2206","vin":"WME4513901K819613","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Niebuhrweg 17, 70439 Stuttgart","city":"stuttgart","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[9.14571,48.84118,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2478","vin":"WME4513901K690891","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Waldebene Ost 223, 70186 Stuttgart","city":"stuttgart","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[9.22731,48.7711,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2654","vin":"WME4513901K820345","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ulmer Straße 78 - 80, 73730 Esslingen am Neckar (Umkreis 100m)","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.32809,48.73011,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO4011","vin":"WME4513911K471846","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sandbuckel 29, 70499 Stuttgart","city":"stuttgart","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[9.08808,48.80724,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2212","vin":"WME4513901K649089","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 68, 73733 Esslingen am Neckar","city":"stuttgart","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[9.29274,48.75385,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2029","vin":"WME4513911K476871","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Friedrich-Ebert-Straße 8, 71067 Sindelfingen","city":"stuttgart","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[9.01154,48.72658,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2330","vin":"WME4513901K664037","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Filderhauptstraße 36, 70599 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.20971,48.70146,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2306","vin":"WME4513901K663917","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Erisdorfer Straße 86, 70599 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.1998,48.726,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2227","vin":"WME4513901K658553","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hirschbergstraße 1, 70839 Gerlingen","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.06411,48.79061,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2553","vin":"WME4513901K728405","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 41, 73732 Esslingen am Neckar","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[9.31424,48.75652,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2372","vin":"WME4513901K667136","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Zaunkönigweg, 70499 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[9.1145,48.80769,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2262","vin":"WME4513901K662272","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stresemannstraße Stuttgart","city":"stuttgart","fuel":51,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.17337,48.80221,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2483","vin":"WME4513901K690707","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sulzgrieser Steige 27, 73728 Esslingen am Neckar","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.30271,48.74998,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2424","vin":"WME4513901K672813","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 1, 73733 Esslingen am Neckar","city":"stuttgart","fuel":58,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.29381,48.75941,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2556","vin":"WME4513901K728421","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Fichtestraße 67, 71032 Böblingen","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.02146,48.6941,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1012","vin":"WME4513911K423654","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vaihinger Str. 84 - 86, 70567 Stuttgart","city":"stuttgart","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[9.14014,48.72759,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2557","vin":"WME4513901K728389","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Osumstraße 2, 70599 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":true,"coordinates":[9.20196,48.71218,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2568","vin":"WME4513901K728465","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Brunnenwiesen 74, 70619 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[9.21729,48.73389,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2552","vin":"WME4513901K728378","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Tiroler Straße 40, 70329 Stuttgart","city":"stuttgart","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[9.28225,48.77334,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2664","vin":"WME4513901K820496","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Züricher Straße 12 - 22, 70376 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.20717,48.8094,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2379","vin":"WME4513901K667052","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rosengartenstraße 25, 70184 Stuttgart","city":"stuttgart","fuel":63,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.22285,48.7602,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2460","vin":"WME4513901K682902","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kiefernweg 12, 70597 Stuttgart","city":"stuttgart","fuel":95,"exterior":"GOOD","charging":false,"coordinates":[9.1779,48.74475,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2176","vin":"WME4513901K649377","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mittlerer Pfad 27, 70499 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.09486,48.8213,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2282","vin":"WME4513901K662402","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Universitätsstraße 61, 70569 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.106,48.74466,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2583","vin":"WME4513901K728509","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlösslesweg 15, 73732 Esslingen am Neckar","city":"stuttgart","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[9.30769,48.75857,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2033","vin":"WME4513901K819511","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 32, 70372 Stuttgart","city":"stuttgart","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[9.21858,48.79781,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2208","vin":"WME4513901K650621","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Karl-Schurz-Straße 7, 70190 Stuttgart","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.20829,48.79682,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2571","vin":"WME4513901K728545","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kelterstraße 70, 73733 Esslingen am Neckar","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.29244,48.75362,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2608","vin":"WME4513901K819890","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nürnberger Straße 166 - 168, 70374 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[9.24214,48.80819,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2202","vin":"WME4513901K650564","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Birkenpilzstraße 7, 70599 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.20712,48.72966,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2652","vin":"WME4513901K820321","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Friedrich-Ebert-Straße 8, 71067 Sindelfingen","city":"stuttgart","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[9.01151,48.72669,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2265","vin":"WME4513901K657864","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Pfaffenwaldring 33, 70569 Stuttgart","city":"stuttgart","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[9.10303,48.74921,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1022","vin":"WME4513911K442742","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hasenbergsteige 53, 70197 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.15398,48.76598,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2582","vin":"WME4513901K728541","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hofwiesenstraße 45 - 49, 70839 Gerlingen (Umkreis 100m)","city":"stuttgart","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[9.06025,48.80459,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2545","vin":"WME4513901K728437","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Württembergstraße 46 - 50, 70327 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.26152,48.78539,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2484","vin":"WME4513901K698057","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedes-Jellinek-Straße, 70372 Stuttgart","city":"stuttgart","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[9.2312,48.78792,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2480","vin":"WME4513901K690733","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Heusteigstraße 54, 70180 Stuttgart","city":"stuttgart","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[9.17732,48.76895,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2169","vin":"WME4513901K650366","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Am Westkai 8, 70327 Stuttgart","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.25041,48.7712,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2444","vin":"WME4513901K683198","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wunnensteinstraße 42, 70186 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.20471,48.78,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2593","vin":"WME4513901K819740","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Steinhaldenstraße 175, 70378 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.23188,48.82711,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2546","vin":"WME4513901K728413","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rohrackerstraße 347, 70329 Stuttgart","city":"stuttgart","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[9.22321,48.75662,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2363","vin":"WME4513901K667396","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Stuttgarter Straße 19, 73734 Esslingen am Neckar","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.29857,48.73592,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2523","vin":"WME4513901K705777","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Honigwiesenstraße 21, 70563 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[9.09661,48.73227,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2224","vin":"WME4513901K649679","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Mercedesstraße 100, 70372 Stuttgart","city":"stuttgart","fuel":95,"exterior":"GOOD","charging":false,"coordinates":[9.23419,48.78917,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2665","vin":"WME4513901K820506","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hasenbergsteige 88, 70197 Stuttgart","city":"stuttgart","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[9.14774,48.76499,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"UL-ED1027","vin":"WME4513911K454854","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Dachswaldweg 92, 70569 Stuttgart","city":"stuttgart","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[9.11798,48.74487,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2007","vin":"WME4513911K453275","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Daimlerstraße 80, 70372 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[9.22031,48.80066,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2405","vin":"WME4513901K819667","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Güterbahnhof Gaisburg, 70188 Stuttgart","city":"stuttgart","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[9.22482,48.78534,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2159","vin":"WME4513901K819539","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ostendstraße 109, 70188 Stuttgart","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.20801,48.78243,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2532","vin":"WME4513901K705912","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ginsterweg 23, 70186 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.20712,48.7723,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2387","vin":"WME4513901K666754","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Gehrenwald Straße 5, 70327 Stuttgart","city":"stuttgart","fuel":75,"exterior":"GOOD","charging":true,"coordinates":[9.25736,48.78345,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2619","vin":"WME4513901K819995","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Landauer Straße 87, 70499 Stuttgart","city":"stuttgart","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[9.11639,48.81044,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2302","vin":"WME4513901K658396","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Vollmoellerstraße 17 B, 70563 Stuttgart","city":"stuttgart","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[9.10865,48.72731,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2542","vin":"WME4513901K728382","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Teinacher Straße 11, 70372 Stuttgart","city":"stuttgart","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[9.22119,48.81066,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2442","vin":"WME4513901K683172","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kocherstraße 2, 71065 Sindelfingen","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.00922,48.7067,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2214","vin":"WME4513901K649457","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bernsteinstraße 143\/Ecke Kemnater Straße, 70619","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.22479,48.73612,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2646","vin":"WME4513901K820273","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schlotterbeckstraße 9 - 11, 70327 Stuttgart (Umkreis 100m)","city":"stuttgart","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[9.24996,48.78379,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"B-GO6732","vin":"WME4513901K819645","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Schönbühlstraße 88, 70188 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.2103,48.78369,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2415","vin":"WME4513901K672916","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Nürnbergerstraße 106, 70374 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.24374,48.80839,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2408","vin":"WME4513901K672280","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Viehwasen 18 - 32, 70327 Stuttgart (Umkreis 300m)","city":"stuttgart","fuel":81,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.23567,48.77749,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2517","vin":"WME4513901K705687","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Wagenburgstraße 55, 70184 Stuttgart","city":"stuttgart","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[9.19811,48.78063,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2436","vin":"WME4513901K672045","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Rosensteinstraße 35, 70191 Stuttgart","city":"stuttgart","fuel":63,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.19374,48.79571,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2164","vin":"WME4513901K650546","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Auf dem Haigst 10, 70597 Stuttgart","city":"stuttgart","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[9.16898,48.75742,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2548","vin":"WME4513901K728401","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Galileistraße 74, 70565 Stuttgart","city":"stuttgart","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[9.11753,48.71573,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2388","vin":"WME4513901K667619","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Metzinger Straße 45, 70597 Stuttgart","city":"stuttgart","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[9.1712,48.74157,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2423","vin":"WME4513901K672789","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Im Haldenhau 19, 70565 Stuttgart","city":"stuttgart","fuel":97,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.10013,48.72043,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2663","vin":"WME4513901K820474","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Ernst-Reuter Platz 4,70499 Stuttgart","city":"stuttgart","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[9.09205,48.80334,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2617","vin":"WME4513901K819975","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Langer Weg 55, 73732 Esslingen am Neckar","city":"stuttgart","fuel":42,"exterior":"GOOD","charging":true,"coordinates":[9.3135,48.7571,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2410","vin":"WME4513901K672088","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sulzgrieser Steige 27, 73728 Esslingen am Neckar","city":"stuttgart","fuel":100,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.30275,48.74995,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2431","vin":"WME4513901K672887","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hainbuchenweg 28, 70597 Stuttgart","city":"stuttgart","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[9.18096,48.75,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"S-GO2588","vin":"WME4513901K728481","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Sommerhofenstraße 99, 71067 Sindelfingen","city":"stuttgart","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[9.01033,48.71957,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2458","vin":"WME4513901K682887","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Hölzelweg 1, 70191 Stuttgart","city":"stuttgart","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[9.178,48.80143,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2243","vin":"WME4513901K657937","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Spechtweg 40, 70499 Stuttgart","city":"stuttgart","fuel":41,"exterior":"GOOD","charging":true,"coordinates":[9.10586,48.80397,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2452","vin":"WME4513901K683247","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Unter dem Birkenkopf 17, 70197 Stuttgart","city":"stuttgart","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[9.14057,48.76864,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2406","vin":"WME4513901K672293","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Steinhaldenstraße 165, 70378 Stuttgart","city":"stuttgart","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[9.23184,48.82699,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2457","vin":"WME4513901K683162","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"In den Ringelgärten 79, 70374 Stuttgart","city":"stuttgart","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[9.24499,48.81583,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2425","vin":"WME4513901K672665","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Kammhaldenweg 16, 70619 Stuttgart","city":"stuttgart","fuel":67,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[9.24285,48.75058,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2285","vin":"WME4513901K658669","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"germany","address":"Bruno-Frank-Straße 20, 70619 Stuttgart","city":"stuttgart","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[9.2333,48.74783,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"S-GO2470","vin":"WME4513901K690930","time":"2015-10-04T22:02:49.121-0400"}

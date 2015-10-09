@@ -1,0 +1,5779 @@
+{
+	"placemarks": [
+		{
+			"address": "Green P-333 Eglinton Ave W(no double parking)",
+			"coordinates": [
+				-79.409,
+				43.70415,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BWJC 045",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB5EJ293090"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM930",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK619348"
+		},
+		{
+			"address": "Green P-77 Gough Ave(No Double Parking)",
+			"coordinates": [
+				-79.34629,
+				43.67948,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB065",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK570361"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 18,
+			"interior": "GOOD",
+			"name": "BNYB163",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK568671"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 40,
+			"interior": "GOOD",
+			"name": "BWJC167",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB4EJ293467"
+		},
+		{
+			"address": "Green P-1119 Queen St W(No Double Parking)",
+			"coordinates": [
+				-79.42421,
+				43.64295,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 14,
+			"interior": "GOOD",
+			"name": "BWJC165",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB2EJ293662"
+		},
+		{
+			"address": "Green P-301 Scott Rd(no double parking)",
+			"coordinates": [
+				-79.47238,
+				43.69034,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BVYC960",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EBXEJ288239"
+		},
+		{
+			"address": "Green P- 730 Mt Pleasant Rd (Underground)",
+			"coordinates": [
+				-79.38975,
+				43.7067,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 56,
+			"interior": "GOOD",
+			"name": "BWCH206",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB0EJ289738"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BNYB210",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK575327"
+		},
+		{
+			"address": "Green P-550 Mortimer Ave(No Double Parking)",
+			"coordinates": [
+				-79.3279,
+				43.69043,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 52,
+			"interior": "GOOD",
+			"name": "BWCH622",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB3EJ291404"
+		},
+		{
+			"address": "Green P- 730 Mt Pleasant Rd (Underground)",
+			"coordinates": [
+				-79.38975,
+				43.7067,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB061",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK573034"
+		},
+		{
+			"address": "Green P-75 Holly St (Park on top floor)",
+			"coordinates": [
+				-79.39635,
+				43.70647,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BPNM927",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK621947"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 70,
+			"interior": "GOOD",
+			"name": "BWJC249",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB1EJ291272"
+		},
+		{
+			"address": "Green P-1119 Queen St W(No Double Parking)",
+			"coordinates": [
+				-79.42421,
+				43.64295,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB062",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK572935"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB335",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573966"
+		},
+		{
+			"address": "Green P-116 Winners Circle(No Double Parking)",
+			"coordinates": [
+				-79.31074,
+				43.66711,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB071",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK563054"
+		},
+		{
+			"address": "Green P-265 Willard Ave(no double parking)",
+			"coordinates": [
+				-79.48177,
+				43.65043,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BVKH370",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK562583"
+		},
+		{
+			"address": "Canada Wide-72 Tecumseth St(2 cars/space| surface)",
+			"coordinates": [
+				-79.40514,
+				43.64276,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL750",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK641634"
+		},
+		{
+			"address": "Green P-166 Woodbine Ave(No Double Parking)",
+			"coordinates": [
+				-79.30573,
+				43.66835,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BTTE446",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9EK769586"
+		},
+		{
+			"address": "Green P-2053 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44638,
+				43.6866,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BPXL703",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK644016"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM951",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK621982"
+		},
+		{
+			"address": "Green P-1119 Queen St W(No Double Parking)",
+			"coordinates": [
+				-79.42421,
+				43.64295,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BPNM943",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK621118"
+		},
+		{
+			"address": "Green P-111 Broadview Ave(No Double Parking)",
+			"coordinates": [
+				-79.34977,
+				43.65918,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPXL717",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK642485"
+		},
+		{
+			"address": "Green P-116 Winners Circle(No Double Parking)",
+			"coordinates": [
+				-79.31074,
+				43.66711,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BNYB219",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK569536"
+		},
+		{
+			"address": "Green P-30 Alvin Avenue(no double parking)",
+			"coordinates": [
+				-79.393,
+				43.68921,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BPXL719",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK643779"
+		},
+		{
+			"address": "Green P-21 Pleasant Blvd(no double parking)",
+			"coordinates": [
+				-79.39267,
+				43.68725,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB096",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK569380"
+		},
+		{
+			"address": "Green P-10 Portland St(No Double Parking)",
+			"coordinates": [
+				-79.39916,
+				43.64164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BPXL726",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK643640"
+		},
+		{
+			"address": "Green P-35 Bellevue Ave(no double parking)",
+			"coordinates": [
+				-79.40318,
+				43.65418,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM952",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK619223"
+		},
+		{
+			"address": "Green P-333 Eglinton Ave W(no double parking)",
+			"coordinates": [
+				-79.409,
+				43.70415,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB279",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK574500"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB339",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573255"
+		},
+		{
+			"address": "Green P-550 Mortimer Ave(No Double Parking)",
+			"coordinates": [
+				-79.3279,
+				43.69043,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 12,
+			"interior": "GOOD",
+			"name": "BNYB300",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK575662"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE436",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6EK769027"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL730",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK642036"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB079",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK574943"
+		},
+		{
+			"address": "Green P-31 Langford Avenue(no double parking)",
+			"coordinates": [
+				-79.34075,
+				43.68061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BPNM992",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK621952"
+		},
+		{
+			"address": "Green P-341 Oakwood Ave(no double parking)",
+			"coordinates": [
+				-79.43819,
+				43.68648,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB167",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK569612"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB177",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562818"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB322",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK574838"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB166",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK569562"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB045",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK573534"
+		},
+		{
+			"address": "Green P- 730 Mt Pleasant Rd (Underground)",
+			"coordinates": [
+				-79.38975,
+				43.7067,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB267",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK575606"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB241",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573379"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB259",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK575296"
+		},
+		{
+			"address": "Green P-1155 King St W(No Double Parking)",
+			"coordinates": [
+				-79.42401,
+				43.63786,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB184",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK568330"
+		},
+		{
+			"address": "Green P-265 Durie St(no double parking)",
+			"coordinates": [
+				-79.47924,
+				43.65122,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BNYB048",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK573705"
+		},
+		{
+			"address": "Green P-550 Mortimer Ave(No Double Parking)",
+			"coordinates": [
+				-79.3279,
+				43.69043,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB348",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK570735"
+		},
+		{
+			"address": "Green P-1117 Dundas St W(No Double Parking)",
+			"coordinates": [
+				-79.42014,
+				43.64927,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB317",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK572825"
+		},
+		{
+			"address": "TargetPark-985 Woodbine Ave(no double parking)",
+			"coordinates": [
+				-79.31193,
+				43.68654,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BPXL724",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK643010"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BNYB203",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK570208"
+		},
+		{
+			"address": "Green P-116 Winners Circle(No Double Parking)",
+			"coordinates": [
+				-79.31074,
+				43.66711,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BPXL710",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK642011"
+		},
+		{
+			"address": "Green P-166 Woodbine Ave(No Double Parking)",
+			"coordinates": [
+				-79.30573,
+				43.66835,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB304",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK575496"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BPXL723",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK642195"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB218",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK569701"
+		},
+		{
+			"address": "Green P-37 Queen St E(park on top floor)",
+			"coordinates": [
+				-79.37726,
+				43.65274,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB192",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK574384"
+		},
+		{
+			"address": "Green P-405 Sherbourne Ave(No Double Parking)",
+			"coordinates": [
+				-79.3735,
+				43.66452,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB308",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK561947"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 87,
+			"interior": "GOOD",
+			"name": "BPNM955",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7DK621516"
+		},
+		{
+			"address": "Green P-800 Fleet St(No Double Parking)",
+			"coordinates": [
+				-79.40972,
+				43.63691,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB109",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK568852"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB063",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK572692"
+		},
+		{
+			"address": "Mercedes Benz Downtown (4 Spaces at front)",
+			"coordinates": [
+				-79.35673,
+				43.66143,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB216",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK569326"
+		},
+		{
+			"address": "Simcoe St 202, M5T Toronto",
+			"coordinates": [
+				-79.38857,
+				43.65194,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPNM934",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK619424"
+		},
+		{
+			"address": "Mercedes Benz Downtown (4 Spaces at front)",
+			"coordinates": [
+				-79.35673,
+				43.66143,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB309",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK562676"
+		},
+		{
+			"address": "CVPA - 10 Milepost Place(on street, 3 cars only)",
+			"coordinates": [
+				-79.34692,
+				43.70301,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BNYB208",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK574047"
+		},
+		{
+			"address": "Green P-1141 Eastern Ave(No Double Parking)",
+			"coordinates": [
+				-79.31446,
+				43.66575,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 12,
+			"interior": "GOOD",
+			"name": "BNYB340",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK575312"
+		},
+		{
+			"address": "Unit Park-73 The Esplanade(surface lot)",
+			"coordinates": [
+				-79.3733,
+				43.64703,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BSAE682",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK570307"
+		},
+		{
+			"address": "Green P-25 Ferrier Ave(no double parking)",
+			"coordinates": [
+				-79.34838,
+				43.67901,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB182",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK563273"
+		},
+		{
+			"address": "Impark-65 Navy Wharf(underground garage, 5 spaces)",
+			"coordinates": [
+				-79.39161,
+				43.64111,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE409",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK767699"
+		},
+		{
+			"address": "Green P-670 Pape Ave(No Double Parking)",
+			"coordinates": [
+				-79.34477,
+				43.67815,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BNYB175",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK570569"
+		},
+		{
+			"address": "Impark-131 Pears Ave (2 dedicated spaces only)",
+			"coordinates": [
+				-79.39933,
+				43.67502,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM975",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK621728"
+		},
+		{
+			"address": "Green P-136 Broadview(No Double Parking)",
+			"coordinates": [
+				-79.35038,
+				43.6598,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 81,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB288",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK569269"
+		},
+		{
+			"address": "Green P-16 Riverview Gardens(No Double Parking)",
+			"coordinates": [
+				-79.48666,
+				43.64889,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BTTE418",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK763203"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB377",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK570045"
+		},
+		{
+			"address": "Green P-121 St Patrick St(No Double Parking)",
+			"coordinates": [
+				-79.38936,
+				43.65369,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB093",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK569718"
+		},
+		{
+			"address": "Green P-55 Mill St(surface lot, not underground)",
+			"coordinates": [
+				-79.36169,
+				43.64955,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BTTE414",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK768979"
+		},
+		{
+			"address": "Green P-14 Arundel Ave(No Double Parking)",
+			"coordinates": [
+				-79.35122,
+				43.67846,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB095",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK569542"
+		},
+		{
+			"address": "Green P-166 Woodbine Ave(No Double Parking)",
+			"coordinates": [
+				-79.30573,
+				43.66835,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 18,
+			"interior": "GOOD",
+			"name": "BWJC 296",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB7EJ294435"
+		},
+		{
+			"address": "Unit Park-73 The Esplanade(surface lot)",
+			"coordinates": [
+				-79.3733,
+				43.64703,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BNYB195",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK562707"
+		},
+		{
+			"address": "Green P-72 Amroth Ave(No Double Parking)",
+			"coordinates": [
+				-79.31171,
+				43.68538,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BNYB366",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK572863"
+		},
+		{
+			"address": "Green P-20 Eaton Ave(no double parking)",
+			"coordinates": [
+				-79.34395,
+				43.67995,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB153",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK570095"
+		},
+		{
+			"address": "Green P-1169 Weston Rd(No Double Parking)",
+			"coordinates": [
+				-79.4903,
+				43.68744,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB373",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK569770"
+		},
+		{
+			"address": "East York Town Centre (2 cars/space, 4 cars MAX)",
+			"coordinates": [
+				-79.34796,
+				43.7061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BPNM958",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK618821"
+		},
+		{
+			"address": "Canada Wide-72 Tecumseth St(2 cars/space| surface)",
+			"coordinates": [
+				-79.40514,
+				43.64276,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BPNM968",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK622061"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB122",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK573436"
+		},
+		{
+			"address": "Where I Park-155 Wellesley St E (rsvd spaces only)",
+			"coordinates": [
+				-79.37547,
+				43.66604,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BPNM982",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK619459"
+		},
+		{
+			"address": "Impark-65 Navy Wharf(underground garage, 5 spaces)",
+			"coordinates": [
+				-79.39161,
+				43.64111,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BTTE427",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4EK768670"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BNYB336",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573546"
+		},
+		{
+			"address": "Where I Park-1941 Yonge St(surface lot)",
+			"coordinates": [
+				-79.39653,
+				43.69895,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB178",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562835"
+		},
+		{
+			"address": "Targetpark-539 King St W(1 Spot, see attendant)",
+			"coordinates": [
+				-79.39813,
+				43.64446,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB240",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573074"
+		},
+		{
+			"address": "Green P-92 Margueretta Ave(No Double Parking)",
+			"coordinates": [
+				-79.44014,
+				43.65941,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM965",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK621606"
+		},
+		{
+			"address": "Green P-11 Kenwood Ave(No Double Parking)",
+			"coordinates": [
+				-79.42186,
+				43.683,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BPNM932",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK621388"
+		},
+		{
+			"address": "Green P-157 Beatrice St(No Double Parking)",
+			"coordinates": [
+				-79.41641,
+				43.65467,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BNYB370",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK568991"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB256",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK573278"
+		},
+		{
+			"address": "Mercedes-Benz Midtown (1 spot in back, 1 car only)",
+			"coordinates": [
+				-79.36086,
+				43.71258,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB215",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK568385"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BNYB199",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK569530"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 87,
+			"interior": "GOOD",
+			"name": "BPNM921",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK622022"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB297",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK574348"
+		},
+		{
+			"address": "Green P-111 Broadview Ave(No Double Parking)",
+			"coordinates": [
+				-79.34977,
+				43.65918,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB112",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK569189"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL704",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK642615"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB376",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK569980"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BVMZ 448",
+			"smartPhoneRequired": true,
+			"vin": "WDDMH4EB3EJ277311"
+		},
+		{
+			"address": "CVPA - 49 Geary Ave(on street, 3 cars only)",
+			"coordinates": [
+				-79.43184,
+				43.67093,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB064",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK570621"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB169",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK569660"
+		},
+		{
+			"address": "Green P-91 Via Italia(Park on Top Floor)",
+			"coordinates": [
+				-79.44503,
+				43.67689,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPXL741",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK641714"
+		},
+		{
+			"address": "UOS-21 Booth Ave (3 spaces| 6 cars MAX)",
+			"coordinates": [
+				-79.34141,
+				43.65541,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 24,
+			"interior": "GOOD",
+			"name": "BTTE431",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5EK768516"
+		},
+		{
+			"address": "Green P-251 MacPherson(no double parking)",
+			"coordinates": [
+				-79.40008,
+				43.67743,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB164",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK568878"
+		},
+		{
+			"address": "Green P-16 Riverview Gardens(No Double Parking)",
+			"coordinates": [
+				-79.48666,
+				43.64889,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BPNM994",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK619318"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE445",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9EK768504"
+		},
+		{
+			"address": "Green P-37 Queen St E(park on top floor)",
+			"coordinates": [
+				-79.37726,
+				43.65274,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 87,
+			"interior": "GOOD",
+			"name": "BNYB105",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK563909"
+		},
+		{
+			"address": "Green P-20 Eaton Ave(no double parking)",
+			"coordinates": [
+				-79.34395,
+				43.67995,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 100,
+			"interior": "UNACCEPTABLE",
+			"name": "BPXL742",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK641891"
+		},
+		{
+			"address": "Green P-18 Ferrier Ave(no double parking)",
+			"coordinates": [
+				-79.34866,
+				43.67896,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB084",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK573834"
+		},
+		{
+			"address": "Wellington St W 567, M5V Toronto",
+			"coordinates": [
+				-79.40262,
+				43.64239,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 15,
+			"interior": "GOOD",
+			"name": "BPXL734",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK642076"
+		},
+		{
+			"address": "Green P-31 Langford Avenue(no double parking)",
+			"coordinates": [
+				-79.34075,
+				43.68061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BTTE430",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5EK767902"
+		},
+		{
+			"address": "Green P-573 Gerrard St E(No Double Parking)",
+			"coordinates": [
+				-79.35316,
+				43.6652,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM941",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK619434"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM984",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK619722"
+		},
+		{
+			"address": "Green P-44 Parliament St(No Double Parking)",
+			"coordinates": [
+				-79.36302,
+				43.65012,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB289",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK569367"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BPXL735",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK642093"
+		},
+		{
+			"address": "UOS-21 Booth Ave (3 spaces| 6 cars MAX)",
+			"coordinates": [
+				-79.34141,
+				43.65541,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB120",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK573209"
+		},
+		{
+			"address": "Boston Ave 90, M4M Toronto",
+			"coordinates": [
+				-79.33947,
+				43.6631,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE429",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5EK767768"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BPNM961",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK619399"
+		},
+		{
+			"address": "1550 Queen St E(2 spaces| 2 cars ONLY!!!!)",
+			"coordinates": [
+				-79.31958,
+				43.66579,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BTTE406",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0EK768911"
+		},
+		{
+			"address": "Mercedes Benz Downtown (4 Spaces at front)",
+			"coordinates": [
+				-79.35673,
+				43.66143,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BPNM953",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK622012"
+		},
+		{
+			"address": "Green P-2053 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44638,
+				43.6866,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB283",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK575436"
+		},
+		{
+			"address": "Green P-15 Price St(No Double Parking)",
+			"coordinates": [
+				-79.39001,
+				43.67981,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB314",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK574032"
+		},
+		{
+			"address": "Green P-101 Cedarvale Ave(No Double Parking)",
+			"coordinates": [
+				-79.31115,
+				43.68681,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM964",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK620830"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPXL728",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK642691"
+		},
+		{
+			"address": "Green P-10 Portland St(No Double Parking)",
+			"coordinates": [
+				-79.39916,
+				43.64164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB049",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562611"
+		},
+		{
+			"address": "East York Town Centre (2 cars/space, 4 cars MAX)",
+			"coordinates": [
+				-79.34796,
+				43.7061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BTTE412",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK768464"
+		},
+		{
+			"address": "TargetPark-1 Oriole(under apt, along North wall)",
+			"coordinates": [
+				-79.3999,
+				43.68746,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BNYB255",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK573247"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BPXL747",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK644029"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB334",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK574017"
+		},
+		{
+			"address": "Green P-136 Broadview(No Double Parking)",
+			"coordinates": [
+				-79.35038,
+				43.6598,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BPNM970",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK619928"
+		},
+		{
+			"address": "Green P-700 St Clair Ave W(No Double Parking)",
+			"coordinates": [
+				-79.42679,
+				43.68178,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BPNM981",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK618876"
+		},
+		{
+			"address": "Green P-2053 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44638,
+				43.6866,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB055",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK574796"
+		},
+		{
+			"address": "Where I Park-155 Wellesley St E (rsvd spaces only)",
+			"coordinates": [
+				-79.37547,
+				43.66604,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE438",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7EK767951"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB313",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573933"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB287",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK562511"
+		},
+		{
+			"address": "CVPA - 49 Geary Ave(on street, 3 cars only)",
+			"coordinates": [
+				-79.43184,
+				43.67093,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BNYB345",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK563265"
+		},
+		{
+			"address": "TTC Commuter lot- 139 Indian Grove (4 Cars only)",
+			"coordinates": [
+				-79.45712,
+				43.6558,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 39,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB325",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK574857"
+		},
+		{
+			"address": "Green P-20 Eaton Ave(no double parking)",
+			"coordinates": [
+				-79.34395,
+				43.67995,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB191",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK574885"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB278",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK573217"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BTTE402",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0EK767967"
+		},
+		{
+			"address": "Canada Wide-2451 Danforth Ave(Sobeys west lot)",
+			"coordinates": [
+				-79.30451,
+				43.68736,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB307",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK575936"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BPXL731",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK642778"
+		},
+		{
+			"address": "Green P-1 Shortt St (No Double Parking)",
+			"coordinates": [
+				-79.4518,
+				43.69595,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB302",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK575059"
+		},
+		{
+			"address": "Green P-1155 King St W(No Double Parking)",
+			"coordinates": [
+				-79.42401,
+				43.63786,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BTTE401",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0EK767936"
+		},
+		{
+			"address": "Green P-34 Hanna Ave(no double parking)",
+			"coordinates": [
+				-79.41991,
+				43.63798,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BPNM983",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK619509"
+		},
+		{
+			"address": "Green P-51 Aberdeen Ave(2 CARS MAX)",
+			"coordinates": [
+				-79.36878,
+				43.66467,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB217",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK569729"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BNYB371",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK569235"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM963",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK619967"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BPNM995",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK619269"
+		},
+		{
+			"address": "Green P-85 Lee Ave(No Double Parking)",
+			"coordinates": [
+				-79.29762,
+				43.67004,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB311",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK568493"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE444",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9EK768311"
+		},
+		{
+			"address": "Where I Park-177 Pendrith Ave(enter off roblocke)",
+			"coordinates": [
+				-79.42535,
+				43.66483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB100",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK562856"
+		},
+		{
+			"address": "Green P-789 St Clair Ave W(No Double Parking)",
+			"coordinates": [
+				-79.42955,
+				43.68058,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB282",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK574495"
+		},
+		{
+			"address": "Mercedes Benz Downtown (4 Spaces at front)",
+			"coordinates": [
+				-79.35673,
+				43.66143,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB180",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562883"
+		},
+		{
+			"address": "CVPA - 49 Geary Ave(on street, 3 cars only)",
+			"coordinates": [
+				-79.43184,
+				43.67093,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB176",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK570751"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL716",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK642454"
+		},
+		{
+			"address": "Green P-12 Woodycrest Ave(No Double Parking)",
+			"coordinates": [
+				-79.34213,
+				43.6804,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BWCV929",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK574869"
+		},
+		{
+			"address": "Where I Park-40 High Park Ave(2 spaces only)",
+			"coordinates": [
+				-79.46635,
+				43.65516,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 15,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB173",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK569776"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB355",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK569408"
+		},
+		{
+			"address": "Green P-2054 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44681,
+				43.68661,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BPXL705",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK642789"
+		},
+		{
+			"address": "Green P-45 Bay Street(No Double Parking)",
+			"coordinates": [
+				-79.378,
+				43.64379,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB276",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK569507"
+		},
+		{
+			"address": "Green P-121 St Patrick St(No Double Parking)",
+			"coordinates": [
+				-79.38936,
+				43.65369,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BPNM931",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK621133"
+		},
+		{
+			"address": "Green P-1167 Eastern Ave(No Double Parking)",
+			"coordinates": [
+				-79.31305,
+				43.66599,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB099",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK563098"
+		},
+		{
+			"address": "Green P-3354 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.4819,
+				43.66567,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL718",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK643233"
+		},
+		{
+			"address": "Canada Wide-18 Wynford Dr(4 spaces, 2 cars/space)",
+			"coordinates": [
+				-79.33726,
+				43.72426,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BPNM938",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK620699"
+		},
+		{
+			"address": "Green P-75 Holly St (Park on top floor)",
+			"coordinates": [
+				-79.39635,
+				43.70647,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "UNACCEPTABLE",
+			"name": "BTTE450",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXEK768043"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BNYB115",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK570634"
+		},
+		{
+			"address": "Green P-1695 Dufferin St(Entrance on Westmount)",
+			"coordinates": [
+				-79.44236,
+				43.67864,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 18,
+			"interior": "GOOD",
+			"name": "BNYB107",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK568253"
+		},
+		{
+			"address": "Green P-166 Woodbine Ave(No Double Parking)",
+			"coordinates": [
+				-79.30573,
+				43.66835,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB315",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK574578"
+		},
+		{
+			"address": "Where I Park-1275 Danforth Ave(laneway parking)",
+			"coordinates": [
+				-79.32955,
+				43.68095,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB301",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK573814"
+		},
+		{
+			"address": "Green P-16 Riverview Gardens(No Double Parking)",
+			"coordinates": [
+				-79.48666,
+				43.64889,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM929",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK619172"
+		},
+		{
+			"address": "Green P-251 MacPherson(no double parking)",
+			"coordinates": [
+				-79.40008,
+				43.67743,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB211",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK562540"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BTTE443",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9EK767918"
+		},
+		{
+			"address": "Green P-192 Boardwalk Dr(no double parking)",
+			"coordinates": [
+				-79.30683,
+				43.6681,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB183",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK563306"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB200",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK570127"
+		},
+		{
+			"address": "Impark-2400 Yonge St (2 dedicated spaces only)",
+			"coordinates": [
+				-79.4001,
+				43.71068,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB341",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK562553"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BPXL736",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK642448"
+		},
+		{
+			"address": "Green P-116 Winners Circle(No Double Parking)",
+			"coordinates": [
+				-79.31074,
+				43.66711,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BTTE403",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0EK768293"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB214",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK568208"
+		},
+		{
+			"address": "Green P-11 Kenwood Ave(No Double Parking)",
+			"coordinates": [
+				-79.42186,
+				43.683,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB057",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK574006"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM950",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK621738"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BPNM986",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK620725"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB162",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK568265"
+		},
+		{
+			"address": "Green P-14 Arundel Ave(No Double Parking)",
+			"coordinates": [
+				-79.35122,
+				43.67846,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB050",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562589"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL712",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK642655"
+		},
+		{
+			"address": "Green P-34 Hanna Ave(no double parking)",
+			"coordinates": [
+				-79.41991,
+				43.63798,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BTTE410",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK768142"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB066",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK570084"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BPNM924",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK621526"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BPNM922",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK621249"
+		},
+		{
+			"address": "CVPA - 1094 Davenport Rd(on street, 3 cars only)",
+			"coordinates": [
+				-79.42994,
+				43.67478,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB181",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562947"
+		},
+		{
+			"address": "Green P-85 Lee Ave(No Double Parking)",
+			"coordinates": [
+				-79.29762,
+				43.67004,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB206",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK573299"
+		},
+		{
+			"address": "Wellington St W 569, M5V Toronto",
+			"coordinates": [
+				-79.40267,
+				43.6424,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BPNM987",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK621506"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB186",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562799"
+		},
+		{
+			"address": "Silver Ave 74, M6R Toronto",
+			"coordinates": [
+				-79.44815,
+				43.65314,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB172",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK569597"
+		},
+		{
+			"address": "Green P-21 Pleasant Blvd(no double parking)",
+			"coordinates": [
+				-79.39267,
+				43.68725,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB185",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK568960"
+		},
+		{
+			"address": "CVPA - 10 Milepost Place(on street, 3 cars only)",
+			"coordinates": [
+				-79.34692,
+				43.70301,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB358",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK569957"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 30,
+			"interior": "GOOD",
+			"name": "BPXL749",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK644248"
+		},
+		{
+			"address": "CVPA - 75 Niagara St(on street, 3 cars only)",
+			"coordinates": [
+				-79.40386,
+				43.64147,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB111",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK568950"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM974",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK621471"
+		},
+		{
+			"address": "Green P-912 Eglinton Ave W(No Double Parking)",
+			"coordinates": [
+				-79.42793,
+				43.70071,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB074",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK567743"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB265",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK575511"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB305",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK575711"
+		},
+		{
+			"address": "Where I Park-40 High Park Ave(2 spaces only)",
+			"coordinates": [
+				-79.46635,
+				43.65516,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BNYB284",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK576845"
+		},
+		{
+			"address": "Impark-411 Church St(5 spaces)",
+			"coordinates": [
+				-79.37922,
+				43.66247,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BTTE411",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK768156"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB114",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK570486"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB303",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK575174"
+		},
+		{
+			"address": "Green P-20 St. Andrew St(no double parking)",
+			"coordinates": [
+				-79.40008,
+				43.6543,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BNYB194",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK562657"
+		},
+		{
+			"address": "Green P-75 Holly St (Park on top floor)",
+			"coordinates": [
+				-79.39635,
+				43.70647,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB295",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK574088"
+		},
+		{
+			"address": "Green P-25 Ferrier Ave(no double parking)",
+			"coordinates": [
+				-79.34838,
+				43.67901,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB086",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK572957"
+		},
+		{
+			"address": "Green P-10 Portland St(No Double Parking)",
+			"coordinates": [
+				-79.39916,
+				43.64164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB291",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK573158"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "UNACCEPTABLE",
+			"name": "BNYB290",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK570437"
+		},
+		{
+			"address": "Green P-37 Queen St E(park on top floor)",
+			"coordinates": [
+				-79.37726,
+				43.65274,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BPXL725",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK643248"
+		},
+		{
+			"address": "Green P-1169 Weston Rd(No Double Parking)",
+			"coordinates": [
+				-79.4903,
+				43.68744,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL746",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK643897"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB190",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK574918"
+		},
+		{
+			"address": "Targetpark-539 King St W(1 Spot, see attendant)",
+			"coordinates": [
+				-79.39813,
+				43.64446,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL715",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK644079"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BPXL714",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK643448"
+		},
+		{
+			"address": "Green P-1117 Dundas St W(No Double Parking)",
+			"coordinates": [
+				-79.42014,
+				43.64927,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB328",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK574802"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BNYB268",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK563349"
+		},
+		{
+			"address": "Green P-1141 Eastern Ave(No Double Parking)",
+			"coordinates": [
+				-79.31446,
+				43.66575,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB209",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK574923"
+		},
+		{
+			"address": "Green P-75 Holly St (Park on top floor)",
+			"coordinates": [
+				-79.39635,
+				43.70647,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BNYB351",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK564046"
+		},
+		{
+			"address": "Green P-1169 Weston Rd(No Double Parking)",
+			"coordinates": [
+				-79.4903,
+				43.68744,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL720",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK643975"
+		},
+		{
+			"address": "Green P-15 Wellesley St. e(No Double Parking)",
+			"coordinates": [
+				-79.38359,
+				43.66484,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 15,
+			"interior": "UNACCEPTABLE",
+			"name": "BPNM947",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK622425"
+		},
+		{
+			"address": "Green P-17 Eaton Ave(N of Danforth)",
+			"coordinates": [
+				-79.3432,
+				43.68008,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BPNM959",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK619242"
+		},
+		{
+			"address": "Green P-25 Ferrier Ave(no double parking)",
+			"coordinates": [
+				-79.34838,
+				43.67901,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BTTE419",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK767557"
+		},
+		{
+			"address": "Where I Park-480 Adelaide St W(3 rsvd spaces)",
+			"coordinates": [
+				-79.39985,
+				43.64599,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB368",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573009"
+		},
+		{
+			"address": "Green P-37 Queen St E(park on top floor)",
+			"coordinates": [
+				-79.37726,
+				43.65274,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE416",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2EK768456"
+		},
+		{
+			"address": "Impark-411 Church St(5 spaces)",
+			"coordinates": [
+				-79.37922,
+				43.66247,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB281",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK574402"
+		},
+		{
+			"address": "Green P-15 Wellesley St. e(No Double Parking)",
+			"coordinates": [
+				-79.38359,
+				43.66484,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BPXL711",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK642154"
+		},
+		{
+			"address": "Green P-1612 Danforth Ave(No Double Parking)",
+			"coordinates": [
+				-79.32285,
+				43.68392,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BPXL721",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK644205"
+		},
+		{
+			"address": "Green P-405 Sherbourne Ave(No Double Parking)",
+			"coordinates": [
+				-79.3735,
+				43.66452,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB372",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK569655"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB152",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK569707"
+		},
+		{
+			"address": "Green P-2201 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.45117,
+				43.65337,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BNYB090",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK570299"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB118",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK572979"
+		},
+		{
+			"address": "Green P-111 Broadview Ave(No Double Parking)",
+			"coordinates": [
+				-79.34977,
+				43.65918,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BTTE417",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2EK768831"
+		},
+		{
+			"address": "TTC Commuter lot- 139 Indian Grove (4 Cars only)",
+			"coordinates": [
+				-79.45712,
+				43.6558,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BSVM700",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK642595"
+		},
+		{
+			"address": "Green P-265 Armadale Ave(no double parking)",
+			"coordinates": [
+				-79.48304,
+				43.65028,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BNYB380",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573057"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM972",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK621713"
+		},
+		{
+			"address": "Green P-197 Blantyre Ave(no double parking)",
+			"coordinates": [
+				-79.2815,
+				43.68177,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL732",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK642828"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BTTE447",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXEK767524"
+		},
+		{
+			"address": "Green P-2053 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44638,
+				43.6866,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPXL713",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK643398"
+		},
+		{
+			"address": "Impark-411 Church St(5 spaces)",
+			"coordinates": [
+				-79.37922,
+				43.66247,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM939",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK621481"
+		},
+		{
+			"address": "1550 Queen St E(2 spaces| 2 cars ONLY!!!!)",
+			"coordinates": [
+				-79.31958,
+				43.66579,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB367",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK572913"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB357",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK573540"
+		},
+		{
+			"address": "Where I Park-480 Adelaide St W(3 rsvd spaces)",
+			"coordinates": [
+				-79.39985,
+				43.64599,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB092",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK569878"
+		},
+		{
+			"address": "Impark-2400 Yonge St (2 dedicated spaces only)",
+			"coordinates": [
+				-79.4001,
+				43.71068,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BPNM940",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK619353"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BPNM925",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK620815"
+		},
+		{
+			"address": "Green P-92 Margueretta Ave(No Double Parking)",
+			"coordinates": [
+				-79.44014,
+				43.65941,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BNYB369",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK573764"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB087",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK572876"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB154",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK570100"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB083",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK574157"
+		},
+		{
+			"address": "CVPA - 1094 Davenport Rd(on street, 3 cars only)",
+			"coordinates": [
+				-79.42994,
+				43.67478,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM980",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK621927"
+		},
+		{
+			"address": "Green P-121 St Patrick St(No Double Parking)",
+			"coordinates": [
+				-79.38936,
+				43.65369,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB198",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK568796"
+		},
+		{
+			"address": "Edmund Ave 16, M4V Toronto",
+			"coordinates": [
+				-79.40094,
+				43.68269,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BPXL737",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK642935"
+		},
+		{
+			"address": "Brookfield St 18, M6J Toronto",
+			"coordinates": [
+				-79.42016,
+				43.64428,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM988",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK622574"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM954",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7DK619524"
+		},
+		{
+			"address": "Green P-3354 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.4819,
+				43.66567,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB170",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK568689"
+		},
+		{
+			"address": "Green P-31 Blackthorne Ave(no double parking)",
+			"coordinates": [
+				-79.45888,
+				43.67527,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BNYB330",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK575822"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BPXL745",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK643821"
+		},
+		{
+			"address": "Green P-1607 Eglinton Ave W(No Double Parking)",
+			"coordinates": [
+				-79.44373,
+				43.69695,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB292",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK573564"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB059",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK573485"
+		},
+		{
+			"address": "TargetPark-731 College St w(3 spaces, double park)",
+			"coordinates": [
+				-79.41936,
+				43.65463,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BTTE448",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXEK767538"
+		},
+		{
+			"address": "Four Points By Sheraton (enter off American Dr)",
+			"coordinates": [
+				-79.62055,
+				43.69046,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM979",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK620653"
+		},
+		{
+			"address": "Green P-2054 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44681,
+				43.68661,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 93,
+			"interior": "GOOD",
+			"name": "BTTE449",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXEK767605"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB337",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573403"
+		},
+		{
+			"address": "Green P-1167 Eastern Ave(No Double Parking)",
+			"coordinates": [
+				-79.31305,
+				43.66599,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM978",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK619941"
+		},
+		{
+			"address": "Green P-2700 Eglinton Ave W(no double parking)",
+			"coordinates": [
+				-79.47776,
+				43.69034,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB331",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK562495"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 39,
+			"interior": "GOOD",
+			"name": "BNYB321",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK574590"
+		},
+		{
+			"address": "On street-18 Emily St(extra parking in garage)",
+			"coordinates": [
+				-79.38511,
+				43.64659,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB320",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK574332"
+		},
+		{
+			"address": "Green P-2053 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44638,
+				43.6866,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB069",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK567704"
+		},
+		{
+			"address": "Green P-3354 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.4819,
+				43.66567,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BPNM990",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK621885"
+		},
+		{
+			"address": "Green P-789 St Clair Ave W(No Double Parking)",
+			"coordinates": [
+				-79.42955,
+				43.68058,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 18,
+			"interior": "GOOD",
+			"name": "BNYB151",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK570615"
+		},
+		{
+			"address": "Green P-1167 Eastern Ave(No Double Parking)",
+			"coordinates": [
+				-79.31305,
+				43.66599,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BTTE408",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK767430"
+		},
+		{
+			"address": "Green P-1119 Queen St W(No Double Parking)",
+			"coordinates": [
+				-79.42421,
+				43.64295,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 15,
+			"interior": "GOOD",
+			"name": "BPNM993",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK620825"
+		},
+		{
+			"address": "Green P-745 Ossington Ave(No Double Parking)",
+			"coordinates": [
+				-79.42565,
+				43.66243,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BTTE407",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK763197"
+		},
+		{
+			"address": "Green P-35 Bellevue Ave(no double parking)",
+			"coordinates": [
+				-79.40318,
+				43.65418,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE415",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1EK769016"
+		},
+		{
+			"address": "Green P-1503 Bayview Ave(No Double Parking)",
+			"coordinates": [
+				-79.37411,
+				43.7039,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB356",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK569764"
+		},
+		{
+			"address": "Green P-265 Armadale Ave(no double parking)",
+			"coordinates": [
+				-79.48304,
+				43.65028,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BNYB058",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK573499"
+		},
+		{
+			"address": "Green P-1155 King St W(No Double Parking)",
+			"coordinates": [
+				-79.42401,
+				43.63786,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB113",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK570018"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB329",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK574931"
+		},
+		{
+			"address": "Impark-411 Church St(5 spaces)",
+			"coordinates": [
+				-79.37922,
+				43.66247,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BPNM960",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK619323"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB312",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK568929"
+		},
+		{
+			"address": "Green P-405 Sherbourne Ave(No Double Parking)",
+			"coordinates": [
+				-79.3735,
+				43.66452,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB353",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK568341"
+		},
+		{
+			"address": "Holly St 36, M4S Toronto",
+			"coordinates": [
+				-79.39631,
+				43.7056,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB306",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK575756"
+		},
+		{
+			"address": "Green P-405 Sherbourne Ave(No Double Parking)",
+			"coordinates": [
+				-79.3735,
+				43.66452,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB081",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK574425"
+		},
+		{
+			"address": "Canada Wide-2451 Danforth Ave(Sobeys west lot)",
+			"coordinates": [
+				-79.30451,
+				43.68736,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB158",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK562823"
+		},
+		{
+			"address": "Green P-351 Keele Street(no double parking)",
+			"coordinates": [
+				-79.46368,
+				43.66481,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BPXL739",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK644121"
+		},
+		{
+			"address": "Pears Ave 3, M5R Toronto",
+			"coordinates": [
+				-79.38939,
+				43.67609,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB196",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK562934"
+		},
+		{
+			"address": "Green P-1169 Weston Rd(No Double Parking)",
+			"coordinates": [
+				-79.4903,
+				43.68744,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB174",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK570040"
+		},
+		{
+			"address": "CVPA - 1094 Davenport Rd(on street, 3 cars only)",
+			"coordinates": [
+				-79.42994,
+				43.67478,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE421",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK768353"
+		},
+		{
+			"address": "Targetpark-539 King St W(1 Spot, see attendant)",
+			"coordinates": [
+				-79.39813,
+				43.64446,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BNYB088",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK570741"
+		},
+		{
+			"address": "Where I Park-1941 Yonge St(surface lot)",
+			"coordinates": [
+				-79.39653,
+				43.69895,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB327",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK562409"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB346",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK570220"
+		},
+		{
+			"address": "Green P-75 Holly St (Park on top floor)",
+			"coordinates": [
+				-79.39635,
+				43.70647,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 9,
+			"interior": "GOOD",
+			"name": "BPNM928",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK618605"
+		},
+		{
+			"address": "TTC Commuter lot- 139 Indian Grove (4 Cars only)",
+			"coordinates": [
+				-79.45712,
+				43.6558,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB189",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK575650"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BNYB171",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK569003"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM945",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK621653"
+		},
+		{
+			"address": "Green P-9 Bonar Pl(No Double Parking)",
+			"coordinates": [
+				-79.43367,
+				43.65277,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BSVZ845",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2DK621648"
+		},
+		{
+			"address": "Canada Wide-72 Tecumseth St(2 cars/space| surface)",
+			"coordinates": [
+				-79.40514,
+				43.64276,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BNYB077",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK575235"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 84,
+			"interior": "GOOD",
+			"name": "BNYB257",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK574228"
+		},
+		{
+			"address": "TargetPark-1 Oriole(under apt, along North wall)",
+			"coordinates": [
+				-79.3999,
+				43.68746,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB121",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK573422"
+		},
+		{
+			"address": "Green P-10 Portland St(No Double Parking)",
+			"coordinates": [
+				-79.39916,
+				43.64164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB094",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK569685"
+		},
+		{
+			"address": "Impark-2400 Yonge St (2 dedicated spaces only)",
+			"coordinates": [
+				-79.4001,
+				43.71068,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPXL708",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK643991"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BTTE437",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7EK767836"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB213",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK564031"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB207",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK573478"
+		},
+		{
+			"address": "Green P-20 St. Andrew St(no double parking)",
+			"coordinates": [
+				-79.40008,
+				43.6543,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BNYB108",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK568785"
+		},
+		{
+			"address": "Where I Park-155 Wellesley St E (rsvd spaces only)",
+			"coordinates": [
+				-79.37547,
+				43.66604,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB251",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK570512"
+		},
+		{
+			"address": "UOS-21 Booth Ave (3 spaces| 6 cars MAX)",
+			"coordinates": [
+				-79.34141,
+				43.65541,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB277",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK570608"
+		},
+		{
+			"address": "Bodwin Ave 98, M6P Toronto",
+			"coordinates": [
+				-79.46335,
+				43.66465,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE440",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7EK769022"
+		},
+		{
+			"address": "Green P-146 Harrison St(No Double Parking)",
+			"coordinates": [
+				-79.4244,
+				43.65042,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BTTE439",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7EK768050"
+		},
+		{
+			"address": "Green P-31 Langford Avenue(no double parking)",
+			"coordinates": [
+				-79.34075,
+				43.68061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BNYB319",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK574069"
+		},
+		{
+			"address": "Green P-385 Pacific Ave(No Double Parking)",
+			"coordinates": [
+				-79.4677,
+				43.66495,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB076",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK575798"
+		},
+		{
+			"address": "Green P-250 Manning Ave(no double parking)",
+			"coordinates": [
+				-79.41139,
+				43.65164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE420",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK768305"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB155",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573062"
+		},
+		{
+			"address": "2382 St Clair W, Enter Britannia Ave (4 car MAX)",
+			"coordinates": [
+				-79.48084,
+				43.66993,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB117",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK572920"
+		},
+		{
+			"address": "Canada Wide-18 Wynford Dr(4 spaces, 2 cars/space)",
+			"coordinates": [
+				-79.33726,
+				43.72426,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB188",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK562311"
+		},
+		{
+			"address": "Vaughan Rd 133, M6C Toronto",
+			"coordinates": [
+				-79.42153,
+				43.68479,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BWCV928",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK563896"
+		},
+		{
+			"address": "Green P-1695 Dufferin St(Entrance on Westmount)",
+			"coordinates": [
+				-79.44236,
+				43.67864,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB296",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK574298"
+		},
+		{
+			"address": "Green P-14 Fuller Ave(No Double Parking)",
+			"coordinates": [
+				-79.43954,
+				43.64079,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB197",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5CK563386"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB374",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK569851"
+		},
+		{
+			"address": "Green P-9 Salem Ave(No Double Parking)",
+			"coordinates": [
+				-79.43167,
+				43.66101,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BNYB333",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK574311"
+		},
+		{
+			"address": "Green P-21 Pleasant Blvd(no double parking)",
+			"coordinates": [
+				-79.39267,
+				43.68725,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 57,
+			"interior": "GOOD",
+			"name": "BTTE426",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4EK768328"
+		},
+		{
+			"address": "CVPA - 75 Niagara St(on street, 3 cars only)",
+			"coordinates": [
+				-79.40386,
+				43.64147,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BTTE423",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK768854"
+		},
+		{
+			"address": "Where I Park-1941 Yonge St(surface lot)",
+			"coordinates": [
+				-79.39653,
+				43.69895,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 27,
+			"interior": "GOOD",
+			"name": "BPXL707",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4DK643795"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB342",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK562617"
+		},
+		{
+			"address": "Adelaide St E 428, M5A Toronto",
+			"coordinates": [
+				-79.36726,
+				43.65262,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB160",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK563602"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB078",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK574988"
+		},
+		{
+			"address": "Green P-400 Keele St(No Double Parking)",
+			"coordinates": [
+				-79.46505,
+				43.66611,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BTTE422",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK768398"
+		},
+		{
+			"address": "Green P-1612 Danforth Ave(No Double Parking)",
+			"coordinates": [
+				-79.32285,
+				43.68392,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB299",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK575631"
+		},
+		{
+			"address": "Green P-2201 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.45117,
+				43.65337,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BPNM966",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8DK621668"
+		},
+		{
+			"address": "Green P-265 Armadale Ave(no double parking)",
+			"coordinates": [
+				-79.48304,
+				43.65028,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BNYB082",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK574022"
+		},
+		{
+			"address": "Green P-10 Portland St(No Double Parking)",
+			"coordinates": [
+				-79.39916,
+				43.64164,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB338",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573336"
+		},
+		{
+			"address": "Green P-35 Erindale Ave(no double parking)",
+			"coordinates": [
+				-79.35747,
+				43.67732,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 69,
+			"interior": "GOOD",
+			"name": "BPXL738",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK643051"
+		},
+		{
+			"address": "Unit Park-73 The Esplanade(surface lot)",
+			"coordinates": [
+				-79.3733,
+				43.64703,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB343",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK562634"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BWXP151",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK642139"
+		},
+		{
+			"address": "Green P-670 Pape Ave(No Double Parking)",
+			"coordinates": [
+				-79.34477,
+				43.67815,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BPXL701",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3DK641956"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB085",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK573395"
+		},
+		{
+			"address": "Green P-803 Richmond St W(No Double Parking)",
+			"coordinates": [
+				-79.41078,
+				43.64455,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 30,
+			"interior": "GOOD",
+			"name": "BPNM956",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7DK621693"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BPNM944",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK621586"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB054",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK575558"
+		},
+		{
+			"address": "CVPA - 75 Niagara St(on street, 3 cars only)",
+			"coordinates": [
+				-79.40386,
+				43.64147,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB294",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK573863"
+		},
+		{
+			"address": "Where I Park-155 Wellesley St E (rsvd spaces only)",
+			"coordinates": [
+				-79.37547,
+				43.66604,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "UNACCEPTABLE",
+			"fuel": 30,
+			"interior": "GOOD",
+			"name": "BPXL740",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK644300"
+		},
+		{
+			"address": "Green P-3354 Dundas St W(no double parking)",
+			"coordinates": [
+				-79.4819,
+				43.66567,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB053",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562155"
+		},
+		{
+			"address": "Green P-255 Kennedy Ave(no double parking)",
+			"coordinates": [
+				-79.47481,
+				43.65196,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 45,
+			"interior": "GOOD",
+			"name": "BNYB187",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK562737"
+		},
+		{
+			"address": "Green P-550 Mortimer Ave(No Double Parking)",
+			"coordinates": [
+				-79.3279,
+				43.69043,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BTTE433",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6EK767925"
+		},
+		{
+			"address": "Impark-101 Parliament St(2 spaces)",
+			"coordinates": [
+				-79.3626,
+				43.65346,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB269",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK567952"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB258",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9CK574360"
+		},
+		{
+			"address": "Green P-31 Langford Avenue(no double parking)",
+			"coordinates": [
+				-79.34075,
+				43.68061,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB242",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK573527"
+		},
+		{
+			"address": "Eglinton Square(4 spaces, 2 cars/space MAX)",
+			"coordinates": [
+				-79.29982,
+				43.72483,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BNYB089",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK570688"
+		},
+		{
+			"address": "Green P-15 Denison Ave(No Double Parking)",
+			"coordinates": [
+				-79.40028,
+				43.64853,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB075",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK563370"
+		},
+		{
+			"address": "Green P-34 Hanna Ave(no double parking)",
+			"coordinates": [
+				-79.41991,
+				43.63798,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPNM977",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK619177"
+		},
+		{
+			"address": "Stafford St 50, M6J Toronto",
+			"coordinates": [
+				-79.41086,
+				43.64267,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 15,
+			"interior": "GOOD",
+			"name": "BNYB068",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK568822"
+		},
+		{
+			"address": "Impark-2400 Yonge St (2 dedicated spaces only)",
+			"coordinates": [
+				-79.4001,
+				43.71068,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BPNM948",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK622473"
+		},
+		{
+			"address": "Green P-21 Pleasant Blvd(no double parking)",
+			"coordinates": [
+				-79.39267,
+				43.68725,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB350",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6CK573232"
+		},
+		{
+			"address": "Impark-2400 Yonge St (2 dedicated spaces only)",
+			"coordinates": [
+				-79.4001,
+				43.71068,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 78,
+			"interior": "GOOD",
+			"name": "BNYB157",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA7CK573224"
+		},
+		{
+			"address": "Green P-118 Sarah Ashbridge Ave(No Double Parking)",
+			"coordinates": [
+				-79.30949,
+				43.66745,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BNYB316",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK562765"
+		},
+		{
+			"address": "Green P-111 Broadview Ave(No Double Parking)",
+			"coordinates": [
+				-79.34977,
+				43.65918,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 21,
+			"interior": "GOOD",
+			"name": "BTTE442",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9EK766932"
+		},
+		{
+			"address": "Green P-1119 Queen St W(No Double Parking)",
+			"coordinates": [
+				-79.42421,
+				43.64295,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM923",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK621347"
+		},
+		{
+			"address": "Targetpark-771 Queen St E(4 RSVD spaces)",
+			"coordinates": [
+				-79.34713,
+				43.65925,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 90,
+			"interior": "GOOD",
+			"name": "BNYB116",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK570651"
+		},
+		{
+			"address": "Green P-737 Rhodes Ave(No Double Parking)",
+			"coordinates": [
+				-79.32443,
+				43.68286,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 75,
+			"interior": "GOOD",
+			"name": "BPNM946",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA6DK621829"
+		},
+		{
+			"address": "Green P- 730 Mt Pleasant Rd (Underground)",
+			"coordinates": [
+				-79.38975,
+				43.7067,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 96,
+			"interior": "GOOD",
+			"name": "BNYB091",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK570061"
+		},
+		{
+			"address": "Manitoba Dr 286, M6K Toronto",
+			"coordinates": [
+				-79.42266,
+				43.63353,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 60,
+			"interior": "GOOD",
+			"name": "BNYB280",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK574397"
+		},
+		{
+			"address": "Green P-737 Rhodes Ave(No Double Parking)",
+			"coordinates": [
+				-79.32443,
+				43.68286,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB293",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK573314"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM949",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXDK621932"
+		},
+		{
+			"address": "Green P-74 Clinton St (UNDERGROUND)",
+			"coordinates": [
+				-79.41418,
+				43.6557,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BTTE425",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4EK767972"
+		},
+		{
+			"address": "Green P-17 Hammersmith Ave(no double parking)",
+			"coordinates": [
+				-79.29445,
+				43.6716,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 81,
+			"interior": "GOOD",
+			"name": "BPXL744",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK642636"
+		},
+		{
+			"address": "Green P-737 Rhodes Ave(No Double Parking)",
+			"coordinates": [
+				-79.32443,
+				43.68286,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 87,
+			"interior": "GOOD",
+			"name": "BNYB286",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK562671"
+		},
+		{
+			"address": "2382 St Clair W, Enter Britannia Ave (4 car MAX)",
+			"coordinates": [
+				-79.48084,
+				43.66993,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 33,
+			"interior": "GOOD",
+			"name": "BPNM969",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK619492"
+		},
+		{
+			"address": "Green P-72 Amroth Ave(No Double Parking)",
+			"coordinates": [
+				-79.31171,
+				43.68538,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BNYB364",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3CK570546"
+		},
+		{
+			"address": "Targetpark-539 King St W(1 Spot, see attendant)",
+			"coordinates": [
+				-79.39813,
+				43.64446,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BNYB070",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA2CK563183"
+		},
+		{
+			"address": "Impark-22 Fort York(garage under sobeys, 5 spaces)",
+			"coordinates": [
+				-79.39461,
+				43.64066,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BPNM926",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1DK621723"
+		},
+		{
+			"address": "Green P-121 St Patrick St(No Double Parking)",
+			"coordinates": [
+				-79.38936,
+				43.65369,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BPNM991",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA5DK622485"
+		},
+		{
+			"address": "Green P-405 Sherbourne Ave(No Double Parking)",
+			"coordinates": [
+				-79.3735,
+				43.66452,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BTTE424",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA3EK768868"
+		},
+		{
+			"address": "Green P-77 Gough Ave(No Double Parking)",
+			"coordinates": [
+				-79.34629,
+				43.67948,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB080",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK574506"
+		},
+		{
+			"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+			"coordinates": [
+				-79.32294,
+				43.6726,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 48,
+			"interior": "GOOD",
+			"name": "BNYB285",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BAXCK563318"
+		},
+		{
+			"address": "Green P-2054 Dufferin St(no double parking)",
+			"coordinates": [
+				-79.44681,
+				43.68661,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 100,
+			"interior": "GOOD",
+			"name": "BNYB298",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK575015"
+		},
+		{
+			"address": "Canada Wide-2451 Danforth Ave(Sobeys west lot)",
+			"coordinates": [
+				-79.30451,
+				43.68736,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BTVT874",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK570829"
+		},
+		{
+			"address": "Bleecker St 84, M4X Toronto",
+			"coordinates": [
+				-79.37297,
+				43.6646,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 54,
+			"interior": "GOOD",
+			"name": "BNYB252",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK570784"
+		},
+		{
+			"address": "Impark-65 Navy Wharf(underground garage, 5 spaces)",
+			"coordinates": [
+				-79.39161,
+				43.64111,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 51,
+			"interior": "GOOD",
+			"name": "BNYB344",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA4CK562794"
+		},
+		{
+			"address": "Green P-789 St Clair Ave W(No Double Parking)",
+			"coordinates": [
+				-79.42955,
+				43.68058,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 36,
+			"interior": "GOOD",
+			"name": "BNYB119",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK573002"
+		},
+		{
+			"address": "Exhibition place (2 spaces along Prince's blvd)",
+			"coordinates": [
+				-79.41502,
+				43.63315,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 66,
+			"interior": "GOOD",
+			"name": "BPXL729",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA9DK643498"
+		},
+		{
+			"address": "Canada Wide-72 Tecumseth St(2 cars/space| surface)",
+			"coordinates": [
+				-79.40514,
+				43.64276,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BPXL733",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0DK641011"
+		},
+		{
+			"address": "Green P-85 Lee Ave(No Double Parking)",
+			"coordinates": [
+				-79.29762,
+				43.67004,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 72,
+			"interior": "GOOD",
+			"name": "BNYB104",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA0CK563196"
+		},
+		{
+			"address": "Green P- 730 Mt Pleasant Rd (Underground)",
+			"coordinates": [
+				-79.38975,
+				43.7067,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 63,
+			"interior": "GOOD",
+			"name": "BNYB098",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA1CK567970"
+		},
+		{
+			"address": "Green P-695 Lansdowne Ave(No Double Parking)",
+			"coordinates": [
+				-79.44274,
+				43.65897,
+				0
+			],
+			"engineType": "CE",
+			"exterior": "GOOD",
+			"fuel": 42,
+			"interior": "GOOD",
+			"name": "BNYB254",
+			"smartPhoneRequired": false,
+			"vin": "WMEEJ3BA8CK572972"
+		}
+	]
+}

@@ -1,0 +1,594 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Blake St 1607, 80202 Denver","city":"denver","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-104.99908,39.75073,0],"name":"499XFI","engineType":"CE","vin":"WMEEJ3BA5DK629632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-I-25 & Broadway","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98894,39.70118,0],"name":"094XBR","engineType":"CE","vin":"WMEEJ3BA5DK695789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wynkoop St 3571, 80216 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.97688,39.77042,0],"name":"493XFI","engineType":"CE","vin":"WMEEJ3BA9DK629505","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Globeville Rd 3738, 80216 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.99359,39.76575,0],"name":"482XFI","engineType":"CE","vin":"WMEEJ3BA4DK629752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 2969, 80205 Denver","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.98006,39.76139,0],"name":"424XFI","engineType":"CE","vin":"WMEEJ3BA5DK698854","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-I-25 & Broadway","city":"denver","fuel":75,"exterior":"GOOD","coordinates":[-104.98894,39.70118,0],"name":"674XBP","engineType":"CE","vin":"WMEEJ3BA7DK695468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 31st Ave 2063, 80211 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-105.01155,39.76086,0],"name":"420XFI","engineType":"CE","vin":"WMEEJ3BA5DK697526","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central St 1785, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00712,39.7601,0],"name":"416XFI","engineType":"CE","vin":"WMEEJ3BA4DK698697","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-I-25 & Broadway","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.98894,39.70118,0],"name":"438XFI","engineType":"CE","vin":"WMEEJ3BA7DK697169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lipan St 3743, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00181,39.76858,0],"name":"097XBR","engineType":"CE","vin":"WMEEJ3BA8DK696967","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grant St 651, 80203 Denver","city":"denver","fuel":30,"exterior":"GOOD","coordinates":[-104.98367,39.72646,0],"name":"451XFI","engineType":"CE","vin":"WMEEJ3BA8DK697777","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mexico Ave 1232, 80210 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.97305,39.68573,0],"name":"522XFI","engineType":"CE","vin":"WMEEJ3BA2DK628387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Osceola St 2232, 80212 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-105.03761,39.75039,0],"name":"900QCM","engineType":"CE","vin":"WMEEJ3BA4DK625829","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Bayaud Ave 172, 80209 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.98532,39.71471,0],"name":"476XFI","engineType":"CE","vin":"WMEEJ3BA9DK629181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryant St 857, 80204 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-105.0194,39.73047,0],"name":"916QCM","engineType":"CE","vin":"WMEEJ3BA6DK625475","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 14th Ave 3942, 80204 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.03861,39.73851,0],"name":"890QCM","engineType":"CE","vin":"WMEEJ3BA3DK625885","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kalamath St 4365, 80211 Denver","city":"denver","fuel":75,"exterior":"GOOD","coordinates":[-105.00058,39.7757,0],"name":"741QNI","engineType":"CE","vin":"WMEEJ3BAXDK695092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Federal Blvd 2548, 80211 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-105.02495,39.75421,0],"name":"942QCM","engineType":"CE","vin":"WMEEJ3BA9DK623591","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 3171, 80205 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.97839,39.76389,0],"name":"484XFI","engineType":"CE","vin":"WMEEJ3BA5DK630196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bryant St 672, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01863,39.72702,0],"name":"408XFI","engineType":"CE","vin":"WMEEJ3BA4DK695945","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 29th Ave 1858, 80205 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.96521,39.7582,0],"name":"727XBP","engineType":"CE","vin":"WMEEJ3BA8DK695902","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-University of Denver (NO ROOFTOP PARKING)","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.96381,39.68454,0],"name":"407XFI","engineType":"CE","vin":"WMEEJ3BA4DK694777","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Smith Rd 8096, 80207 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.89337,39.76922,0],"name":"449XFI","engineType":"CE","vin":"WMEEJ3BA9DK697691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Acoma St 1069, 80204 Denver","city":"denver","fuel":93,"exterior":"GOOD","coordinates":[-104.98892,39.7333,0],"name":"875QCM","engineType":"CE","vin":"WMEEJ3BA1DK623469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Logan St 659, 80203 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98244,39.72662,0],"name":"699XBP","engineType":"CE","vin":"WMEEJ3BA9DK697142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quitman St 3087, 80212 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-105.04056,39.76113,0],"name":"879QCM","engineType":"CE","vin":"WMEEJ3BA1DK622953","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Josephine St 1989, 80210 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.95791,39.68048,0],"name":"657XBP","engineType":"CE","vin":"WMEEJ3BA2DK697130","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Harvard Ave 2259, 80210 Denver","city":"denver","fuel":12,"exterior":"GOOD","coordinates":[-104.96103,39.6713,0],"name":"431XFI","engineType":"CE","vin":"WMEEJ3BA6DK697678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Zenobia St 4587, 80212 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.05213,39.78,0],"name":"444XFI","engineType":"CE","vin":"WMEEJ3BA9DK698775","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Corona St 468, 80218 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.97406,39.72321,0],"name":"894QCM","engineType":"CE","vin":"WMEEJ3BA4DK625393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Park Ave W, 80216 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99467,39.76638,0],"name":"857QCM","engineType":"CE","vin":"WMEEJ3BA0DK625987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Wesley Ave 2480, 80210 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.95676,39.67297,0],"name":"423XFI","engineType":"CE","vin":"WMEEJ3BA5DK698708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gaylord St 3043, 80205 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.96097,39.76001,0],"name":"681XBP","engineType":"CE","vin":"WMEEJ3BAXDK696095","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Caithness Pl 2417, 80211 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-105.01662,39.76054,0],"name":"543XFI","engineType":"CE","vin":"WMEEJ3BA2DK629491","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Ellsworth Ave 61, 80223 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.98852,39.7166,0],"name":"394XFI","engineType":"CE","vin":"WMEEJ3BA2DK701502","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 2261, 80205 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.98945,39.75539,0],"name":"856QCM","engineType":"CE","vin":"WMEEJ3BA0DK619087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Colorado Station","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.93769,39.67904,0],"name":"926QCM","engineType":"CE","vin":"WMEEJ3BA7DK622617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Country Club Towers and Gardens","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97449,39.7152,0],"name":"088XBR","engineType":"CE","vin":"WMEEJ3BA7DK695440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th St 662, 80205 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.97854,39.75521,0],"name":"417XFI","engineType":"CE","vin":"WMEEJ3BA4DK699574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 30th Ave 2273, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.96007,39.75951,0],"name":"356XFI","engineType":"CE","vin":"WMEEJ3BA4DK695881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 2567, 80205 Denver","city":"denver","fuel":24,"exterior":"GOOD","coordinates":[-104.98577,39.75826,0],"name":"740QNI","engineType":"CE","vin":"WMEEJ3BA0DK626086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vallejo St 4347, 80211 Denver","city":"denver","fuel":9,"exterior":"GOOD","coordinates":[-105.0135,39.7759,0],"name":"637XBP","engineType":"CE","vin":"WMEEJ3BA4DK697193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Mariposa St 665, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00282,39.72686,0],"name":"395XFI","engineType":"CE","vin":"WMEEJ3BA2DK701595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 29th Ave 2273, 80205 Denver","city":"denver","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[-104.96005,39.75827,0],"name":"362XFI","engineType":"CE","vin":"WMEEJ3BA4DK696903","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 3366, 80205 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.97601,39.76571,0],"name":"541XFI","engineType":"CE","vin":"WMEEJ3BA2DK629782","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Marion St 2327, 80210 Denver","city":"denver","fuel":15,"exterior":"GOOD","coordinates":[-104.97232,39.67446,0],"name":"726XBP","engineType":"CE","vin":"WMEEJ3BA2DK696270","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Corona St 1259, 80218 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.97413,39.73619,0],"name":"495XFI","engineType":"CE","vin":"WMEEJ3BA0DK629456","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Market St 1454, 80202 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99995,39.74855,0],"name":"628XBP","engineType":"CE","vin":"WMEEJ3BA7DK696054","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Howard Pl 3136, 80204 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-105.02656,39.7381,0],"name":"357XFI","engineType":"CE","vin":"WMEEJ3BA8DK695768","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 1366, 80205 Denver","city":"denver","fuel":81,"exterior":"GOOD","coordinates":[-104.98232,39.76183,0],"name":"671XBP","engineType":"CE","vin":"WMEEJ3BA6DK695753","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vallejo St 4458, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01342,39.77726,0],"name":"389XFI","engineType":"CE","vin":"WMEEJ3BA2DK697175","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lowell Blvd 4581, 80211 Denver","city":"denver","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-105.03467,39.77986,0],"name":"399XFI","engineType":"CE","vin":"WMEEJ3BA3DK698481","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Belmar Dedicated Spots (Virginia & Teller)","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-105.07711,39.70722,0],"name":"504XFI","engineType":"CE","vin":"WMEEJ3BA1DK629160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 20th Ave 614, 80205 Denver","city":"denver","fuel":9,"exterior":"GOOD","coordinates":[-104.97939,39.74756,0],"name":"919QCM","engineType":"CE","vin":"WMEEJ3BA6DK623127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vallejo St 3275, 80211 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-105.01282,39.76296,0],"name":"095XBR","engineType":"CE","vin":"WMEEJ3BA1DK696261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jackson St 709, 80206 Denver","city":"denver","fuel":15,"exterior":"GOOD","coordinates":[-104.94289,39.72747,0],"name":"552XFI","engineType":"CE","vin":"WMEEJ3BA2DK628440","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 1964, 80202 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.99297,39.7526,0],"name":"436MQC","engineType":"CE","vin":"WMEEJ3BA2DK625652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd St 1262, 80205 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.97783,39.76386,0],"name":"937QCM","engineType":"CE","vin":"WMEEJ3BA8DK623016","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Columbine St 1933, 80210 Denver","city":"denver","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-104.95656,39.68156,0],"name":"639XBP","engineType":"CE","vin":"WMEEJ3BAXDK697215","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Circle Dr 531, 80206 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.96046,39.72488,0],"name":"863QCM","engineType":"CE","vin":"WMEEJ3BAXDK623616","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th St 1785, 80216 Denver","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.97749,39.77121,0],"name":"518XFI","engineType":"CE","vin":"WMEEJ3BA5DK628951","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Sheridan","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-105.05386,39.73398,0],"name":"938QCM","engineType":"CE","vin":"WMEEJ3BA8DK625896","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 10th Ave 222, 80204 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.99057,39.73207,0],"name":"494XFI","engineType":"CE","vin":"WMEEJ3BA6DK629462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Sheridan","city":"denver","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[-105.05386,39.73398,0],"name":"935QCM","engineType":"CE","vin":"WMEEJ3BA8DK622142","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Columbine St 1949, 80210 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.9565,39.68126,0],"name":"861QCM","engineType":"CE","vin":"WMEEJ3BAXDK625673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 3526, 80205 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.97414,39.76715,0],"name":"517XFI","engineType":"CE","vin":"WMEEJ3BA8DK628958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Lincoln St 256, 80209 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.98632,39.71197,0],"name":"480XFI","engineType":"CE","vin":"WMEEJ3BAXDK694623","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Gaylord St 311, 80209 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.9617,39.71094,0],"name":"379XFI","engineType":"CE","vin":"WMEEJ3BA0DK697756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Warren Ave 1227, 80210 Denver","city":"denver","fuel":75,"exterior":"GOOD","coordinates":[-104.97314,39.67674,0],"name":"505XFI","engineType":"CE","vin":"WMEEJ3BA4DK629265","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Smith Rd 8238, 80207 Denver","city":"denver","fuel":24,"exterior":"GOOD","coordinates":[-104.89183,39.76976,0],"name":"909QCM","engineType":"CE","vin":"WMEEJ3BA5DK625919","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 33rd Ave 4466, 80212 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-105.04459,39.76388,0],"name":"393XFI","engineType":"CE","vin":"WMEEJ3BA2DK699735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 17th Ave 3936, 80206 Denver","city":"denver","fuel":12,"exterior":"GOOD","coordinates":[-104.94166,39.74367,0],"name":"905QCM","engineType":"CE","vin":"WMEEJ3BA5DK622261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Argyle Pl 2494, 80211 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-105.0181,39.76137,0],"name":"520XFI","engineType":"CE","vin":"WMEEJ3BA1DK629451","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midas East (Parking Lot west of S. Harrison St)","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.94174,39.7107,0],"name":"685XBP","engineType":"CE","vin":"WMEEJ3BA8DK696371","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 46th Ave 2931, 80211 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-105.02428,39.78022,0],"name":"649XBP","engineType":"CE","vin":"WMEEJ3BA8DK694894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"29th St 518, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97493,39.7561,0],"name":"686XBP","engineType":"CE","vin":"WMEEJ3BA4DK695833","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 19th Ave 430, 80203 Denver","city":"denver","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-104.98193,39.74616,0],"name":"851QCM","engineType":"CE","vin":"WMEEJ3BA9DK623137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Zenobia St 4411, 80212 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-105.05208,39.77676,0],"name":"841DQV","engineType":"CE","vin":"WMEEJ3BA4DK696044","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Walnut St 3469, 80205 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.97567,39.76731,0],"name":"419XFI","engineType":"CE","vin":"WMEEJ3BA5DK697073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clarkson St 359, 80218 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.97759,39.72153,0],"name":"880QCM","engineType":"CE","vin":"WMEEJ3BA1DK622600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 3438, 80205 Denver","city":"denver","fuel":30,"exterior":"GOOD","coordinates":[-104.97429,39.76571,0],"name":"366XFI","engineType":"CE","vin":"WMEEJ3BA5DK697204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 32nd Ave 3499, 80211 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-105.03339,39.76238,0],"name":"859QCM","engineType":"CE","vin":"WMEEJ3BAXDK622174","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 1st Ave 842, 80218 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97744,39.71827,0],"name":"354XFI","engineType":"CE","vin":"WMEEJ3BA0DK695425","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Sheridan","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-105.05386,39.73398,0],"name":"675XBP","engineType":"CE","vin":"WMEEJ3BA5DK694853","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Columbine St 229, 80206 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.95705,39.71987,0],"name":"860QCM","engineType":"CE","vin":"WMEEJ3BAXDK621378","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clarkson St 1159, 80218 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-104.97764,39.73455,0],"name":"536XFI","engineType":"CE","vin":"WMEEJ3BA6DK629123","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"18th St 1242, 80202 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.99458,39.75061,0],"name":"915QCM","engineType":"CE","vin":"WMEEJ3BA6DK626139","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 1581, 80202 Denver","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.99788,39.74891,0],"name":"874QCM","engineType":"CE","vin":"WMEEJ3BA1DK623021","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Front View Cres 2616, 80211 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-105.01913,39.74956,0],"name":"644XBP","engineType":"CE","vin":"WMEEJ3BA4DK697761","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Race St 311, 80209 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.9641,39.71092,0],"name":"544XFI","engineType":"CE","vin":"WMEEJ3BA9DK629052","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Monroe St 333, 80209 Denver","city":"denver","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-104.94509,39.71088,0],"name":"882QCM","engineType":"CE","vin":"WMEEJ3BA1DK623102","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd Ave 2457, 80206 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-104.95753,39.71947,0],"name":"865QCM","engineType":"CE","vin":"WMEEJ3BAXDK626080","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Jackson St 1689, 80206 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.94313,39.74356,0],"name":"627XBP","engineType":"CE","vin":"WMEEJ3BA1DK695854","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Sheridan","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.05386,39.73398,0],"name":"695XBP","engineType":"CE","vin":"WMEEJ3BA1DK696714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 30th Ave 3274, 80211 Denver","city":"denver","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[-105.02948,39.7603,0],"name":"663XBP","engineType":"CE","vin":"WMEEJ3BA7DK697706","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Wesley Ave 2240, 80210 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.96126,39.67302,0],"name":"697XBP","engineType":"CE","vin":"WMEEJ3BA5DK697221","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Josephine St 2265, 80210 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.95798,39.67543,0],"name":"654XBP","engineType":"CE","vin":"WMEEJ3BA6DK695963","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 14th Ave 618, 80203 Denver","city":"denver","fuel":15,"exterior":"GOOD","coordinates":[-104.97968,39.73836,0],"name":"868QCM","engineType":"CE","vin":"WMEEJ3BAXDK622241","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gilpin St 3018, 80205 Denver","city":"denver","fuel":21,"exterior":"GOOD","coordinates":[-104.96713,39.75977,0],"name":"871QCM","engineType":"CE","vin":"WMEEJ3BA1DK622225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 46th Ave 1595, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00562,39.78026,0],"name":"668XBP","engineType":"CE","vin":"WMEEJ3BA0DK695201","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Broadway 28, 80209 Denver","city":"denver","fuel":24,"exterior":"GOOD","coordinates":[-104.98746,39.71616,0],"name":"664XBP","engineType":"CE","vin":"WMEEJ3BA5DK695212","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Sheridan","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-105.05386,39.73398,0],"name":"873QCM","engineType":"CE","vin":"WMEEJ3BA1DK626145","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 3463, 80216 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97938,39.77003,0],"name":"454XFI","engineType":"CE","vin":"WMEEJ3BA8DK698668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quivas St 3591, 80211 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.00808,39.76676,0],"name":"441XFI","engineType":"CE","vin":"WMEEJ3BA7DK698824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"35th St 1432, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9757,39.76778,0],"name":"669XBP","engineType":"CE","vin":"WMEEJ3BA6DK696417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry Creek South Dr, 80209 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.94529,39.70867,0],"name":"858QCM","engineType":"CE","vin":"WMEEJ3BA0DK625679","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Colorado Blvd 1681, 80220 Denver","city":"denver","fuel":93,"exterior":"GOOD","coordinates":[-104.94086,39.74331,0],"name":"891QCM","engineType":"CE","vin":"WMEEJ3BA3DK623179","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 2251, 80210 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.97352,39.67579,0],"name":"435XFI","engineType":"CE","vin":"WMEEJ3BA6DK700191","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Acoma St 1179, 80204 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.98882,39.73443,0],"name":"059XBR","engineType":"CE","vin":"WMEEJ3BA3DK684063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"St Paul St 535, 80206 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.95104,39.72467,0],"name":"489XFI","engineType":"CE","vin":"WMEEJ3BA5DK629551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williams St 3211, 80205 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.96592,39.76214,0],"name":"647XBP","engineType":"CE","vin":"WMEEJ3BA4DK695296","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Eliot St 3829, 80211 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-105.02292,39.76983,0],"name":"488XFI","engineType":"CE","vin":"WMEEJ3BA0DK628517","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 2455, 80210 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-104.97349,39.67213,0],"name":"481XFI","engineType":"CE","vin":"WMEEJ3BA9DK629603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"32nd St 1267, 80205 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.97778,39.764,0],"name":"085XBR","engineType":"CE","vin":"WMEEJ3BA6DK694764","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry Creek South Dr, 80209 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.94398,39.70757,0],"name":"653XBP","engineType":"CE","vin":"WMEEJ3BA9DK695794","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gaylord St 3685, 80205 Denver","city":"denver","fuel":75,"exterior":"GOOD","coordinates":[-104.961,39.76801,0],"name":"893QCM","engineType":"CE","vin":"WMEEJ3BA3DK622792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 37th Ave 2537, 80211 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-105.01796,39.76808,0],"name":"629XBP","engineType":"CE","vin":"WMEEJ3BA5DK696893","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 3729, 80216 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.97612,39.77255,0],"name":"899QCM","engineType":"CE","vin":"WMEEJ3BA4DK622056","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Emerson St 1023, 80218 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.97641,39.73241,0],"name":"897QCM","engineType":"CE","vin":"WMEEJ3BA4DK625510","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 43rd Ave 1861, 80211 Denver","city":"denver","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-105.00952,39.77536,0],"name":"934QCM","engineType":"CE","vin":"WMEEJ3BA8DK625946","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 1653, 80210 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.97347,39.68665,0],"name":"920QCM","engineType":"CE","vin":"WMEEJ3BA6DK626092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Decatur St 2455, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.02214,39.75311,0],"name":"679XBP","engineType":"CE","vin":"WMEEJ3BA3DK694981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Cedar Ave 130, 80209 Denver","city":"denver","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-104.98593,39.71295,0],"name":"521XFI","engineType":"CE","vin":"WMEEJ3BA9DK629391","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"SoBo Dwellings","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99165,39.67816,0],"name":"383XFI","engineType":"CE","vin":"WMEEJ3BA1DK697295","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 6th Ave 3252, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.02927,39.72649,0],"name":"491XFI","engineType":"CE","vin":"WMEEJ3BA5DK629534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd Ave 622, 80203 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.98001,39.71928,0],"name":"392XFI","engineType":"CE","vin":"WMEEJ3BA2DK699346","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 2853, 80205 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.98144,39.76027,0],"name":"490XFI","engineType":"CE","vin":"WMEEJ3BA4DK629539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williams St 3707, 80205 Denver","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-104.96604,39.76831,0],"name":"923QCM","engineType":"CE","vin":"WMEEJ3BA7DK625260","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Marion St 2538, 80210 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-104.97227,39.67063,0],"name":"677XBP","engineType":"CE","vin":"WMEEJ3BA5DK695968","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Little Raven St 946, 80204 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-105.00929,39.75206,0],"name":"876QCM","engineType":"CE","vin":"WMEEJ3BA1DK625691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 3715, 80216 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.97629,39.77241,0],"name":"551XFI","engineType":"CE","vin":"WMEEJ3BA8DK628815","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry Creek South Dr, 80209 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.9452,39.70862,0],"name":"090XBR","engineType":"CE","vin":"WMEEJ3BA6DK695994","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Colorado Station","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.93769,39.67904,0],"name":"367XFI","engineType":"CE","vin":"WMEEJ3BA6DK696983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 17th Ave 3833, 80206 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.94262,39.74373,0],"name":"096XBR","engineType":"CE","vin":"WMEEJ3BA7DK696149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Broadway 706, 80209 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.98744,39.70346,0],"name":"353XFI","engineType":"CE","vin":"WMEEJ3BA9DK696217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Perry St 2669, 80212 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-105.03929,39.75574,0],"name":"446XFI","engineType":"CE","vin":"WMEEJ3BAXDK697439","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Osceola St 3729, 80212 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-105.03815,39.76816,0],"name":"553XFI","engineType":"CE","vin":"WMEEJ3BA2DK629703","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 1675, 80202 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99654,39.74995,0],"name":"638XBP","engineType":"CE","vin":"WMEEJ3BAXDK697232","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"16th and Blake (East)","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99867,39.75088,0],"name":"430XFI","engineType":"CE","vin":"WMEEJ3BA6DK697258","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winona Ct 4574, 80212 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-105.04742,39.7798,0],"name":"508XFI","engineType":"CE","vin":"WMEEJ3BAXDK629917","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wewatta St 1545, 80202 Denver","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-105.00278,39.7521,0],"name":"497XFI","engineType":"CE","vin":"WMEEJ3BA0DK629649","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gaylord St 1651, 80206 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.961,39.74244,0],"name":"912QCM","engineType":"CE","vin":"WMEEJ3BA6DK626156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Logan St 51, 80209 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.98273,39.71563,0],"name":"936QCM","engineType":"CE","vin":"WMEEJ3BA8DK625543","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wyandot St 892, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01391,39.73073,0],"name":"693XBP","engineType":"CE","vin":"WMEEJ3BAXDK695805","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 1623, 80210 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-104.97348,39.68719,0],"name":"642XBP","engineType":"CE","vin":"WMEEJ3BA0DK697806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 27th Ave 2445, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01671,39.75606,0],"name":"498XFI","engineType":"CE","vin":"WMEEJ3BA8DK629639","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 2662, 80210 Denver","city":"denver","fuel":90,"exterior":"GOOD","coordinates":[-104.97343,39.66838,0],"name":"364XFI","engineType":"CE","vin":"WMEEJ3BA6DK697034","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"5th St 1394, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01128,39.74326,0],"name":"093XBR","engineType":"CE","vin":"WMEEJ3BA3DK696066","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gaylord St 3679, 80205 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.96097,39.76794,0],"name":"854QCM","engineType":"CE","vin":"WMEEJ3BA0DK626220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-I-25 & Broadway","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-104.98894,39.70118,0],"name":"898QCM","engineType":"CE","vin":"WMEEJ3BA4DK626575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 2955, 80216 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98592,39.76507,0],"name":"680XBP","engineType":"CE","vin":"WMEEJ3BA1DK695871","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quivas St 3531, 80211 Denver","city":"denver","fuel":93,"exterior":"GOOD","coordinates":[-105.00798,39.76604,0],"name":"927QCM","engineType":"CE","vin":"WMEEJ3BA7DK623413","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Ellsworth Ave 3745, 80209 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.94321,39.71627,0],"name":"550XFI","engineType":"CE","vin":"WMEEJ3BA6DK629817","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Hayward Pl 3216, 80211 Denver","city":"denver","fuel":93,"exterior":"GOOD","coordinates":[-105.02842,39.75944,0],"name":"683XBP","engineType":"CE","vin":"WMEEJ3BA4DK695024","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marion St 1267, 80218 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-104.97189,39.73631,0],"name":"087XBR","engineType":"CE","vin":"WMEEJ3BA3DK695984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vine St 3675, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.96224,39.76803,0],"name":"908QCM","engineType":"CE","vin":"WMEEJ3BA5DK623037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 3rd Ave 3224, 80206 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.94948,39.721,0],"name":"922QCM","engineType":"CE","vin":"WMEEJ3BA7DK622102","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 5th Ave 1056, 80218 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.97455,39.72407,0],"name":"082XBR","engineType":"CE","vin":"WMEEJ3BA3DK695810","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 36th Ave 1518, 80205 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.96941,39.76692,0],"name":"388XFI","engineType":"CE","vin":"WMEEJ3BA2DK695930","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Grant St 1833, 80203 Denver","city":"denver","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-104.98358,39.74532,0],"name":"385XFI","engineType":"CE","vin":"WMEEJ3BA1DK699953","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"1660 S Albion","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.93914,39.68582,0],"name":"486XFI","engineType":"CE","vin":"WMEEJ3BAXDK628881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"High St 3879, 80205 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.96474,39.7711,0],"name":"945QCM","engineType":"CE","vin":"WMEEJ3BA9DK622697","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kalamath St 435, 80204 Denver","city":"denver","fuel":78,"exterior":"GOOD","coordinates":[-105.00023,39.7231,0],"name":"360XFI","engineType":"CE","vin":"WMEEJ3BAXDK697103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Byers Pl 190, 80223 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.99213,39.7121,0],"name":"447XFI","engineType":"CE","vin":"WMEEJ3BAXDK698834","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wynkoop St 1643, 80202 Denver","city":"denver","fuel":78,"exterior":"GOOD","coordinates":[-105.00044,39.75234,0],"name":"429XFI","engineType":"CE","vin":"WMEEJ3BA6DK695686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Downing St 1019, 80218 Denver","city":"denver","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[-104.97301,39.73234,0],"name":"548XFI","engineType":"CE","vin":"WMEEJ3BA2DK629832","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Wyandot St 3961, 80211 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-105.01466,39.77128,0],"name":"948QCM","engineType":"CE","vin":"WMEEJ3BA2DK626204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Downing St 1581, 80210 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9735,39.68783,0],"name":"632XBP","engineType":"CE","vin":"WMEEJ3BA2DK696799","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 3365, 80205 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.97522,39.76501,0],"name":"409XFI","engineType":"CE","vin":"WMEEJ3BA4DK696481","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alcott St 3959, 80211 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-105.01743,39.77121,0],"name":"448XFI","engineType":"CE","vin":"WMEEJ3BAXDK699708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 23rd Ave 1088, 80205 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.97402,39.75071,0],"name":"884QCM","engineType":"CE","vin":"WMEEJ3BA2DK621200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marion St 3772, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97203,39.76883,0],"name":"547XFI","engineType":"CE","vin":"WMEEJ3BA4DK629234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 2955, 80216 Denver","city":"denver","fuel":21,"exterior":"GOOD","coordinates":[-104.98592,39.76508,0],"name":"895QCM","engineType":"CE","vin":"WMEEJ3BA4DK623451","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 13th Ave 2057, 80206 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.96276,39.73686,0],"name":"662XBP","engineType":"CE","vin":"WMEEJ3BA4DK697498","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Winona Ct 4574, 80212 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-105.04742,39.77976,0],"name":"855QCM","engineType":"CE","vin":"WMEEJ3BA0DK623222","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Rockmont Dr 3599, 80202 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.00088,39.76369,0],"name":"554XFI","engineType":"CE","vin":"WMEEJ3BA8DK629513","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 9th Ave 72, 80203 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.98645,39.73043,0],"name":"676XBP","engineType":"CE","vin":"WMEEJ3BA4DK695010","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"27th St 932, 80205 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.98093,39.75704,0],"name":"925QCM","engineType":"CE","vin":"WMEEJ3BA7DK618731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Vallejo St 4349, 80211 Denver","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-105.01358,39.77595,0],"name":"381XFI","engineType":"CE","vin":"WMEEJ3BA0DK698714","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Market St 1529, 80202 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.99912,39.74921,0],"name":"902QCM","engineType":"CE","vin":"WMEEJ3BA4DK622817","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Downing St 1458, 80218 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.973,39.73936,0],"name":"866QCM","engineType":"CE","vin":"WMEEJ3BAXDK625981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 46th Ave 5172, 80212 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.05292,39.78018,0],"name":"496XFI","engineType":"CE","vin":"WMEEJ3BA5DK629405","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 41st Ave 3180, 80211 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.02853,39.773,0],"name":"903QCM","engineType":"CE","vin":"WMEEJ3BA4DK625555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Ellsworth Ave 939, 80223 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.99916,39.71662,0],"name":"648XBP","engineType":"CE","vin":"WMEEJ3BA0DK694906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 11th Ave 20, 80203 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.98715,39.73376,0],"name":"433XFI","engineType":"CE","vin":"WMEEJ3BA6DK698796","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 17th Ave 437, 80203 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98188,39.74331,0],"name":"485XFI","engineType":"CE","vin":"WMEEJ3BA6DK628330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 30th Ave 2227, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.96062,39.75946,0],"name":"391XFI","engineType":"CE","vin":"WMEEJ3BA2DK698584","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Midas East (Parking Lot west of S. Harrison St)","city":"denver","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-104.94174,39.7107,0],"name":"545XFI","engineType":"CE","vin":"WMEEJ3BA3DK629077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pearl St 1758, 80203 Denver","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-104.97986,39.74422,0],"name":"456XFI","engineType":"CE","vin":"WMEEJ3BA8DK697083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"34th St 1461, 80205 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.97704,39.76712,0],"name":"692XBP","engineType":"CE","vin":"WMEEJ3BA6DK695641","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Kalamath St 437, 80204 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-105.00029,39.72313,0],"name":"864QCM","engineType":"CE","vin":"WMEEJ3BAXDK622076","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Madison St 173, 80209 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-104.94624,39.71358,0],"name":"918QCM","engineType":"CE","vin":"WMEEJ3BA6DK626240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th and Champa","city":"denver","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-104.99494,39.74567,0],"name":"862QCM","engineType":"CE","vin":"WMEEJ3BAXDK622563","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 45th Ave 2230, 80211 Denver","city":"denver","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-105.01391,39.77775,0],"name":"452XFI","engineType":"CE","vin":"WMEEJ3BA8DK698394","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 2475, 80205 Denver","city":"denver","fuel":45,"exterior":"GOOD","coordinates":[-104.98594,39.75672,0],"name":"661XBP","engineType":"CE","vin":"WMEEJ3BA5DK697557","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Alcott St 3555, 80211 Denver","city":"denver","fuel":30,"exterior":"GOOD","coordinates":[-105.01747,39.76631,0],"name":"672XBP","engineType":"CE","vin":"WMEEJ3BA7DK695714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boulder St 1775, 80211 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.00841,39.76093,0],"name":"901QCM","engineType":"CE","vin":"WMEEJ3BA4DK626544","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 30th Ave 3354, 80211 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-105.03116,39.76032,0],"name":"434XFI","engineType":"CE","vin":"WMEEJ3BA6DK698913","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Broadway 1177, 80203 Denver","city":"denver","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[-104.98754,39.73494,0],"name":"546XFI","engineType":"CE","vin":"WMEEJ3BA1DK629191","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Logan St 1966, 80203 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98224,39.74713,0],"name":"092XBR","engineType":"CE","vin":"WMEEJ3BA8DK696077","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Ogden St 169, 80209 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97574,39.71348,0],"name":"688XBP","engineType":"CE","vin":"WMEEJ3BA7DK696071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"15th St 2546, 80211 Denver","city":"denver","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-105.01107,39.75789,0],"name":"526XFI","engineType":"CE","vin":"WMEEJ3BA5DK629209","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 13th Ave 1231, 80218 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.97266,39.73692,0],"name":"514XFI","engineType":"CE","vin":"WMEEJ3BA4DK629931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Anschutz Medical Campus - E 17th Pl and Victor St","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-104.83397,39.74371,0],"name":"084XBR","engineType":"CE","vin":"WMEEJ3BA1DK694591","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stout St 2471, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.98257,39.75406,0],"name":"458XFI","engineType":"CE","vin":"WMEEJ3BA8DK697519","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Julian St 3755, 80211 Denver","city":"denver","fuel":81,"exterior":"GOOD","coordinates":[-105.03228,39.7686,0],"name":"422XFI","engineType":"CE","vin":"WMEEJ3BA5DK698370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 3229, 80216 Denver","city":"denver","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[-104.98218,39.76782,0],"name":"080XBR","engineType":"CE","vin":"WMEEJ3BA5DK694707","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 30th Ave 2158, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01256,39.75943,0],"name":"907QCM","engineType":"CE","vin":"WMEEJ3BA5DK625368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Humboldt St 865, 80218 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.96946,39.73,0],"name":"443XFI","engineType":"CE","vin":"WMEEJ3BA9DK698680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 17th Ave 467, 80203 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.98149,39.74329,0],"name":"946QCM","engineType":"CE","vin":"WMEEJ3BA9DK626037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 12th Ave 1870, 80204 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-105.012,39.73518,0],"name":"506XFI","engineType":"CE","vin":"WMEEJ3BA3DK628401","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quitman St 4569, 80212 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-105.04039,39.77966,0],"name":"944QCM","engineType":"CE","vin":"WMEEJ3BA9DK626166","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Marion St 2931, 80205 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.97218,39.75866,0],"name":"380XFI","engineType":"CE","vin":"WMEEJ3BA0DK697823","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harrison St 1669, 80206 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.94195,39.74319,0],"name":"698XBP","engineType":"CE","vin":"WMEEJ3BA4DK697386","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Colorado Station","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-104.93769,39.67904,0],"name":"700XBP","engineType":"CE","vin":"WMEEJ3BA9DK696962","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherokee St 1215, 80204 Denver","city":"denver","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-104.99173,39.73552,0],"name":"079XBR","engineType":"CE","vin":"WMEEJ3BA7DK694918","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Yates St 2932, 80212 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.05088,39.75926,0],"name":"432XFI","engineType":"CE","vin":"WMEEJ3BA6DK697812","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Maple Ave 108, 80223 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99019,39.71394,0],"name":"358XFI","engineType":"CE","vin":"WMEEJ3BA1DK695935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 3425, 80205 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.97534,39.76626,0],"name":"911QCM","engineType":"CE","vin":"WMEEJ3BA6DK625685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 14th Ave 1760, 80218 Denver","city":"denver","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-104.96641,39.73836,0],"name":"534XFI","engineType":"CE","vin":"WMEEJ3BA8DK629382","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Pearl St 4477, 80216 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-104.98022,39.77795,0],"name":"363XFI","engineType":"CE","vin":"WMEEJ3BA8DK696922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 17th Ave 637, 80203 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.97943,39.7433,0],"name":"941QCM","engineType":"CE","vin":"WMEEJ3BA9DK623087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 3171, 80205 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.97851,39.76396,0],"name":"913QCM","engineType":"CE","vin":"WMEEJ3BA6DK620678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Globeville Rd 3742, 80216 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-104.99358,39.76589,0],"name":"914QCM","engineType":"CE","vin":"WMEEJ3BA6DK623631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd Ave 3757, 80206 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.94303,39.71944,0],"name":"690XBP","engineType":"CE","vin":"WMEEJ3BA2DK695958","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Corona St 647, 80218 Denver","city":"denver","fuel":36,"exterior":"GOOD","coordinates":[-104.97414,39.72642,0],"name":"670XBP","engineType":"CE","vin":"WMEEJ3BAXDK697375","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williams St 2523, 80205 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.966,39.7535,0],"name":"867QCM","engineType":"CE","vin":"WMEEJ3BAXDK625270","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 29th Ave 1571, 80205 Denver","city":"denver","fuel":21,"exterior":"GOOD","coordinates":[-104.96874,39.75821,0],"name":"678XBP","engineType":"CE","vin":"WMEEJ3BA3DK694740","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 11th Ave 1227, 80218 Denver","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.97267,39.73369,0],"name":"641XBP","engineType":"CE","vin":"WMEEJ3BA2DK697029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Brighton Blvd 3214, 80216 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.9822,39.7676,0],"name":"694XBP","engineType":"CE","vin":"WMEEJ3BA2DK696012","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 14th Ave 1041, 80204 Denver","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-105.00073,39.73848,0],"name":"596XBP","engineType":"CE","vin":"WMEEJ3BA3DK629676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 13th Ave 2741, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.02133,39.73643,0],"name":"658XBP","engineType":"CE","vin":"WMEEJ3BA5DK697199","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Julian St 3271, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.03229,39.76349,0],"name":"910QCM","engineType":"CE","vin":"WMEEJ3BA6DK625993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Downing St 1151, 80218 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.97296,39.73444,0],"name":"539XFI","engineType":"CE","vin":"WMEEJ3BA3DK628480","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lincoln St 4549, 80216 Denver","city":"denver","fuel":90,"exterior":"UNACCEPTABLE","coordinates":[-104.98584,39.77886,0],"name":"652XBP","engineType":"CE","vin":"WMEEJ3BA6DK695302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 35th Ave 1537, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00451,39.76566,0],"name":"689XBP","engineType":"CE","vin":"WMEEJ3BA1DK696115","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Acoma St 119, 80223 Denver","city":"denver","fuel":21,"exterior":"GOOD","coordinates":[-104.98916,39.71853,0],"name":"636XBP","engineType":"CE","vin":"WMEEJ3BA8DK697164","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Evans Station","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.99254,39.67744,0],"name":"089XBR","engineType":"CE","vin":"WMEEJ3BA7DK696233","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 29th St 1904, 80216 Denver","city":"denver","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[-104.98829,39.76459,0],"name":"361XFI","engineType":"CE","vin":"WMEEJ3BA8DK696838","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Race St 3231, 80205 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-104.96341,39.76237,0],"name":"523XFI","engineType":"CE","vin":"WMEEJ3BA0DK630283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Xavier St 4475, 80212 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.04975,39.77793,0],"name":"513XFI","engineType":"CE","vin":"WMEEJ3BA9DK629858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clay St 3489, 80211 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-105.02056,39.76553,0],"name":"673XBP","engineType":"CE","vin":"WMEEJ3BA4DK695380","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Water St 862, 80211 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-105.01146,39.75341,0],"name":"932QCM","engineType":"CE","vin":"WMEEJ3BA7DK622164","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quivas St 3921, 80211 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-105.00802,39.77075,0],"name":"883QCM","engineType":"CE","vin":"WMEEJ3BA1DK625657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Washington St 1567, 80203 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-104.97879,39.74114,0],"name":"387XFI","engineType":"CE","vin":"WMEEJ3BA2DK695135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Bassett St 1883, 80202 Denver","city":"denver","fuel":96,"exterior":"GOOD","coordinates":[-105.00199,39.75787,0],"name":"542XFI","engineType":"CE","vin":"WMEEJ3BA8DK629088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 10th Ave 429, 80203 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9819,39.73201,0],"name":"098XBR","engineType":"CE","vin":"WMEEJ3BA7DK696944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"High St 2542, 80205 Denver","city":"denver","fuel":21,"exterior":"GOOD","coordinates":[-104.96468,39.75377,0],"name":"691XBP","engineType":"CE","vin":"WMEEJ3BA0DK695876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lipan St 3864, 80211 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-105.00173,39.7701,0],"name":"511XFI","engineType":"CE","vin":"WMEEJ3BA6DK628750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Boulder St 1753, 80211 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-105.00865,39.76068,0],"name":"931QCM","engineType":"CE","vin":"WMEEJ3BA7DK626134","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 2nd Ave 533, 80203 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-104.98104,39.71933,0],"name":"531XFI","engineType":"CE","vin":"WMEEJ3BA1DK629014","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 12th Ave 325, 80204 Denver","city":"denver","fuel":30,"exterior":"GOOD","coordinates":[-104.99195,39.73532,0],"name":"684XBP","engineType":"CE","vin":"WMEEJ3BA8DK695849","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"33rd St 1551, 80205 Denver","city":"denver","fuel":66,"exterior":"GOOD","coordinates":[-104.97886,39.76666,0],"name":"411XFI","engineType":"CE","vin":"WMEEJ3BA4DK697405","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Williams St 3049, 80205 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-104.96599,39.76013,0],"name":"412XFI","engineType":"CE","vin":"WMEEJ3BA4DK697467","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Larimer St 2285, 80205 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.98917,39.75566,0],"name":"869QCM","engineType":"CE","vin":"WMEEJ3BAXDK626161","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Lawrence St 1330, 80204 Denver","city":"denver","fuel":9,"exterior":"GOOD","coordinates":[-104.99967,39.74607,0],"name":"889QCM","engineType":"CE","vin":"WMEEJ3BA3DK625935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arapahoe St 1447, 80202 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.99749,39.74644,0],"name":"725XBP","engineType":"CE","vin":"WMEEJ3BA9DK695892","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Blake St 1629, 80202 Denver","city":"denver","fuel":12,"exterior":"GOOD","coordinates":[-104.99864,39.75094,0],"name":"519XFI","engineType":"CE","vin":"WMEEJ3BA0DK628940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Barberry Pl 2555, 80204 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.01838,39.73033,0],"name":"182MQF","engineType":"CE","vin":"WMEEJ3BA7DK620544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Market St 1541, 80202 Denver","city":"denver","fuel":48,"exterior":"GOOD","coordinates":[-104.999,39.74932,0],"name":"416MQC","engineType":"CE","vin":"WMEEJ3BA2DK698469","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Archer Pl 41, 80223 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.98855,39.7157,0],"name":"492XFI","engineType":"CE","vin":"WMEEJ3BA1DK629529","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 5th Ave 835, 80218 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.9771,39.72408,0],"name":"877QCM","engineType":"CE","vin":"WMEEJ3BA1DK623441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Argyle Pl 2548, 80211 Denver","city":"denver","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[-105.01872,39.76135,0],"name":"549XFI","engineType":"CE","vin":"WMEEJ3BA3DK629824","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Ellsworth Ave 167, 80209 Denver","city":"denver","fuel":84,"exterior":"GOOD","coordinates":[-104.98543,39.71658,0],"name":"500XFI","engineType":"CE","vin":"WMEEJ3BA3DK629595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 45th Ave 2233, 80211 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-105.0132,39.77781,0],"name":"397XFI","engineType":"CE","vin":"WMEEJ3BA3DK697766","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central St, 80211 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-105.00567,39.76202,0],"name":"365XFI","engineType":"CE","vin":"WMEEJ3BA7DK697088","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-Colorado Station","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-104.93769,39.67904,0],"name":"418XFI","engineType":"CE","vin":"WMEEJ3BA5DK696456","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Emerson St 57, 80209 Denver","city":"denver","fuel":24,"exterior":"GOOD","coordinates":[-104.97696,39.71552,0],"name":"530XFI","engineType":"CE","vin":"WMEEJ3BAXDK629111","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"22nd St 301, 80205 Denver","city":"denver","fuel":63,"exterior":"GOOD","coordinates":[-104.98107,39.74778,0],"name":"659XBP","engineType":"CE","vin":"WMEEJ3BA1DK697135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Clay St 4087, 80211 Denver","city":"denver","fuel":15,"exterior":"GOOD","coordinates":[-105.02058,39.77283,0],"name":"503XFI","engineType":"CE","vin":"WMEEJ3BA1DK629563","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Blake St 2137, 80205 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.99347,39.75616,0],"name":"525XFI","engineType":"CE","vin":"WMEEJ3BA0DK630218","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Gilpin St 665, 80218 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9671,39.72668,0],"name":"369XFI","engineType":"CE","vin":"WMEEJ3BA5DK697462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Quivas St 3274, 80211 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.00798,39.76296,0],"name":"928QCM","engineType":"CE","vin":"WMEEJ3BA7DK625999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"RTD-University of Denver (NO ROOFTOP PARKING)","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-104.96381,39.68454,0],"name":"081XBR","engineType":"CE","vin":"WMEEJ3BA4DK695816","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Logan St 43, 80209 Denver","city":"denver","fuel":69,"exterior":"GOOD","coordinates":[-104.98272,39.71578,0],"name":"634XBP","engineType":"CE","vin":"WMEEJ3BA1DK696938","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Stuart St 3291, 80212 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.04289,39.76381,0],"name":"386XFI","engineType":"CE","vin":"WMEEJ3BA1DK700342","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Zenobia St 4419, 80212 Denver","city":"denver","fuel":27,"exterior":"GOOD","coordinates":[-105.05213,39.77691,0],"name":"351XFI","engineType":"CE","vin":"WMEEJ3BAXDK694685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harrison St 1649, 80206 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.94191,39.74283,0],"name":"885QCM","engineType":"CE","vin":"WMEEJ3BA2DK622590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Ogden St 675, 80218 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9753,39.7269,0],"name":"355XFI","engineType":"CE","vin":"WMEEJ3BA0DK696252","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"S Teller St, 80226 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-105.07709,39.70725,0],"name":"646XBP","engineType":"CE","vin":"WMEEJ3BA3DK695533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Hayward Pl 3213, 80211 Denver","city":"denver","fuel":57,"exterior":"GOOD","coordinates":[-105.02834,39.75945,0],"name":"532XFI","engineType":"CE","vin":"WMEEJ3BAXDK628802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W Barberry Pl 2519, 80204 Denver","city":"denver","fuel":51,"exterior":"GOOD","coordinates":[-105.01767,39.73035,0],"name":"384XFI","engineType":"CE","vin":"WMEEJ3BA1DK699466","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E 11th Ave 60, 80203 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.98662,39.73376,0],"name":"427XFI","engineType":"CE","vin":"WMEEJ3BA6DK694988","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"36th St 1765, 80216 Denver","city":"denver","fuel":60,"exterior":"GOOD","coordinates":[-104.97729,39.77105,0],"name":"445XFI","engineType":"CE","vin":"WMEEJ3BA9DK698808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Champa St 1402, 80202 Denver","city":"denver","fuel":15,"exterior":"GOOD","coordinates":[-104.99607,39.74479,0],"name":"436XFI","engineType":"CE","vin":"WMEEJ3BA7DK694840","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 39th Ave 1161, 80211 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-105.00128,39.77049,0],"name":"502XFI","engineType":"CE","vin":"WMEEJ3BA2DK629569","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Fillmore St 621, 80206 Denver","city":"denver","fuel":90,"exterior":"GOOD","coordinates":[-104.95321,39.72594,0],"name":"947QCM","engineType":"CE","vin":"WMEEJ3BAXDK622742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Mexico Ave 1236, 80210 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.97299,39.68574,0],"name":"501XFI","engineType":"CE","vin":"WMEEJ3BA5DK629582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Cherry Creek South Dr, 80209 Denver","city":"denver","fuel":100,"exterior":"GOOD","coordinates":[-104.9453,39.7087,0],"name":"625XBP","engineType":"CE","vin":"WMEEJ3BA7DK694790","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Harrison St 1609, 80206 Denver","city":"denver","fuel":18,"exterior":"GOOD","coordinates":[-104.94189,39.74211,0],"name":"881QCM","engineType":"CE","vin":"WMEEJ3BA1DK626193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Central St 1867, 80211 Denver","city":"denver","fuel":39,"exterior":"GOOD","coordinates":[-105.00657,39.76102,0],"name":"886QCM","engineType":"CE","vin":"WMEEJ3BA2DK625585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"E Ellsworth Ave 3222, 80209 Denver","city":"denver","fuel":33,"exterior":"GOOD","coordinates":[-104.94952,39.71618,0],"name":"457XFI","engineType":"CE","vin":"WMEEJ3BA8DK697410","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 12th Ave 369, 80204 Denver","city":"denver","fuel":54,"exterior":"GOOD","coordinates":[-104.99253,39.73534,0],"name":"656XBP","engineType":"CE","vin":"WMEEJ3BAXDK697148","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"W 44th Ave 4981, 80212 Denver","city":"denver","fuel":75,"exterior":"GOOD","coordinates":[-105.05071,39.77662,0],"name":"645XBP","engineType":"CE","vin":"WMEEJ3BA8DK695043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Arapahoe St 2269, 80205 Denver","city":"denver","fuel":87,"exterior":"GOOD","coordinates":[-104.98777,39.75408,0],"name":"442XFI","engineType":"CE","vin":"WMEEJ3BA8DK694667","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Umatilla St 3014, 80211 Denver","city":"denver","fuel":42,"exterior":"GOOD","coordinates":[-105.01177,39.75985,0],"name":"091XBR","engineType":"CE","vin":"WMEEJ3BA9DK695973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","smartPhoneRequired":false,"address":"Logan St 559, 80203 Denver","city":"denver","fuel":72,"exterior":"GOOD","coordinates":[-104.98234,39.72502,0],"name":"304XFI","engineType":"CE","vin":"WMEEJ3BA1DK629353","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

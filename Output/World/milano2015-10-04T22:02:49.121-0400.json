@@ -1,0 +1,1086 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Ferrera 6, 20142 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.13511,45.44181,0],"name":"591\/ET085KD","engineType":"CE","vin":"WME4513341K709424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Venezuela 8, 20151 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.12526,45.49491,0],"name":"628\/EW669ZL","engineType":"CE","vin":"WME4513341K827352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Canonica 11, 20154 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.17661,45.47786,0],"name":"119\/ER806NP","engineType":"CE","vin":"WME4513341K640760","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vincenzo da Seregno 38, 20161 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.17465,45.52279,0],"name":"602\/EW644ZL","engineType":"CE","vin":"WME4513341K827478","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni Suzzani 56, 20162 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.19873,45.5078,0],"name":"562\/ET245KB","engineType":"CE","vin":"WME4513341K708745","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardino Verro 26, 20141 Milano","city":"milano","fuel":81,"exterior":"UNACCEPTABLE","coordinates":[9.19006,45.44005,0],"name":"285\/ES435JF","engineType":"CE","vin":"WME4513341K647228","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio e Corrado Venini 5, 20124 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.21068,45.48628,0],"name":"524\/ET287KB","engineType":"CE","vin":"WME4513341K708950","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ernesto Breda 24, 20126 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.21424,45.50823,0],"name":"193\/ES175JF","engineType":"CE","vin":"WME4513341K637152","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Famagosta 9, 20143 Milano","city":"milano","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[9.15645,45.43735,0],"name":"605\/EW647ZL","engineType":"CE","vin":"WME4513341K827569","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Lodi 16 - 26, 20135 Milano (raggio 300m)","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.20699,45.44917,0],"name":"093\/ER781NP","engineType":"CE","vin":"WME4513341K645421","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Merano 8, 20127 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22116,45.49669,0],"name":"203\/ES246JF","engineType":"CE","vin":"WME4513341K639374","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Vercelli 31, 20145 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.16049,45.46649,0],"name":"244\/ES168JF","engineType":"CE","vin":"WME4513341K636986","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Monza 240, 20128 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.22533,45.51452,0],"name":"044\/ER733NP","engineType":"CE","vin":"WME4513341K646614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luca Comerio 5, 20145 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.1639,45.47747,0],"name":"660\/EW702ZL","engineType":"CE","vin":"WME4513341K824582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rombon 53 - 57, 20134 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.2474,45.48725,0],"name":"315\/ES220JF","engineType":"CE","vin":"WME4513341K644283","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Vallisneri 12, 20133 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.23204,45.48174,0],"name":"107\/ER795NP","engineType":"CE","vin":"WME4513341K645353","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Prina 8, 20154 Milano","city":"milano","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[9.16905,45.48046,0],"name":"665\/EW707ZL","engineType":"CE","vin":"WME4513341K824589","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Edoardo Bassini 16, 20133 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.23272,45.47968,0],"name":"108\/ER796NP","engineType":"CE","vin":"WME4513341K639493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Costantino Corti 1, 20125 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.20235,45.49811,0],"name":"128\/ER815NP","engineType":"CE","vin":"WME4513341K639906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Comelico 12, 20135 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.2123,45.45508,0],"name":"568\/ET071KD","engineType":"CE","vin":"WME4513341K710330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Comacchio 3, 20139 Milano","city":"milano","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[9.21887,45.43757,0],"name":"690\/EW732ZL","engineType":"CE","vin":"WME4513341K827558","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Ungheria 21, 20138 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.25328,45.44604,0],"name":"589\/ET093KD","engineType":"CE","vin":"WME4513341K710382","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Giacosa 7, 20127 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.22291,45.49171,0],"name":"580\/ET097KD","engineType":"CE","vin":"WME4513341K709844","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giulio Richard 8, 20143 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.14604,45.44496,0],"name":"060\/ER749NP","engineType":"CE","vin":"WME4513341K645651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Orobia 8, 20139 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.2046,45.44318,0],"name":"309\/ES254JF","engineType":"CE","vin":"WME4513341K644506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Caianello 15 - 23, 20158 Milano (raggio 100m)","city":"milano","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[9.1734,45.50062,0],"name":"354\/ES359JF","engineType":"CE","vin":"WME4513341K646649","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Arturo Colautti 1, 20125 Milano (raggio 300m)","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.19766,45.49716,0],"name":"537\/ET229KB","engineType":"CE","vin":"WME4513341K705600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pallanza 2, 20125 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.19942,45.5031,0],"name":"011\/ER700NP","engineType":"CE","vin":"WME4513341K638769","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fratelli Rosselli 18, 20139 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.22665,45.44167,0],"name":"270\/ES286JF","engineType":"CE","vin":"WME4513341K639943","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Baldinucci 26, 20158 Milano","city":"milano","fuel":78,"exterior":"UNACCEPTABLE","coordinates":[9.17392,45.50484,0],"name":"311\/ES393JF","engineType":"CE","vin":"WME4513341K647727","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardo Ugo Secondo, 20133 Milano","city":"milano","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[9.23502,45.47728,0],"name":"194\/ES164JF","engineType":"CE","vin":"WME4513341K636946","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Piero e Alberto Pirelli, 20126 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.21297,45.51864,0],"name":"045\/ER734NP","engineType":"CE","vin":"WME4513341K646821","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Feltre 65, 20134 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.2449,45.49146,0],"name":"620\/EW662ZL","engineType":"CE","vin":"WME4513341K827333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Venezia Giulia 14, 20157 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.11543,45.51453,0],"name":"152\/ER839NP","engineType":"CE","vin":"WME4513341K637282","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Edoardo Bassini 41, 20133 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.23564,45.48113,0],"name":"218\/ES247JF","engineType":"CE","vin":"WME4513341K639395","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gioacchino Murat 82 - 84, 20159 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.18925,45.5031,0],"name":"662\/EW704ZL","engineType":"CE","vin":"WME4513341K824426","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Santa Maria Nascente 1, 20148 Milano (raggio 300m)","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.13431,45.48667,0],"name":"544\/ET023KD","engineType":"CE","vin":"WME4513341K707993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco De Lemene 32, 20151 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.13764,45.49359,0],"name":"036\/ER725NP","engineType":"CE","vin":"WME4513341K645990","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale San Michele del Carso 13, 20144 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.16439,45.46441,0],"name":"080\/ER769NP","engineType":"CE","vin":"WME4513341K643168","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni Suzzani 191, 20162 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.20397,45.51742,0],"name":"446\/ES343JF","engineType":"CE","vin":"WME4513341K646358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Monza 60, 20127 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.21904,45.49356,0],"name":"622\/EW664ZL","engineType":"CE","vin":"WME4513341K827387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Romano 9, 20135 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.19814,45.4487,0],"name":"419\/ES415JF","engineType":"CE","vin":"WME4513341K647048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ambrogio Campiglio, 20133 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.23239,45.48196,0],"name":"530\/ET289KB","engineType":"CE","vin":"WME4513341K709029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gabbro 1, 20161 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.15749,45.51459,0],"name":"161\/ES270JF","engineType":"CE","vin":"WME4513341K639731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ippodromo 62, 20151 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.12114,45.48536,0],"name":"674\/EW716ZL","engineType":"CE","vin":"WME4513341K824601","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Eugenio Medea, 20138 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.24964,45.43428,0],"name":"671\/EW713ZL","engineType":"CE","vin":"WME4513341K824814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Brioschi 50, 20136 Milano","city":"milano","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[9.18127,45.44266,0],"name":"630\/EW671ZL","engineType":"CE","vin":"WME4513341K827510","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Plezzo 36, 20132 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.23464,45.48842,0],"name":"653\/EW695ZL","engineType":"CE","vin":"WME4513341K824718","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Silvio Spaventa 17, 20141 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.17846,45.44062,0],"name":"224\/ES182JF","engineType":"CE","vin":"WME4513341K640158","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via degli Orombelli 14, 20131 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.23577,45.4834,0],"name":"003\/ER293GZ","engineType":"CE","vin":"WME4513341K638109","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Luigi di Savoia 27 - 29, 20124 Milano (raggio 100m)","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.20663,45.48605,0],"name":"698\/EW740ZL","engineType":"CE","vin":"WME4513341K824848","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Nevoso 21 - 25, 20131 Milano (raggio 100m)","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.23326,45.48873,0],"name":"040\/ER729NP","engineType":"CE","vin":"WME4513341K646552","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Don Luigi Orione 18, 20132 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.23931,45.50028,0],"name":"356\/ES294JF","engineType":"CE","vin":"WME4513341K646331","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Meda 11, 20136 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.1793,45.44519,0],"name":"451\/ET187KB","engineType":"CE","vin":"WME4513341K706310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Inverigo 11, 20151 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.13132,45.49518,0],"name":"306\/ES395JF","engineType":"CE","vin":"WME4513341K647759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lelio Basso 29, 20142 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.17414,45.40524,0],"name":"513\/ET202KB","engineType":"CE","vin":"WME4513341K708170","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gian Pietro Puricelli 1, 20147 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.12931,45.46305,0],"name":"426\/ES258JF","engineType":"CE","vin":"WME4513341K644847","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gressoney 7, 20137 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.21935,45.45149,0],"name":"195\/ES205JF","engineType":"CE","vin":"WME4513341K637713","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Domenico Ghirlandaio 3, 20148 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.14597,45.46654,0],"name":"581\/ET090KD","engineType":"CE","vin":"WME4513341K709872","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vincenzo Monti 11, 20123 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.17443,45.46689,0],"name":"639\/EW681ZL","engineType":"CE","vin":"WME4513341K824852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Sempione 58, 20154 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.1629,45.48347,0],"name":"295\/ES377JF","engineType":"CE","vin":"WME4513341K647459","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guarini Matteucci 1, 20162 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.19822,45.50578,0],"name":"477\/ET032KD","engineType":"CE","vin":"WME4513341K708765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Emilio Treves 2, 20132 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.23627,45.48837,0],"name":"323\/ES329JF","engineType":"CE","vin":"WME4513341K645707","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Plinio 74, 20129 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.22273,45.47435,0],"name":"175\/ES235JF","engineType":"CE","vin":"WME4513341K638462","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Valtorta 6, 20127 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.22143,45.49903,0],"name":"610\/EW652ZL","engineType":"CE","vin":"WME4513341K827409","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cletto Arrighi 2, 20134 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.24923,45.48137,0],"name":"399\/ES409JF","engineType":"CE","vin":"WME4513341K646932","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Canella 3, 20147 Milano","city":"milano","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[9.13298,45.46009,0],"name":"261\/ES152JF","engineType":"CE","vin":"WME4513341K636718","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roald Engelbert Amundsen 8, 20148 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.13411,45.46943,0],"name":"070\/ER759NP","engineType":"CE","vin":"WME4513341K646285","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Forze Armate 165, 20147 Milano","city":"milano","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[9.11816,45.46095,0],"name":"096\/ER784NP","engineType":"CE","vin":"WME4513341K638677","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Carlo Espinasse 3, 20156 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.14451,45.49397,0],"name":"640\/EW682ZL","engineType":"CE","vin":"WME4513341K824548","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cardinale Mezzofanti 29, 20133 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.23507,45.46484,0],"name":"008\/ER697NP","engineType":"CE","vin":"WME4513341K638317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Campania 21, 20133 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.22364,45.46435,0],"name":"682\/EW724ZL","engineType":"CE","vin":"WME4513341K823493","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cesare Battisti 17 - 19, 20097 San Donato Milanese (raggio 100m)","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.2644,45.41696,0],"name":"649\/EW691ZL","engineType":"CE","vin":"WME4513341K824640","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe De Finetti 4, 20142 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.15726,45.42326,0],"name":"138\/ER825NP","engineType":"CE","vin":"WME4513341K639808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Teramo 13, 20142 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.14763,45.43411,0],"name":"213\/ES280JF","engineType":"CE","vin":"WME4513341K639897","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Meda 10, 20136 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.17926,45.44521,0],"name":"014\/ES514AE","engineType":"CE","vin":"WME4513341K646140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Colletta 24, 20135 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.2103,45.4494,0],"name":"699\/EW741ZL","engineType":"CE","vin":"WME4513341K824826","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Veglia 52, 20159 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.19463,45.49909,0],"name":"202\/ES265JF","engineType":"CE","vin":"WME4513341K639592","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Dergano 9, 20158 Milano","city":"milano","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[9.17661,45.50301,0],"name":"374\/ES369JF","engineType":"CE","vin":"WME4513341K646775","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietrasanta 9, 20141 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.19704,45.4437,0],"name":"452\/ET194KB","engineType":"CE","vin":"WME4513341K707737","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Gentile, 20157 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.12556,45.51113,0],"name":"103\/ER791NP","engineType":"CE","vin":"WME4513341K639633","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pier Candido Decembrio 11, 20137 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.21596,45.44809,0],"name":"233\/ES163JF","engineType":"CE","vin":"WME4513341K636923","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cenisio 80 - 86, 20154 Milano (raggio 100m)","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.15793,45.48779,0],"name":"041\/ER730NP","engineType":"CE","vin":"WME4513341K645003","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Antonio Porpora 13, 20131 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.21953,45.48602,0],"name":"253\/ES200JF","engineType":"CE","vin":"WME4513341K637519","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stilicone 15, 20154 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.16906,45.49041,0],"name":"279\/ES293JF","engineType":"CE","vin":"WME4513341K646239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Gonin 24, 20147 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.12501,45.4431,0],"name":"641\/EW683ZL","engineType":"CE","vin":"WME4513341K824539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Vincenzo Lancetti 28, 20158 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.17601,45.49533,0],"name":"225\/ES158JF","engineType":"CE","vin":"WME4513341K636833","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gavirate 11, 20148 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.14119,45.47796,0],"name":"048\/ER737NP","engineType":"CE","vin":"WME4513341K646973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gaudenzio Fantoli 28, 20138 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.25899,45.4514,0],"name":"090\/ER779NP","engineType":"CE","vin":"WME4513341K638028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Gonin 5, 20147 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.12716,45.44362,0],"name":"491\/ET196KB","engineType":"CE","vin":"WME4513341K708269","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietrasanta 8, 20141 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.19736,45.44367,0],"name":"018\/ER707NP","engineType":"CE","vin":"WME4513341K647441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Venino 1, 20123 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.16954,45.461,0],"name":"308\/ES418JF","engineType":"CE","vin":"WME4513341K648026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Anacreonte 11, 20132 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.23324,45.49747,0],"name":"603\/EW645ZL","engineType":"CE","vin":"WME4513341K824809","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Canonica 5, 20154 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.17745,45.47742,0],"name":"443\/ES427JF","engineType":"CE","vin":"WME4513341K647286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Riccardo Wagner 12, 20145 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.15564,45.46857,0],"name":"320\/ES390JF","engineType":"CE","vin":"WME4513341K647675","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Cagnola 14, 20154 Milano","city":"milano","fuel":18,"exterior":"UNACCEPTABLE","coordinates":[9.17272,45.47781,0],"name":"481\/ET211KB","engineType":"CE","vin":"WME4513341K708865","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Grado 9, 20125 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.21948,45.50126,0],"name":"447\/ES358JF","engineType":"CE","vin":"WME4513341K646643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sofonisba Anguissola 35, 20146 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.13911,45.46284,0],"name":"022\/ER711NP","engineType":"CE","vin":"WME4513341K647850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lusitania 3, 20141 Milano","city":"milano","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[9.18595,45.43494,0],"name":"350\/ES367JF","engineType":"CE","vin":"WME4513341K646748","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Grado 5, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.2196,45.50063,0],"name":"485\/ET204KB","engineType":"CE","vin":"WME4513341K708550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Certosa 178, 20156 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.13385,45.49829,0],"name":"185\/ES249JF","engineType":"CE","vin":"WME4513341K639488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Argonne 56, 20133 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.2332,45.46805,0],"name":"086\/ER775NP","engineType":"CE","vin":"WME4513341K647906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ermanno Wolf Ferrari 12, 20139 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.20545,45.43165,0],"name":"434\/ES416JF","engineType":"CE","vin":"WME4513341K647076","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessandro Antonelli 5, 20139 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.22256,45.44192,0],"name":"047\/ER736NP","engineType":"CE","vin":"WME4513341K646155","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Michele Faraday 24, 20143 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.14581,45.44263,0],"name":"518\/ET274KB","engineType":"CE","vin":"WME4513341K709356","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Fulvio Testi 300, 20126 Milano","city":"milano","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[9.21247,45.52656,0],"name":"198\/ES238JF","engineType":"CE","vin":"WME4513341K638605","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valsesia 31 - 47, 20152 Milano (raggio 300m)","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.09712,45.45377,0],"name":"001\/EN899HT","engineType":"CE","vin":"WME4513341K639720","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pompeo Mariani 8, 20128 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.23173,45.51072,0],"name":"483\/ET040KD","engineType":"CE","vin":"WME4513341K709147","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Segnanino, 20126 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.21101,45.51013,0],"name":"123\/ER810NP","engineType":"CE","vin":"WME4513341K640349","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Tommei 6, 20137 Milano","city":"milano","fuel":93,"exterior":"GOOD","coordinates":[9.22334,45.45542,0],"name":"423\/ES433JF","engineType":"CE","vin":"WME4513341K647173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Medardo Rosso 6, 20159 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.18414,45.49091,0],"name":"560\/ET285KB","engineType":"CE","vin":"WME4513341K708706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valfurva 2 - 4, 20162 Milano (raggio 100m)","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.19534,45.50832,0],"name":"104\/ER792NP","engineType":"CE","vin":"WME4513341K637758","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Archimede 55, 20129 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.21316,45.4655,0],"name":"466\/ET192KB","engineType":"CE","vin":"WME4513341K707606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sardegna 22, 20146 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.15252,45.46383,0],"name":"619\/EW661ZL","engineType":"CE","vin":"WME4513341K827329","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roberto Cozzi 53 - 77, 20126 Milano (raggio 300m)","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.21308,45.51212,0],"name":"298\/ES371JF","engineType":"CE","vin":"WME4513341K647344","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni da Cermenate 20 - 40, 20141 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17951,45.43756,0],"name":"204\/ES240JF","engineType":"CE","vin":"WME4513341K638711","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Castellanza, 20151 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.11176,45.50056,0],"name":"042\/ER731NP","engineType":"CE","vin":"WME4513341K647685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Canaletto 2, 20133 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.2274,45.46984,0],"name":"131\/ER818NP","engineType":"CE","vin":"WME4513341K639648","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Trevi 3, 20161 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.18016,45.50756,0],"name":"412\/ES403JF","engineType":"CE","vin":"WME4513341K646846","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Massarenti 25, 20148 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.13908,45.4684,0],"name":"254\/ES201JF","engineType":"CE","vin":"WME4513341K637546","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Leoncavallo 23, 20131 Milano","city":"milano","fuel":84,"exterior":"UNACCEPTABLE","coordinates":[9.22554,45.49107,0],"name":"645\/EW687ZL","engineType":"CE","vin":"WME4513341K824722","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tibaldi 19, 20136 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.18048,45.44377,0],"name":"553\/ET065KD","engineType":"CE","vin":"WME4513341K709436","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Dionigi 9, 20139 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.21789,45.43562,0],"name":"400\/ES364JF","engineType":"CE","vin":"WME4513341K646708","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tommaso Gulli 56, 20147 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.13043,45.46532,0],"name":"151\/ER838NP","engineType":"CE","vin":"WME4513341K639528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Camillo Hajech 6, 20129 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.21847,45.46294,0],"name":"621\/EW663ZL","engineType":"CE","vin":"WME4513341K827565","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Rafael delle Ande, 20125 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.20936,45.4997,0],"name":"030\/ER719NP","engineType":"CE","vin":"WME4513341K647189","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Muzio Scevola 8, 20134 Milano","city":"milano","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[9.24103,45.48365,0],"name":"243\/ES177JF","engineType":"CE","vin":"WME4513341K637236","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Palmanova 22, 20132 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.23276,45.49344,0],"name":"502\/ET225KB","engineType":"CE","vin":"WME4513341K709220","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Pacini 61, 20131 Milano","city":"milano","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[9.23367,45.48392,0],"name":"373\/EW718PS","engineType":"CE","vin":"WME4513341K647488","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roberto Lepetit 30, 20124 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.20579,45.4843,0],"name":"196\/ES241JF","engineType":"CE","vin":"WME4513341K638728","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Sassetti 11, 20124 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.19398,45.48547,0],"name":"599\/EV149BN","engineType":"CE","vin":"WME4513341K709418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ponte Nuovo 14, 20128 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.23745,45.50599,0],"name":"547\/ET038KD","engineType":"CE","vin":"WME4513341K708944","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Varallo 2, 20132 Milano","city":"milano","fuel":93,"exterior":"GOOD","coordinates":[9.23886,45.49758,0],"name":"632\/EW674ZL","engineType":"CE","vin":"WME4513341K827474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Nevoso 7, 20131 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.23426,45.48685,0],"name":"623\/EW665ZL","engineType":"CE","vin":"WME4513341K827391","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Egidio Folli 23, 20134 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.24573,45.48603,0],"name":"303\/ES421JF","engineType":"CE","vin":"WME4513341K648001","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Oglio 30, 20139 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.21662,45.43945,0],"name":"069\/ER758NP","engineType":"CE","vin":"WME4513341K645474","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pier Candido Decembrio 26, 20137 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.21708,45.44895,0],"name":"469\/ET200KB","engineType":"CE","vin":"WME4513341K707895","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fanfulla da Lodi 14, 20131 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.22563,45.49251,0],"name":"570\/ET070KD","engineType":"CE","vin":"WME4513341K710297","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marcantonio dal Re 28, 20155 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.14452,45.49422,0],"name":"658\/EW700ZL","engineType":"CE","vin":"WME4513341K824742","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Claudio Achillini 6, 20162 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.19135,45.51879,0],"name":"637\/EW679ZL","engineType":"CE","vin":"WME4513341K824867","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lorenzo Bartolini 53, 20155 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.1512,45.49282,0],"name":"149\/ER836NP","engineType":"CE","vin":"WME4513341K639852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Lombardia 11, 20131 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.22357,45.4819,0],"name":"312\/ES296JF","engineType":"CE","vin":"WME4513341K645035","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Betti 58, 20151 Milano (raggio 100m)","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.10937,45.4932,0],"name":"054\/ER743NP","engineType":"CE","vin":"WME4513341K636682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Cavalcanti 18, 20127 Milano","city":"milano","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[9.21321,45.49297,0],"name":"114\/ER802NP","engineType":"CE","vin":"WME4513341K639568","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Cena 11, 20135 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.21966,45.46064,0],"name":"436\/ES349JF","engineType":"CE","vin":"WME4513341K646484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Vincenzo Lancetti 50, 20158 Milano (raggio 300m)","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.17258,45.49492,0],"name":"122\/ER809NP","engineType":"CE","vin":"WME4513341K637392","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Traù 2, 20159 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.18983,45.49014,0],"name":"101\/ER789NP","engineType":"CE","vin":"WME4513341K647237","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Don Carlo San Martino 5, 20133 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.23504,45.4689,0],"name":"566\/ET072KD","engineType":"CE","vin":"WME4513341K709982","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padova 47, 20127 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.22347,45.49133,0],"name":"616\/EW658ZL","engineType":"CE","vin":"WME4513341K827542","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Moncucco 32, 20142 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.16655,45.43856,0],"name":"438\/ES224JF","engineType":"CE","vin":"WME4513341K644351","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gioacchino Murat 17, 20159 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.19106,45.49839,0],"name":"394\/ES408JF","engineType":"CE","vin":"WME4513341K646927","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sardegna 24, 20146 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.15214,45.46344,0],"name":"013\/ER702NP","engineType":"CE","vin":"WME4513341K638036","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Correggio 74, 20149 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.14661,45.46723,0],"name":"655\/EW697ZL","engineType":"CE","vin":"WME4513341K824535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valeggio, 20161 Milano","city":"milano","fuel":30,"exterior":"UNACCEPTABLE","coordinates":[9.17944,45.50656,0],"name":"604\/EW646ZL","engineType":"CE","vin":"WME4513341K827307","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Francesco Carrara 9, 20141 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.17637,45.43821,0],"name":"155\/ES270JW","engineType":"CE","vin":"WME4513341K639660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Imperatore Graziano 14, 20162 Milano","city":"milano","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[9.19134,45.51229,0],"name":"242\/ES250JF","engineType":"CE","vin":"WME4513341K639516","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Pellegrini 10, 20122 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.19844,45.45315,0],"name":"692\/EW734ZL","engineType":"CE","vin":"WME4513341K824845","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guarini Matteucci 1, 20162 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.19795,45.50584,0],"name":"150\/ER837NP","engineType":"CE","vin":"WME4513341K640136","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cristoforo Gluck 33, 20125 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.20844,45.49286,0],"name":"415\/ES323JF","engineType":"CE","vin":"WME4513341K645583","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 83, 20146 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.13271,45.45431,0],"name":"395\/ES295JF","engineType":"CE","vin":"WME4513341K645026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Moncucco 37, 20142 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.1654,45.43792,0],"name":"212\/ES244JF","engineType":"CE","vin":"WME4513341K639260","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Michele Pericle Negrotto 43 - 45, 20157 Milano (raggio 300m)","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.14559,45.50442,0],"name":"440\/ES290JF","engineType":"CE","vin":"WME4513341K646074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gardone 5, 20139 Milano","city":"milano","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[9.21408,45.43982,0],"name":"561\/ET244KB","engineType":"CE","vin":"WME4513341K708552","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bergamo 10, 20135 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.20775,45.45694,0],"name":"360\/ES336JF","engineType":"CE","vin":"WME4513341K645881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guarini Matteucci 1, 20162 Milano","city":"milano","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[9.19936,45.50552,0],"name":"644\/EW686ZL","engineType":"CE","vin":"WME4513341K824691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Firenze 15 - 19, 20149 Milano (raggio 100m)","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.15531,45.48745,0],"name":"079\/ER768NP","engineType":"CE","vin":"WME4513341K638666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo d'Adda 4, 20143 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.16066,45.44788,0],"name":"199\/ES196JF","engineType":"CE","vin":"WME4513341K637411","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gaetano Airaghi 31, 20153 Milano","city":"milano","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[9.08572,45.4756,0],"name":"501\/ET224KB","engineType":"CE","vin":"WME4513341K709004","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Regaldi 5, 20161 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17422,45.51625,0],"name":"577\/ET197KB","engineType":"CE","vin":"WME4513341K708049","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Compagnoni 28, 20129 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.22147,45.46594,0],"name":"408\/ES253JF","engineType":"CE","vin":"WME4513341K644488","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Flavio Andò 1, 20156 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.15141,45.4997,0],"name":"496\/ET036KD","engineType":"CE","vin":"WME4513341K708504","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mac Mahon 71, 20155 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.15926,45.49281,0],"name":"148\/ER835NP","engineType":"CE","vin":"WME4513341K640418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni da Cermenate 11, 20141 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.17772,45.43792,0],"name":"099\/ER787NP","engineType":"CE","vin":"WME4513341K640250","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Andrea Doria 45 - 51, 20124 Milano (raggio 100m)","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.21483,45.48599,0],"name":"293\/ES432JF","engineType":"CE","vin":"WME4513341K647156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gino Pollini 16, 20125 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.20554,45.50782,0],"name":"615\/EW657ZL","engineType":"CE","vin":"WME4513341K827455","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Enrico Pestalozzi 19, 20143 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.1552,45.44512,0],"name":"420\/ES256JF","engineType":"CE","vin":"WME4513341K644550","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte Generoso 35, 20155 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.15381,45.49357,0],"name":"607\/EW649ZL","engineType":"CE","vin":"WME4513341K827806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Aretusa 18, 20148 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.13702,45.46826,0],"name":"646\/EW688ZL","engineType":"CE","vin":"WME4513341K827443","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardino Lanino 5, 20144 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.16058,45.45703,0],"name":"339\/ES298JF","engineType":"CE","vin":"WME4513341K645057","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Creta 6, 20152 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.11355,45.45936,0],"name":"064\/ER753NP","engineType":"CE","vin":"WME4513341K647506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni Suzzani 14, 20162 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.19694,45.50478,0],"name":"174\/ES276JF","engineType":"CE","vin":"WME4513341K639834","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Conegliano 1, 20131 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.22525,45.49096,0],"name":"429\/ES411JF","engineType":"CE","vin":"WME4513341K646988","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cesare Brivio 15, 20158 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.17718,45.50444,0],"name":"590\/ET092KD","engineType":"CE","vin":"WME4513341K709894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Poggibonsi 4, 20146 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.13963,45.46553,0],"name":"695\/EW737ZL","engineType":"CE","vin":"WME4513341K824562","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Teodorico 18, 20149 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.15329,45.48602,0],"name":"633\/EW675ZL","engineType":"CE","vin":"WME4513341K827368","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Giacosa 5, 20127 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22301,45.49147,0],"name":"542\/ET015KD","engineType":"CE","vin":"WME4513341K707759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Ercole Marelli 165, 20099 Sesto San Giovanni","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22983,45.52938,0],"name":"361\/ES423JF","engineType":"CE","vin":"WME4513341K648444","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Silvestri, 20126 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.20652,45.51409,0],"name":"656\/EW698ZL","engineType":"CE","vin":"WME4513341K824260","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Carlo Espinasse 159, 20156 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.13794,45.50344,0],"name":"405\/ES219JF","engineType":"CE","vin":"WME4513341K644107","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Camillo Ugoni 17, 20158 Milano","city":"milano","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[9.17088,45.50055,0],"name":"026\/ER715NP","engineType":"CE","vin":"WME4513341K637421","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roggia Bartolomea 1 - 5, 20090 Assago (raggio 300m)","city":"milano","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[9.15101,45.4069,0],"name":"065\/ER754NP","engineType":"CE","vin":"WME4513341K647434","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Randaccio 3, 20145 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.16809,45.47677,0],"name":"228\/ES162JF","engineType":"CE","vin":"WME4513341K636903","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Renzo e Lucia 6, 20142 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17333,45.43668,0],"name":"686\/EW728ZL","engineType":"CE","vin":"WME4513341K824417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Bonghi 21, 20141 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.1825,45.44097,0],"name":"082\/ER771NP","engineType":"CE","vin":"WME4513341K645884","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Brianza 15, 20127 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.21289,45.48751,0],"name":"540\/ET232KB","engineType":"CE","vin":"WME4513341K707852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Commenda 16, 20122 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.19913,45.45696,0],"name":"318\/ES306JF","engineType":"CE","vin":"WME4513341K645228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Adolfo Omodeo 22, 20151 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.11533,45.49031,0],"name":"173\/ES248JF","engineType":"CE","vin":"WME4513341K639436","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giacomo Quarenghi 44 - 50, 20151 Milano (raggio 300m)","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.11071,45.49882,0],"name":"500\/ET226KB","engineType":"CE","vin":"WME4513341K708820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cino da Pistoia 15, 20162 Milano","city":"milano","fuel":51,"exterior":"UNACCEPTABLE","coordinates":[9.20029,45.50875,0],"name":"417\/ES412JF","engineType":"CE","vin":"WME4513341K647011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Domenico Savio, 20142 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.17383,45.43015,0],"name":"222\/ES273JF","engineType":"CE","vin":"WME4513341K639786","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monluè 48, 20138 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.25488,45.45716,0],"name":"548\/ET037KD","engineType":"CE","vin":"WME4513341K709375","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Gonin 9, 20147 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.12605,45.44327,0],"name":"219\/ES186JF","engineType":"CE","vin":"WME4513341K640200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guarini Matteucci 1, 20162 Milano","city":"milano","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[9.19921,45.50553,0],"name":"357\/ES303JF","engineType":"CE","vin":"WME4513341K645210","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Pezzotti 22, 20141 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.18304,45.44136,0],"name":"430\/ES355JF","engineType":"CE","vin":"WME4513341K646590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Forze Armate 256, 20152 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.10583,45.4599,0],"name":"691\/EW733ZL","engineType":"CE","vin":"WME4513341K824857","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Principe Eugenio 41, 20155 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.16652,45.49118,0],"name":"330\/ES378JF","engineType":"CE","vin":"WME4513341K647470","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Ravizza 25, 20149 Milano","city":"milano","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[9.15018,45.4691,0],"name":"367\/ES384JF","engineType":"CE","vin":"WME4513341K647553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Francesco Durante 24, 20131 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.22419,45.48919,0],"name":"521\/ET233KB","engineType":"CE","vin":"WME4513341K707657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Mercantini 26, 20158 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.16209,45.5011,0],"name":"495\/ET035KD","engineType":"CE","vin":"WME4513341K708660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 92, 20146 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.13363,45.45328,0],"name":"276\/ES211JF","engineType":"CE","vin":"WME4513341K637987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Govone 96, 20155 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16194,45.49366,0],"name":"687\/EW729ZL","engineType":"CE","vin":"WME4513341K824633","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Olgettina 34, 20132 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.26644,45.50956,0],"name":"407\/ES229JF","engineType":"CE","vin":"WME4513341K644424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Brunico 4, 20126 Milano","city":"milano","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[9.2257,45.51804,0],"name":"700\/EW742ZL","engineType":"CE","vin":"WME4513341K824862","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Redaelli 7, 20146 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.14407,45.45388,0],"name":"140\/ER827NP","engineType":"CE","vin":"WME4513341K637663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tommaso Pini 1, 20134 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.24083,45.48441,0],"name":"294\/ES385JF","engineType":"CE","vin":"WME4513341K647564","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Legioni Romane 7, 20147 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.1352,45.46091,0],"name":"250\/ES204JF","engineType":"CE","vin":"WME4513341K637654","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monte San Genesio 2, 20159 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.18279,45.50059,0],"name":"432\/ES347JF","engineType":"CE","vin":"WME4513341K646442","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Monza 87, 20127 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21947,45.49531,0],"name":"116\/ER804NP","engineType":"CE","vin":"WME4513341K637357","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Giuseppe Perrucchetti 2, 20147 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.12786,45.4656,0],"name":"378\/ES301JF","engineType":"CE","vin":"WME4513341K645114","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Masolino da Panicale 9, 20155 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.15208,45.49381,0],"name":"685\/EW727ZL","engineType":"CE","vin":"WME4513341K824086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Carcano 6, 20149 Milano","city":"milano","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[9.1485,45.47496,0],"name":"519\/ET276KB","engineType":"CE","vin":"WME4513341K709321","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Giuseppe Perrucchetti 1, 20147 Milano (raggio 100m)","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.12785,45.46508,0],"name":"066\/ER755NP","engineType":"CE","vin":"WME4513341K647599","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Angelo Masina 1, 20158 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.17358,45.4987,0],"name":"280\/ES330JF","engineType":"CE","vin":"WME4513341K645717","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Principe Eugenio 19, 20155 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.1641,45.48947,0],"name":"694\/EW736ZL","engineType":"CE","vin":"WME4513341K824619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Ripamonti 110, 20141 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.19991,45.43982,0],"name":"170\/ES183JF","engineType":"CE","vin":"WME4513341K640181","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Grado 9, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21952,45.50121,0],"name":"126\/ER813NP","engineType":"CE","vin":"WME4513341K640610","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lodovico il Moro 177, 20142 Milano","city":"milano","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[9.12742,45.44012,0],"name":"098\/ER786NP","engineType":"CE","vin":"WME4513341K640484","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Riccione 10, 20156 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.15156,45.50068,0],"name":"205\/ES190JF","engineType":"CE","vin":"WME4513341K640400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Campania 22, 20133 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.22411,45.46439,0],"name":"401\/ES308JF","engineType":"CE","vin":"WME4513341K645261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Bonghi 19, 20141 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.18203,45.4409,0],"name":"313\/ES396JF","engineType":"CE","vin":"WME4513341K647774","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Augusto Anfossi 20, 20135 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.21191,45.45968,0],"name":"183\/ES170JF","engineType":"CE","vin":"WME4513341K637012","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Costantino Baroni 79, 20142 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.17014,45.40579,0],"name":"153\/ES245JW","engineType":"CE","vin":"WME4513341K639774","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Simone Martini Detto Memmi 21, 20143 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.15931,45.44034,0],"name":"402\/ES255JF","engineType":"CE","vin":"WME4513341K644517","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 193, 20147 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.12883,45.46086,0],"name":"669\/EW711ZL","engineType":"CE","vin":"WME4513341K824574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Piero e Alberto Pirelli, 20126 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.2127,45.51804,0],"name":"675\/EW717ZL","engineType":"CE","vin":"WME4513341K824630","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Rimembranze di Greco 50 - 54, 20125 Milano (raggio 100m)","city":"milano","fuel":93,"exterior":"GOOD","coordinates":[9.21147,45.50131,0],"name":"664\/EW706ZL","engineType":"CE","vin":"WME4513341K824830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giorgio Castelli 4, 20156 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.15239,45.50014,0],"name":"571\/ET066KD","engineType":"CE","vin":"WME4513341K709473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rimini 27 - 29, 20142 Milano (raggio 300m)","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.16861,45.4413,0],"name":"368\/ES305JF","engineType":"CE","vin":"WME4513341K645213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea Maria Ampere 41, 20131 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22643,45.48269,0],"name":"258\/ES154JF","engineType":"CE","vin":"WME4513341K636756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fiuggi 30, 20159 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.19174,45.5027,0],"name":"567\/ET061KD","engineType":"CE","vin":"WME4513341K709047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Morsenchio 30, 20138 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.24811,45.44381,0],"name":"676\/EW718ZL","engineType":"CE","vin":"WME4513341K824748","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Vigilio 3, 20142 Milano (raggio 300m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16481,45.43678,0],"name":"206\/ES267JF","engineType":"CE","vin":"WME4513341K639625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Romano 13, 20135 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.19931,45.44887,0],"name":"278\/ES410JF","engineType":"CE","vin":"WME4513341K646955","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lorenzo Bartolini 9, 20155 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.15526,45.48976,0],"name":"555\/ET292KB","engineType":"CE","vin":"WME4513341K709643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padre Pier Luigi Monti 14, 20162 Milano","city":"milano","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[9.19404,45.50543,0],"name":"459\/ET227KB","engineType":"CE","vin":"WME4513341K706329","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Teodorico 26, 20149 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.15178,45.48498,0],"name":"390\/ES413JF","engineType":"CE","vin":"WME4513341K647028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Brioschi 62, 20141 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.18143,45.44142,0],"name":"255\/ES209JF","engineType":"CE","vin":"WME4513341K637949","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Sempione 98, 20154 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.15794,45.48688,0],"name":"351\/ES345JF","engineType":"CE","vin":"WME4513341K646383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pigello Portinari 1, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21027,45.50234,0],"name":"594\/ET087KD","engineType":"CE","vin":"WME4513341K709430","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mario Borsa 63, 20151 Milano (raggio 100m)","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.09599,45.50443,0],"name":"115\/ER803NP","engineType":"CE","vin":"WME4513341K637302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Calocero 18, 20123 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.17381,45.458,0],"name":"479\/ET026KD","engineType":"CE","vin":"WME4513341K708225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Emilio Longoni 1, 20159 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.18359,45.49072,0],"name":"657\/EW699ZL","engineType":"CE","vin":"WME4513341K827396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stefano Siccoli 7, 20156 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.15812,45.50265,0],"name":"342\/ES288JF","engineType":"CE","vin":"WME4513341K646050","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Certosa 40, 20155 Milano","city":"milano","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[9.15047,45.49071,0],"name":"052\/ER741NP","engineType":"CE","vin":"WME4513341K646836","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza dei Daini 3, 20126 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21094,45.51552,0],"name":"216\/ES268JF","engineType":"CE","vin":"WME4513341K639641","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Strada Provinciale Milano-Lentate, 20161 Milano","city":"milano","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[9.17076,45.51828,0],"name":"230\/ES155JF","engineType":"CE","vin":"WME4513341K636800","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cesare Lombroso 70, 20137 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.2328,45.45597,0],"name":"463\/ET185KB","engineType":"CE","vin":"WME4513341K705639","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Matteo Civitali 17, 20148 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.13497,45.4703,0],"name":"012\/ER701NP","engineType":"CE","vin":"WME4513341K638689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stilicone 16, 20154 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.16923,45.49046,0],"name":"448\/ES213JF","engineType":"CE","vin":"WME4513341K638133","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Mangiagalli 3, 20133 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.22484,45.47424,0],"name":"106\/ER794NP","engineType":"CE","vin":"WME4513341K637233","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stresa 8, 20125 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.2037,45.49313,0],"name":"162\/ES184JF","engineType":"CE","vin":"WME4513341K640190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gadames 88, 20151 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.12477,45.501,0],"name":"528\/ET068KD","engineType":"CE","vin":"WME4513341K709461","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Villapizzone 10, 20156 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.14699,45.5014,0],"name":"010\/ER699NP","engineType":"CE","vin":"WME4513341K638163","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Alcide De Gasperi 6 - 8, 20151 Milano (raggio 300m)","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.12684,45.49639,0],"name":"480\/ET030KD","engineType":"CE","vin":"WME4513341K708511","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Elio Reguzzoni 5, 20125 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.20333,45.50693,0],"name":"112\/ER800NP","engineType":"CE","vin":"WME4513341K636761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Brioschi 33, 20136 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.18098,45.44452,0],"name":"034\/ER723NP","engineType":"CE","vin":"WME4513341K647225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Spadolini, 20141 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.19366,45.44253,0],"name":"201\/ES259JF","engineType":"CE","vin":"WME4513341K644864","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Ungaretti 23, 20157 Milano (raggio 300m)","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.14244,45.51418,0],"name":"465\/ET191KB","engineType":"CE","vin":"WME4513341K707326","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sommacampagna 2, 20159 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.18161,45.49661,0],"name":"027\/ER716NP","engineType":"CE","vin":"WME4513341K639621","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Erasmo Boschetti 9, 20124 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.19671,45.49443,0],"name":"105\/ER793NP","engineType":"CE","vin":"WME4513341K640674","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guido Guarini Matteucci 1, 20162 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.19916,45.50552,0],"name":"457\/ET188KB","engineType":"CE","vin":"WME4513341K707309","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Adami 6, 20143 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.16059,45.43821,0],"name":"221\/ES172JF","engineType":"CE","vin":"WME4513341K636953","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Castellanza, 20151 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.11173,45.50047,0],"name":"511\/ET217KB","engineType":"CE","vin":"WME4513341K709371","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gioacchino Murat 31, 20159 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.19093,45.49889,0],"name":"523\/ET277KB","engineType":"CE","vin":"WME4513341K708032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Porro Lambertenghi 10, 20159 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.18543,45.48924,0],"name":"147\/ER834NP","engineType":"CE","vin":"WME4513341K640282","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padre Reginaldo Giuliani 12, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.20439,45.5037,0],"name":"154\/ES269JW","engineType":"CE","vin":"WME4513341K637286","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Vittadini 3, 20136 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.19412,45.44999,0],"name":"272\/ES382JF","engineType":"CE","vin":"WME4513341K647535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mario Borsa 63, 20151 Milano (raggio 100m)","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.09601,45.50452,0],"name":"055\/ER744NP","engineType":"CE","vin":"WME4513341K637489","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Baldinucci 6, 20158 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.17759,45.50591,0],"name":"569\/ET069KD","engineType":"CE","vin":"WME4513341K710438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Udine 5, 20132 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.2365,45.49115,0],"name":"210\/ES232JF","engineType":"CE","vin":"WME4513341K638166","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Giulio Cesare 4 - 8, 20145 Milano (raggio 100m)","city":"milano","fuel":93,"exterior":"GOOD","coordinates":[9.15701,45.47318,0],"name":"058\/ER747NP","engineType":"CE","vin":"WME4513341K646216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Spadolini, 20141 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.19203,45.44369,0],"name":"383\/ES315JF","engineType":"CE","vin":"WME4513341K645409","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Argenta 8, 20156 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.14041,45.49616,0],"name":"197\/ES234JF","engineType":"CE","vin":"WME4513341K638411","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Vesuvio 10 - 22, 20144 Milano (raggio 100m)","city":"milano","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[9.16011,45.45919,0],"name":"095\/ER783NP","engineType":"CE","vin":"WME4513341K645569","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Smareglia 21, 20133 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.2347,45.46633,0],"name":"666\/EW708ZL","engineType":"CE","vin":"WME4513341K824651","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Soave 14, 20136 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.19754,45.44765,0],"name":"089\/ER778NP","engineType":"CE","vin":"WME4513341K646289","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Stadera 15, 20141 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.18314,45.43429,0],"name":"274\/ES208JF","engineType":"CE","vin":"WME4513341K637914","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Tibaldi 2, 20141 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.17638,45.44355,0],"name":"672\/EW714ZL","engineType":"CE","vin":"WME4513341K824141","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Molise 13, 20137 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.22376,45.45233,0],"name":"180\/ES150JF","engineType":"CE","vin":"WME4513341K636690","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Niccolò Jommelli 46, 20131 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.22545,45.48725,0],"name":"120\/ER807NP","engineType":"CE","vin":"WME4513341K647987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Pacini 21, 20131 Milano","city":"milano","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[9.227,45.4816,0],"name":"592\/ET098KD","engineType":"CE","vin":"WME4513341K709968","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Teodosio 125, 20131 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.22983,45.49171,0],"name":"145\/ER832NP","engineType":"CE","vin":"WME4513341K647110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Capo Palinuro 4, 20142 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.1516,45.43857,0],"name":"181\/ES194JF","engineType":"CE","vin":"WME4513341K637363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giordano Ottolini, 20136 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.18575,45.4464,0],"name":"260\/ES210JF","engineType":"CE","vin":"WME4513341K637976","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fiuggi 30, 20159 Milano (raggio 100m)","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.19174,45.50277,0],"name":"504\/ET248KB","engineType":"CE","vin":"WME4513341K709244","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Crespi 13, 20127 Milano","city":"milano","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[9.2202,45.49306,0],"name":"375\/ES223JF","engineType":"CE","vin":"WME4513341K644343","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cesare Battisti 17 - 19, 20097 San Donato Milanese (raggio 100m)","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.2643,45.41713,0],"name":"177\/ES174JF","engineType":"CE","vin":"WME4513341K637137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giacomo Boni 12, 20144 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.15714,45.46083,0],"name":"515\/ET206KB","engineType":"CE","vin":"WME4513341K708893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Forlanini 1, 20133 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.23012,45.47178,0],"name":"478\/ET034KD","engineType":"CE","vin":"WME4513341K708586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rimini 3, 20142 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.17469,45.4407,0],"name":"085\/ER774NP","engineType":"CE","vin":"WME4513341K645169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fetonte 24, 20151 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.1241,45.4805,0],"name":"533\/ET230KB","engineType":"CE","vin":"WME4513341K705480","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale delle Rimembranze di Greco 53, 20125 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.21149,45.50177,0],"name":"016\/ER705NP","engineType":"CE","vin":"WME4513341K646574","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lepontina 7, 20159 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.18374,45.49345,0],"name":"017\/ER706NP","engineType":"CE","vin":"WME4513341K645290","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bartolomeo Sestini 25, 20161 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.17381,45.51816,0],"name":"449\/ES228JF","engineType":"CE","vin":"WME4513341K644418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Sarca 184, 20126 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.20872,45.51553,0],"name":"135\/ER822NP","engineType":"CE","vin":"WME4513341K639799","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ambrogio Campiglio, 20133 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.2327,45.48186,0],"name":"118\/ER805NP","engineType":"CE","vin":"WME4513341K646396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Tito Lucrezio Caro 5 - 7, 20136 Milano (raggio 100m)","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.18362,45.44879,0],"name":"186\/ES151JF","engineType":"CE","vin":"WME4513341K636699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Arquà 10, 20131 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.22772,45.49276,0],"name":"189\/ES166JF","engineType":"CE","vin":"WME4513341K636967","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Francesco Durante 28, 20131 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.22408,45.48933,0],"name":"029\/ER718NP","engineType":"CE","vin":"WME4513341K644408","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Decorati al Valor Civile 1 - 9, 20138 Milano (raggio 300m)","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.23855,45.46093,0],"name":"314\/ES299JF","engineType":"CE","vin":"WME4513341K645065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giulio Carcano 3, 20141 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.17874,45.43946,0],"name":"358\/ES351JF","engineType":"CE","vin":"WME4513341K646497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Grimani 6, 20146 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.1556,45.45667,0],"name":"509\/ET222KB","engineType":"CE","vin":"WME4513341K709334","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Ravizza 53, 20149 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.1479,45.47096,0],"name":"596\/ET096KD","engineType":"CE","vin":"WME4513341K709452","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padova 63, 20127 Milano","city":"milano","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[9.22441,45.4921,0],"name":"507\/ET216KB","engineType":"CE","vin":"WME4513341K709326","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Ambrogio De Predis 9, 20156 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.15066,45.4978,0],"name":"578\/ET201KB","engineType":"CE","vin":"WME4513341K708023","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lodovico Pavoni 10, 20159 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.18683,45.50146,0],"name":"413\/ES320JF","engineType":"CE","vin":"WME4513341K645532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Giacosa 36, 20127 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22197,45.49398,0],"name":"157\/ES191JF","engineType":"CE","vin":"WME4513341K640434","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Nizza 1, 20159 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.18928,45.50277,0],"name":"468\/ET183KB","engineType":"CE","vin":"WME4513341K705302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Strada Statale della Val Tidone, 20141 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.20195,45.43056,0],"name":"489\/ET060KD","engineType":"CE","vin":"WME4513341K708532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 2 - 12, 20146 Milano (raggio 100m)","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.13587,45.45025,0],"name":"482\/ET041KD","engineType":"CE","vin":"WME4513341K709291","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Adami 4, 20143 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.1606,45.43802,0],"name":"333\/ES340JF","engineType":"CE","vin":"WME4513341K645997","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Spagnoletto 17, 20149 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.14507,45.47316,0],"name":"208\/ES180JF","engineType":"CE","vin":"WME4513341K637272","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Bianconi 10, 20139 Milano","city":"milano","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[9.20396,45.43462,0],"name":"179\/ES178JF","engineType":"CE","vin":"WME4513341K637245","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Senofonte 9, 20145 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.15725,45.47537,0],"name":"414\/ES430JF","engineType":"CE","vin":"WME4513341K647122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ambrogio Binda 12, 20143 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.15499,45.44338,0],"name":"287\/ES366JF","engineType":"CE","vin":"WME4513341K646737","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Dionigi 13, 20139 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.21839,45.43525,0],"name":"380\/ES257JF","engineType":"CE","vin":"WME4513341K644775","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 184, 20147 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.12932,45.46041,0],"name":"546\/ET039KD","engineType":"CE","vin":"WME4513341K709273","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cipriano Facchinetti 6, 20138 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.24236,45.46107,0],"name":"421\/ES386JF","engineType":"CE","vin":"WME4513341K647567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Corsica 92, 20137 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.2365,45.46185,0],"name":"684\/EW726ZL","engineType":"CE","vin":"WME4513341K824585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Latisana 1, 20159 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.19744,45.50235,0],"name":"171\/ES189JF","engineType":"CE","vin":"WME4513341K640269","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Certosa 46, 20155 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.14988,45.49091,0],"name":"593\/ET089KD","engineType":"CE","vin":"WME4513341K709925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Soderini 48, 20146 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.13497,45.4544,0],"name":"683\/EW725ZL","engineType":"CE","vin":"WME4513341K824610","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Poggibonsi 8, 20146 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.13967,45.46582,0],"name":"032\/ER721NP","engineType":"CE","vin":"WME4513341K647689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Dionigi 88, 20139 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.23097,45.42568,0],"name":"588\/ET083KD","engineType":"CE","vin":"WME4513341K709978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ernesto Breda 30, 20099 Sesto San Giovanni","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.22963,45.53212,0],"name":"503\/ET209KB","engineType":"CE","vin":"WME4513341K708908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Santa Rita da Cascia 20, 20143 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.15028,45.4407,0],"name":"078\/ER767NP","engineType":"CE","vin":"WME4513341K640278","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roggia Bartolomea 1 - 5, 20090 Assago (raggio 300m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.15078,45.40677,0],"name":"081\/ER770NP","engineType":"CE","vin":"WME4513341K638580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Novara 8, 20148 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.12793,45.46879,0],"name":"223\/ES145JF","engineType":"CE","vin":"WME4513341K636619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro di Pietramellara 8, 20158 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.17358,45.49837,0],"name":"091\/ER840NP","engineType":"CE","vin":"WME4513341K639556","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Tartini 19, 20158 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.17546,45.50468,0],"name":"371\/ES252JF","engineType":"CE","vin":"WME4513341K644481","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gianfranco Zuretti 63 - 69, 20125 Milano (raggio 100m)","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.21156,45.49735,0],"name":"347\/ES360JF","engineType":"CE","vin":"WME4513341K646662","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Franco Russoli, 20143 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.1658,45.44023,0],"name":"563\/ET235KB","engineType":"CE","vin":"WME4513341K708541","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Goya 19 - 33, 20148 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.13096,45.48647,0],"name":"200\/ES239JF","engineType":"CE","vin":"WME4513341K638657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Cimabue 21, 20148 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.14012,45.4877,0],"name":"335\/ES374JF","engineType":"CE","vin":"WME4513341K647372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Carlo Espinasse 37, 20156 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.14316,45.49581,0],"name":"059\/ER748NP","engineType":"CE","vin":"WME4513341K647627","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tullo Morgagni 9, 20125 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.20054,45.49961,0],"name":"624\/EW666ZL","engineType":"CE","vin":"WME4513341K827784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Walter Tobagi, 20143 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.14744,45.4404,0],"name":"134\/ER821NP","engineType":"CE","vin":"WME4513341K637596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fausto Melotti, 20138 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.2401,45.4369,0],"name":"043\/ER732NP","engineType":"CE","vin":"WME4513341K646362","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Franco Russoli, 20143 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.16581,45.44012,0],"name":"617\/EW659ZL","engineType":"CE","vin":"WME4513341K827496","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pallanza 8, 20125 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.2006,45.50283,0],"name":"227\/ES149JF","engineType":"CE","vin":"WME4513341K636674","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Domenichino 12 - 14, 20149 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.14938,45.47334,0],"name":"088\/ER777NP","engineType":"CE","vin":"WME4513341K647167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Santa Marcellina 5, 20126 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.20416,45.51096,0],"name":"286\/ES372JF","engineType":"CE","vin":"WME4513341K647348","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Romagna 6, 20133 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.2241,45.46935,0],"name":"325\/ES353JF","engineType":"CE","vin":"WME4513341K646524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Borgo Morsenchino, 20138 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.24675,45.44365,0],"name":"535\/ET237KB","engineType":"CE","vin":"WME4513341K708652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Moisè Loria 53, 20144 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.15828,45.45828,0],"name":"650\/EW692ZL","engineType":"CE","vin":"WME4513341K824784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vincenzo Foppa 53, 20144 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.15612,45.45625,0],"name":"516\/ET218KB","engineType":"CE","vin":"WME4513341K709300","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marco d'Agrate 15, 20139 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.21461,45.43685,0],"name":"359\/ES426JF","engineType":"CE","vin":"WME4513341K647255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Certosa 255 - 287, 20151 Milano (raggio 300m)","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.12302,45.50309,0],"name":"494\/ET028KD","engineType":"CE","vin":"WME4513341K708857","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gian Battista Tiepolo 54, 20129 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.22205,45.47155,0],"name":"071\/ER760NP","engineType":"CE","vin":"WME4513341K645700","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardino Biondelli, 20141 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.18958,45.44007,0],"name":"281\/ES417JF","engineType":"CE","vin":"WME4513341K647103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Don Giovanni Minzoni 25, 20158 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.16816,45.50671,0],"name":"328\/ES217JF","engineType":"CE","vin":"WME4513341K644006","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Appennini 181 - 187, 20151 Milano (raggio 100m)","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.09828,45.50535,0],"name":"363\/ES214JF","engineType":"CE","vin":"WME4513341K643420","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Ca' Granda, 20162 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.1913,45.50872,0],"name":"273\/ES407JF","engineType":"CE","vin":"WME4513341K646904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea Maria Ampere 116, 20131 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.22637,45.4876,0],"name":"265\/ES242JF","engineType":"CE","vin":"WME4513341K638766","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Battista Boeri 10, 20141 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.18563,45.43786,0],"name":"393\/ES346JF","engineType":"CE","vin":"WME4513341K646438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pannonia 7, 20133 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.23454,45.46717,0],"name":"229\/ES144JF","engineType":"CE","vin":"WME4513341K636611","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Arquà 1, 20131 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.22836,45.49201,0],"name":"636\/EW678ZL","engineType":"CE","vin":"WME4513341K824755","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giancarlo Sismondi 23, 20133 Milano","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.22774,45.46567,0],"name":"075\/ER764NP","engineType":"CE","vin":"WME4513341K645600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marignano 59 - 81, 20138 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.25854,45.43088,0],"name":"291\/ES309JF","engineType":"CE","vin":"WME4513341K645276","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Morimondo 26, 20143 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.15271,45.44634,0],"name":"613\/EW655ZL","engineType":"CE","vin":"WME4513341K827801","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Carafa 4, 20158 Milano","city":"milano","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[9.17847,45.50388,0],"name":"611\/EW653ZL","engineType":"CE","vin":"WME4513341K827357","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Guglielmo Guintellino 8, 20143 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.14296,45.44421,0],"name":"558\/ET283KB","engineType":"CE","vin":"WME4513341K709396","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Bonghi 15, 20141 Milano","city":"milano","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[9.18126,45.44086,0],"name":"269\/ES350JF","engineType":"CE","vin":"WME4513341K646896","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea Maria Ampere 38, 20131 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.2266,45.48266,0],"name":"187\/ES176JF","engineType":"CE","vin":"WME4513341K637195","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gabriele Rossetti 12, 20145 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.16033,45.47392,0],"name":"534\/ET236KB","engineType":"CE","vin":"WME4513341K708573","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardino Verro 4, 20141 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.18842,45.4421,0],"name":"497\/ET246KB","engineType":"CE","vin":"WME4513341K708990","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Cenisio 40, 20155 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.16483,45.48774,0],"name":"061\/ER750NP","engineType":"CE","vin":"WME4513341K644817","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Gassendi 14, 20155 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.14765,45.49241,0],"name":"062\/ER751NP","engineType":"CE","vin":"WME4513341K645093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sant'Erlembaldo 3, 20126 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22206,45.50545,0],"name":"188\/ES167JF","engineType":"CE","vin":"WME4513341K636976","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Geremia Bonomelli 8, 20139 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.21314,45.44101,0],"name":"009\/ER698NP","engineType":"CE","vin":"WME4513341K638228","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Boncompagni 87, 20139 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.23412,45.43696,0],"name":"144\/ER831NP","engineType":"CE","vin":"WME4513341K639778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Archimede 111, 20129 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.22157,45.46555,0],"name":"094\/ER782NP","engineType":"CE","vin":"WME4513341K645839","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Strada Statale della Val Tidone, 20141 Milano","city":"milano","fuel":39,"exterior":"UNACCEPTABLE","coordinates":[9.20182,45.43121,0],"name":"397\/ES357JF","engineType":"CE","vin":"WME4513341K646637","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Aretusa 32, 20147 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.13682,45.46599,0],"name":"237\/ES159JF","engineType":"CE","vin":"WME4513341K636850","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Organdino 3, 20146 Milano","city":"milano","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[9.15421,45.46161,0],"name":"184\/ES243JF","engineType":"CE","vin":"WME4513341K639256","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ippolito Pindemonte 1, 20129 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.20631,45.46855,0],"name":"322\/ES325JF","engineType":"CE","vin":"WME4513341K645626","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Panigarola 4, 20139 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.22037,45.43746,0],"name":"326\/ES334JF","engineType":"CE","vin":"WME4513341K645792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicolò Machiavelli 4, 20145 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.16882,45.47364,0],"name":"182\/ES010AE","engineType":"CE","vin":"WME4513341K638773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Teodosio 38, 20131 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.22991,45.48508,0],"name":"667\/EW709ZL","engineType":"CE","vin":"WME4513341K824787","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Montevideo 17, 20144 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.16515,45.45769,0],"name":"125\/ER812NP","engineType":"CE","vin":"WME4513341K639840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Monti Sabini 1 - 7, 20141 Milano (raggio 100m)","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.20063,45.43019,0],"name":"411\/ES289JF","engineType":"CE","vin":"WME4513341K646062","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Zoja 10, 20153 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.1063,45.47439,0],"name":"551\/ET022KD","engineType":"CE","vin":"WME4513341K708008","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Brioschi 56, 20141 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.18149,45.44192,0],"name":"572\/ET290KB","engineType":"CE","vin":"WME4513341K709935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Moncucco 34, 20142 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.16625,45.43819,0],"name":"327\/ES313JF","engineType":"CE","vin":"WME4513341K645388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alessio Olivieri 12, 20152 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.11418,45.46358,0],"name":"498\/ET223KB","engineType":"CE","vin":"WME4513341K709233","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Paolo Bassi 9, 20159 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.18852,45.49477,0],"name":"573\/ET241KB","engineType":"CE","vin":"WME4513341K708547","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Giuseppe Perrucchetti 2, 20147 Milano (raggio 100m)","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.12785,45.46532,0],"name":"087\/ER776NP","engineType":"CE","vin":"WME4513341K637811","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Lodi 70, 20139 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.2159,45.44386,0],"name":"167\/ES285JF","engineType":"CE","vin":"WME4513341K639934","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Edoardo Bassini 26, 20133 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.23387,45.48011,0],"name":"304\/ES419JF","engineType":"CE","vin":"WME4513341K648063","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Battista De Rolandi 3, 20156 Milano","city":"milano","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[9.14352,45.49614,0],"name":"618\/EW660ZL","engineType":"CE","vin":"WME4513341K827529","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Nava 28, 20159 Milano","city":"milano","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[9.19,45.49516,0],"name":"025\/ER714NP","engineType":"CE","vin":"WME4513341K637680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Bellezza 4, 20136 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.19694,45.44871,0],"name":"324\/ES226JF","engineType":"CE","vin":"WME4513341K644390","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Rafael delle Ande, 20125 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.20954,45.49943,0],"name":"301\/ES391JF","engineType":"CE","vin":"WME4513341K647680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Ansaldo, 20126 Milano","city":"milano","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[9.21444,45.52331,0],"name":"336\/ES339JF","engineType":"CE","vin":"WME4513341K645968","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Morsenchio 26, 20138 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.24805,45.44394,0],"name":"556\/ET286KB","engineType":"CE","vin":"WME4513341K708931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vivaio 12, 20122 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.20405,45.46908,0],"name":"379\/ES348JF","engineType":"CE","vin":"WME4513341K646470","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Paul Valery 2, 20143 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.15996,45.43974,0],"name":"015\/EW409PN","engineType":"CE","vin":"WME4513341K647065","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via delle Forze Armate 74, 20147 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.1291,45.46309,0],"name":"019\/ER708NP","engineType":"CE","vin":"WME4513341K647549","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo San Valentino, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21309,45.49649,0],"name":"638\/EW680ZL","engineType":"CE","vin":"WME4513341K824594","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sibari 3, 20141 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.20079,45.43295,0],"name":"406\/ES363JF","engineType":"CE","vin":"WME4513341K646691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Santorre di Santarosa 4, 20156 Milano","city":"milano","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[9.14017,45.50057,0],"name":"178\/ES171JF","engineType":"CE","vin":"WME4513341K637093","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fra' Bartolomeo 3, 20146 Milano","city":"milano","fuel":93,"exterior":"GOOD","coordinates":[9.15399,45.45714,0],"name":"214\/ES279JF","engineType":"CE","vin":"WME4513341K639891","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Gonin 28, 20147 Milano","city":"milano","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[9.12468,45.4445,0],"name":"169\/ES192JF","engineType":"CE","vin":"WME4513341K640508","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Claudio Monteverdi 9, 20131 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.21477,45.4823,0],"name":"137\/ER824NP","engineType":"CE","vin":"WME4513341K639856","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Arcadia, 20142 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17083,45.41408,0],"name":"074\/ER763NP","engineType":"CE","vin":"WME4513341K645783","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giorgio Washington 42, 20146 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.15502,45.46333,0],"name":"474\/ET033KD","engineType":"CE","vin":"WME4513341K708924","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Antonio Amadeo 47, 20133 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.23625,45.47102,0],"name":"385\/ES400JF","engineType":"CE","vin":"WME4513341K647881","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Tiziano 17, 20145 Milano","city":"milano","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[9.15793,45.47194,0],"name":"445\/ES316JF","engineType":"CE","vin":"WME4513341K645449","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ernesto Breda 19, 20099 Sesto San Giovanni","city":"milano","fuel":78,"exterior":"GOOD","coordinates":[9.22927,45.53193,0],"name":"492\/ET198KB","engineType":"CE","vin":"WME4513341K708360","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Betti 18, 20151 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.11413,45.4922,0],"name":"627\/EW668ZL","engineType":"CE","vin":"WME4513341K827375","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Gorizia 7, 20144 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.17354,45.45465,0],"name":"139\/ER826NP","engineType":"CE","vin":"WME4513341K639814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dell'Arcadia 21, 20142 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17151,45.41599,0],"name":"670\/EW712ZL","engineType":"CE","vin":"WME4513341K824700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Palma 28, 20146 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.13878,45.46505,0],"name":"305\/ES379JF","engineType":"CE","vin":"WME4513341K647476","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Dante Chiasserini 28, 20157 Milano","city":"milano","fuel":96,"exterior":"GOOD","coordinates":[9.15651,45.51227,0],"name":"629\/EW670ZL","engineType":"CE","vin":"WME4513341K827534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ofanto 19, 20134 Milano","city":"milano","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[9.24925,45.48792,0],"name":"349\/ES317JF","engineType":"CE","vin":"WME4513341K645452","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Sardegna 19, 20146 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.15371,45.46489,0],"name":"587\/ET095KD","engineType":"CE","vin":"WME4513341K710306","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Andrea Fusina 1, 20133 Milano (raggio 100m)","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.22948,45.46862,0],"name":"381\/ES370JF","engineType":"CE","vin":"WME4513341K646816","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Isernia 9, 20148 Milano (raggio 100m)","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.13792,45.48841,0],"name":"585\/ET086KD","engineType":"CE","vin":"WME4513341K709911","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Piave 22 - 28, 20099 Sesto San Giovanni (raggio 300m)","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.23187,45.53349,0],"name":"575\/ET240KB","engineType":"CE","vin":"WME4513341K708417","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Antonio Porpora 93, 20131 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.22611,45.48605,0],"name":"387\/ES425JF","engineType":"CE","vin":"WME4513341K647245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Felice Venosta 14, 20143 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.15737,45.44049,0],"name":"004\/ER294GZ","engineType":"CE","vin":"WME4513341K638423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Giardini Luigi Cazzetta, 20133 Milano","city":"milano","fuel":57,"exterior":"GOOD","coordinates":[9.23012,45.4747,0],"name":"023\/ER712NP","engineType":"CE","vin":"WME4513341K645308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Palmieri 28, 20141 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.17971,45.43493,0],"name":"505\/ET247KB","engineType":"CE","vin":"WME4513341K709402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Tirana 26 - 28, 20147 Milano (raggio 100m)","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.1292,45.443,0],"name":"386\/ES307JF","engineType":"CE","vin":"WME4513341K645239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Marcona 67, 20129 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.21868,45.46414,0],"name":"046\/ER735NP","engineType":"CE","vin":"WME4513341K646999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Giovanni Suzzani 14, 20162 Milano","city":"milano","fuel":12,"exterior":"UNACCEPTABLE","coordinates":[9.19691,45.50476,0],"name":"083\/ER772NP","engineType":"CE","vin":"WME4513341K639539","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fratelli Induno 3, 20154 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.1673,45.48511,0],"name":"606\/EW648ZL","engineType":"CE","vin":"WME4513341K827823","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Moncalieri 13, 20162 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.19701,45.50987,0],"name":"435\/ES342JF","engineType":"CE","vin":"WME4513341K646350","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Simone Schiaffino 32 - 34, 20158 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16659,45.50641,0],"name":"453\/ET059KD","engineType":"CE","vin":"WME4513341K705492","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Jannozzi 14, 20097 San Donato Milanese (raggio 100m)","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.2649,45.41776,0],"name":"458\/ET212KB","engineType":"CE","vin":"WME4513341K708556","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Spadolini, 20141 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.19348,45.44412,0],"name":"678\/EW720ZL","engineType":"CE","vin":"WME4513341K824167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Leone Tolstoi 5, 20144 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.15202,45.44931,0],"name":"156\/ES187JF","engineType":"CE","vin":"WME4513341K640205","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Panizzi 8, 20146 Milano","city":"milano","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[9.13792,45.45217,0],"name":"471\/ET019KD","engineType":"CE","vin":"WME4513341K708118","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giovanni Bellezza 12, 20136 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.19535,45.44866,0],"name":"262\/ES199JF","engineType":"CE","vin":"WME4513341K637506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ugo Ojetti 1, 20151 Milano","city":"milano","fuel":15,"exterior":"UNACCEPTABLE","coordinates":[9.114,45.49312,0],"name":"510\/ET213KB","engineType":"CE","vin":"WME4513341K708757","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Maria Montessori 3, 20138 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.23931,45.46055,0],"name":"422\/ES406JF","engineType":"CE","vin":"WME4513341K646891","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Dolomiti 28, 20127 Milano","city":"milano","fuel":39,"exterior":"GOOD","coordinates":[9.22406,45.50226,0],"name":"143\/ER830NP","engineType":"CE","vin":"WME4513341K645491","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lampugnano 10, 20151 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.11445,45.49003,0],"name":"211\/ES274JF","engineType":"CE","vin":"WME4513341K639792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Pogatschnig 33, 20148 Milano (raggio 100m)","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.13591,45.48583,0],"name":"668\/EW710ZL","engineType":"CE","vin":"WME4513341K827282","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Toselli 13, 20127 Milano","city":"milano","fuel":18,"exterior":"GOOD","coordinates":[9.23383,45.50081,0],"name":"263\/ES245JF","engineType":"CE","vin":"WME4513341K639331","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Caccialepori 9, 20148 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.14356,45.46813,0],"name":"597\/ET027KD","engineType":"CE","vin":"WME4513341K708382","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Italo Svevo 12, 20143 Milano","city":"milano","fuel":87,"exterior":"GOOD","coordinates":[9.16036,45.44131,0],"name":"462\/ET181KB","engineType":"CE","vin":"WME4513341K705393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ravenna 5, 20139 Milano","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.21904,45.43569,0],"name":"396\/ES264JF","engineType":"CE","vin":"WME4513341K644973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Baldinucci 6, 20158 Milano","city":"milano","fuel":93,"exterior":"UNACCEPTABLE","coordinates":[9.17798,45.50599,0],"name":"063\/ER752NP","engineType":"CE","vin":"WME4513341K637024","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Marochetti 5, 20139 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.22556,45.43942,0],"name":"403\/ES230JF","engineType":"CE","vin":"WME4513341K644435","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Antonio Canova 4, 20145 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16908,45.47471,0],"name":"256\/ES271JF","engineType":"CE","vin":"WME4513341K639738","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza della Trivulziana 14, 20126 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21143,45.51573,0],"name":"283\/ES405JF","engineType":"CE","vin":"WME4513341K646872","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giorgio Washington 73, 20146 Milano","city":"milano","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[9.15481,45.45876,0],"name":"037\/ER726NP","engineType":"CE","vin":"WME4513341K637018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Francesco d'Assisi 4, 20122 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.19005,45.45488,0],"name":"302\/ES422JF","engineType":"CE","vin":"WME4513341K648366","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ruggero Leoncavallo 14, 20131 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.22449,45.49033,0],"name":"525\/ET062KD","engineType":"CE","vin":"WME4513341K709345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Angelo Dubini 1, 20133 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.22451,45.47349,0],"name":"583\/ET082KD","engineType":"CE","vin":"WME4513341K709414","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Roberto Cozzi 53 - 77, 20126 Milano (raggio 300m)","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.21291,45.51188,0],"name":"163\/ES206JF","engineType":"CE","vin":"WME4513341K637823","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Savona 12, 20144 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.168,45.45536,0],"name":"696\/EW738ZL","engineType":"CE","vin":"WME4513341K824676","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Andrea Maria Ampere 24, 20131 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.22656,45.48177,0],"name":"531\/ET249KB","engineType":"CE","vin":"WME4513341K709255","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Villapizzone 42, 20156 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.14358,45.49996,0],"name":"536\/ET239KB","engineType":"CE","vin":"WME4513341K708632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Arbe 83, 20125 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.20011,45.50182,0],"name":"493\/ET208KB","engineType":"CE","vin":"WME4513341K708688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Grado 3, 20125 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.21967,45.50012,0],"name":"517\/ET275KB","engineType":"CE","vin":"WME4513341K709265","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jean Jaurès, 20125 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.21791,45.50167,0],"name":"159\/ES283JF","engineType":"CE","vin":"WME4513341K639925","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Adriatico 20, 20162 Milano (raggio 100m)","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.19695,45.51923,0],"name":"522\/ET231KB","engineType":"CE","vin":"WME4513341K705567","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Mancinelli 15, 20131 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.22716,45.49039,0],"name":"352\/ES311JF","engineType":"CE","vin":"WME4513341K645340","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Giuseppe Massari 10, 20125 Milano","city":"milano","fuel":51,"exterior":"GOOD","coordinates":[9.19845,45.49556,0],"name":"259\/ES146JF","engineType":"CE","vin":"WME4513341K636641","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carmagnola 9, 20159 Milano","city":"milano","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[9.18686,45.4869,0],"name":"601\/EW643ZL","engineType":"CE","vin":"WME4513341K828470","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Enna 4, 20142 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.12813,45.43812,0],"name":"634\/EW676ZL","engineType":"CE","vin":"WME4513341K824664","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Vittorio Bersezio 4, 20125 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.19847,45.49633,0],"name":"433\/ES318JF","engineType":"CE","vin":"WME4513341K645499","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Ermanno Wolf Ferrari 15, 20141 Milano","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.20544,45.4313,0],"name":"176\/ES278JF","engineType":"CE","vin":"WME4513341K639884","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giorgio Washington 10, 20144 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.15512,45.46514,0],"name":"539\/ET234KB","engineType":"CE","vin":"WME4513341K708317","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via dei Carafa 7, 20158 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.17825,45.50403,0],"name":"538\/ET238KB","engineType":"CE","vin":"WME4513341K708641","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 165, 20147 Milano","city":"milano","fuel":21,"exterior":"UNACCEPTABLE","coordinates":[9.13012,45.45869,0],"name":"391\/ES335JF","engineType":"CE","vin":"WME4513341K645851","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Largo Marinai d'Italia, 20135 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.21475,45.45902,0],"name":"252\/ES282JF","engineType":"CE","vin":"WME4513341K639919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Sopraelevata Monte Ceneri, 20155 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.1524,45.49068,0],"name":"663\/EW705ZL","engineType":"CE","vin":"WME4513341K824841","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pompeo Marchesi 6, 20153 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.10848,45.47156,0],"name":"464\/ET184KB","engineType":"CE","vin":"WME4513341K705617","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Antonio Porpora 60, 20131 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.22277,45.48605,0],"name":"437\/ES394JF","engineType":"CE","vin":"WME4513341K647745","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Val Strona 5, 20137 Milano","city":"milano","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[9.21962,45.45198,0],"name":"033\/EY254MZ","engineType":"CE","vin":"WME4513341K644082","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Valcava 6, 20155 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.15615,45.49209,0],"name":"376\/ES310JF","engineType":"CE","vin":"WME4513341K645336","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Fiuggi 32, 20159 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.19165,45.50265,0],"name":"307\/ES388JF","engineType":"CE","vin":"WME4513341K647665","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Brusuglio 52, 20161 Milano","city":"milano","fuel":12,"exterior":"UNACCEPTABLE","coordinates":[9.17605,45.5163,0],"name":"545\/ET205KB","engineType":"CE","vin":"WME4513341K708539","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Olgiati 31 - 53, 20143 Milano (raggio 300m)","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.14556,45.44097,0],"name":"132\/ER819NP","engineType":"CE","vin":"WME4513341K637203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Ripamonti 254 - 272, 20141 Milano","city":"milano","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[9.20298,45.4275,0],"name":"372\/ES312JF","engineType":"CE","vin":"WME4513341K645371","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Neera 29, 20141 Milano","city":"milano","fuel":84,"exterior":"GOOD","coordinates":[9.17935,45.43314,0],"name":"600\/EV150BN","engineType":"CE","vin":"WME4513341K709915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Felice Romani 1, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.20922,45.50359,0],"name":"416\/ES218JF","engineType":"CE","vin":"WME4513341K644034","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Vigilio 23 - 27, 20142 Milano (raggio 300m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16157,45.43277,0],"name":"231\/ES153JF","engineType":"CE","vin":"WME4513341K636733","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Nizza 1, 20159 Milano (raggio 300m)","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.18885,45.50295,0],"name":"609\/EW651ZL","engineType":"CE","vin":"WME4513341K827490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Elio Reguzzoni 3, 20125 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.20349,45.50687,0],"name":"410\/ES431JF","engineType":"CE","vin":"WME4513341K647142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Lugano 2 - 20, 20158 Milano (raggio 100m)","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.16637,45.49855,0],"name":"418\/ES291JF","engineType":"CE","vin":"WME4513341K646120","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Villapizzone 9, 20156 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.1486,45.50144,0],"name":"648\/EW690ZL","engineType":"CE","vin":"WME4513341K824695","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via del Bosco Rinnovato, 20090 Assago","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.15034,45.40653,0],"name":"248\/ES202JF","engineType":"CE","vin":"WME4513341K637575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Flavio Andò 3, 20156 Milano","city":"milano","fuel":33,"exterior":"GOOD","coordinates":[9.15117,45.49986,0],"name":"490\/EW359HM","engineType":"CE","vin":"WME4513341K708371","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rinaldo Rigola 1, 20159 Milano","city":"milano","fuel":90,"exterior":"GOOD","coordinates":[9.18708,45.49191,0],"name":"007\/ER696NP","engineType":"CE","vin":"WME4513341K638074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Michele Saponaro 14, 20142 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.17384,45.41061,0],"name":"271\/ES207JF","engineType":"CE","vin":"WME4513341K637901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Don Giovanni Grioli 27, 20161 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.17063,45.51211,0],"name":"130\/ER817NP","engineType":"CE","vin":"WME4513341K637190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Certosa 86, 20156 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.14446,45.49351,0],"name":"550\/ET013KD","engineType":"CE","vin":"WME4513341K705529","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Corso Venezia 29, 20121 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.19976,45.46935,0],"name":"267\/ES225JF","engineType":"CE","vin":"WME4513341K644363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via della Commenda 16, 20122 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.19915,45.45666,0],"name":"288\/ES383JF","engineType":"CE","vin":"WME4513341K647521","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Luigi Manzotti 26, 20158 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.1792,45.50265,0],"name":"488\/ET195KB","engineType":"CE","vin":"WME4513341K708245","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Remigio Paone 1 - 5, 20153 Milano (raggio 100m)","city":"milano","fuel":27,"exterior":"GOOD","coordinates":[9.10578,45.47067,0],"name":"316\/ES263JF","engineType":"CE","vin":"WME4513341K644966","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Benedetto Varchi 6, 20158 Milano","city":"milano","fuel":75,"exterior":"UNACCEPTABLE","coordinates":[9.16507,45.49948,0],"name":"077\/ER766NP","engineType":"CE","vin":"WME4513341K638083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Airolo 41, 20159 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.19222,45.50322,0],"name":"697\/EW739ZL","engineType":"CE","vin":"WME4513341K824715","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Rosalba Carriera 4, 20146 Milano","city":"milano","fuel":45,"exterior":"GOOD","coordinates":[9.14273,45.44843,0],"name":"626\/EW672ZL","engineType":"CE","vin":"WME4513341K827402","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Carlo Patellani 1, 20136 Milano","city":"milano","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[9.19417,45.45136,0],"name":"427\/ES333JF","engineType":"CE","vin":"WME4513341K645771","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Castello 29, 20121 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.17747,45.46963,0],"name":"100\/ER788NP","engineType":"CE","vin":"WME4513341K639846","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jacopo Palma 28, 20146 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.13868,45.46501,0],"name":"353\/ES332JF","engineType":"CE","vin":"WME4513341K645752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Primaticcio 174, 20147 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.12994,45.4592,0],"name":"039\/ER728NP","engineType":"CE","vin":"WME4513341K646656","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazzale Lugano 6, 20158 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.1664,45.49855,0],"name":"608\/EW650ZL","engineType":"CE","vin":"WME4513341K827751","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Padre Pier Luigi Monti 11 - 15, 20162 Milano (raggio 100m)","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.19419,45.50514,0],"name":"431\/ES375JF","engineType":"CE","vin":"WME4513341K647399","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Lampugnano 52, 20151 Milano","city":"milano","fuel":12,"exterior":"GOOD","coordinates":[9.11198,45.49119,0],"name":"586\/ET091KD","engineType":"CE","vin":"WME4513341K709852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Soave 20, 20136 Milano","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.19621,45.44765,0],"name":"056\/ER745NP","engineType":"CE","vin":"WME4513341K645000","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Caracciolo 79, 20155 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.16305,45.49223,0],"name":"310\/ES397JF","engineType":"CE","vin":"WME4513341K647799","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Nicola Palmieri 31, 20141 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.17971,45.43498,0],"name":"028\/ER717NP","engineType":"CE","vin":"WME4513341K637551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Bernardino Bellincione 19 - 25, 20134 Milano (raggio 100m)","city":"milano","fuel":66,"exterior":"GOOD","coordinates":[9.23821,45.48927,0],"name":"292\/ES381JF","engineType":"CE","vin":"WME4513341K647512","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Famagosta 43 - 57, 20143 Milano (raggio 100m)","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.16193,45.43747,0],"name":"005\/ER694NP","engineType":"CE","vin":"WME4513341K638142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Varesina 31, 20156 Milano","city":"milano","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[9.14774,45.4952,0],"name":"319\/ES262JF","engineType":"CE","vin":"WME4513341K644955","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Piazza Pietro Frattini 4, 20146 Milano","city":"milano","fuel":15,"exterior":"GOOD","coordinates":[9.14288,45.45236,0],"name":"576\/ET019KB","engineType":"CE","vin":"WME4513341K708731","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Romolo Bitti 6, 20125 Milano","city":"milano","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[9.20093,45.50555,0],"name":"251\/ES173JF","engineType":"CE","vin":"WME4513341K637015","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Filippo Tommaso Marinetti, 20127 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.22888,45.49713,0],"name":"404\/ES326JF","engineType":"CE","vin":"WME4513341K645660","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pietro Pomponazzi 11, 20141 Milano","city":"milano","fuel":63,"exterior":"GOOD","coordinates":[9.18044,45.44178,0],"name":"679\/EW721ZL","engineType":"CE","vin":"WME4513341K827325","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Gualtiero Castellini 6, 20125 Milano","city":"milano","fuel":60,"exterior":"GOOD","coordinates":[9.20133,45.49938,0],"name":"355\/ES354JF","engineType":"CE","vin":"WME4513341K646559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alfonso Corti 1, 20133 Milano","city":"milano","fuel":48,"exterior":"GOOD","coordinates":[9.23017,45.48044,0],"name":"340\/ES338JF","engineType":"CE","vin":"WME4513341K645939","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Francesco Nava 6, 20159 Milano","city":"milano","fuel":21,"exterior":"GOOD","coordinates":[9.19305,45.49432,0],"name":"297\/ES434JF","engineType":"CE","vin":"WME4513341K647201","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale San Michele del Carso 12, 20144 Milano","city":"milano","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[9.16437,45.46451,0],"name":"168\/ES188JF","engineType":"CE","vin":"WME4513341K640264","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Benjamin Constant 19, 20153 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.11338,45.47199,0],"name":"166\/ES284JF","engineType":"CE","vin":"WME4513341K639928","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Giuseppe Govone 34 - 42, 20155 Milano (raggio 300m)","city":"milano","fuel":30,"exterior":"GOOD","coordinates":[9.16667,45.48993,0],"name":"121\/ER808NP","engineType":"CE","vin":"WME4513341K639686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Edoardo Bassini 43, 20133 Milano","city":"milano","fuel":54,"exterior":"GOOD","coordinates":[9.23573,45.48115,0],"name":"240\/ES169JF","engineType":"CE","vin":"WME4513341K637047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Alberto da Giussano 3, 20145 Milano","city":"milano","fuel":24,"exterior":"GOOD","coordinates":[9.1649,45.46733,0],"name":"631\/EW673ZL","engineType":"CE","vin":"WME4513341K827545","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via San Paolino 5 - 9, 20142 Milano (raggio 100m)","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.16528,45.43454,0],"name":"164\/ES193JF","engineType":"CE","vin":"WME4513341K640723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pinerolo 70, 20151 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.11445,45.4835,0],"name":"549\/ET018KD","engineType":"CE","vin":"WME4513341K708198","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Jean Jaurès, 20125 Milano","city":"milano","fuel":100,"exterior":"GOOD","coordinates":[9.21767,45.50152,0],"name":"487\/ET215KB","engineType":"CE","vin":"WME4513341K708805","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Chiari 3, 20155 Milano","city":"milano","fuel":69,"exterior":"GOOD","coordinates":[9.1502,45.49487,0],"name":"552\/ET024KD","engineType":"CE","vin":"WME4513341K708084","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mosè Bianchi 54, 20149 Milano","city":"milano","fuel":75,"exterior":"GOOD","coordinates":[9.1478,45.47361,0],"name":"109\/ER797NP","engineType":"CE","vin":"WME4513341K638249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Norico, 20138 Milano","city":"milano","fuel":72,"exterior":"GOOD","coordinates":[9.23827,45.4531,0],"name":"341\/ES361JF","engineType":"CE","vin":"WME4513341K646681","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Teodosio 125, 20131 Milano","city":"milano","fuel":42,"exterior":"GOOD","coordinates":[9.22979,45.49089,0],"name":"428\/ES362JF","engineType":"CE","vin":"WME4513341K646685","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Viale Lombardia 26, 20131 Milano","city":"milano","fuel":36,"exterior":"GOOD","coordinates":[9.22373,45.48307,0],"name":"467\/ET186KB","engineType":"CE","vin":"WME4513341K705361","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Pier Francesco Mola 46, 20156 Milano","city":"milano","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[9.14004,45.4961,0],"name":"300\/ES429JF","engineType":"CE","vin":"WME4513341K647315","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"italy","smartPhoneRequired":false,"address":"Via Mario Giuriati 1, 20133 Milano","city":"milano","fuel":81,"exterior":"GOOD","coordinates":[9.2216,45.4635,0],"name":"557\/ET288KB","engineType":"CE","vin":"WME4513341K709407","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

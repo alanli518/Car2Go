@@ -1,0 +1,484 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Surbrunnsgatan 47, 11350 Stockholms kommun","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[18.05364,59.34432,0],"name":"HUY506","engineType":"CE","vin":"WME4513341K819011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Finlandsgatan 10, 16494 Stockholms kommun","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[17.91857,59.41747,0],"name":"NPD731","engineType":"CE","vin":"WME4513341K810700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rålambsvägen 25, Stockholms kommun","city":"stockholm","fuel":37,"exterior":"GOOD","coordinates":[18.01281,59.32861,0],"name":"ORR596","engineType":"CE","vin":"WME4513341K818953","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Valhallavägen 69, 11428 Stockholms kommun","city":"stockholm","fuel":32,"exterior":"GOOD","coordinates":[18.06926,59.3463,0],"name":"GLM819","engineType":"CE","vin":"WME4513341K818871","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Söder Mälarstrand 77, 11221 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.05102,59.32113,0],"name":"RWT500","engineType":"CE","vin":"WME4513341K819053","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Ynglingagatan 12̈́, 11346 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.048,59.34924,0],"name":"LON557","engineType":"CE","vin":"WME4513341K816250","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Starrbäcksgatan, Sundbybergs kommun","city":"stockholm","fuel":59,"exterior":"GOOD","coordinates":[17.96036,59.36496,0],"name":"BGB990","engineType":"CE","vin":"WME4513341K816143","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Krångedevägen, 11557 Stockholms kommun","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[18.09574,59.3528,0],"name":"JMN249","engineType":"CE","vin":"WME4513341K818663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":48,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"UDX411","engineType":"CE","vin":"WME4513341K814013","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vanadisvägen 22B, 11344 Stockholms kommun","city":"stockholm","fuel":78,"exterior":"GOOD","coordinates":[18.04542,59.34659,0],"name":"HLR563","engineType":"CE","vin":"WME4513341K819142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Båtbyggargatan 9, 12070 Stockholms kommun","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[18.10953,59.30626,0],"name":"AKG676","engineType":"CE","vin":"WME4513341K813890","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 23, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94945,59.40334,0],"name":"NPC725","engineType":"CE","vin":"WME4513341K817137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kista galleria (södra infarten)","city":"stockholm","fuel":43,"exterior":"GOOD","coordinates":[17.94498,59.40278,0],"name":"PTN125","engineType":"CE","vin":"WME4513341K818774","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Sandhamnsgatan 4, 11541 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.10391,59.34746,0],"name":"TBB101","engineType":"CE","vin":"WME4513341K818723","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Tantogatan 27, Stockholms kommun","city":"stockholm","fuel":35,"exterior":"GOOD","coordinates":[18.04971,59.31126,0],"name":"OPU741","engineType":"CE","vin":"WME4513341K816836","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 19, 16440 Stockholms kommun","city":"stockholm","fuel":57,"exterior":"GOOD","coordinates":[17.95039,59.40281,0],"name":"BGF420","engineType":"CE","vin":"WME4513341K815642","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Råsundavägen 133, 16934 Solna kommun","city":"stockholm","fuel":32,"exterior":"GOOD","coordinates":[17.98899,59.36631,0],"name":"GLN002","engineType":"CE","vin":"WME4513341K818486","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Norra Agnegatan 39, 11223 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.04284,59.3319,0],"name":"DJY016","engineType":"CE","vin":"WME4513341K818798","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gustav III:s Boulevard 80, 16982 Solna kommun","city":"stockholm","fuel":59,"exterior":"GOOD","coordinates":[18.01258,59.37513,0],"name":"DHM835","engineType":"CE","vin":"WME4513341K810619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Heliosgatan 46, 12062 Stockholms kommun","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[18.09233,59.30439,0],"name":"AKG512","engineType":"CE","vin":"WME4513341K817055","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rålambsvägen 29, 11243 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.01089,59.32837,0],"name":"CFT031","engineType":"CE","vin":"WME4513341K814042","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 35, 11428 Stockholms kommun","city":"stockholm","fuel":54,"exterior":"GOOD","coordinates":[18.0702,59.34867,0],"name":"AKG609","engineType":"CE","vin":"WME4513341K814092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"NPD716","engineType":"CE","vin":"WME4513341K810745","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Galoppvägen, 17066 Solna kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.0091,59.3769,0],"name":"NPE174","engineType":"CE","vin":"WME4513341K818796","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gyllenborgsgatan 14, 11243 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.01611,59.33279,0],"name":"CFZ859","engineType":"CE","vin":"WME4513341K813872","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nämndemansgatan 6, 17066 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.01148,59.37725,0],"name":"BGF154","engineType":"CE","vin":"WME4513341K813995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gårdsvägen, 16968 Solna kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[18.01468,59.36504,0],"name":"JMN149","engineType":"CE","vin":"WME4513341K819074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Igelbäcksgatan, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.9497,59.39748,0],"name":"NKC287","engineType":"CE","vin":"WME4513341K815652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Torsgatan 21, 11321 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.04216,59.3375,0],"name":"LON551","engineType":"CE","vin":"WME4513341K817363","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jungfrudansen 32-36, 17154 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.98337,59.34819,0],"name":"GLN028","engineType":"CE","vin":"WME4513341K816818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Strandbergsgatan 51, 11251 Stockholms kommun","city":"stockholm","fuel":82,"exterior":"GOOD","coordinates":[18.01059,59.33808,0],"name":"OPU538","engineType":"CE","vin":"WME4513341K816766","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":82,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"UED634","engineType":"CE","vin":"WME4513341K818916","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Högalidsgatan, Stockholms kommun","city":"stockholm","fuel":14,"exterior":"GOOD","coordinates":[18.04261,59.3192,0],"name":"PMY508","engineType":"CE","vin":"WME4513341K810781","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Danderydsgatan 27, 11428 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.07087,59.34477,0],"name":"PPD703","engineType":"CE","vin":"WME4513341K816504","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Östhammarsgatan 64, 11559 Stockholms kommun","city":"stockholm","fuel":90,"exterior":"GOOD","coordinates":[18.1109,59.34313,0],"name":"WJB582","engineType":"CE","vin":"WME4513341K818842","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hamngatan 21B, 17267 Sundbybergs kommun","city":"stockholm","fuel":37,"exterior":"GOOD","coordinates":[17.96419,59.35834,0],"name":"POR156","engineType":"CE","vin":"WME4513341K818673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Järnvägsgatan, Sundbybergs kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.95935,59.3649,0],"name":"NPD734","engineType":"CE","vin":"WME4513341K814050","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Frejgatan 58, 11327 Stockholms kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.04217,59.34342,0],"name":"GJS222","engineType":"CE","vin":"WME4513341K813710","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 35, 11428 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.07019,59.34853,0],"name":"PPS095","engineType":"CE","vin":"WME4513341K818705","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Näckrosvägen 5, 16937 Solna kommun","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[17.98657,59.36895,0],"name":"AKW573","engineType":"CE","vin":"WME4513341K818987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":54,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"RWT348","engineType":"CE","vin":"WME4513341K813954","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vindragarvägen 10, 11766 Stockholms kommun","city":"stockholm","fuel":40,"exterior":"GOOD","coordinates":[18.01847,59.31871,0],"name":"XOA928","engineType":"CE","vin":"WME4513341K813652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Fleminggatan 4, 11223 Stockholms kommun","city":"stockholm","fuel":40,"exterior":"GOOD","coordinates":[18.04827,59.33262,0],"name":"GJP399","engineType":"CE","vin":"WME4513341K813661","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 25, 16440 Stockholms kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[17.94903,59.40378,0],"name":"LOR055","engineType":"CE","vin":"WME4513341K818352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Skinnarviksringen 20, 11821 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.0451,59.31935,0],"name":"FKR088","engineType":"CE","vin":"WME4513341K817017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kista galleria (södra infarten)","city":"stockholm","fuel":48,"exterior":"GOOD","coordinates":[17.94498,59.40278,0],"name":"GJO201","engineType":"CE","vin":"WME4513341K813829","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Huvudstagatan 25, 17158 Solna kommun","city":"stockholm","fuel":57,"exterior":"GOOD","coordinates":[17.99669,59.35155,0],"name":"MOG344","engineType":"CE","vin":"WME4513341K814064","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stockholms Universitet (markerade platser)","city":"stockholm","fuel":76,"exterior":"GOOD","coordinates":[18.06046,59.36229,0],"name":"JKS853","engineType":"CE","vin":"WME4513341K814098","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Bredkilsbacken 4, 17158 Solna kommun","city":"stockholm","fuel":96,"exterior":"GOOD","coordinates":[17.99249,59.35256,0],"name":"FLD138","engineType":"CE","vin":"WME4513341K819049","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Thorildsvägen 3, 11243 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.01673,59.33264,0],"name":"CKM846","engineType":"CE","vin":"WME4513341K817218","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Trädgårdsgatan 25, 17265 Sundbybergs kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[17.96835,59.35692,0],"name":"HLN385","engineType":"CE","vin":"WME4513341K814031","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 23, 16440 Stockholms kommun","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[17.94936,59.40338,0],"name":"JKP062","engineType":"CE","vin":"WME4513341K813735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Katarina Bangata 58, 11639 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.08372,59.31033,0],"name":"EGR510","engineType":"CE","vin":"WME4513341K817149","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 34, 16455 Stockholms kommun","city":"stockholm","fuel":45,"exterior":"GOOD","coordinates":[17.94617,59.40583,0],"name":"LON549","engineType":"CE","vin":"WME4513341K813942","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Anderstorpsvägen 12, 17154 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.98204,59.35095,0],"name":"FKL382","engineType":"CE","vin":"WME4513341K813863","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vikingagatan 10, 11330 Stockholms kommun","city":"stockholm","fuel":40,"exterior":"GOOD","coordinates":[18.03276,59.34064,0],"name":"BGC061","engineType":"CE","vin":"WME4513341K816080","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vanadisvägen 25, 11344 Stockholms kommun","city":"stockholm","fuel":45,"exterior":"GOOD","coordinates":[18.0443,59.34599,0],"name":"FLC430","engineType":"CE","vin":"WME4513341K817257","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Ankdammsgatan, 17142 Solna kommun","city":"stockholm","fuel":21,"exterior":"GOOD","coordinates":[17.99302,59.35535,0],"name":"FLD142","engineType":"CE","vin":"WME4513341K818929","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Norra Agnegatan 36, 11223 Stockholms kommun","city":"stockholm","fuel":39,"exterior":"GOOD","coordinates":[18.04299,59.33243,0],"name":"AKG701","engineType":"CE","vin":"WME4513341K813946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Sandelsgatan 30, 11535 Stockholms kommun","city":"stockholm","fuel":59,"exterior":"GOOD","coordinates":[18.0916,59.34414,0],"name":"ORR141","engineType":"CE","vin":"WME4513341K819005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"NPC712","engineType":"CE","vin":"WME4513341K815570","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Knarrarnäsgatan, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94947,59.40096,0],"name":"GLM664","engineType":"CE","vin":"WME4513341K819132","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nybrogatan 91, 11442 Stockholms kommun","city":"stockholm","fuel":67,"exterior":"GOOD","coordinates":[18.0834,59.34261,0],"name":"DJY094","engineType":"CE","vin":"WME4513341K817200","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Ängkärrsgatan 14, 17158 Solna kommun","city":"stockholm","fuel":71,"exterior":"GOOD","coordinates":[17.9987,59.35126,0],"name":"SZT650","engineType":"CE","vin":"WME4513341K816722","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Järnvägsgatan 20, 17265 Sundbybergs kommun","city":"stockholm","fuel":98,"exterior":"GOOD","coordinates":[17.97109,59.36131,0],"name":"DHL827","engineType":"CE","vin":"WME4513341K813906","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vanadisvägen 34, 11344 Stockholms kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[18.04285,59.34594,0],"name":"CKT347","engineType":"CE","vin":"WME4513341K818778","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 18, 11428 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.07081,59.34803,0],"name":"FLC443","engineType":"CE","vin":"WME4513341K819124","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stagneliusvägen 42, 11256 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.00509,59.32903,0],"name":"GWB212","engineType":"CE","vin":"WME4513341K813750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Bredkilsbacken 4, 17158 Solna kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[17.99253,59.35205,0],"name":"LOP325","engineType":"CE","vin":"WME4513341K814009","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagavägen, 16968 Solna kommun","city":"stockholm","fuel":39,"exterior":"GOOD","coordinates":[18.01772,59.3618,0],"name":"PAC462","engineType":"CE","vin":"WME4513341K813919","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Katarina Bangata 57, 11639 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.08671,59.30933,0],"name":"POG003","engineType":"CE","vin":"WME4513341K813693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Järnvägsgatan, Sundbybergs kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[17.95908,59.36513,0],"name":"AKW889","engineType":"CE","vin":"WME4513341K818750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Falugatan 15, 11337 Stockholms kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.03641,59.34374,0],"name":"ORR606","engineType":"CE","vin":"WME4513341K818762","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Solgatan, 16961 Solna kommun","city":"stockholm","fuel":87,"exterior":"GOOD","coordinates":[18.01074,59.35922,0],"name":"MYW318","engineType":"CE","vin":"WME4513341K818882","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kungsholmsgatan 36, 11221 Stockholms kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[18.04155,59.332,0],"name":"MOG756","engineType":"CE","vin":"WME4513341K819062","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Armégatan, 17160 Solna kommun","city":"stockholm","fuel":87,"exterior":"GOOD","coordinates":[17.99276,59.34778,0],"name":"RWE567","engineType":"CE","vin":"WME4513341K810564","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Frejgatan 45, 11348 Stockholms kommun","city":"stockholm","fuel":92,"exterior":"GOOD","coordinates":[18.0541,59.34662,0],"name":"ORR100","engineType":"CE","vin":"WME4513341K810735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Wargentinsgatan 7, 11221 Stockholms kommun","city":"stockholm","fuel":98,"exterior":"GOOD","coordinates":[18.04093,59.33291,0],"name":"LOP348","engineType":"CE","vin":"WME4513341K813636","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rindögatan 50, 11535 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.10046,59.34591,0],"name":"GJP297","engineType":"CE","vin":"WME4513341K813825","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Mäster Simons väg, 17066 Solna kommun","city":"stockholm","fuel":89,"exterior":"GOOD","coordinates":[18.00898,59.37642,0],"name":"PPN847","engineType":"CE","vin":"WME4513341K813849","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Sandhamnsgatan 2, 11541 Stockholms kommun","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[18.10358,59.34755,0],"name":"JKO632","engineType":"CE","vin":"WME4513341K814017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gustav III:s Boulevard 40, 16982 Solna kommun","city":"stockholm","fuel":78,"exterior":"GOOD","coordinates":[18.01691,59.37243,0],"name":"EGR823","engineType":"CE","vin":"WME4513341K814103","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 67, 11486 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.06572,59.352,0],"name":"JKT738","engineType":"CE","vin":"WME4513341K816129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Arlanda","city":"stockholm","fuel":37,"exterior":"GOOD","coordinates":[17.93256,59.64589,0],"name":"WFX798","engineType":"CE","vin":"WME4513341K816987","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hangövägen 35, 11574 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.1134,59.34858,0],"name":"CFU901","engineType":"CE","vin":"WME4513341K817047","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Karlavägen 102, 11523 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.09709,59.33612,0],"name":"DHM477","engineType":"CE","vin":"WME4513341K817051","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Östhammarsgatan 70, 11559 Stockholms kommun","city":"stockholm","fuel":40,"exterior":"GOOD","coordinates":[18.11214,59.34356,0],"name":"DHN570","engineType":"CE","vin":"WME4513341K817074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Armégatan, 17160 Solna kommun","city":"stockholm","fuel":87,"exterior":"GOOD","coordinates":[17.99279,59.34783,0],"name":"BKZ383","engineType":"CE","vin":"WME4513341K817115","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Huvudstagatan 6, 17158 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.9971,59.35372,0],"name":"MOG337","engineType":"CE","vin":"WME4513341K817186","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Love Almqvists Väg 4, 11256 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.00281,59.334,0],"name":"AKW462","engineType":"CE","vin":"WME4513341K817367","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rättarvägen, 16968 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.01126,59.36543,0],"name":"CKN146","engineType":"CE","vin":"WME4513341K818244","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Norr Mälarstrand 100, 11235 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.02467,59.33027,0],"name":"WJB521","engineType":"CE","vin":"WME4513341K818304","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gustav III:s Boulevard 165, 17066 Solna kommun","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[18.00994,59.37397,0],"name":"GLN027","engineType":"CE","vin":"WME4513341K818473","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stockholms Universitet (markerade platser)","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.06046,59.36229,0],"name":"UED518","engineType":"CE","vin":"WME4513341K818635","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Artemisgatan, Stockholms kommun","city":"stockholm","fuel":89,"exterior":"GOOD","coordinates":[18.10029,59.35502,0],"name":"KOP248","engineType":"CE","vin":"WME4513341K818683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Finlandsgatan 10, 16494 Stockholms kommun","city":"stockholm","fuel":68,"exterior":"GOOD","coordinates":[17.91851,59.41742,0],"name":"NPE162","engineType":"CE","vin":"WME4513341K818699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Schultzvägen 2, 17067 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.99375,59.37764,0],"name":"KOP239","engineType":"CE","vin":"WME4513341K818784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 18, 11428 Stockholms kommun","city":"stockholm","fuel":59,"exterior":"GOOD","coordinates":[18.07034,59.34811,0],"name":"JMK367","engineType":"CE","vin":"WME4513341K814075","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Söderledstunneln, 11856 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.07381,59.30973,0],"name":"EKC802","engineType":"CE","vin":"WME4513341K818824","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Eriksdalsgatan 20, 11860 Stockholms kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[18.06539,59.3066,0],"name":"CZC561","engineType":"CE","vin":"WME4513341K818834","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Surbrunnsgatan 59, 11327 Stockholms kommun","city":"stockholm","fuel":34,"exterior":"GOOD","coordinates":[18.05107,59.34376,0],"name":"ORR610","engineType":"CE","vin":"WME4513341K818812","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Frihamnen","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.11842,59.34268,0],"name":"JMN090","engineType":"CE","vin":"WME4513341K818892","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Ekensbergsvägen 85, 16931 Solna kommun","city":"stockholm","fuel":85,"exterior":"GOOD","coordinates":[17.98969,59.36179,0],"name":"HLR705","engineType":"CE","vin":"WME4513341K818905","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Skånegatan 95, 11635 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.08617,59.31324,0],"name":"CKS795","engineType":"CE","vin":"WME4513341K818600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Geijersvägen 15, 11243 Stockholms kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[18.01215,59.33324,0],"name":"KMR768","engineType":"CE","vin":"WME4513341K817345","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Pilgatan 5, 11222 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.03889,59.32791,0],"name":"AKW834","engineType":"CE","vin":"WME4513341K819017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Löjtnantsgatan 10, 11433 Stockholms kommun","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[18.08331,59.34476,0],"name":"ORR538","engineType":"CE","vin":"WME4513341K819026","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Blecktornsbrinken 4, Stockholms kommun","city":"stockholm","fuel":70,"exterior":"GOOD","coordinates":[18.08476,59.30784,0],"name":"CKT227","engineType":"CE","vin":"WME4513341K819029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Färgarplan, 12064 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.095,59.31012,0],"name":"MOG767","engineType":"CE","vin":"WME4513341K819109","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Barnängsgatan 8, 12071 Stockholms kommun","city":"stockholm","fuel":92,"exterior":"GOOD","coordinates":[18.0959,59.313,0],"name":"OBO303","engineType":"CE","vin":"WME4513341K819118","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Furusundsgatan 11, 11535 Stockholms kommun","city":"stockholm","fuel":43,"exterior":"GOOD","coordinates":[18.09827,59.34712,0],"name":"NPE182","engineType":"CE","vin":"WME4513341K818655","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Östgötagatan 57, 11639 Stockholms kommun","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[18.07785,59.31211,0],"name":"KOP258","engineType":"CE","vin":"WME4513341K818867","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Lidnersgatan 4, 11251 Stockholms kommun","city":"stockholm","fuel":76,"exterior":"GOOD","coordinates":[18.00121,59.33511,0],"name":"BKZ520","engineType":"CE","vin":"WME4513341K818852","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagagatan 28, 11327 Stockholms kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[18.05116,59.34629,0],"name":"MOG362","engineType":"CE","vin":"WME4513341K813791","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kistagången 19, 16440 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[17.94865,59.40386,0],"name":"JMN313","engineType":"CE","vin":"WME4513341K819202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Högalidsgatan, Stockholms kommun","city":"stockholm","fuel":81,"exterior":"GOOD","coordinates":[18.04161,59.31897,0],"name":"NPE189","engineType":"CE","vin":"WME4513341K816538","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Torsgatan 71, 11330 Stockholms kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[18.03459,59.34482,0],"name":"HLR489","engineType":"CE","vin":"WME4513341K818729","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hammarby allé, 12064 Stockholms kommun","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[18.0999,59.30327,0],"name":"WJB587","engineType":"CE","vin":"WME4513341K819043","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Artemisgatan, Stockholms kommun","city":"stockholm","fuel":34,"exterior":"GOOD","coordinates":[18.09947,59.35572,0],"name":"EKC847","engineType":"CE","vin":"WME4513341K818997","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Åsögatan 158, 11630 Stockholms kommun","city":"stockholm","fuel":92,"exterior":"GOOD","coordinates":[18.08295,59.31391,0],"name":"HLN701","engineType":"CE","vin":"WME4513341K818977","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Tulegatan, 17277 Sundbybergs kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[17.96934,59.36662,0],"name":"FLD157","engineType":"CE","vin":"WME4513341K818734","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Bredkilsbacken 8, 17158 Solna kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[17.99261,59.35155,0],"name":"DJY118","engineType":"CE","vin":"WME4513341K819167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Arlanda","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[17.93256,59.64589,0],"name":"DJY023","engineType":"CE","vin":"WME4513341K818858","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Tantolunden","city":"stockholm","fuel":71,"exterior":"GOOD","coordinates":[18.05223,59.31319,0],"name":"ORR536","engineType":"CE","vin":"WME4513341K818677","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":25,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"WFX386","engineType":"CE","vin":"WME4513341K813980","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Liljeholmstorget galleria (våning -1)","city":"stockholm","fuel":76,"exterior":"GOOD","coordinates":[18.02325,59.30952,0],"name":"WJB566","engineType":"CE","vin":"WME4513341K818659","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gustav III:s Boulevard 42, 16982 Solna kommun","city":"stockholm","fuel":81,"exterior":"GOOD","coordinates":[18.01624,59.37309,0],"name":"MOG311","engineType":"CE","vin":"WME4513341K810712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jyllandsgatan, 16455 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.93395,59.40487,0],"name":"PPF054","engineType":"CE","vin":"WME4513341K818709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Runebergsgatan 2, 11145 Stockholms kommun","city":"stockholm","fuel":65,"exterior":"GOOD","coordinates":[18.06727,59.34082,0],"name":"GJR703","engineType":"CE","vin":"WME4513341K816754","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Klippgatan 19, 11635 Stockholms kommun","city":"stockholm","fuel":84,"exterior":"GOOD","coordinates":[18.08828,59.31352,0],"name":"BGB224","engineType":"CE","vin":"WME4513341K817341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"BKZ359","engineType":"CE","vin":"WME4513341K818792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":67,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"GJP833","engineType":"CE","vin":"WME4513341K817311","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Råsundavägen 114, 16951 Solna kommun","city":"stockholm","fuel":87,"exterior":"GOOD","coordinates":[17.99457,59.36508,0],"name":"EKC803","engineType":"CE","vin":"WME4513341K818963","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stockholms Universitet (markerade platser)","city":"stockholm","fuel":34,"exterior":"GOOD","coordinates":[18.06046,59.36229,0],"name":"PPS066","engineType":"CE","vin":"WME4513341K818820","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Grevgatan 55, 11455 Stockholms kommun","city":"stockholm","fuel":37,"exterior":"GOOD","coordinates":[18.08728,59.3374,0],"name":"KOP249","engineType":"CE","vin":"WME4513341K818802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Barnängsgatan 9, 12071 Stockholms kommun","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[18.09653,59.31204,0],"name":"ORR602","engineType":"CE","vin":"WME4513341K818719","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Lundagatan 3A, 17163 Solna kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.00497,59.35369,0],"name":"BKR439","engineType":"CE","vin":"WME4513341K810578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Idungatan 4, 11346 Stockholms kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[18.04811,59.34833,0],"name":"CKM851","engineType":"CE","vin":"WME4513341K816995","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Finlandsgatan 10, 16494 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.91851,59.41752,0],"name":"MOG774","engineType":"CE","vin":"WME4513341K818922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagagatan 9, 11327 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.05216,59.34463,0],"name":"PMO035","engineType":"CE","vin":"WME4513341K810560","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 35, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94765,59.40479,0],"name":"RWX549","engineType":"CE","vin":"WME4513341K818886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Centralbron, 11127 Stockholms kommun","city":"stockholm","fuel":96,"exterior":"GOOD","coordinates":[18.06541,59.32489,0],"name":"NPE142","engineType":"CE","vin":"WME4513341K818983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":76,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"XOB144","engineType":"CE","vin":"WME4513341K815610","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rödabergsgatan 3, 11337 Stockholms kommun","city":"stockholm","fuel":57,"exterior":"GOOD","coordinates":[18.03745,59.34437,0],"name":"EUB613","engineType":"CE","vin":"WME4513341K818830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Humblegatan, 17265 Sundbybergs kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[17.96878,59.35851,0],"name":"KMR311","engineType":"CE","vin":"WME4513341K815485","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jyllandsgatan, 16455 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[17.934,59.40487,0],"name":"UDC170","engineType":"CE","vin":"WME4513341K816263","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Onkel Adams Väg 8, 11256 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.00279,59.33466,0],"name":"GLN093","engineType":"CE","vin":"WME4513341K818693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Bråvallagatan 10, 11330 Stockholms kommun","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[18.03507,59.33897,0],"name":"CKM911","engineType":"CE","vin":"WME4513341K817229","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Regementsgatan, 17066 Solna kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[18.00457,59.37615,0],"name":"WJB375","engineType":"CE","vin":"WME4513341K819150","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Onkel Adams Väg 2, 11256 Stockholms kommun","city":"stockholm","fuel":70,"exterior":"GOOD","coordinates":[18.00274,59.33426,0],"name":"HEG802","engineType":"CE","vin":"WME4513341K813984","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Pokalvägen 6, 11743 Stockholms kommun","city":"stockholm","fuel":34,"exterior":"GOOD","coordinates":[18.02267,59.31828,0],"name":"AKW489","engineType":"CE","vin":"WME4513341K819136","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Sandhamnsgatan 33, 11559 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.11049,59.34362,0],"name":"POF883","engineType":"CE","vin":"WME4513341K813759","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Birger Jarlsgatan 116, 11356 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.05977,59.34866,0],"name":"DHO689","engineType":"CE","vin":"WME4513341K815620","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stadshagens Idrottsväg, 11218 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.02073,59.33632,0],"name":"NPC539","engineType":"CE","vin":"WME4513341K810847","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Lars Forssells Gata, 11251 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.00409,59.33859,0],"name":"BGD813","engineType":"CE","vin":"WME4513341K817021","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Vanadisvägen 28, 11344 Stockholms kommun","city":"stockholm","fuel":82,"exterior":"GOOD","coordinates":[18.04412,59.34623,0],"name":"WJB875","engineType":"CE","vin":"WME4513341K818862","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Karlbergsvägen 11A, 11322 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.04577,59.34281,0],"name":"ORR539","engineType":"CE","vin":"WME4513341K819000","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hammarby allé, 12030 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.08855,59.30277,0],"name":"DJY040","engineType":"CE","vin":"WME4513341K818619","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Södra Långgatan, 16959 Solna kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.00521,59.36417,0],"name":"AKG229","engineType":"CE","vin":"WME4513341K813688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Fredrikshovsgatan 3B, 11523 Stockholms kommun","city":"stockholm","fuel":95,"exterior":"GOOD","coordinates":[18.09425,59.33352,0],"name":"DJY038","engineType":"CE","vin":"WME4513341K818715","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gustafsvägen, 16959 Solna kommun","city":"stockholm","fuel":48,"exterior":"GOOD","coordinates":[18.0034,59.3644,0],"name":"PZP024","engineType":"CE","vin":"WME4513341K819173","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagagatan 5, 11327 Stockholms kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[18.0526,59.34435,0],"name":"NPE185","engineType":"CE","vin":"WME4513341K819034","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stockholms Universitet (markerade platser)","city":"stockholm","fuel":98,"exterior":"GOOD","coordinates":[18.06046,59.36229,0],"name":"AKG021","engineType":"CE","vin":"WME4513341K813666","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Orvar Odds Väg 43, 16740 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.99801,59.3303,0],"name":"LTS365","engineType":"CE","vin":"WME4513341K818740","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Greta Garbos väg 10, 16940 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.98094,59.36769,0],"name":"EKC805","engineType":"CE","vin":"WME4513341K818847","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kocksgatan 11, 11624 Stockholms kommun","city":"stockholm","fuel":31,"exterior":"GOOD","coordinates":[18.0765,59.31391,0],"name":"MOF087","engineType":"CE","vin":"WME4513341K814023","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagavägen, 16968 Solna kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.01887,59.36195,0],"name":"SZT794","engineType":"CE","vin":"WME4513341K813716","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Norr Mälarstrand 90, 11235 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.02649,59.32954,0],"name":"CKT027","engineType":"CE","vin":"WME4513341K819128","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Allhelgonagatan 6, 11856 Stockholms kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[18.07359,59.3096,0],"name":"SBW558","engineType":"CE","vin":"WME4513341K818943","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Duvnäsgatan 3, 12071 Stockholms kommun","city":"stockholm","fuel":40,"exterior":"GOOD","coordinates":[18.09466,59.3135,0],"name":"MOF106","engineType":"CE","vin":"WME4513341K814056","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Frejgatan 13, 11356 Stockholms kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[18.06107,59.34837,0],"name":"GJN902","engineType":"CE","vin":"WME4513341K810603","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Duvnäsgatan 10, 11635 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.09451,59.31394,0],"name":"MOG759","engineType":"CE","vin":"WME4513341K819087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Luxgatan 27, 11267 Stockholms kommun","city":"stockholm","fuel":26,"exterior":"GOOD","coordinates":[18.00426,59.3238,0],"name":"RWX516","engineType":"CE","vin":"WME4513341K818806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Wallingatan 35, 11360 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.05239,59.33596,0],"name":"BGB418","engineType":"CE","vin":"WME4513341K813773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Bengt Ekehjelmsgatan 11, 11855 Stockholms kommun","city":"stockholm","fuel":51,"exterior":"GOOD","coordinates":[18.06273,59.31487,0],"name":"PAS858","engineType":"CE","vin":"WME4513341K817190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Huvudstagatan 33, 17160 Solna kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[17.99646,59.35016,0],"name":"AKG133","engineType":"CE","vin":"WME4513341K813895","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Heimdalsgatan 1, 11327 Stockholms kommun","city":"stockholm","fuel":96,"exterior":"GOOD","coordinates":[18.04828,59.34409,0],"name":"SZT654","engineType":"CE","vin":"WME4513341K815528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Upplandsgatan 72, 11344 Stockholms kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.04595,59.3454,0],"name":"TAO753","engineType":"CE","vin":"WME4513341K817380","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Duvnäsgatan 12, 11635 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.09463,59.31373,0],"name":"OPU246","engineType":"CE","vin":"WME4513341K816222","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Östervägen, 17145 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.00275,59.36271,0],"name":"DJX289","engineType":"CE","vin":"WME4513341K810653","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jungfrudansen, 17154 Solna kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[17.98051,59.35081,0],"name":"GLJ202","engineType":"CE","vin":"WME4513341K813838","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":70,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"EGT288","engineType":"CE","vin":"WME4513341K815522","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hagavägen, 16968 Solna kommun","city":"stockholm","fuel":67,"exterior":"GOOD","coordinates":[18.01841,59.36186,0],"name":"DJY036","engineType":"CE","vin":"WME4513341K818669","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Skinnarviksringen 20, 11821 Stockholms kommun","city":"stockholm","fuel":32,"exterior":"GOOD","coordinates":[18.04518,59.31941,0],"name":"AKW908","engineType":"CE","vin":"WME4513341K818877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hornsgatan 55, 11851 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.05608,59.31805,0],"name":"LON543","engineType":"CE","vin":"WME4513341K810590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Gävlegatan 1, 11337 Stockholms kommun","city":"stockholm","fuel":54,"exterior":"GOOD","coordinates":[18.0383,59.34517,0],"name":"WHW817","engineType":"CE","vin":"WME4513341K813789","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Norr Mälarstrand 76, 11237 Stockholms kommun","city":"stockholm","fuel":87,"exterior":"GOOD","coordinates":[18.03046,59.32846,0],"name":"JAE453","engineType":"CE","vin":"WME4513341K819039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kadettgatan 7, 11330 Stockholms kommun","city":"stockholm","fuel":82,"exterior":"GOOD","coordinates":[18.03248,59.34361,0],"name":"CKT340","engineType":"CE","vin":"WME4513341K818911","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Filmgatan 17, 16933 Solna kommun","city":"stockholm","fuel":54,"exterior":"GOOD","coordinates":[17.98373,59.36335,0],"name":"PPN132","engineType":"CE","vin":"WME4513341K817084","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Knarrarnäsgatan, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94986,59.40058,0],"name":"GLM701","engineType":"CE","vin":"WME4513341K818901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stora Gråmunkegränd 9, 11127 Stockholms kommun","city":"stockholm","fuel":85,"exterior":"GOOD","coordinates":[18.06714,59.32516,0],"name":"MOG318","engineType":"CE","vin":"WME4513341K817068","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Krukmakargatan 22, 11852 Stockholms kommun","city":"stockholm","fuel":39,"exterior":"GOOD","coordinates":[18.05612,59.31739,0],"name":"AGA904","engineType":"CE","vin":"WME4513341K817376","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"NPD695","engineType":"CE","vin":"WME4513341K810624","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Mäster Simons väg, 17066 Solna kommun","city":"stockholm","fuel":57,"exterior":"GOOD","coordinates":[18.0088,59.37636,0],"name":"BKR426","engineType":"CE","vin":"WME4513341K810874","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Värtavägen 57, 11535 Stockholms kommun","city":"stockholm","fuel":62,"exterior":"GOOD","coordinates":[18.10238,59.34728,0],"name":"LOP339","engineType":"CE","vin":"WME4513341K817093","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Näckrosvägen 9, 16937 Solna kommun","city":"stockholm","fuel":89,"exterior":"GOOD","coordinates":[17.98447,59.36975,0],"name":"DHM450","engineType":"CE","vin":"WME4513341K813679","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hammarby allé, 12030 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.08953,59.30323,0],"name":"FLD151","engineType":"CE","vin":"WME4513341K818971","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Fredhällstunneln, 11243 Stockholms kommun","city":"stockholm","fuel":65,"exterior":"GOOD","coordinates":[18.00909,59.32868,0],"name":"AGA948","engineType":"CE","vin":"WME4513341K815441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Ernst Ahlgrens Väg 2, 11256 Stockholms kommun","city":"stockholm","fuel":78,"exterior":"GOOD","coordinates":[18.0047,59.33101,0],"name":"HLR568","engineType":"CE","vin":"WME4513341K818744","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jungfrudansen, 17154 Solna kommun","city":"stockholm","fuel":57,"exterior":"GOOD","coordinates":[17.98015,59.34909,0],"name":"MOF096","engineType":"CE","vin":"WME4513341K817100","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Slottsvägen, 16968 Solna kommun","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[18.01829,59.36219,0],"name":"HKC364","engineType":"CE","vin":"WME4513341K810786","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Näckrosvägen, 16938 Solna kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[17.98833,59.36875,0],"name":"FKL714","engineType":"CE","vin":"WME4513341K813999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Danmarksgatan, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94033,59.40495,0],"name":"SZT783","engineType":"CE","vin":"WME4513341K816842","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jungfrudansen 32-36, 17154 Solna kommun","city":"stockholm","fuel":95,"exterior":"GOOD","coordinates":[17.98411,59.34802,0],"name":"LOR056","engineType":"CE","vin":"WME4513341K818949","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"BGE182","engineType":"CE","vin":"WME4513341K815626","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Galoppvägen, 17066 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.00929,59.37671,0],"name":"DJY019","engineType":"CE","vin":"WME4513341K817204","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kungsholms Strand 143, 11247 Stockholms kommun","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[18.02966,59.33751,0],"name":"LOR005","engineType":"CE","vin":"WME4513341K819324","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Surbrunnsgatan 2, 11351 Stockholms kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.06476,59.3473,0],"name":"TBA654","engineType":"CE","vin":"WME4513341K818935","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Täby Centrum (Norra garaget, plan 1)","city":"stockholm","fuel":75,"exterior":"GOOD","coordinates":[18.07327,59.44622,0],"name":"CGC684","engineType":"CE","vin":"WME4513341K815544","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Karlavägen 53, 10244 Stockholms kommun","city":"stockholm","fuel":56,"exterior":"GOOD","coordinates":[18.07825,59.34023,0],"name":"WJB423","engineType":"CE","vin":"WME4513341K818689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rödabergsgatan 3, 11337 Stockholms kommun","city":"stockholm","fuel":93,"exterior":"GOOD","coordinates":[18.03705,59.34433,0],"name":"UEE078","engineType":"CE","vin":"WME4513341K818625","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Pilgatan 19, 11221 Stockholms kommun","city":"stockholm","fuel":73,"exterior":"GOOD","coordinates":[18.03946,59.32954,0],"name":"OPU441","engineType":"CE","vin":"WME4513341K815632","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Fredmansgatan 4, 11852 Stockholms kommun","city":"stockholm","fuel":65,"exterior":"GOOD","coordinates":[18.06734,59.31683,0],"name":"FLC425","engineType":"CE","vin":"WME4513341K817012","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Jungfrudansen 32-36, 17154 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.98488,59.34877,0],"name":"EGW684","engineType":"CE","vin":"WME4513341K816908","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Finlandsgatan 10, 16494 Stockholms kommun","city":"stockholm","fuel":78,"exterior":"GOOD","coordinates":[17.91853,59.4174,0],"name":"WHW880","engineType":"CE","vin":"WME4513341K817121","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Stadsgårdshamnen, 11628 Stockholms kommun","city":"stockholm","fuel":68,"exterior":"GOOD","coordinates":[18.08213,59.31847,0],"name":"KOO569","engineType":"CE","vin":"WME4513341K817335","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Råsundavägen 114, 16951 Solna kommun","city":"stockholm","fuel":35,"exterior":"GOOD","coordinates":[17.99483,59.36496,0],"name":"MYR228","engineType":"CE","vin":"WME4513341K818756","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kistavägen, 16440 Stockholms kommun","city":"stockholm","fuel":46,"exterior":"GOOD","coordinates":[17.95344,59.40064,0],"name":"RWT285","engineType":"CE","vin":"WME4513341K810792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Artemisgatan, 11557 Stockholms kommun","city":"stockholm","fuel":42,"exterior":"GOOD","coordinates":[18.0973,59.35517,0],"name":"UED707","engineType":"CE","vin":"WME4513341K817194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Knarrarnäsgatan, 16440 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[17.94965,59.40091,0],"name":"AFY623","engineType":"CE","vin":"WME4513341K817372","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Furusundsgatan 4, 11535 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.0958,59.34798,0],"name":"NPC708","engineType":"CE","vin":"WME4513341K817349","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kristinebergs Strand 27, 11251 Stockholms kommun","city":"stockholm","fuel":21,"exterior":"GOOD","coordinates":[17.99958,59.33758,0],"name":"FLC419","engineType":"CE","vin":"WME4513341K810532","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":81,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"JMN111","engineType":"CE","vin":"WME4513341K818959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kocksgatan 35, 11630 Stockholms kommun","city":"stockholm","fuel":82,"exterior":"GOOD","coordinates":[18.08088,59.31444,0],"name":"EGW325","engineType":"CE","vin":"WME4513341K813796","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Arlanda","city":"stockholm","fuel":64,"exterior":"GOOD","coordinates":[17.93256,59.64589,0],"name":"EGT296","engineType":"CE","vin":"WME4513341K816092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Arlanda","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[17.93256,59.64589,0],"name":"EKC853","engineType":"CE","vin":"WME4513341K818788","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Isafjordsgatan 36, 16455 Stockholms kommun","city":"stockholm","fuel":50,"exterior":"GOOD","coordinates":[17.94574,59.40604,0],"name":"GLN078","engineType":"CE","vin":"WME4513341K819188","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Drottning Kristinas Väg 67, 11486 Stockholms kommun","city":"stockholm","fuel":32,"exterior":"GOOD","coordinates":[18.06574,59.35196,0],"name":"HLR569","engineType":"CE","vin":"WME4513341K818524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Arlanda","city":"stockholm","fuel":37,"exterior":"GOOD","coordinates":[17.93256,59.64589,0],"name":"XOD101","engineType":"CE","vin":"WME4513341K816595","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Östhammarsgatan 70, 11559 Stockholms kommun","city":"stockholm","fuel":79,"exterior":"GOOD","coordinates":[18.11236,59.34354,0],"name":"NPE146","engineType":"CE","vin":"WME4513341K818896","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Fartygsgatan 6, 12070 Stockholms kommun","city":"stockholm","fuel":53,"exterior":"GOOD","coordinates":[18.10898,59.30738,0],"name":"CKS576","engineType":"CE","vin":"WME4513341K819155","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Löjtnantsgatan 6, 11442 Stockholms kommun","city":"stockholm","fuel":65,"exterior":"GOOD","coordinates":[18.08379,59.34423,0],"name":"OZT206","engineType":"CE","vin":"WME4513341K818993","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hangövägen 18, 11574 Stockholms kommun","city":"stockholm","fuel":78,"exterior":"GOOD","coordinates":[18.11113,59.34862,0],"name":"RXM513","engineType":"CE","vin":"WME4513341K815506","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Sankt Göransgatan 146, 11251 Stockholms kommun","city":"stockholm","fuel":60,"exterior":"GOOD","coordinates":[18.01553,59.33779,0],"name":"BGA920","engineType":"CE","vin":"WME4513341K813834","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Rålambsvägen 51, 11256 Stockholms kommun","city":"stockholm","fuel":76,"exterior":"GOOD","coordinates":[18.00402,59.32995,0],"name":"CGA466","engineType":"CE","vin":"WME4513341K817001","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Hemvärnsgatan 8, 17154 Solna kommun","city":"stockholm","fuel":54,"exterior":"GOOD","coordinates":[17.97612,59.35493,0],"name":"AKW976","engineType":"CE","vin":"WME4513341K818647","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Storgatan 29, 11455 Stockholms kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.08615,59.3346,0],"name":"JMK381","engineType":"CE","vin":"WME4513341K813261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kungsholms Strand 173, 11249 Stockholms kommun","city":"stockholm","fuel":90,"exterior":"GOOD","coordinates":[18.02443,59.3386,0],"name":"UDX438","engineType":"CE","vin":"WME4513341K813765","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Nacka Forum (Forumvägen, markerade platser)","city":"stockholm","fuel":35,"exterior":"GOOD","coordinates":[18.16452,59.31088,0],"name":"DHL910","engineType":"CE","vin":"WME4513341K810926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Göran Persons väg 4A, 17155 Solna kommun","city":"stockholm","fuel":31,"exterior":"GOOD","coordinates":[17.982,59.35308,0],"name":"LOR007","engineType":"CE","vin":"WME4513341K819160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Kista galleria (södra infarten)","city":"stockholm","fuel":39,"exterior":"GOOD","coordinates":[17.94498,59.40278,0],"name":"AKW808","engineType":"CE","vin":"WME4513341K819113","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"sweden","smartPhoneRequired":true,"address":"Industrivägen 23, 17148 Solna kommun","city":"stockholm","fuel":100,"exterior":"GOOD","coordinates":[18.01466,59.35595,0],"name":"POF322","engineType":"CE","vin":"WME4513341K810503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

@@ -1,0 +1,594 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Harbor Dr 1374, 92101 San Diego","city":"sandiego","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[-117.17322,32.71959,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T302","vin":"WMEEJ9AA4FK827965","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"29th St 1217, 92102 San Diego","city":"sandiego","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[-117.13173,32.71814,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C136","vin":"WMEEJ9AA7FK832559","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Island Ave 2674, 92102 San Diego","city":"sandiego","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[-117.13654,32.71059,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T306","vin":"WMEEJ9AA1FK827793","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hickory St 2345, 92103 San Diego","city":"sandiego","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[-117.18836,32.75524,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T295","vin":"WMEEJ9AA9FK828321","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Lewis St 1485, 92103 San Diego","city":"sandiego","fuel":26,"exterior":"GOOD","charging":false,"coordinates":[-117.17669,32.75172,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T294","vin":"WMEEJ9AA5FK828154","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Este 2018, 92108 San Diego","city":"sandiego","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[-117.14422,32.77061,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U628","vin":"WMEEJ9AA0FK832354","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Truxton Road Charging Stations","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.2159,32.73821,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U626","vin":"WMEEJ9AA4FK832227","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino de la Reina 1512, 92108 San Diego","city":"sandiego","fuel":78,"exterior":"GOOD","charging":false,"coordinates":[-117.14871,32.77039,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S424","vin":"WMEEJ9AA1FK825834","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Buena Vista St 3414, 92109 San Diego","city":"sandiego","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[-117.23775,32.78115,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T880","vin":"WMEEJ9AAXFK832720","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hicock St 4018, 92110 San Diego","city":"sandiego","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[-117.20823,32.75838,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U627","vin":"WMEEJ9AA7FK832450","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pentuckett Ave 1762, 92104 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.11766,32.7236,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T319","vin":"WMEEJ9AAXFK825508","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"33rd St 570, 92102 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.1223,32.71154,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S417","vin":"WMEEJ9AA1FK827471","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Everts St 4669, 92109 San Diego","city":"sandiego","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[-117.24876,32.80022,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S595","vin":"WMEEJ9AA1FK826210","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pacific Hwy 4690, 92110 San Diego","city":"sandiego","fuel":24,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.20185,32.75779,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7FH G748","vin":"WMEEJ9AA0FK832662","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2364, 92106 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.21659,32.73457,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S578","vin":"WMEEJ9AA0FK824089","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6792, 92108 San Diego","city":"sandiego","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[-117.17315,32.76825,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S558","vin":"WMEEJ9AA3FK826158","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"35th St 4688, 92116 San Diego","city":"sandiego","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[-117.11732,32.76297,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U015","vin":"WMEEJ9AA0FK825369","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6660, 92108 San Diego","city":"sandiego","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[-117.17493,32.76764,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S502","vin":"WMEEJ9AA8FK827600","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Valley Rd, 92108 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.15097,32.77743,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U000","vin":"WMEEJ9AA7FK832142","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Roosevelt Rd 2829, 92106 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.21442,32.73736,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S560","vin":"WMEEJ9AA4FK827710","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"30th St 1540, 92102 San Diego","city":"sandiego","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[-117.13018,32.72173,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S511","vin":"WMEEJ9AA4FK826296","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Montezuma Rd 5664, 92115 San Diego","city":"sandiego","fuel":36,"exterior":"GOOD","charging":false,"coordinates":[-117.0739,32.7708,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T997","vin":"WMEEJ9AA0FK832418","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Imperial Ave 2907, 92102 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.13191,32.70632,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T285","vin":"WMEEJ9AA1FK828510","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Arnold Ave 3614, 92104 San Diego","city":"sandiego","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[-117.13677,32.74418,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T272","vin":"WMEEJ9AA0FK828434","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"5th Ave 2464, 92101 San Diego","city":"sandiego","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[-117.16027,32.73104,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T903","vin":"WMEEJ9AA4FK833183","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"29th St 1458, 92102 San Diego","city":"sandiego","fuel":36,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.13202,32.72088,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S478","vin":"WMEEJ9AA4FK827268","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Noyes St 4482, 92109 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.23167,32.8015,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7LO E451","vin":"WMEEJ9AA3FK832574","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Laning Rd 2545, 92106 San Diego","city":"sandiego","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[-117.21854,32.72751,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S499","vin":"WMEEJ9AA8FK825443","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hawley Blvd 4620, 92116 San Diego","city":"sandiego","fuel":27,"exterior":"GOOD","charging":false,"coordinates":[-117.11944,32.76154,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S587","vin":"WMEEJ9AA9FK825502","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Fordham St 3291, 92110 San Diego","city":"sandiego","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[-117.21364,32.75099,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S527","vin":"WMEEJ9AA3FK826550","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Noyes St 4515, 92109 San Diego","city":"sandiego","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[-117.23167,32.80197,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U005","vin":"WMEEJ9AA5FK832382","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Grape St 480, 92101 San Diego","city":"sandiego","fuel":31,"exterior":"GOOD","charging":false,"coordinates":[-117.16043,32.72622,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S428","vin":"WMEEJ9AA0FK828062","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Rio S 1752, 92108 San Diego","city":"sandiego","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[-117.14599,32.76714,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S577","vin":"WMEEJ9AA3FK825981","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Oliver Ave 1934, 92109 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.23323,32.7964,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T293","vin":"WMEEJ9AAXFK828182","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6718, 92108 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.1741,32.76794,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U001","vin":"WMEEJ9AA4FK832860","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Station Village Way 2171, 92108 San Diego","city":"sandiego","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[-117.14259,32.77481,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T913","vin":"WMEEJ9AA7FK832867","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Rio S 2598, 92108 San Diego","city":"sandiego","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[-117.13637,32.76969,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S413","vin":"WMEEJ9AA2FK826409","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2630, 92106 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.21354,32.73737,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U021","vin":"WMEEJ9AA4FK832213","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Russell St 3329, 92106 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.22597,32.73418,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S507","vin":"WMEEJ9AA1FK827034","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Adams Ave 2835, 92116 San Diego","city":"sandiego","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[-117.133,32.76283,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S501","vin":"WMEEJ9AA8FK823966","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Phyllis Pl 8346, 92123 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[-117.14905,32.78433,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T911","vin":"WMEEJ9AA7FK832982","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Guizot St 1058, 92107 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.254,32.72812,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T933","vin":"WMEEJ9AA8FK826835","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Old Town Ave 3916, 92110 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.1925,32.74911,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S410","vin":"WMEEJ9AA3FK827147","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Park Way 3034, 92104 San Diego","city":"sandiego","fuel":24,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.12891,32.74747,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S569","vin":"WMEEJ9AA0FK828028","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lomaland Dr, 92106 San Diego","city":"sandiego","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[-117.24836,32.71949,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S523","vin":"WMEEJ9AA5FK825772","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"J St 2967, 92102 San Diego","city":"sandiego","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[-117.13081,32.70949,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T925","vin":"WMEEJ9AA5FK832950","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Greenwood St 3862, 92110 San Diego","city":"sandiego","fuel":61,"exterior":"GOOD","charging":false,"coordinates":[-117.20565,32.75524,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T947","vin":"WMEEJ9AA9FK832403","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Osprey St 4693, 92107 San Diego","city":"sandiego","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[-117.25583,32.73241,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7JD A888","vin":"WMEEJ9AA7FK832707","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lewis St 203, 92103 San Diego","city":"sandiego","fuel":22,"exterior":"GOOD","charging":false,"coordinates":[-117.16314,32.75184,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7FH G749","vin":"WMEEJ9AA8FK833509","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Spanish Landing Charging Station","city":"sandiego","fuel":89,"exterior":"GOOD","charging":true,"coordinates":[-117.20479,32.72903,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S481","vin":"WMEEJ9AA0FK827459","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Campus Ave 4410, 92116 San Diego","city":"sandiego","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[-117.14888,32.75739,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S429","vin":"WMEEJ9AA3FK826922","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Felspar St 1030, 92109 San Diego","city":"sandiego","fuel":59,"exterior":"GOOD","charging":false,"coordinates":[-117.25156,32.79853,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T912","vin":"WMEEJ9AA3FK833501","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Catalina Blvd 1362, 92107 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.2438,32.7293,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S522","vin":"WMEEJ9AA8FK826012","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Beech St 2904, 92102 San Diego","city":"sandiego","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[-117.13195,32.72128,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S384","vin":"WMEEJ9AA9FK826178","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Georgia St 4374, 92103 San Diego","city":"sandiego","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[-117.14507,32.75672,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S483","vin":"WMEEJ9AA0FK826456","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino de la Reina 938, 92108 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.15485,32.76829,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S574","vin":"WMEEJ9AA3FK827665","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Clove St 1810, 92106 San Diego","city":"sandiego","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[-117.23001,32.73232,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S369","vin":"WMEEJ9AA3FK823566","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"9th Ave 961, 92101 San Diego","city":"sandiego","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[-117.15645,32.71532,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U610","vin":"WMEEJ9AA9FK832188","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2742, 92106 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.2122,32.73879,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T317","vin":"WMEEJ9AA1FK827681","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Oleander Dr 3721, 92106 San Diego","city":"sandiego","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[-117.22171,32.74781,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S572","vin":"WMEEJ9AA7FK827412","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"The Point Apartments","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.23736,32.78932,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S581","vin":"WMEEJ9AA7FK825675","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6742, 92108 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.17382,32.76805,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S495","vin":"WMEEJ9AA4FK826492","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Historic Decatur Road Charging Station","city":"sandiego","fuel":65,"exterior":"GOOD","charging":false,"coordinates":[-117.21206,32.73913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D492","vin":"WMEEJ9AA6FK832410","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Jessop Ln, 92110 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.19778,32.74588,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T277","vin":"WMEEJ9AA3FK827830","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Harbor Island Dr 937, 92101 San Diego","city":"sandiego","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[-117.19084,32.7249,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7JD A895","vin":"WMEEJ9AA7FK832674","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Rio San Diego Dr 8777, 92108 San Diego","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.14069,32.77562,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T338","vin":"WMEEJ9AA6FK827577","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Dickinson St 123, 92103 San Diego","city":"sandiego","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[-117.16445,32.7552,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T326","vin":"WMEEJ9AA6FK828163","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cushing Rd 2550, 92106 San Diego","city":"sandiego","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[-117.21393,32.7352,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U614","vin":"WMEEJ9AA3FK832414","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hazard Center Dr 7728, 92108 San Diego","city":"sandiego","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[-117.1556,32.77087,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S473","vin":"WMEEJ9AA1FK826692","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Beryl St 852, 92109 San Diego","city":"sandiego","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[-117.25652,32.80335,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T887","vin":"WMEEJ9AA3FK832218","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"41st St 4284, 92105 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.10728,32.75487,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S477","vin":"WMEEJ9AA1FK826286","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Fortuna Ave 1584, 92109 San Diego","city":"sandiego","fuel":49,"exterior":"GOOD","charging":false,"coordinates":[-117.23884,32.79227,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U630","vin":"WMEEJ9AA2FK832565","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Park Blvd 4451, 92116 San Diego","city":"sandiego","fuel":88,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.14622,32.75824,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S566","vin":"WMEEJ9AA0FK826098","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pacific Hwy 4378, 92110 San Diego","city":"sandiego","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[-117.19996,32.74949,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T995","vin":"WMEEJ9AAXFK832880","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Mission Bay Dr 978, 92109 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[-117.24734,32.77161,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U625","vin":"WMEEJ9AA6FK832536","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Quimby St 3573, 92106 San Diego","city":"sandiego","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[-117.22875,32.73623,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U004","vin":"WMEEJ9AA9FK828514","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Dale St 3332, 92104 San Diego","city":"sandiego","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[-117.13044,32.73986,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S504","vin":"WMEEJ9AA8FK826351","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cushing Rd 2380, 92106 San Diego","city":"sandiego","fuel":87,"exterior":"GOOD","charging":false,"coordinates":[-117.2158,32.73337,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S594","vin":"WMEEJ9AA9FK823880","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Law St 816, 92109 San Diego","city":"sandiego","fuel":26,"exterior":"GOOD","charging":false,"coordinates":[-117.25692,32.80227,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S423","vin":"WMEEJ9AA5FK826565","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"14th St 448, 92101 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.15194,32.70994,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S470","vin":"WMEEJ9AA8FK823773","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Mission Bay Dr 974, 92109 San Diego","city":"sandiego","fuel":44,"exterior":"GOOD","charging":false,"coordinates":[-117.24745,32.77166,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S528","vin":"WMEEJ9AA5FK825965","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Greene St 4679, 92107 San Diego","city":"sandiego","fuel":61,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.24002,32.74978,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S382","vin":"WMEEJ9AAXFK825878","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"4th Ave 3637, 92103 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.16153,32.74396,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T897","vin":"WMEEJ9AA6FK833167","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"3rd Ave 4368, 92103 San Diego","city":"sandiego","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[-117.1623,32.75661,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U034","vin":"WMEEJ9AA5FK825738","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6800, 92108 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.17306,32.76834,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS U032","vin":"WMEEJ9AA6FK825361","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lindo Paseo Ave 5516, 92115 San Diego","city":"sandiego","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[-117.07591,32.77179,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T291","vin":"WMEEJ9AA1FK827924","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sports Arena Blvd 3974, 92110 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[-117.21804,32.75495,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C144","vin":"WMEEJ9AA6FK832651","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Winder St 1738, 92103 San Diego","city":"sandiego","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[-117.18009,32.7428,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S584","vin":"WMEEJ9AA7FK826065","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Elm St 425, 92101 San Diego","city":"sandiego","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[-117.16092,32.72402,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T929","vin":"WMEEJ9AA9FK833020","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6716, 92108 San Diego","city":"sandiego","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[-117.17413,32.76791,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S550","vin":"WMEEJ9AA7FK825949","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Oliver Ave 2056, 92109 San Diego","city":"sandiego","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[-117.23093,32.79683,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S571","vin":"WMEEJ9AA0FK824030","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"San Diego Ave 1728, 92110 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.1826,32.74315,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T340","vin":"WMEEJ9AA5FK827635","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Kendall St 3833, 92109 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.23398,32.79017,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C131","vin":"WMEEJ9AA6FK832293","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Locust St 1816, 92106 San Diego","city":"sandiego","fuel":45,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.22563,32.73064,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S464","vin":"WMEEJ9AA8FK823871","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"19th St, 92102 San Diego","city":"sandiego","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[-117.1468,32.7152,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U007","vin":"WMEEJ9AA6FK833038","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Dawes St 4236, 92109 San Diego","city":"sandiego","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[-117.24901,32.79428,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7JD A894","vin":"WMEEJ9AA8FK832702","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Madison Ave 963, 92116 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.15514,32.76088,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S556","vin":"WMEEJ9AA6FK825487","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Locust St 1902, 92106 San Diego","city":"sandiego","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[-117.2247,32.73166,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T334","vin":"WMEEJ9AA0FK828224","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Marina Park Way 234, 92101 San Diego","city":"sandiego","fuel":26,"exterior":"GOOD","charging":false,"coordinates":[-117.1641,32.70441,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S596","vin":"WMEEJ9AA4FK823981","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"10th Ave 640, 92101 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.15588,32.71199,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T884","vin":"WMEEJ9AA2FK832369","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Moana Dr 884, 92106 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.24971,32.72149,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7JD A890","vin":"WMEEJ9AAXFK832717","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Este 2010, 92108 San Diego","city":"sandiego","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[-117.14401,32.77001,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T287","vin":"WMEEJ9AA1FK828376","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"36th St 4376, 92104 San Diego","city":"sandiego","fuel":31,"exterior":"GOOD","charging":false,"coordinates":[-117.1158,32.75679,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S373","vin":"WMEEJ9AA2FK827317","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Civita South Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.15113,32.77626,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T931","vin":"WMEEJ9AA3FK832803","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Chalcedony St 1874, 92109 San Diego","city":"sandiego","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[-117.23721,32.80563,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D485","vin":"WMEEJ9AA2FK833148","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino de la Reina 891, 92108 San Diego","city":"sandiego","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[-117.15624,32.76742,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T345","vin":"WMEEJ9AA8FK827984","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"2nd Ave 929, 92101 San Diego","city":"sandiego","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[-117.16272,32.71497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T894","vin":"WMEEJ9AA0FK832810","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Upas St 844, 92103 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.17091,32.74079,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D495","vin":"WMEEJ9AA9FK832482","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Pennsylvania Ave 156, 92103 San Diego","city":"sandiego","fuel":94,"exterior":"GOOD","charging":false,"coordinates":[-117.1644,32.74509,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D496","vin":"WMEEJ9AA5FK832477","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Civita North Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.15104,32.77739,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T941","vin":"WMEEJ9AA1FK833030","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lamont St 4613, 92109 San Diego","city":"sandiego","fuel":22,"exterior":"GOOD","charging":false,"coordinates":[-117.23566,32.80216,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U030","vin":"WMEEJ9AA2FK827205","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hamilton St 4054, 92104 San Diego","city":"sandiego","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[-117.13632,32.75134,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T305","vin":"WMEEJ9AA0FK828241","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Reynard Way 2664, 92103 San Diego","city":"sandiego","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[-117.16967,32.73323,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S554","vin":"WMEEJ9AA5FK826310","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Lewis St 1450, 92103 San Diego","city":"sandiego","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[-117.17641,32.75186,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U616","vin":"WMEEJ9AA5FK832446","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Carleton St 2923, 92106 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.22969,32.72266,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S518","vin":"WMEEJ9AAXFK825542","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"San Diego Fwy, 92110 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.20055,32.754,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T890","vin":"WMEEJ9AA0FK833097","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sutter St 784, 92103 San Diego","city":"sandiego","fuel":23,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.17028,32.74636,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T878","vin":"WMEEJ9AA1FK833223","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"24th St 1236, 92102 San Diego","city":"sandiego","fuel":94,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.14248,32.71826,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T337","vin":"WMEEJ9AA2FK826023","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Missouri St 682, 92109 San Diego","city":"sandiego","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[-117.2576,32.80003,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T292","vin":"WMEEJ9AA2FK827446","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Truxton Road Charging Stations","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.2159,32.73821,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C134","vin":"WMEEJ9AA6FK832262","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Louisiana St 4151, 92104 San Diego","city":"sandiego","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[-117.13999,32.75312,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S588","vin":"WMEEJ9AA1FK827647","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Gunn St 2873, 92104 San Diego","city":"sandiego","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[-117.13157,32.74626,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T907","vin":"WMEEJ9AA8FK832828","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cordova St 886, 92107 San Diego","city":"sandiego","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[-117.25588,32.72354,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S404","vin":"WMEEJ9AA6FK827028","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"SDSU Lot G Charging Station","city":"sandiego","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[-117.0686,32.77293,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T918","vin":"WMEEJ9AA2FK833120","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lowell Way 3427, 92106 San Diego","city":"sandiego","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[-117.23056,32.73146,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T339","vin":"WMEEJ9AA4FK827724","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Dewey Rd 2717, 92106 San Diego","city":"sandiego","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[-117.21199,32.73739,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S488","vin":"WMEEJ9AA0FK826148","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sofia Lofts Alley Garage Charging Stations","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.12835,32.71542,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T945","vin":"WMEEJ9AA8FK825684","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"A St 3363, 92102 San Diego","city":"sandiego","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[-117.12182,32.71904,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS U612","vin":"WMEEJ9AA0FK832242","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Midway Dr 3292, 92110 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.21072,32.75049,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S508","vin":"WMEEJ9AA3FK825902","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pearson Fuels Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.10738,32.75497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T313","vin":"WMEEJ9AA5FK828381","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Tennyson St 3559, 92106 San Diego","city":"sandiego","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[-117.2275,32.73687,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T310","vin":"WMEEJ9AA9FK827623","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Brockbank Pl 5499, 92115 San Diego","city":"sandiego","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[-117.06377,32.77792,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T906","vin":"WMEEJ9AA7FK832691","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mississippi St 4418, 92116 San Diego","city":"sandiego","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[-117.14142,32.75756,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T311","vin":"WMEEJ9AA5FK828445","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Figueroa Blvd 2725, 92109 San Diego","city":"sandiego","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[-117.22039,32.80478,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S579","vin":"WMEEJ9AAXFK827629","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Vista Pl 5082, 92116 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.13193,32.76748,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S371","vin":"WMEEJ9AA3FK825754","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Albatross Dr 4256, 92103 San Diego","city":"sandiego","fuel":73,"exterior":"GOOD","charging":false,"coordinates":[-117.16531,32.75283,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T327","vin":"WMEEJ9AA7FK826535","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Grand Ave 1064, 92109 San Diego","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.25008,32.79584,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T324","vin":"WMEEJ9AA7FK828494","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hancock St 1737, 92101 San Diego","city":"sandiego","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[-117.18292,32.74177,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T915","vin":"WMEEJ9AA6FK832326","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"San Diego Ave 2379, 92110 San Diego","city":"sandiego","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[-117.19302,32.75068,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S479","vin":"WMEEJ9AA0FK827526","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Napa St 5372, 92110 San Diego","city":"sandiego","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[-117.19649,32.7651,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D497","vin":"WMEEJ9AA3FK832459","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"35th Pl 4526, 92116 San Diego","city":"sandiego","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[-117.11731,32.75955,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S418","vin":"WMEEJ9AA0FK825839","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Dickinson St 107, 92103 San Diego","city":"sandiego","fuel":40,"exterior":"GOOD","charging":false,"coordinates":[-117.16401,32.75516,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T937","vin":"WMEEJ9AA1FK832346","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2746, 92106 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.21209,32.73878,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S469","vin":"WMEEJ9AA2FK826622","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Bonita Cove Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.24829,32.77086,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S372","vin":"WMEEJ9AA4FK825777","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Zola St 3283, 92106 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.22142,32.73873,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T892","vin":"WMEEJ9AA4FK832342","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Albatross St 2227, 92101 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.16568,32.72851,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U009","vin":"WMEEJ9AA9FK832711","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Howard Ave 3109, 92104 San Diego","city":"sandiego","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[-117.12749,32.75402,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U017","vin":"WMEEJ9AA0FK832130","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Historic Decatur Road Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.21206,32.73913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U026","vin":"WMEEJ9AA4FK825701","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6638, 92108 San Diego","city":"sandiego","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[-117.17527,32.76758,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U029","vin":"WMEEJ9AAXFK827193","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hancock St 3567, 92110 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.20938,32.75763,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S509","vin":"WMEEJ9AA4FK826685","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 3844, 92109 San Diego","city":"sandiego","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[-117.25334,32.78563,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U623","vin":"WMEEJ9AA9FK832210","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Harbor Island Dr 918, 92101 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.19062,32.72448,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U622","vin":"WMEEJ9AA1FK832427","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Falcon St 4160, 92103 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.17047,32.75304,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S411","vin":"WMEEJ9AA3FK826399","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Lewis St 1047, 92103 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.17274,32.75175,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T888","vin":"WMEEJ9AA0FK832936","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"San Diego Ave 2207, 92110 San Diego","city":"sandiego","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[-117.1912,32.74751,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T948","vin":"WMEEJ9AA4FK825696","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Central Ave 4220, 92105 San Diego","city":"sandiego","fuel":21,"exterior":"GOOD","charging":false,"coordinates":[-117.10823,32.75351,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T910","vin":"WMEEJ9AA7FK833128","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Laurel St 578, 92101 San Diego","city":"sandiego","fuel":74,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.16847,32.73121,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T895","vin":"WMEEJ9AA6FK833136","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hawk St 4037, 92103 San Diego","city":"sandiego","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[-117.17225,32.75059,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T944","vin":"WMEEJ9AA1FK833173","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Broadway 2340, 92102 San Diego","city":"sandiego","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[-117.14288,32.71575,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T942","vin":"WMEEJ9AA8FK832781","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"University Pl 599, 92103 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.16807,32.74816,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T286","vin":"WMEEJ9AA8FK828214","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Wisteria Dr 3530, 92106 San Diego","city":"sandiego","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[-117.21804,32.74554,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S370","vin":"WMEEJ9AA4FK826329","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"30th St 2261, 92104 San Diego","city":"sandiego","fuel":90,"exterior":"GOOD","charging":false,"coordinates":[-117.1301,32.72928,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S570","vin":"WMEEJ9AA0FK826120","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Evergreen St 2972, 92106 San Diego","city":"sandiego","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[-117.2148,32.74519,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S485","vin":"WMEEJ9AA9FK827024","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Este 2012, 92108 San Diego","city":"sandiego","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[-117.14401,32.77009,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7KH Y587","vin":"WMEEJ9AA7FK832609","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hortensia St 3924, 92110 San Diego","city":"sandiego","fuel":21,"exterior":"GOOD","charging":false,"coordinates":[-117.1914,32.74866,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U003","vin":"WMEEJ9AA4FK833071","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Farragut Rd 2883, 92106 San Diego","city":"sandiego","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[-117.2194,32.73375,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T900","vin":"WMEEJ9AA3FK832400","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Date St 882, 92101 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.15688,32.72306,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S409","vin":"WMEEJ9AA3FK827293","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Elm St 344, 92101 San Diego","city":"sandiego","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[-117.16163,32.72412,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T877","vin":"WMEEJ9AAXFK832992","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Historic Decatur Road Charging Station","city":"sandiego","fuel":55,"exterior":"GOOD","charging":true,"coordinates":[-117.21206,32.73913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S414","vin":"WMEEJ9AA1FK826241","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Boundary St 4464, 92116 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.1268,32.75847,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S580","vin":"WMEEJ9AAXFK827551","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Harbor Island Dr, 92101 San Diego","city":"sandiego","fuel":79,"exterior":"GOOD","charging":false,"coordinates":[-117.21201,32.7246,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S391","vin":"WMEEJ9AA6FK825571","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pacific Beach Dr 916, 92109 San Diego","city":"sandiego","fuel":67,"exterior":"GOOD","charging":false,"coordinates":[-117.25161,32.79149,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T908","vin":"WMEEJ9AA9FK832899","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Altamira Pl 1814, 92103 San Diego","city":"sandiego","fuel":74,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.1802,32.75518,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S422","vin":"WMEEJ9AA1FK826384","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Ingraham St 3815, 92109 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.2375,32.78909,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T323","vin":"WMEEJ9AA1FK827969","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"3rd Ave 4382, 92103 San Diego","city":"sandiego","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[-117.16248,32.75683,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S575","vin":"WMEEJ9AA7FK827507","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hotel Cir N, 92108 San Diego","city":"sandiego","fuel":32,"exterior":"GOOD","charging":false,"coordinates":[-117.17185,32.76068,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S493","vin":"WMEEJ9AA8FK826902","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"21st St 527, 92102 San Diego","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.14483,32.71078,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T940","vin":"WMEEJ9AA8FK832361","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Strand Way 3862, 92109 San Diego","city":"sandiego","fuel":80,"exterior":"GOOD","charging":false,"coordinates":[-117.25391,32.78608,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T332","vin":"WMEEJ9AA1FK828250","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Harbor Dr 1825, 92101 San Diego","city":"sandiego","fuel":28,"exterior":"GOOD","charging":false,"coordinates":[-117.17292,32.72289,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T282","vin":"WMEEJ9AAXFK827839","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hotel Cir N, 92108 San Diego","city":"sandiego","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[-117.17195,32.76065,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S517","vin":"WMEEJ9AA6FK827451","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Broadway 1441, 92101 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.15127,32.71574,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T273","vin":"WMEEJ9AA3FK828329","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Juan St 2293, 92103 San Diego","city":"sandiego","fuel":25,"exterior":"GOOD","charging":false,"coordinates":[-117.19016,32.75152,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S565","vin":"WMEEJ9AA5FK825805","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 3055, 92109 San Diego","city":"sandiego","fuel":27,"exterior":"GOOD","charging":false,"coordinates":[-117.25077,32.76969,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T938","vin":"WMEEJ9AA7FK833002","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"W Mission Bay Dr 842, 92109 San Diego","city":"sandiego","fuel":35,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.25014,32.77217,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T329","vin":"WMEEJ9AA3FK828038","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Brant St 4028, 92103 San Diego","city":"sandiego","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[-117.16725,32.75053,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S514","vin":"WMEEJ9AA5FK823763","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2784, 92106 San Diego","city":"sandiego","fuel":71,"exterior":"GOOD","charging":false,"coordinates":[-117.21156,32.73943,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S419","vin":"WMEEJ9AA1FK826627","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sunset St 2603, 92110 San Diego","city":"sandiego","fuel":68,"exterior":"GOOD","charging":false,"coordinates":[-117.19437,32.7551,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U013","vin":"WMEEJ9AA7FK832321","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"30th St 4242, 92104 San Diego","city":"sandiego","fuel":37,"exterior":"GOOD","charging":false,"coordinates":[-117.13015,32.75458,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T321","vin":"WMEEJ9AA5FK826758","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"33rd St 2932, 92104 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.12306,32.73592,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C139","vin":"WMEEJ9AA8FK832599","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Harney St 4184, 92110 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.19376,32.75421,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7LO D279","vin":"WMEEJ9AA2FK833067","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Juniper St 2969, 92104 San Diego","city":"sandiego","fuel":64,"exterior":"GOOD","charging":false,"coordinates":[-117.13039,32.72961,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T928","vin":"WMEEJ9AA3FK833207","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Shelter Island Dr 1795, 92106 San Diego","city":"sandiego","fuel":93,"exterior":"GOOD","charging":false,"coordinates":[-117.22919,32.71187,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S491","vin":"WMEEJ9AAXFK823757","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Bond St 4560, 92109 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.22092,32.80499,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C138","vin":"WMEEJ9AA6FK832620","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 3907, 92109 San Diego","city":"sandiego","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[-117.25343,32.78742,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T905","vin":"WMEEJ9AAXFK832328","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hardy Ave 5668, 92115 San Diego","city":"sandiego","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[-117.07375,32.77257,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D493","vin":"WMEEJ9AA9FK832319","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cass St 4730, 92109 San Diego","city":"sandiego","fuel":97,"exterior":"GOOD","charging":false,"coordinates":[-117.25298,32.80088,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T904","vin":"WMEEJ9AA8FK832747","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Reed Ave 932, 92109 San Diego","city":"sandiego","fuel":43,"exterior":"GOOD","charging":false,"coordinates":[-117.25185,32.79321,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T284","vin":"WMEEJ9AA1FK827888","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 3178, 92109 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.25125,32.77157,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S593","vin":"WMEEJ9AA0FK827736","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Fanuel St 4669, 92109 San Diego","city":"sandiego","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[-117.24725,32.80164,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T309","vin":"WMEEJ9AA5FK828459","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Grand Ave 864, 92109 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.25369,32.79505,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T921","vin":"WMEEJ9AA7FK833078","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Polk Ave 2329, 92104 San Diego","city":"sandiego","fuel":56,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.13965,32.75212,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S524","vin":"WMEEJ9AA7FK827748","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hancock St 4026, 92110 San Diego","city":"sandiego","fuel":96,"exterior":"GOOD","charging":false,"coordinates":[-117.21659,32.75657,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T276","vin":"WMEEJ9AA0FK828305","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Moana Dr 956, 92106 San Diego","city":"sandiego","fuel":20,"exterior":"GOOD","charging":false,"coordinates":[-117.24909,32.72329,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T271","vin":"WMEEJ9AA3FK828525","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Historic Decatur Road Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.21206,32.73913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D499","vin":"WMEEJ9AA1FK832265","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"The Point Apartments","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.23736,32.78932,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S552","vin":"WMEEJ9AA7FK827572","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"L St 2511, 92102 San Diego","city":"sandiego","fuel":31,"exterior":"GOOD","charging":false,"coordinates":[-117.13998,32.70732,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S467","vin":"WMEEJ9AA5FK826632","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"7th Ave 1429, 92101 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.15833,32.72021,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U617","vin":"WMEEJ9AA1FK832489","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hotel Circle Pl 2576, 92108 San Diego","city":"sandiego","fuel":93,"exterior":"GOOD","charging":false,"coordinates":[-117.18702,32.76075,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S515","vin":"WMEEJ9AAXFK826769","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Iowa St 4372, 92104 San Diego","city":"sandiego","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[-117.12657,32.75679,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U008","vin":"WMEEJ9AAXFK832815","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Juan St 2477, 92110 San Diego","city":"sandiego","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[-117.1935,32.7536,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S388","vin":"WMEEJ9AA8FK827287","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Zoo Dr 3336, 92101 San Diego","city":"sandiego","fuel":70,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.14784,32.74005,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS S500","vin":"WMEEJ9AA9FK826973","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Macy's Charging Stations","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.14554,32.76924,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S412","vin":"WMEEJ9AA1FK826434","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 3840, 92109 San Diego","city":"sandiego","fuel":23,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.25329,32.78554,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T919","vin":"WMEEJ9AA6FK832570","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Wing St 3146, 92110 San Diego","city":"sandiego","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[-117.21271,32.75002,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T335","vin":"WMEEJ9AA8FK823935","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Rosecrans St 404, 92106 San Diego","city":"sandiego","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[-117.2386,32.70965,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S562","vin":"WMEEJ9AA2FK826085","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 6178, 92108 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[-117.18234,32.76627,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S487","vin":"WMEEJ9AA6FK825618","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pacific Hwy 1708, 92101 San Diego","city":"sandiego","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[-117.17133,32.72279,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C135","vin":"WMEEJ9AA7FK832495","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Kettner & Cedar St","city":"sandiego","fuel":70,"exterior":"GOOD","charging":false,"coordinates":[-117.16911,32.72179,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S406","vin":"WMEEJ9AA4FK823902","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Oregon St 3984, 92104 San Diego","city":"sandiego","fuel":23,"exterior":"GOOD","charging":false,"coordinates":[-117.1352,32.75009,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S520","vin":"WMEEJ9AA9FK825578","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Canyon Crest Dr 5906, 92115 San Diego","city":"sandiego","fuel":33,"exterior":"GOOD","charging":false,"coordinates":[-117.06917,32.77801,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D488","vin":"WMEEJ9AAXFK832636","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Lindo Paseo Ave 5591, 92115 San Diego","city":"sandiego","fuel":84,"exterior":"GOOD","charging":false,"coordinates":[-117.07493,32.77171,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T278","vin":"WMEEJ9AA0FK828255","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pearson Fuels Charging Station","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.10738,32.75497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S548","vin":"WMEEJ9AA0FK825551","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Station Village Ln 8597, 92108 San Diego","city":"sandiego","fuel":49,"exterior":"GOOD","charging":false,"coordinates":[-117.14208,32.77423,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S374","vin":"WMEEJ9AA7FK826194","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Texas St 4512, 92116 San Diego","city":"sandiego","fuel":66,"exterior":"GOOD","charging":false,"coordinates":[-117.1388,32.75941,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S592","vin":"WMEEJ9AA9FK825564","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Historic Decatur Road Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.21206,32.73913,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S466","vin":"WMEEJ9AA8FK827094","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sports Arena Blvd 3777, 92110 San Diego","city":"sandiego","fuel":72,"exterior":"GOOD","charging":false,"coordinates":[-117.21674,32.75449,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S561","vin":"WMEEJ9AA8FK827483","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"30th St 2150, 92104 San Diego","city":"sandiego","fuel":24,"exterior":"GOOD","charging":false,"coordinates":[-117.13027,32.72809,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7FH G747","vin":"WMEEJ9AA6FK832603","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Palm St 2919, 92104 San Diego","city":"sandiego","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[-117.13102,32.73568,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T290","vin":"WMEEJ9AA9FK827797","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"California St 3894, 92110 San Diego","city":"sandiego","fuel":43,"exterior":"GOOD","charging":false,"coordinates":[-117.1849,32.745,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S380","vin":"WMEEJ9AA6FK827322","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"33rd St 570, 92102 San Diego","city":"sandiego","fuel":82,"exterior":"GOOD","charging":false,"coordinates":[-117.12235,32.71155,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S408","vin":"WMEEJ9AA4FK826721","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sequoia St 3960, 92109 San Diego","city":"sandiego","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[-117.23387,32.79262,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S397","vin":"WMEEJ9AA7FK825532","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Meadow Grove Dr 3117, 92110 San Diego","city":"sandiego","fuel":28,"exterior":"GOOD","charging":false,"coordinates":[-117.21084,32.74908,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7JD A896","vin":"WMEEJ9AAXFK832765","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Meade Ave 2221, 92116 San Diego","city":"sandiego","fuel":41,"exterior":"GOOD","charging":false,"coordinates":[-117.14107,32.75719,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S563","vin":"WMEEJ9AA5FK826517","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"1st Ave 2044, 92101 San Diego","city":"sandiego","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[-117.16387,32.7266,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T882","vin":"WMEEJ9AA2FK832548","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd 4688, 92109 San Diego","city":"sandiego","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[-117.25638,32.79916,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S510","vin":"WMEEJ9AA0FK825436","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2378, 92106 San Diego","city":"sandiego","fuel":92,"exterior":"GOOD","charging":false,"coordinates":[-117.21644,32.73473,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S427","vin":"WMEEJ9AA0FK827039","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Bonita Cove Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.24829,32.77086,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U615","vin":"WMEEJ9AA0FK832323","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cleveland Ave 4484, 92116 San Diego","city":"sandiego","fuel":52,"exterior":"GOOD","charging":false,"coordinates":[-117.15012,32.7588,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S583","vin":"WMEEJ9AA5FK827814","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mendocino Blvd 2132, 92107 San Diego","city":"sandiego","fuel":27,"exterior":"GOOD","charging":false,"coordinates":[-117.23619,32.74364,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S415","vin":"WMEEJ9AA2FK825924","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Columbia St 3404, 92103 San Diego","city":"sandiego","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[-117.17608,32.73861,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T330","vin":"WMEEJ9AA2FK828449","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Ash St 3365, 92102 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.12224,32.72018,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T322","vin":"WMEEJ9AA8FK828262","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Felspar St 1057, 92109 San Diego","city":"sandiego","fuel":21,"exterior":"GOOD","charging":false,"coordinates":[-117.2509,32.79806,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S497","vin":"WMEEJ9AA1FK826319","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Gaines St 3820, 92110 San Diego","city":"sandiego","fuel":98,"exterior":"GOOD","charging":false,"coordinates":[-117.20395,32.75394,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7FH G744","vin":"WMEEJ9AA6FK825375","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Market St 1812, 92102 San Diego","city":"sandiego","fuel":48,"exterior":"GOOD","charging":false,"coordinates":[-117.14727,32.71162,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U028","vin":"WMEEJ9AA8FK827189","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"2nd Ave 444, 92101 San Diego","city":"sandiego","fuel":36,"exterior":"GOOD","charging":false,"coordinates":[-117.163,32.70984,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T914","vin":"WMEEJ9AA3FK832736","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Harbor Dr 2172, 92101 San Diego","city":"sandiego","fuel":35,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.17392,32.72558,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T344","vin":"WMEEJ9AA0FK827896","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Kalmia St 328, 92101 San Diego","city":"sandiego","fuel":62,"exterior":"GOOD","charging":false,"coordinates":[-117.16184,32.7304,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S489","vin":"WMEEJ9AA1FK826742","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Rio San Diego Dr 8887, 92108 San Diego","city":"sandiego","fuel":63,"exterior":"GOOD","charging":false,"coordinates":[-117.1392,32.77601,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S582","vin":"WMEEJ9AAXFK826111","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Park Blvd 3530, 92103 San Diego","city":"sandiego","fuel":45,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.14765,32.74259,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T898","vin":"WMEEJ9AA7FK832822","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Civita South Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.15113,32.77626,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S376","vin":"WMEEJ9AA0FK826702","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Oliphant St 3055, 92106 San Diego","city":"sandiego","fuel":77,"exterior":"GOOD","charging":false,"coordinates":[-117.22484,32.73077,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T939","vin":"WMEEJ9AA0FK832855","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Civita North Charging Station","city":"sandiego","fuel":47,"exterior":"GOOD","charging":false,"coordinates":[-117.15104,32.77739,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T279","vin":"WMEEJ9AA3FK827729","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Beryl St 1026, 92109 San Diego","city":"sandiego","fuel":34,"exterior":"GOOD","charging":false,"coordinates":[-117.25336,32.80403,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T876","vin":"WMEEJ9AA1FK832928","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Front St 2031, 92101 San Diego","city":"sandiego","fuel":88,"exterior":"GOOD","charging":false,"coordinates":[-117.16477,32.72646,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S430","vin":"WMEEJ9AA3FK826726","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"E St 3336, 92102 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":false,"coordinates":[-117.12232,32.71445,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EG D487","vin":"WMEEJ9AA1FK832654","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Bermuda Ave 4823, 92107 San Diego","city":"sandiego","fuel":45,"exterior":"GOOD","charging":false,"coordinates":[-117.25438,32.73724,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U033","vin":"WMEEJ9AA5FK825402","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pearson Fuels Charging Station","city":"sandiego","fuel":100,"exterior":"GOOD","charging":false,"coordinates":[-117.10738,32.75497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T325","vin":"WMEEJ9AAXFK828019","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Rosecrans St 384, 92106 San Diego","city":"sandiego","fuel":83,"exterior":"GOOD","charging":false,"coordinates":[-117.23864,32.70925,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T893","vin":"WMEEJ9AA1FK833514","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"22nd St 1051, 92102 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.14396,32.71636,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T343","vin":"WMEEJ9AA7FK825515","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Blvd, 92109 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.25107,32.76844,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T891","vin":"WMEEJ9AA8FK832733","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mansfield St 5034, 92116 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.11827,32.76983,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U631","vin":"WMEEJ9AA9FK832238","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Mission Valley Rd, 92108 San Diego","city":"sandiego","fuel":60,"exterior":"GOOD","charging":true,"coordinates":[-117.15126,32.77627,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U006","vin":"WMEEJ9AAXFK832202","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Gaines St 3814, 92110 San Diego","city":"sandiego","fuel":91,"exterior":"GOOD","charging":false,"coordinates":[-117.20404,32.75385,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C140","vin":"WMEEJ9AA2FK832596","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Diamond St 1214, 92109 San Diego","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.24879,32.80109,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S516","vin":"WMEEJ9AAXFK827338","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Stockton Rd 2698, 92106 San Diego","city":"sandiego","fuel":99,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.21639,32.73055,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS U010","vin":"WMEEJ9AA8FK832909","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Harbor Dr 1352, 92101 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.17325,32.71941,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S377","vin":"WMEEJ9AA7FK824025","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Camino del Este 2006, 92108 San Diego","city":"sandiego","fuel":75,"exterior":"GOOD","charging":false,"coordinates":[-117.14387,32.76949,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S475","vin":"WMEEJ9AA1FK826448","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Midway Dr 3296, 92110 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.21077,32.75045,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T926","vin":"WMEEJ9AA9FK832871","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Laning Rd 2720, 92106 San Diego","city":"sandiego","fuel":43,"exterior":"GOOD","charging":false,"coordinates":[-117.21919,32.73007,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U011","vin":"WMEEJ9AA1FK825722","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Friars Rd 5668, 92110 San Diego","city":"sandiego","fuel":51,"exterior":"GOOD","charging":false,"coordinates":[-117.19049,32.76473,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S492","vin":"WMEEJ9AA7FK823957","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Grand Ave 1747, 92109 San Diego","city":"sandiego","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[-117.23749,32.7984,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C132","vin":"WMEEJ9AA2FK832520","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sunset Blvd 1882, 92103 San Diego","city":"sandiego","fuel":86,"exterior":"GOOD","charging":false,"coordinates":[-117.1824,32.75128,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S568","vin":"WMEEJ9AA7FK826275","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Sherman St 3808, 92110 San Diego","city":"sandiego","fuel":42,"exterior":"GOOD","charging":false,"coordinates":[-117.20735,32.7558,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T943","vin":"WMEEJ9AA5FK825464","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Cushing Rd, 92106 San Diego","city":"sandiego","fuel":39,"exterior":"GOOD","charging":false,"coordinates":[-117.21214,32.73689,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C142","vin":"WMEEJ9AA3FK832641","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Elm St 107, 92101 San Diego","city":"sandiego","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[-117.16343,32.72404,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S494","vin":"WMEEJ9AA6FK827059","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Kurtz St 3235, 92110 San Diego","city":"sandiego","fuel":58,"exterior":"GOOD","charging":false,"coordinates":[-117.20606,32.75368,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S463","vin":"WMEEJ9AA3FK827438","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"India St 3761, 92103 San Diego","city":"sandiego","fuel":74,"exterior":"GOOD","charging":false,"coordinates":[-117.18088,32.74292,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S526","vin":"WMEEJ9AA7FK827166","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Ray St 3826, 92104 San Diego","city":"sandiego","fuel":42,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.12924,32.7477,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T946","vin":"WMEEJ9AA2FK832517","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"9th Ave 638, 92101 San Diego","city":"sandiego","fuel":24,"exterior":"GOOD","charging":false,"coordinates":[-117.15682,32.71194,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS T316","vin":"WMEEJ9AA9FK828500","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Olive St 3406, 92104 San Diego","city":"sandiego","fuel":55,"exterior":"GOOD","charging":false,"coordinates":[-117.12046,32.7349,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T300","vin":"WMEEJ9AA4FK827979","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Moore St 3299, 92110 San Diego","city":"sandiego","fuel":81,"exterior":"GOOD","charging":false,"coordinates":[-117.20546,32.75547,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U613","vin":"WMEEJ9AAXFK832300","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"36th St 3660, 92104 San Diego","city":"sandiego","fuel":76,"exterior":"GOOD","charging":false,"coordinates":[-117.11572,32.74528,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S468","vin":"WMEEJ9AA8FK824003","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Macy's Charging Stations","city":"sandiego","fuel":69,"exterior":"GOOD","charging":false,"coordinates":[-117.14554,32.76924,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S573","vin":"WMEEJ9AA1FK826143","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Pearson Fuels Charging Station","city":"sandiego","fuel":85,"exterior":"GOOD","charging":false,"coordinates":[-117.10738,32.75497,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C137","vin":"WMEEJ9AA4FK832552","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Civita South Charging Station","city":"sandiego","fuel":99,"exterior":"GOOD","charging":false,"coordinates":[-117.15113,32.77626,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U025","vin":"WMEEJ9AA3FK826791","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Hancock St 1737, 92101 San Diego","city":"sandiego","fuel":78,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.18293,32.74177,0],"engineType":"ED","interior":"UNACCEPTABLE","smartPhoneRequired":false,"name":"7GS U036","vin":"WMEEJ9AA8FK832246","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Broadway 2887, 92102 San Diego","city":"sandiego","fuel":89,"exterior":"UNACCEPTABLE","charging":false,"coordinates":[-117.13199,32.71582,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T318","vin":"WMEEJ9AA9FK828352","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2742, 92106 San Diego","city":"sandiego","fuel":53,"exterior":"GOOD","charging":false,"coordinates":[-117.21213,32.73875,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C141","vin":"WMEEJ9AA5FK832639","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"University Ave 2904, 92104 San Diego","city":"sandiego","fuel":50,"exterior":"GOOD","charging":false,"coordinates":[-117.13114,32.74851,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U016","vin":"WMEEJ9AA1FK827230","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Felspar St 2582, 92109 San Diego","city":"sandiego","fuel":35,"exterior":"GOOD","charging":false,"coordinates":[-117.22342,32.80607,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S506","vin":"WMEEJ9AA9FK826374","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"N Harbor Dr 1344, 92101 San Diego","city":"sandiego","fuel":89,"exterior":"GOOD","charging":false,"coordinates":[-117.17322,32.71934,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS U618","vin":"WMEEJ9AA7FK832206","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Barnard St 3091, 92110 San Diego","city":"sandiego","fuel":38,"exterior":"GOOD","charging":false,"coordinates":[-117.22163,32.75337,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7EX C133","vin":"WMEEJ9AA1FK832394","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Wilson Ave 4586, 92116 San Diego","city":"sandiego","fuel":56,"exterior":"GOOD","charging":false,"coordinates":[-117.11625,32.76074,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T342","vin":"WMEEJ9AA6FK826039","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"San Diego Ave 2389, 92110 San Diego","city":"sandiego","fuel":29,"exterior":"GOOD","charging":false,"coordinates":[-117.19323,32.75097,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS S420","vin":"WMEEJ9AA1FK827342","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Kurtz St 3561, 92110 San Diego","city":"sandiego","fuel":54,"exterior":"GOOD","charging":false,"coordinates":[-117.21003,32.75606,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7FH G745","vin":"WMEEJ9AA3FK832591","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Riviera Dr 3906, 92109 San Diego","city":"sandiego","fuel":94,"exterior":"GOOD","charging":false,"coordinates":[-117.24085,32.79008,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T346","vin":"WMEEJ9AAXFK828201","time":"2015-10-04T22:02:49.121-0400"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"us","address":"Decatur Rd 2340, 92106 San Diego","city":"sandiego","fuel":30,"exterior":"GOOD","charging":false,"coordinates":[-117.21679,32.73432,0],"engineType":"ED","interior":"GOOD","smartPhoneRequired":false,"name":"7GS T899","vin":"WMEEJ9AA1FK833111","time":"2015-10-04T22:02:49.121-0400"}

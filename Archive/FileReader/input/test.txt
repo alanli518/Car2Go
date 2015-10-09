@@ -1,0 +1,19 @@
+testing
+the
+file
+reader
+{
+	"index": {
+		"_index": "shakespeare",
+		"_type": "act",
+		"_id": 0
+	}
+}
+{
+	"line_id": 1,
+	"play_name": "Henry IV",
+	"speech_number": "",
+	"line_number": "",
+	"speaker": "",
+	"text_entry": "ACT I"
+}

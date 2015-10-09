@@ -1,0 +1,1040 @@
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave NW 1491, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.0945,51.05955,0],"name":"K30426","engineType":"CE","vin":"WMEEJ3BA7EK763057","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4 St SW 731, T2P Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.07167,51.04644,0],"name":"J28128","engineType":"CE","vin":"WMEEJ3BA5DK622017","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Meadowview Rd SW 75, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07678,50.9965,0],"name":"J99887","engineType":"CE","vin":"WMEEJ3BA6DK644169","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"56 Ave SW 610, T2V Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.07667,51.00337,0],"name":"K61673","engineType":"CE","vin":"WMEEJ3BA9EK766235","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NW 4069, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06531,51.0885,0],"name":"L37226","engineType":"CE","vin":"WMEEJ3BA1EK761837","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SW 610, T2G Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.07504,51.03787,0],"name":"J81416","engineType":"CE","vin":"WMEEJ3BA4DK618931","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SE 378, T2G Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06012,51.01793,0],"name":"K61682","engineType":"CE","vin":"WMEEJ3BA6EK766466","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 4603, T2S Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.07641,51.0132,0],"name":"J81274","engineType":"CE","vin":"WMEEJ3BA0CK575221","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SE 140, T2G Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06239,51.03968,0],"name":"J81414","engineType":"CE","vin":"WMEEJ3BA0DK618540","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"32 St NW 917, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.13022,51.0598,0],"name":"L37206","engineType":"CE","vin":"WMEEJ3BAXEK762453","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":true,"address":"Westmount Road NW, Calgary, T2N","city":"calgary","fuel":38,"exterior":"GOOD","coordinates":[-114.09611,51.05205,0],"name":"K82491","engineType":"CE","vin":"WDDMH4EBXEJ293389","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 436, T2R Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.07038,51.04356,0],"name":"J96638","engineType":"CE","vin":"WMEEJ3BA3DK619388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":true,"address":"32 Avenue SW, Calgary, T2S","city":"calgary","fuel":62,"exterior":"GOOD","coordinates":[-114.07984,51.02487,0],"name":"K82488","engineType":"CE","vin":"WDDMH4EB0EJ293367","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"53 Ave SW, T2H Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.06675,51.00558,0],"name":"J81348","engineType":"CE","vin":"WMEEJ3BA5CK575151","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 627, T2R Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.07557,51.03988,0],"name":"K12795","engineType":"CE","vin":"WMEEJ3BA9DK702761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"22 Ave SW 586, T2S Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.07375,51.03345,0],"name":"K12814","engineType":"CE","vin":"WMEEJ3BA1DK722468","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Blakiston Dr NW 3049, T2L Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.12878,51.08911,0],"name":"K82464","engineType":"CE","vin":"WMEEJ3BA3FK803457","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"20 Ave SW 337, T2S Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.06972,51.03527,0],"name":"J81283","engineType":"CE","vin":"WMEEJ3BA1CK573784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":true,"address":"Poplar Road SW, Calgary, T3C","city":"calgary","fuel":14,"exterior":"GOOD","coordinates":[-114.13666,51.04569,0],"name":"K82490","engineType":"CE","vin":"WDDMH4EB5EJ289699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16 St SE 1441, T2G Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.02373,51.04023,0],"name":"K61639","engineType":"CE","vin":"WMEEJ3BA3EK767669","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":true,"address":"6 Street SW, Calgary, T2R","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.07667,51.04117,0],"name":"K82489","engineType":"CE","vin":"WDDMH4EB2EJ294729","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":true,"address":"31 Street SW, Calgary, T3E","city":"calgary","fuel":10,"exterior":"GOOD","coordinates":[-114.13272,51.03072,0],"name":"K82480","engineType":"CE","vin":"WDDMH4EBXEJ294400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"MacLeod Trl SE 356, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05773,51.04983,0],"name":"J96616","engineType":"CE","vin":"WMEEJ3BAXDK621140","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave SE 1982, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.01651,51.0362,0],"name":"J28131","engineType":"CE","vin":"WMEEJ3BA4DK620596","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"34 Ave SW 1606, T2T Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.09757,51.02324,0],"name":"K12797","engineType":"CE","vin":"WMEEJ3BAXDK701490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J99867","engineType":"CE","vin":"WMEEJ3BA8DK643749","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 44 - 1301 9 ave SE","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.0342,51.04087,0],"name":"J28134","engineType":"CE","vin":"WMEEJ3BA0DK621146","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"53 Ave SW, T2H Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06681,51.00565,0],"name":"J81326","engineType":"CE","vin":"WMEEJ3BA3CK575682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1353, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06353,51.03996,0],"name":"K61615","engineType":"CE","vin":"WMEEJ3BA0EK766298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cochrane Rd NW 2657, T2M Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.10893,51.07714,0],"name":"J81308","engineType":"CE","vin":"WMEEJ3BA2CK575592","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Olympic Way SE 1121, T2G Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.05354,51.04189,0],"name":"K61659","engineType":"CE","vin":"WMEEJ3BA7EK763320","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SE 329, T2G Calgary","city":"calgary","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-114.05698,51.05048,0],"name":"J96640","engineType":"CE","vin":"WMEEJ3BA7DK619474","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J96608","engineType":"CE","vin":"WMEEJ3BA4DK620792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 875, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08078,51.04376,0],"name":"K30431","engineType":"CE","vin":"WMEEJ3BA6FK803517","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Crescent Blvd SW 671, T2S Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.07843,51.01302,0],"name":"K30429","engineType":"CE","vin":"WMEEJ3BA7FK803560","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3 St NW 1593, T2M Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06989,51.06614,0],"name":"K61600","engineType":"CE","vin":"WMEEJ3BA0EK763823","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16A St SW 2560, T2T Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.09992,51.03185,0],"name":"J81318","engineType":"CE","vin":"WMEEJ3BA3CK574726","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 367, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05664,51.04308,0],"name":"L37212","engineType":"CE","vin":"WMEEJ3BA7EK762846","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Fort Calgary - 750 9th Ave SE - 2 Stalls","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.04528,51.04427,0],"name":"J28115","engineType":"CE","vin":"WMEEJ3BA3DK618600","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 1411, T3C Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.09324,51.04031,0],"name":"J28111","engineType":"CE","vin":"WMEEJ3BA7DK618535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SE 315, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05808,51.04121,0],"name":"J96629","engineType":"CE","vin":"WMEEJ3BA9DK621551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"MacLeod Trl SW 4398, T2G Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06429,51.01415,0],"name":"J99859","engineType":"CE","vin":"WMEEJ3BA6DK644415","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St SW, T2G Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.06248,51.05146,0],"name":"K12801","engineType":"CE","vin":"WMEEJ3BAXDK721979","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave NW 3491, T2N Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.13759,51.0741,0],"name":"J81365","engineType":"CE","vin":"WMEEJ3BA7CK574678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17A St SE, T2G Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.01775,51.03828,0],"name":"J81427","engineType":"CE","vin":"WMEEJ3BA1DK620586","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SW 1770, T3C Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10102,51.04251,0],"name":"K12793","engineType":"CE","vin":"WMEEJ3BA7DK700877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"35 Ave NE 439, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05383,51.08407,0],"name":"J96611","engineType":"CE","vin":"WMEEJ3BAXDK620960","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 604, T2K Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.07354,51.08774,0],"name":"K82457","engineType":"CE","vin":"WMEEJ3BA7FK803400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 1149, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08745,51.04387,0],"name":"J81342","engineType":"CE","vin":"WMEEJ3BA5CK573870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 657, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07529,51.04499,0],"name":"J96609","engineType":"CE","vin":"WMEEJ3BA3DK621075","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Malibou Rd SW 195, T2V Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.09079,50.99527,0],"name":"J81358","engineType":"CE","vin":"WMEEJ3BA6CK575319","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NE 4299, T2E Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.05989,51.09064,0],"name":"L37222","engineType":"CE","vin":"WMEEJ3BA6FK803551","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"31 Ave NE 165, T2E Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.06083,51.08049,0],"name":"K12841","engineType":"CE","vin":"WMEEJ3BA3DK720897","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SW 178, T2R Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06518,51.04247,0],"name":"K12811","engineType":"CE","vin":"WMEEJ3BA1DK721806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 628, T2G Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.0502,51.04205,0],"name":"J81409","engineType":"CE","vin":"WMEEJ3BA1DK618711","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 277, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05902,51.04032,0],"name":"K12834","engineType":"CE","vin":"WMEEJ3BA9DK720712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NE 4059, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05998,51.08907,0],"name":"K12779","engineType":"CE","vin":"WMEEJ3BA0DK702597","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24A St SW 1839, T3E Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.11943,51.03752,0],"name":"K61684","engineType":"CE","vin":"WMEEJ3BA3EK766490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Beverley Blvd SW 1186, T2V Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.08924,50.99804,0],"name":"K82478","engineType":"CE","vin":"WMEEJ3BA8EK763262","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 463, T2G Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.0546,51.04309,0],"name":"J81404","engineType":"CE","vin":"WMEEJ3BA8DK621279","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 581, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07368,51.04489,0],"name":"J28129","engineType":"CE","vin":"WMEEJ3BA5DK619117","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 349, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.0694,51.04444,0],"name":"J28142","engineType":"CE","vin":"WMEEJ3BAXDK618691","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Varsity Dr NW 3912, T3A Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.14451,51.09061,0],"name":"K12794","engineType":"CE","vin":"WMEEJ3BA6DK702801","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Amiens Cres SW 79, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.11392,51.01277,0],"name":"K61623","engineType":"CE","vin":"WMEEJ3BA1EK766830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 07 - 208 9 ave SW","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06628,51.04497,0],"name":"J28136","engineType":"CE","vin":"WMEEJ3BA9DK618911","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 St SW 1351, T2R Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.08415,51.0406,0],"name":"K61630","engineType":"CE","vin":"WMEEJ3BA2EK766223","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Bowness Rd NW, T3B Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.15177,51.06428,0],"name":"J81272","engineType":"CE","vin":"WMEEJ3BA0CK574814","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NE 319, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05678,51.08872,0],"name":"J81370","engineType":"CE","vin":"WMEEJ3BA8CK573927","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3 St NE 4415, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05387,51.0916,0],"name":"K61657","engineType":"CE","vin":"WMEEJ3BA6EK766791","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 561, T2S Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.07309,51.03603,0],"name":"K30428","engineType":"CE","vin":"WMEEJ3BA8DK619192","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"37 St SW 1337, T3C Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.14126,51.04073,0],"name":"J81338","engineType":"CE","vin":"WMEEJ3BA4CK575089","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J96614","engineType":"CE","vin":"WMEEJ3BA6DK621992","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 St SW 1168, T2R Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.08388,51.0423,0],"name":"K12775","engineType":"CE","vin":"WMEEJ3BA2DK703590","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1527, T2G Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06356,51.03838,0],"name":"K12773","engineType":"CE","vin":"WMEEJ3BA7DK703634","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"35 St SW 2533, T3E Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.13828,51.03211,0],"name":"K12792","engineType":"CE","vin":"WMEEJ3BA5DK702773","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Ulster Rd NW 2059, T2N Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.12708,51.07073,0],"name":"L37248","engineType":"CE","vin":"WMEEJ3BA0FK796144","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"53 St NW 5834, T3A Calgary","city":"calgary","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-114.16255,51.10608,0],"name":"L37209","engineType":"CE","vin":"WMEEJ3BA7EK763267","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"36 Ave NW 142, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06426,51.08502,0],"name":"K61674","engineType":"CE","vin":"WMEEJ3BA9EK767644","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greyhound Way SW, T3C Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.09792,51.04648,0],"name":"J96642","engineType":"CE","vin":"WMEEJ3BAXDK619503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SE 343, T2G Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.05709,51.04441,0],"name":"J81266","engineType":"CE","vin":"WMEEJ3BA0CK573792","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SE, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05893,51.01746,0],"name":"J81343","engineType":"CE","vin":"WMEEJ3BA5CK574176","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cliff St SW 2163, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07582,51.03396,0],"name":"K61631","engineType":"CE","vin":"WMEEJ3BA2EK766528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Voyageur Dr NW, T3A Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.15169,51.0961,0],"name":"K12788","engineType":"CE","vin":"WMEEJ3BA3DK702254","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 36 - 322 9th ave SE Stall on 1 Overflow1-3","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.05695,51.04492,0],"name":"K30442","engineType":"CE","vin":"WMEEJ3BA3FK803524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Hamilton St NW 1337, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.12034,51.06275,0],"name":"J81297","engineType":"CE","vin":"WMEEJ3BA2CK574135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 1465, T2R Calgary","city":"calgary","fuel":87,"exterior":"UNACCEPTABLE","coordinates":[-114.06593,51.03898,0],"name":"L37245","engineType":"CE","vin":"WMEEJ3BA2FK793469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave SW 767, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07793,51.0467,0],"name":"J81291","engineType":"CE","vin":"WMEEJ3BA2CK568240","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Hotel Elan - 2 Stalls in Parkade","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.08855,51.03862,0],"name":"J28100","engineType":"CE","vin":"WMEEJ3BA2DK622086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SW 779, T2P Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.07826,51.04574,0],"name":"K12798","engineType":"CE","vin":"WMEEJ3BA4DK701100","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 616, T2P Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06515,51.04733,0],"name":"J81424","engineType":"CE","vin":"WMEEJ3BAXDK621977","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SW 2775, T2T Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.10204,51.02974,0],"name":"J81440","engineType":"CE","vin":"WMEEJ3BA3DK621156","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre B St NW 3455, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06392,51.0829,0],"name":"K30410","engineType":"CE","vin":"WMEEJ3BA9EK735485","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SE 160, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06208,51.03788,0],"name":"J81253","engineType":"CE","vin":"WMEEJ3BA3CK570000","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 1018, T2R Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.0846,51.03921,0],"name":"K61694","engineType":"CE","vin":"WMEEJ3BA2EK767193","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 59 - 200 Memorial Drive NW","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06728,51.05772,0],"name":"J28107","engineType":"CE","vin":"WMEEJ3BA7DK618986","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16B St SW 2567, T2T Calgary","city":"calgary","fuel":54,"exterior":"UNACCEPTABLE","coordinates":[-114.10096,51.03177,0],"name":"K12782","engineType":"CE","vin":"WMEEJ3BA9DK702131","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 288, T2R Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06803,51.03971,0],"name":"K61665","engineType":"CE","vin":"WMEEJ3BA8EK764153","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"55 Ave SW 778, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08076,51.00425,0],"name":"K61653","engineType":"CE","vin":"WMEEJ3BA6EK763423","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Ulrich Pl NW 2462, T2N Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.13852,51.07358,0],"name":"K61669","engineType":"CE","vin":"WMEEJ3BA8EK766565","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 Ave SW 767, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07753,51.0516,0],"name":"L37235","engineType":"CE","vin":"WMEEJ3BA6EK761316","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 St SE 864, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.01531,51.03418,0],"name":"K12845","engineType":"CE","vin":"WMEEJ3BA0DK720646","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 635, T2P Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.07479,51.04497,0],"name":"J81329","engineType":"CE","vin":"WMEEJ3BA4CK569602","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SE 4068, T2G Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.05977,51.01725,0],"name":"K82475","engineType":"CE","vin":"WMEEJ3BA7EK763074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Langriville Dr SW 2387, T3E Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.11502,50.99993,0],"name":"J81441","engineType":"CE","vin":"WMEEJ3BA3DK618886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"K82459","engineType":"CE","vin":"WMEEJ3BA8FK803308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW, T2P Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.0691,51.04421,0],"name":"J28130","engineType":"CE","vin":"WMEEJ3BA1DK619891","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Edmonton Trl NE 4673, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05371,51.09393,0],"name":"J99888","engineType":"CE","vin":"WMEEJ3BA8DK643086","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SW 390, T2S Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.07126,51.03726,0],"name":"J81305","engineType":"CE","vin":"WMEEJ3BA2CK575110","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Saddledome Parking - North Side of 14 ave SE","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.05241,51.03924,0],"name":"J81406","engineType":"CE","vin":"WMEEJ3BA0DK618991","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cliff St SW 2124, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07575,51.03452,0],"name":"K12776","engineType":"CE","vin":"WMEEJ3BA3DK702870","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 587, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07396,51.03884,0],"name":"L37220","engineType":"CE","vin":"WMEEJ3BA4EK763341","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SE 523, T2G Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.05066,51.04764,0],"name":"K12808","engineType":"CE","vin":"WMEEJ3BAXDK721688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 352, T2R Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.06895,51.04353,0],"name":"K12818","engineType":"CE","vin":"WMEEJ3BA7DK720630","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 1182, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06553,51.04163,0],"name":"K30427","engineType":"CE","vin":"WMEEJ3BA0DK642028","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"27 Ave NW 188, T2M Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06471,51.07699,0],"name":"J81447","engineType":"CE","vin":"WMEEJ3BA6DK618901","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Mackay Dr SW 25, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08186,50.99733,0],"name":"J96644","engineType":"CE","vin":"WMEEJ3BA5DK619232","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SW 657, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07521,51.0459,0],"name":"K61618","engineType":"CE","vin":"WMEEJ3BA0EK767578","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 Ave SW 365, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06915,51.05135,0],"name":"K30423","engineType":"CE","vin":"WMEEJ3BA9EK729217","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16A St SW 2206, T2T Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.10024,51.03496,0],"name":"K30407","engineType":"CE","vin":"WMEEJ3BA3EK734803","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Vandergrift Cres NW 4431, T3A Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.15122,51.08948,0],"name":"J81379","engineType":"CE","vin":"WMEEJ3BA9CK574259","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"41 Ave NE 381, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05515,51.08998,0],"name":"J81287","engineType":"CE","vin":"WMEEJ3BA1CK575096","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 St NE 2865, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05755,51.07753,0],"name":"K12755","engineType":"CE","vin":"WMEEJ3BA6DK705018","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 574, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07354,51.04505,0],"name":"J96632","engineType":"CE","vin":"WMEEJ3BA0DK619333","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 St SW 1235, T2R Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.07912,51.04154,0],"name":"J28103","engineType":"CE","vin":"WMEEJ3BA3DK621383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 Ave NW 2062, T2N Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.10711,51.0573,0],"name":"J28118","engineType":"CE","vin":"WMEEJ3BA9DK620867","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Northmount Dr NW 680, T2K Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.09095,51.08427,0],"name":"J81423","engineType":"CE","vin":"WMEEJ3BA6DK618851","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 1043, T2K Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.08438,51.08874,0],"name":"J81333","engineType":"CE","vin":"WMEEJ3BA4CK574198","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Amiens Cres SW 61, T2T Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.11441,51.01302,0],"name":"J81407","engineType":"CE","vin":"WMEEJ3BA2DK618801","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 St SW 4979, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10636,51.00989,0],"name":"J81278","engineType":"CE","vin":"WMEEJ3BA0CK575414","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 St SW 3363, T2T Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.10694,51.02433,0],"name":"J99891","engineType":"CE","vin":"WMEEJ3BA8DK642942","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 628, T2P Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.07465,51.04503,0],"name":"J81413","engineType":"CE","vin":"WMEEJ3BAXDK620909","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Erlton Rd 2435, T2S Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.06113,51.03147,0],"name":"K82472","engineType":"CE","vin":"WMEEJ3BAXFK803388","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulton Rd NW 3587, T2L Calgary","city":"calgary","fuel":36,"exterior":"UNACCEPTABLE","coordinates":[-114.13967,51.0946,0],"name":"K61602","engineType":"CE","vin":"WMEEJ3BA1EK763703","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"35 Ave SW 5313, T3E Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.16131,51.02229,0],"name":"K61672","engineType":"CE","vin":"WMEEJ3BA9EK766073","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"56 Ave SW 778, T2V Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.08079,51.00338,0],"name":"J81389","engineType":"CE","vin":"WMEEJ3BAXCK574531","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"23 St NW 1533, T2N Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.11647,51.06543,0],"name":"CAR2GO","engineType":"CE","vin":"WMEEJ3BA6DK621491","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave NW 2732, T2N Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.12371,51.05875,0],"name":"J81400","engineType":"CE","vin":"WMEEJ3BA0DK623057","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SW 433, T2G Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.07045,51.03779,0],"name":"J99873","engineType":"CE","vin":"WMEEJ3BAXDK642604","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NE 1413, T2E Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06002,51.06494,0],"name":"J81275","engineType":"CE","vin":"WMEEJ3BA0CK575249","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"45 St SW 1319, T3C Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.15264,51.042,0],"name":"J81250","engineType":"CE","vin":"WMEEJ3BA0CK569242","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverdale Ave SW 860, T2S Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.0825,51.01793,0],"name":"J81301","engineType":"CE","vin":"WMEEJ3BA2CK574524","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Unwin Rd NW 2968, T2N Calgary","city":"calgary","fuel":15,"exterior":"GOOD","coordinates":[-114.12971,51.07107,0],"name":"J99876","engineType":"CE","vin":"WMEEJ3BA1DK643205","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cameron Ave SW 1292, T2T Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.09144,51.03656,0],"name":"K61667","engineType":"CE","vin":"WMEEJ3BA8EK766310","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Ulrich Pl NW 2408, T2N Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.13844,51.07253,0],"name":"J81255","engineType":"CE","vin":"WMEEJ3BA6CK569374","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"47 Ave SW 381, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07093,51.0112,0],"name":"J96622","engineType":"CE","vin":"WMEEJ3BA4DK622042","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"26 Ave NW 2321, T2M Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.11351,51.07601,0],"name":"J28144","engineType":"CE","vin":"WMEEJ3BA9DK618956","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SW 391, T2S Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.0712,51.03716,0],"name":"K30416","engineType":"CE","vin":"WMEEJ3BA7EK729099","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 4757, T2G Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.06538,51.01073,0],"name":"K61654","engineType":"CE","vin":"WMEEJ3BA6EK764216","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 St NW 2178, T2M Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.09223,51.07115,0],"name":"L37243","engineType":"CE","vin":"WMEEJ3BA6EK761705","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Coronation Dr SW 4455, T2S Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.08578,51.01389,0],"name":"K12844","engineType":"CE","vin":"WMEEJ3BA0DK720307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"U of C - Art Parkade - 16 Stalls","city":"calgary","fuel":18,"exterior":"GOOD","coordinates":[-114.13045,51.07526,0],"name":"J81251","engineType":"CE","vin":"WMEEJ3BA0CK570682","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5A St SW 1727, T2S Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.0756,51.03743,0],"name":"J81397","engineType":"CE","vin":"WMEEJ3BAXCK575534","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"52 St NW 1757, T3B Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.1699,51.0778,0],"name":"K61658","engineType":"CE","vin":"WMEEJ3BA6EK767469","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 1547, T3C Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09577,51.03945,0],"name":"J28143","engineType":"CE","vin":"WMEEJ3BA7DK620074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 6056, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07561,50.99733,0],"name":"J81437","engineType":"CE","vin":"WMEEJ3BA9DK621050","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Windsor Cres SW 21, T2V Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.08234,51.00785,0],"name":"L37201","engineType":"CE","vin":"WMEEJ3BA0FK795611","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 384, T2S Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.07107,51.03636,0],"name":"K12848","engineType":"CE","vin":"WMEEJ3BA2DK720129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4 Ave NW 867, T2N Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.08284,51.05766,0],"name":"K61662","engineType":"CE","vin":"WMEEJ3BA7EK767061","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"31 Ave NE 374, T2E Calgary","city":"calgary","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-114.05551,51.08055,0],"name":"K61697","engineType":"CE","vin":"WMEEJ3BA7EK767187","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SW 255, T2R Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.06701,51.0425,0],"name":"K12785","engineType":"CE","vin":"WMEEJ3BA0DK701840","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 251, T2P Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06683,51.04443,0],"name":"L37223","engineType":"CE","vin":"WMEEJ3BA7FK803381","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave NW 1473, T2N Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.09393,51.05894,0],"name":"J81330","engineType":"CE","vin":"WMEEJ3BA4CK569812","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"K12831","engineType":"CE","vin":"WMEEJ3BA9DK722167","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 639, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05002,51.04195,0],"name":"K30418","engineType":"CE","vin":"WMEEJ3BA8EK729001","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SW 285, T2P Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06715,51.05221,0],"name":"K82476","engineType":"CE","vin":"WMEEJ3BAXEK762503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greyhound Way SW, T3C Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.09793,51.04649,0],"name":"J99856","engineType":"CE","vin":"WMEEJ3BA6DK643197","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 153, T2G Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.06207,51.04042,0],"name":"K12761","engineType":"CE","vin":"WMEEJ3BA0DK704866","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SW 356, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06903,51.04298,0],"name":"K30443","engineType":"CE","vin":"WMEEJ3BA6FK794205","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 149, T2R Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.0647,51.03858,0],"name":"K61666","engineType":"CE","vin":"WMEEJ3BA8EK764329","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave NW 1638, T2M Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.09815,51.06869,0],"name":"K61691","engineType":"CE","vin":"WMEEJ3BA7EK766699","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 369, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06923,51.04347,0],"name":"K61686","engineType":"CE","vin":"WMEEJ3BA6EK766693","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"St Andrews Pl NW 1640, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.12646,51.0662,0],"name":"L37217","engineType":"CE","vin":"WMEEJ3BA6EK763308","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.06853,51.04413,0],"name":"K61689","engineType":"CE","vin":"WMEEJ3BA6EK766631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SW 5055, T3E Calgary","city":"calgary","fuel":33,"exterior":"UNACCEPTABLE","coordinates":[-114.15934,51.01952,0],"name":"K61604","engineType":"CE","vin":"WMEEJ3BA6EK763986","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Windsor Cres SW 14, T2V Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.08204,51.00786,0],"name":"J81446","engineType":"CE","vin":"WMEEJ3BA3DK620606","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 St SW 1209, T2R Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.08397,51.04179,0],"name":"J81290","engineType":"CE","vin":"WMEEJ3BA1CK577463","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 517, T2R Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.07195,51.03971,0],"name":"J81429","engineType":"CE","vin":"WMEEJ3BA7DK618776","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave NW 2819, T2N Calgary","city":"calgary","fuel":15,"exterior":"GOOD","coordinates":[-114.1239,51.07493,0],"name":"K61677","engineType":"CE","vin":"WMEEJ3BAXEK764784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Crowchild Trl NW 1830, T2M Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.11745,51.06778,0],"name":"J81374","engineType":"CE","vin":"WMEEJ3BA8CK575242","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 111, T2G Calgary","city":"calgary","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-114.06296,51.04329,0],"name":"J81436","engineType":"CE","vin":"WMEEJ3BA4DK621358","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 145, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07336,51.05208,0],"name":"J96600","engineType":"CE","vin":"WMEEJ3BAXDK620618","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 260, T2R Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.06732,51.0397,0],"name":"J81371","engineType":"CE","vin":"WMEEJ3BA8CK574253","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 St SW 2591, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09709,51.03153,0],"name":"K61683","engineType":"CE","vin":"WMEEJ3BA6EK766385","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"53 St NW, T3A Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.16391,51.10547,0],"name":"K12839","engineType":"CE","vin":"WMEEJ3BA8DK722029","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"51 St NW 1752, T3B Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.16839,51.07654,0],"name":"J99854","engineType":"CE","vin":"WMEEJ3BA6DK643524","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Glenpark Cres SW 4036, T3E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.14454,51.02966,0],"name":"L37211","engineType":"CE","vin":"WMEEJ3BA8FK803048","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"31 Ave NE 368, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05562,51.08053,0],"name":"J96643","engineType":"CE","vin":"WMEEJ3BA9DK619539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Erlton St 3005, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06239,51.02683,0],"name":"K30415","engineType":"CE","vin":"WMEEJ3BA2EK729236","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 1954, T2S Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.06568,51.03632,0],"name":"J81354","engineType":"CE","vin":"WMEEJ3BA5CK575893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Madison Ave SW 670, T2S Calgary","city":"calgary","fuel":57,"exterior":"UNACCEPTABLE","coordinates":[-114.07852,51.01395,0],"name":"J81428","engineType":"CE","vin":"WMEEJ3BA5DK620171","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 283, T2G Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.05887,51.04031,0],"name":"J81254","engineType":"CE","vin":"WMEEJ3BA5CK570533","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"51 St SW, T3E Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.15904,51.01861,0],"name":"J99861","engineType":"CE","vin":"WMEEJ3BA0DK642966","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 517, T2R Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07192,51.03879,0],"name":"K61660","engineType":"CE","vin":"WMEEJ3BA7EK763740","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 54 - 608 9 ave SW Stall on 1 Overflow on 6","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.0751,51.04523,0],"name":"J28137","engineType":"CE","vin":"WMEEJ3BA9DK619122","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rideau Rd SW 546, T2S Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.07222,51.0282,0],"name":"J81408","engineType":"CE","vin":"WMEEJ3BA6DK621393","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Saddledome Parking - North Side of 14 ave SE","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.05241,51.03924,0],"name":"K61601","engineType":"CE","vin":"WMEEJ3BA1EK763460","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SE 161, T2G Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.06203,51.03838,0],"name":"J81403","engineType":"CE","vin":"WMEEJ3BA1DK621298","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 St SW 1355, T3C Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.09153,51.04077,0],"name":"J99885","engineType":"CE","vin":"WMEEJ3BA0DK643292","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SE 377, T2G Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.05587,51.05015,0],"name":"K12759","engineType":"CE","vin":"WMEEJ3BA3DK704487","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SW 4510, T3C Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.15128,51.04508,0],"name":"J81252","engineType":"CE","vin":"WMEEJ3BA2CK569419","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 380, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06942,51.04351,0],"name":"J28117","engineType":"CE","vin":"WMEEJ3BA7DK621225","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 Ave SW 703, T2P Calgary","city":"calgary","fuel":48,"exterior":"UNACCEPTABLE","coordinates":[-114.07644,51.0487,0],"name":"J81405","engineType":"CE","vin":"WMEEJ3BA2DK621486","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave NW 4841, T3B Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.16373,51.07367,0],"name":"K61611","engineType":"CE","vin":"WMEEJ3BA0EK764535","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SW 387, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06963,51.04149,0],"name":"K61692","engineType":"CE","vin":"WMEEJ3BA8EK766680","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre B St NW 3990, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06386,51.08787,0],"name":"K30438","engineType":"CE","vin":"WMEEJ3BA4FK803239","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 530, T2G Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.05267,51.04214,0],"name":"J96623","engineType":"CE","vin":"WMEEJ3BA0DK620904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SE 551, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.0519,51.04519,0],"name":"J81377","engineType":"CE","vin":"WMEEJ3BA9CK573449","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 613, T2R Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.07489,51.03983,0],"name":"K12760","engineType":"CE","vin":"WMEEJ3BAXDK701876","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 947, T2R Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.08285,51.03908,0],"name":"J81304","engineType":"CE","vin":"WMEEJ3BA2CK575009","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SW 235, T2R Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.06652,51.04243,0],"name":"K82473","engineType":"CE","vin":"WMEEJ3BA0FK803187","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"26 Ave SW 134, T2S Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06491,51.02966,0],"name":"J81426","engineType":"CE","vin":"WMEEJ3BA7DK620995","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre B St NW 3975, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06394,51.08775,0],"name":"J99874","engineType":"CE","vin":"WMEEJ3BAXDK643610","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Salisbury Ave SE 706, T2G Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.04547,51.03895,0],"name":"J99850","engineType":"CE","vin":"WMEEJ3BA9DK644330","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Stanley Rd SW 4561, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06707,51.01348,0],"name":"K12828","engineType":"CE","vin":"WMEEJ3BA0DK720825","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"23 Ave NW 526, T2M Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.0721,51.07326,0],"name":"J81294","engineType":"CE","vin":"WMEEJ3BA2CK573678","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Henwood St SW 5591, T3E Calgary","city":"calgary","fuel":42,"exterior":"UNACCEPTABLE","coordinates":[-114.12872,51.00325,0],"name":"K12781","engineType":"CE","vin":"WMEEJ3BA8DK701620","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"54 Ave SW 2410, T3E Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.11562,51.00504,0],"name":"J96610","engineType":"CE","vin":"WMEEJ3BA4DK621313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Brooklyn Cres NW 3763, T2L Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.12291,51.08733,0],"name":"K30412","engineType":"CE","vin":"WMEEJ3BAXEK734717","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SW 154, T2P Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06499,51.05174,0],"name":"J99875","engineType":"CE","vin":"WMEEJ3BAXDK641873","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"26 Ave NE 448, T2E Calgary","city":"calgary","fuel":45,"exterior":"UNACCEPTABLE","coordinates":[-114.05422,51.07608,0],"name":"K30437","engineType":"CE","vin":"WMEEJ3BA1FK803375","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"27 St NW 337, T2N Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.12539,51.05451,0],"name":"K61629","engineType":"CE","vin":"WMEEJ3BA2EK766139","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Lincoln Way SW 192, T3E Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.13643,51.01145,0],"name":"K30422","engineType":"CE","vin":"WMEEJ3BA8EK729256","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 785, T2R Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.07879,51.03992,0],"name":"J81293","engineType":"CE","vin":"WMEEJ3BA2CK573387","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 St SW 3598, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08644,51.02249,0],"name":"J96624","engineType":"CE","vin":"WMEEJ3BA3DK621254","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SW 522, T2S Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.07205,51.03697,0],"name":"K82454","engineType":"CE","vin":"WMEEJ3BA0FK803058","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greenridge Rd SW 1948, T3E Calgary","city":"calgary","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-114.1491,51.03646,0],"name":"J96625","engineType":"CE","vin":"WMEEJ3BA5DK620803","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 617, T2G Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.05066,51.04009,0],"name":"K61627","engineType":"CE","vin":"WMEEJ3BA2EK763869","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 St SW 4953, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08316,51.01007,0],"name":"J99868","engineType":"CE","vin":"WMEEJ3BA7DK643807","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SE 146, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06239,51.03859,0],"name":"J96647","engineType":"CE","vin":"WMEEJ3BA4DK619285","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1A St SW 6288, T2H Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06634,50.99671,0],"name":"J81347","engineType":"CE","vin":"WMEEJ3BA5CK574629","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 St SW 444, T2P Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.07602,51.04928,0],"name":"J81430","engineType":"CE","vin":"WMEEJ3BA6DK622091","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"34 Ave SW 1455, T2T Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.09416,51.02327,0],"name":"J81366","engineType":"CE","vin":"WMEEJ3BA7CK574762","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave NW 2814, T2N Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.12589,51.06361,0],"name":"J81345","engineType":"CE","vin":"WMEEJ3BA5CK574324","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Madison Ave SW 632, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07763,51.01411,0],"name":"J96620","engineType":"CE","vin":"WMEEJ3BA9DK621839","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J81280","engineType":"CE","vin":"WMEEJ3BA0CK575784","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SE 4349, T2G Calgary","city":"calgary","fuel":18,"exterior":"GOOD","coordinates":[-114.06151,51.01552,0],"name":"J81306","engineType":"CE","vin":"WMEEJ3BA2CK575124","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 St SW 1017, T2R Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.08635,51.04381,0],"name":"J28139","engineType":"CE","vin":"WMEEJ3BA0DK622071","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SW 2739, T2T Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.10212,51.0301,0],"name":"J99880","engineType":"CE","vin":"WMEEJ3BA2DK641575","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Stanley Ave SW 559, T2S Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.07309,51.0342,0],"name":"K82461","engineType":"CE","vin":"WMEEJ3BA0FK796628","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 Ave SE 918, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.04069,51.03453,0],"name":"K61632","engineType":"CE","vin":"WMEEJ3BA3EK764190","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J96607","engineType":"CE","vin":"WMEEJ3BA6DK621085","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 6046, T2V Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.07452,50.99799,0],"name":"J28114","engineType":"CE","vin":"WMEEJ3BAXDK619906","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"36 Ave SE 485, T2G Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.05366,51.02063,0],"name":"J96604","engineType":"CE","vin":"WMEEJ3BA9DK621663","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 St SW 569, T2P Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.08598,51.04841,0],"name":"K12815","engineType":"CE","vin":"WMEEJ3BA0DK719593","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SE 122, T2G Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06297,51.03781,0],"name":"J81369","engineType":"CE","vin":"WMEEJ3BA7CK575863","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"45 St SW 1417, T3C Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.15276,51.04054,0],"name":"K61685","engineType":"CE","vin":"WMEEJ3BA4EK766983","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J81260","engineType":"CE","vin":"WMEEJ3BAXCK569894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave SE 1651, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.02328,51.03188,0],"name":"J81277","engineType":"CE","vin":"WMEEJ3BA0CK575400","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 986, T2T Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.08395,51.03607,0],"name":"J28109","engineType":"CE","vin":"WMEEJ3BA9DK618861","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"45 Ave SW 328, T2S Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.06828,51.01294,0],"name":"K61624","engineType":"CE","vin":"WMEEJ3BA1EK767024","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 447, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07368,51.04921,0],"name":"J99890","engineType":"CE","vin":"WMEEJ3BA5DK644213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16 Ave NW, T2N Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.13075,51.06941,0],"name":"J81285","engineType":"CE","vin":"WMEEJ3BA1CK574448","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 Ave SW 429, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07044,51.05131,0],"name":"K30419","engineType":"CE","vin":"WMEEJ3BA8EK729032","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SW 165, T2P Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06415,51.05224,0],"name":"J99896","engineType":"CE","vin":"WMEEJ3BA5DK643160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 Ave SW 753, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07748,51.04785,0],"name":"J96648","engineType":"CE","vin":"WMEEJ3BA5DK619313","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Verdun Pl NW 4306, T3A Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.14952,51.09356,0],"name":"K61643","engineType":"CE","vin":"WMEEJ3BA4EK764411","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 212, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06556,51.08879,0],"name":"L37228","engineType":"CE","vin":"WMEEJ3BA5FK803539","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 339, T2G Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.05731,51.04311,0],"name":"K61622","engineType":"CE","vin":"WMEEJ3BA1EK766780","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 St SW 313, T3C Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.14545,51.05212,0],"name":"J81315","engineType":"CE","vin":"WMEEJ3BA3CK573740","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 163, T2G Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.06187,51.04036,0],"name":"K12836","engineType":"CE","vin":"WMEEJ3BA7DK721826","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 St SW 2033, T2T Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.07944,51.03488,0],"name":"J99864","engineType":"CE","vin":"WMEEJ3BA8DK644643","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SE, T2G Calgary","city":"calgary","fuel":12,"exterior":"GOOD","coordinates":[-114.05839,51.01732,0],"name":"K61690","engineType":"CE","vin":"WMEEJ3BA5EK766166","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1777, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.0637,51.03719,0],"name":"K12833","engineType":"CE","vin":"WMEEJ3BA2DK721166","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SE 1432, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.02055,51.03997,0],"name":"J96618","engineType":"CE","vin":"WMEEJ3BA3DK620735","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Hamilton St NW 2105, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06887,51.03414,0],"name":"J99877","engineType":"CE","vin":"WMEEJ3BA0DK642577","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Elbow Dr SW 6402, T2V Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.08309,50.99661,0],"name":"K61687","engineType":"CE","vin":"WMEEJ3BA3EK766652","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"44 Ave NW 132, T2K Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.06374,51.09252,0],"name":"K12813","engineType":"CE","vin":"WMEEJ3BA1DK721319","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 123, T2R Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.06407,51.03856,0],"name":"K30449","engineType":"CE","vin":"WMEEJ3BA2FK802753","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"20 St NW 1415, T2N Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.10783,51.0644,0],"name":"J81303","engineType":"CE","vin":"WMEEJ3BA2CK574877","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Fort Calgary - 750 9th Ave SE - 2 Stalls","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.04528,51.04427,0],"name":"K12774","engineType":"CE","vin":"WMEEJ3BA1DK704343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 St NE 2115, T2E Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.04698,51.07125,0],"name":"L37213","engineType":"CE","vin":"WMEEJ3BA1EK763281","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"25 Ave SW 1777, T2T Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.1014,51.0314,0],"name":"K61614","engineType":"CE","vin":"WMEEJ3BA0EK765037","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SE, T2G Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.05859,51.01738,0],"name":"J99858","engineType":"CE","vin":"WMEEJ3BA2DK643097","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 918, T2K Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.08029,51.08885,0],"name":"K12827","engineType":"CE","vin":"WMEEJ3BA5DK719587","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 St SW 3781, T2T Calgary","city":"calgary","fuel":18,"exterior":"GOOD","coordinates":[-114.08949,51.02106,0],"name":"J81344","engineType":"CE","vin":"WMEEJ3BA5CK574212","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Radford Rd NE 1146, T2E Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.03687,51.06141,0],"name":"K61640","engineType":"CE","vin":"WMEEJ3BA4EK763355","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"45 St SW 3781, T3E Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.15245,51.02046,0],"name":"L37202","engineType":"CE","vin":"WMEEJ3BA3EK761712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 Ave SE 311, T2G Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.05766,51.0473,0],"name":"K30417","engineType":"CE","vin":"WMEEJ3BA8EK728978","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"37 St SW 1967, T3E Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.14145,51.03676,0],"name":"K61645","engineType":"CE","vin":"WMEEJ3BA4EK764893","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Market Mall - 3 Stalls - Southeast Corner","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.15332,51.08363,0],"name":"K12825","engineType":"CE","vin":"WMEEJ3BA7DK719560","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"39 Ave SE, T2G Calgary","city":"calgary","fuel":24,"exterior":"UNACCEPTABLE","coordinates":[-114.05835,51.01742,0],"name":"J81353","engineType":"CE","vin":"WMEEJ3BA5CK575814","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 St SW 4889, T2T Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.11234,51.01065,0],"name":"J96631","engineType":"CE","vin":"WMEEJ3BA3DK621688","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre B St NW 4005, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06394,51.08799,0],"name":"K12789","engineType":"CE","vin":"WMEEJ3BA1DK701359","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16 St NW 871, T2N Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.09781,51.05942,0],"name":"J81340","engineType":"CE","vin":"WMEEJ3BA4CK576999","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Spiller Rd SE 3005, T2G Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.05485,51.02754,0],"name":"K30440","engineType":"CE","vin":"WMEEJ3BA7FK793290","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 Ave SW, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06349,51.04743,0],"name":"K61626","engineType":"CE","vin":"WMEEJ3BA2EK763483","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NW 4809, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06374,51.09509,0],"name":"J96619","engineType":"CE","vin":"WMEEJ3BA1DK621561","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 443, T2R Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.07061,51.03875,0],"name":"J81360","engineType":"CE","vin":"WMEEJ3BA6CK575806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"College Rd SW 2143, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07424,51.03399,0],"name":"J28101","engineType":"CE","vin":"WMEEJ3BA8DK619127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Richard Way SW 92, T3E Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.13232,51.00706,0],"name":"K61621","engineType":"CE","vin":"WMEEJ3BA1EK766505","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 6036, T2V Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.07532,50.99873,0],"name":"K61676","engineType":"CE","vin":"WMEEJ3BAXEK764364","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"34 Ave SW 1605, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09801,51.02315,0],"name":"K61613","engineType":"CE","vin":"WMEEJ3BA0EK764762","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Premier Way SW 1451, T2T Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.09372,51.02724,0],"name":"L37215","engineType":"CE","vin":"WMEEJ3BA8EK762189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SE 775, T2G Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.05079,51.04541,0],"name":"J81449","engineType":"CE","vin":"WMEEJ3BA2DK619818","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17A St SE 1575, T2G Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.01779,51.03912,0],"name":"J81259","engineType":"CE","vin":"WMEEJ3BA8CK570137","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"58 Ave SW 2045, T3E Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.10778,51.00134,0],"name":"K61647","engineType":"CE","vin":"WMEEJ3BA4EK766837","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 569, T2P Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.07343,51.04489,0],"name":"J96603","engineType":"CE","vin":"WMEEJ3BA2DK620970","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 441, T2G Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.05504,51.04303,0],"name":"K61605","engineType":"CE","vin":"WMEEJ3BA6EK764278","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 St SW 2273, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09321,51.03261,0],"name":"J81323","engineType":"CE","vin":"WMEEJ3BA3CK575424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 615, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05075,51.04009,0],"name":"K82455","engineType":"CE","vin":"WMEEJ3BAXFK803424","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Bridge Cres NE 818, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.04416,51.05802,0],"name":"L37244","engineType":"CE","vin":"WMEEJ3BA0FK795477","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Saddledome Parking - North Side of 14 ave SE","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.05241,51.03924,0],"name":"L37208","engineType":"CE","vin":"WMEEJ3BA2FK803272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Britannia Dr SW 4408, T2S Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.08521,51.01501,0],"name":"J28146","engineType":"CE","vin":"WMEEJ3BA5DK620056","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 St SE 2465, T2G Calgary","city":"calgary","fuel":18,"exterior":"GOOD","coordinates":[-114.04833,51.03181,0],"name":"K12804","engineType":"CE","vin":"WMEEJ3BA7DK721843","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SW 576, T2G Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.07367,51.03788,0],"name":"J81425","engineType":"CE","vin":"WMEEJ3BA7DK619006","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Malibou Rd SW 72, T2V Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.07817,50.99677,0],"name":"K30420","engineType":"CE","vin":"WMEEJ3BA8EK729063","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J28108","engineType":"CE","vin":"WMEEJ3BA8DK619922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SW 2061, T3C Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10788,51.0436,0],"name":"J28106","engineType":"CE","vin":"WMEEJ3BA0DK619865","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 St SW 2829, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09475,51.02928,0],"name":"K12756","engineType":"CE","vin":"WMEEJ3BA1DK704956","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 Ave SW 310, T2S Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.06903,51.03435,0],"name":"J28132","engineType":"CE","vin":"WMEEJ3BAXDK618657","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SE 211, T2G Calgary","city":"calgary","fuel":69,"exterior":"GOOD","coordinates":[-114.06061,51.03706,0],"name":"L37205","engineType":"CE","vin":"WMEEJ3BA3EK761886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St N 3436, T2E Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.06241,51.08273,0],"name":"K61610","engineType":"CE","vin":"WMEEJ3BAXEK763411","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 St NW 2862, T2M Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10489,51.07719,0],"name":"J28148","engineType":"CE","vin":"WMEEJ3BA4DK619982","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SW 346, T2G Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.06918,51.03787,0],"name":"K61693","engineType":"CE","vin":"WMEEJ3BA2EK767422","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 07 - 208 9 ave SW","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.06628,51.04497,0],"name":"K61636","engineType":"CE","vin":"WMEEJ3BA3EK765064","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Laycock Dr NE 67, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06155,51.09438,0],"name":"K12817","engineType":"CE","vin":"WMEEJ3BA4DK719659","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 574, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07351,51.0451,0],"name":"J81381","engineType":"CE","vin":"WMEEJ3BA9CK574598","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 54 - 608 9 ave SW Stall on 1 Overflow on 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.0751,51.04523,0],"name":"J81286","engineType":"CE","vin":"WMEEJ3BA1CK574661","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"43 Ave NW 246, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06739,51.09249,0],"name":"K12796","engineType":"CE","vin":"WMEEJ3BA2DK702147","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 229, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06666,51.03863,0],"name":"J81445","engineType":"CE","vin":"WMEEJ3BA3DK619147","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NW 4861, T2K Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.06383,51.09563,0],"name":"K82479","engineType":"CE","vin":"WMEEJ3BA0EK761800","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Wedgewood Dr SW 57, T3C Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.14917,51.05202,0],"name":"J81375","engineType":"CE","vin":"WMEEJ3BA8CK575614","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Dalhart Rd NW 4747, T3A Calgary","city":"calgary","fuel":27,"exterior":"UNACCEPTABLE","coordinates":[-114.15482,51.10929,0],"name":"K12777","engineType":"CE","vin":"WMEEJ3BA0DK705046","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 561, T2R Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.07319,51.03882,0],"name":"K12766","engineType":"CE","vin":"WMEEJ3BA1DK704813","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Unity Pl NW 3763, T2N Calgary","city":"calgary","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-114.14017,51.07416,0],"name":"K82456","engineType":"CE","vin":"WMEEJ3BA3FK803572","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SE 250, T2G Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.05943,51.04322,0],"name":"L37204","engineType":"CE","vin":"WMEEJ3BA7EK763107","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"61 Ave SW 607, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07693,50.99774,0],"name":"K82469","engineType":"CE","vin":"WMEEJ3BAXFK794305","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Amiens Cres SW 83, T2T Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.11376,51.01278,0],"name":"K61638","engineType":"CE","vin":"WMEEJ3BA3EK767364","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 611, T2G Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.05085,51.04008,0],"name":"J99866","engineType":"CE","vin":"WMEEJ3BA9DK641802","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 208, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06541,51.08878,0],"name":"J81411","engineType":"CE","vin":"WMEEJ3BA4DK621005","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 1351, T3C Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.09231,51.0403,0],"name":"K30400","engineType":"CE","vin":"WMEEJ3BAXDK719892","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SE 635, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05059,51.04674,0],"name":"L37207","engineType":"CE","vin":"WMEEJ3BA0FK802959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 521, T2R Calgary","city":"calgary","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-114.07204,51.03879,0],"name":"J81385","engineType":"CE","vin":"WMEEJ3BA9CK576707","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"48 Ave NE 377, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05604,51.09569,0],"name":"K12829","engineType":"CE","vin":"WMEEJ3BA1DK721661","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 St SW 1150, T2R Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.06813,51.04204,0],"name":"J96621","engineType":"CE","vin":"WMEEJ3BA7DK621628","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 121, T2R Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.06402,51.03854,0],"name":"J96612","engineType":"CE","vin":"WMEEJ3BAXDK620067","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"16 St SW 2366, T2T Calgary","city":"calgary","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-114.09939,51.03361,0],"name":"J81444","engineType":"CE","vin":"WMEEJ3BA1DK619843","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SE 252, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05957,51.0417,0],"name":"K82462","engineType":"CE","vin":"WMEEJ3BA3FK803202","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 6054, T2V Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.07582,50.99756,0],"name":"K30446","engineType":"CE","vin":"WMEEJ3BA0FK794250","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 St NE 1367, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05759,51.0639,0],"name":"K82465","engineType":"CE","vin":"WMEEJ3BA4EK762805","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"43 Ave SW 1934, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10531,51.01517,0],"name":"L37200","engineType":"CE","vin":"WMEEJ3BA5FK802973","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5A St SW 1785, T2S Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.07549,51.03652,0],"name":"K12780","engineType":"CE","vin":"WMEEJ3BA2DK705064","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"56 Ave SW 2089, T3E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10893,51.00314,0],"name":"J99853","engineType":"CE","vin":"WMEEJ3BA3DK643996","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Beverley Blvd SW 1195, T2V Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.08935,50.99791,0],"name":"J81321","engineType":"CE","vin":"WMEEJ3BA3CK575343","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 Ave SW 357, T2P Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06897,51.05143,0],"name":"J96641","engineType":"CE","vin":"WMEEJ3BA1DK619213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Waterloo Dr SW 113, T3C Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.14666,51.05174,0],"name":"L37216","engineType":"CE","vin":"WMEEJ3BA1EK761689","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Richmond Rd SW, T3E Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.14858,51.01993,0],"name":"J81267","engineType":"CE","vin":"WMEEJ3BA0CK573808","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Park Rd SE, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05926,51.03621,0],"name":"J81388","engineType":"CE","vin":"WMEEJ3BAXCK573959","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SW 114, T2R Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.06361,51.0415,0],"name":"K12800","engineType":"CE","vin":"WMEEJ3BA1DK618921","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"46 St NW 2082, T3B Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.15855,51.07367,0],"name":"J81328","engineType":"CE","vin":"WMEEJ3BA3CK576122","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"22 St NW 35, T2N Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.11293,51.05067,0],"name":"J81394","engineType":"CE","vin":"WMEEJ3BAXCK575419","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SW 1345, T3C Calgary","city":"calgary","fuel":15,"exterior":"GOOD","coordinates":[-114.09215,51.04123,0],"name":"K12816","engineType":"CE","vin":"WMEEJ3BA4DK722383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"20 Ave NE 459, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.054,51.07059,0],"name":"K82493","engineType":"CE","vin":"WMEEJ3BA7FK803266","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rideau Pl SW 3245, T2S Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.07302,51.02465,0],"name":"L37219","engineType":"CE","vin":"WMEEJ3BA3EK762214","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"K12753","engineType":"CE","vin":"WMEEJ3BA3DK704702","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 Ave SW 520, T2P Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.07186,51.05164,0],"name":"J81396","engineType":"CE","vin":"WMEEJ3BAXCK575503","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"31 Ave SW 2074, T2T Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.10877,51.02583,0],"name":"L37232","engineType":"CE","vin":"WMEEJ3BAXFK803083","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SW 776, T2R Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.07849,51.04192,0],"name":"J81387","engineType":"CE","vin":"WMEEJ3BAXCK573752","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chateau Pl NW 2556, T2M Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.11993,51.08204,0],"name":"J81383","engineType":"CE","vin":"WMEEJ3BA9CK575203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"38 St SW 1667, T3C Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.14255,51.03844,0],"name":"J81284","engineType":"CE","vin":"WMEEJ3BA1CK574417","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 Ave NW 426, T2M Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.06851,51.07148,0],"name":"K12832","engineType":"CE","vin":"WMEEJ3BA1DK720171","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave NW 720, T2M Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.07847,51.07426,0],"name":"J81271","engineType":"CE","vin":"WMEEJ3BA0CK574683","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"28 Ave SW 58, T2S Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06119,51.02865,0],"name":"K30406","engineType":"CE","vin":"WMEEJ3BA1EK734668","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SW 266, T2S Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.06765,51.03713,0],"name":"L37239","engineType":"CE","vin":"WMEEJ3BA1EK762194","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave NW 2016, T2N Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.10674,51.05916,0],"name":"J81317","engineType":"CE","vin":"WMEEJ3BA3CK574645","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SE 2171, T2G Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.0147,51.03302,0],"name":"K12772","engineType":"CE","vin":"WMEEJ3BA4DK704160","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"K82474","engineType":"CE","vin":"WMEEJ3BA3EK762164","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cedar Cres SW 370, T3C Calgary","city":"calgary","fuel":15,"exterior":"GOOD","coordinates":[-114.13428,51.05063,0],"name":"L37224","engineType":"CE","vin":"WMEEJ3BA7EK762300","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 St SW 1555, T2R Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.08428,51.03863,0],"name":"K30441","engineType":"CE","vin":"WMEEJ3BA4FK803418","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cliff St SW 2120, T2S Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.07575,51.03461,0],"name":"J81334","engineType":"CE","vin":"WMEEJ3BA4CK574511","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 Ave SW 870, T2R Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.08076,51.0422,0],"name":"K12824","engineType":"CE","vin":"WMEEJ3BA3DK719653","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9 Ave SW 276, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06749,51.04481,0],"name":"J81264","engineType":"CE","vin":"WMEEJ3BA0CK569631","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Laycock Dr NE 47, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06183,51.09443,0],"name":"J28138","engineType":"CE","vin":"WMEEJ3BA2DK619074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 153, T2G Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.06209,51.04034,0],"name":"J96645","engineType":"CE","vin":"WMEEJ3BA9DK619296","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3 St NE 4413, T2E Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.0538,51.09155,0],"name":"J81443","engineType":"CE","vin":"WMEEJ3BA8DK618706","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"50 Ave SW 447, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07257,51.00867,0],"name":"J81378","engineType":"CE","vin":"WMEEJ3BA9CK573886","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Boulton Rd NW 3643, T2L Calgary","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.13977,51.09533,0],"name":"J81395","engineType":"CE","vin":"WMEEJ3BAXCK575470","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Carol Dr NW 3243, T2L Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.09921,51.08095,0],"name":"K30401","engineType":"CE","vin":"WMEEJ3BA9EK734059","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"44 Ave NW 123, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06345,51.09237,0],"name":"L37214","engineType":"CE","vin":"WMEEJ3BA2EK762219","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greenview Dr NE 4306, T2E Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.05285,51.09138,0],"name":"K12819","engineType":"CE","vin":"WMEEJ3BA8DK719938","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave NW 4976, T3B Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.17006,51.07302,0],"name":"J99895","engineType":"CE","vin":"WMEEJ3BA0DK643003","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cornwallis Dr NW 93, T2K Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.08944,51.08522,0],"name":"K30445","engineType":"CE","vin":"WMEEJ3BA0FK795463","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Regal Cres NE 929, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.03689,51.06011,0],"name":"J96602","engineType":"CE","vin":"WMEEJ3BA0DK619946","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17A St SE, T2G Calgary","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.01779,51.03822,0],"name":"K12763","engineType":"CE","vin":"WMEEJ3BA1DK703712","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1773, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06373,51.03721,0],"name":"K30421","engineType":"CE","vin":"WMEEJ3BA8EK729242","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"58 Ave SW 2465, T3E Calgary","city":"calgary","fuel":69,"exterior":"UNACCEPTABLE","coordinates":[-114.11734,51.00166,0],"name":"J81327","engineType":"CE","vin":"WMEEJ3BA3CK576007","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 377, T2R Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.06934,51.04341,0],"name":"K12846","engineType":"CE","vin":"WMEEJ3BA4DK720391","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SW 229, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06563,51.05232,0],"name":"K82458","engineType":"CE","vin":"WMEEJ3BA2FK801490","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Madison Ave SW 656, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07818,51.01395,0],"name":"K12847","engineType":"CE","vin":"WMEEJ3BA1DK719926","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Dalhousie Dr NW 4513, T3A Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.15396,51.10377,0],"name":"J28105","engineType":"CE","vin":"WMEEJ3BA0DK618585","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Trans Canada Hwy, T2E Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.0523,51.06669,0],"name":"J81359","engineType":"CE","vin":"WMEEJ3BA6CK575370","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 171, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07353,51.05183,0],"name":"J81331","engineType":"CE","vin":"WMEEJ3BA4CK570779","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3 Ave NE 258, T2E Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.05866,51.05529,0],"name":"K12758","engineType":"CE","vin":"WMEEJ3BA0DK704981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Joliet Ave SW 1471, T2T Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.09416,51.02591,0],"name":"J81363","engineType":"CE","vin":"WMEEJ3BA7CK574079","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4 St SW 1581, T2R Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07163,51.03841,0],"name":"K12837","engineType":"CE","vin":"WMEEJ3BA8DK721205","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"31 Ave NE 350, T2E Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.0561,51.08054,0],"name":"K61651","engineType":"CE","vin":"WMEEJ3BA5EK766121","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"12 St SW 2011, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09164,51.03489,0],"name":"K12810","engineType":"CE","vin":"WMEEJ3BA1DK720686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"34 Ave SE 406, T2G Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.05478,51.02329,0],"name":"K12750","engineType":"CE","vin":"WMEEJ3BA9DK704588","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 St SW 1051, T2R Calgary","city":"calgary","fuel":90,"exterior":"GOOD","coordinates":[-114.08706,51.0435,0],"name":"K82468","engineType":"CE","vin":"WMEEJ3BAXFK802662","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 37 - 1056 Memorial Drive NW","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08697,51.05139,0],"name":"J81392","engineType":"CE","vin":"WMEEJ3BAXCK574903","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SW 3402, T3C Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.13201,51.04499,0],"name":"J81364","engineType":"CE","vin":"WMEEJ3BA7CK574096","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Bel-Aire Dr SW 1144, T2V Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.08769,50.99912,0],"name":"J28119","engineType":"CE","vin":"WMEEJ3BAXDK620036","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SW 2033, T2T Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.10166,51.0363,0],"name":"K12752","engineType":"CE","vin":"WMEEJ3BA0DK701904","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SE 243, T2G Calgary","city":"calgary","fuel":39,"exterior":"GOOD","coordinates":[-114.06025,51.03843,0],"name":"J99897","engineType":"CE","vin":"WMEEJ3BA1DK644838","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rideau Pl SW 3243, T2S Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.07303,51.02469,0],"name":"J81432","engineType":"CE","vin":"WMEEJ3BA0DK620613","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Royal Ave SW 676, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07708,51.03519,0],"name":"J96627","engineType":"CE","vin":"WMEEJ3BA5DK621546","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Edmonton Trl NE 4883, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05407,51.09519,0],"name":"L37242","engineType":"CE","vin":"WMEEJ3BAXFK803536","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St SE 4133, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06008,51.01666,0],"name":"J81261","engineType":"CE","vin":"WMEEJ3BA6CK568922","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St N 4853, T2E Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.06265,51.09538,0],"name":"J81296","engineType":"CE","vin":"WMEEJ3BA2CK574121","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 Ave SW 1829, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.10424,51.03497,0],"name":"K61628","engineType":"CE","vin":"WMEEJ3BA2EK764679","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1325, T2G Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.06349,51.04023,0],"name":"K61661","engineType":"CE","vin":"WMEEJ3BA7EK764211","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Bowness Rd NW 1940, T2N Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.10412,51.05118,0],"name":"J81373","engineType":"CE","vin":"WMEEJ3BA8CK575189","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"22 Ave NW 5241, T3B Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.163,51.07995,0],"name":"J96633","engineType":"CE","vin":"WMEEJ3BA3DK621433","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Home Rd NW 1465, T3B Calgary","city":"calgary","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-114.16439,51.06947,0],"name":"J99882","engineType":"CE","vin":"WMEEJ3BA7DK642060","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 416, T2R Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.07004,51.04355,0],"name":"J28121","engineType":"CE","vin":"WMEEJ3BA8DK618981","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 531, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07294,51.08745,0],"name":"L37237","engineType":"CE","vin":"WMEEJ3BA7FK803039","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SE 2349, T2G Calgary","city":"calgary","fuel":72,"exterior":"UNACCEPTABLE","coordinates":[-114.0192,51.03273,0],"name":"K12802","engineType":"CE","vin":"WMEEJ3BA0DK721831","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Hampton Inn by Hilton Calgary Airport North","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.01214,51.14291,0],"name":"J99892","engineType":"CE","vin":"WMEEJ3BA6DK641322","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J81420","engineType":"CE","vin":"WMEEJ3BA4DK619142","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4 St NW 1459, T2M Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.07147,51.06461,0],"name":"J99878","engineType":"CE","vin":"WMEEJ3BA3DK643867","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"25 St SW 1969, T3E Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.1209,51.03672,0],"name":"K12822","engineType":"CE","vin":"WMEEJ3BA5DK722442","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Shaganappi Trl NW 3669, T3A Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.15462,51.08681,0],"name":"L37227","engineType":"CE","vin":"WMEEJ3BAXEK763361","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SW 1552, T3C Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.0959,51.04045,0],"name":"J81298","engineType":"CE","vin":"WMEEJ3BA2CK574376","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 40-112 5 Ave SW Stalls on 1st-Overflow 1-3","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06407,51.04893,0],"name":"K61649","engineType":"CE","vin":"WMEEJ3BA5EK763929","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 660, T2G Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.04945,51.04205,0],"name":"K61655","engineType":"CE","vin":"WMEEJ3BA6EK764622","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"21 Ave SE 841, T2G Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.04211,51.03454,0],"name":"K12770","engineType":"CE","vin":"WMEEJ3BAXDK705233","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"14 Ave SE 140, T2G Calgary","city":"calgary","fuel":87,"exterior":"GOOD","coordinates":[-114.06245,51.03951,0],"name":"K61652","engineType":"CE","vin":"WMEEJ3BA5EK767124","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5A St SW 1927, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07559,51.03594,0],"name":"J99872","engineType":"CE","vin":"WMEEJ3BA0DK643700","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 251, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05954,51.0418,0],"name":"K12790","engineType":"CE","vin":"WMEEJ3BA5DK701686","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 537, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07303,51.08747,0],"name":"J81307","engineType":"CE","vin":"WMEEJ3BA2CK575365","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Moorcroft Rd SW 1400, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09129,50.99499,0],"name":"J81412","engineType":"CE","vin":"WMEEJ3BAXDK618951","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SE 285, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05878,51.04032,0],"name":"J81386","engineType":"CE","vin":"WMEEJ3BAXCK563674","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave NE 913, T2E Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.04198,51.06586,0],"name":"K30435","engineType":"CE","vin":"WMEEJ3BA5FK803296","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SW 524, T2R Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.07216,51.03883,0],"name":"L37225","engineType":"CE","vin":"WMEEJ3BA9EK762671","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Royal Ave SW 605, T2S Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.07444,51.03486,0],"name":"J81265","engineType":"CE","vin":"WMEEJ3BA0CK573307","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Kensington Rd NW 1457, T2N Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.09387,51.05245,0],"name":"K82470","engineType":"CE","vin":"WMEEJ3BA7FK803302","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Royal Ave SW 668, T2S Calgary","city":"calgary","fuel":33,"exterior":"GOOD","coordinates":[-114.0769,51.03517,0],"name":"K61641","engineType":"CE","vin":"WMEEJ3BA4EK764196","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"57 Ave SW 766, T2V Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.08055,51.0025,0],"name":"J99851","engineType":"CE","vin":"WMEEJ3BA8DK642732","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Utah Dr NW 3697, T2N Calgary","city":"calgary","fuel":27,"exterior":"GOOD","coordinates":[-114.14054,51.0701,0],"name":"K30444","engineType":"CE","vin":"WMEEJ3BA9FK803074","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 125, T2P Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.07346,51.0523,0],"name":"K30425","engineType":"CE","vin":"WMEEJ3BA9EK730528","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"47 Ave SW 726, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07974,51.01141,0],"name":"K12767","engineType":"CE","vin":"WMEEJ3BA5DK704555","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 St SW 1079, T2R Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.07902,51.04302,0],"name":"J96605","engineType":"CE","vin":"WMEEJ3BA8DK621010","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Chinook Centre - 3 Stalls - Beside West Parkade","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.0745,50.99807,0],"name":"K30447","engineType":"CE","vin":"WMEEJ3BA7EK762894","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 Ave SW 969, T2P Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08301,51.04791,0],"name":"J81335","engineType":"CE","vin":"WMEEJ3BA4CK574573","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"K61650","engineType":"CE","vin":"WMEEJ3BA5EK764806","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 1037, T2K Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.08427,51.08875,0],"name":"K61680","engineType":"CE","vin":"WMEEJ3BA1EK766374","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J81288","engineType":"CE","vin":"WMEEJ3BA1CK575129","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"3 St NW 3838, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06805,51.08636,0],"name":"J81339","engineType":"CE","vin":"WMEEJ3BA4CK575352","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SW 252, T2P Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.06626,51.05236,0],"name":"K12787","engineType":"CE","vin":"WMEEJ3BA3DK702092","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 Ave SW 450, T2G Calgary","city":"calgary","fuel":18,"exterior":"GOOD","coordinates":[-114.07073,51.03824,0],"name":"L37240","engineType":"CE","vin":"WMEEJ3BA9EK761441","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SE 671, T2G Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.04902,51.04512,0],"name":"L37229","engineType":"CE","vin":"WMEEJ3BA3EK763234","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"33 Ave NE 251, T2E Calgary","city":"calgary","fuel":75,"exterior":"GOOD","coordinates":[-114.05867,51.08237,0],"name":"K61619","engineType":"CE","vin":"WMEEJ3BA1EK765127","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"48 Ave NE 310, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05777,51.09568,0],"name":"J28145","engineType":"CE","vin":"WMEEJ3BA0DK620949","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Eau Claire Ave SW 591, T2P Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.07315,51.05246,0],"name":"J81402","engineType":"CE","vin":"WMEEJ3BA6DK621135","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"9A St NW 895, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08521,51.05926,0],"name":"K12838","engineType":"CE","vin":"WMEEJ3BA9DK722203","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave SE 611, T2G Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.05039,51.04588,0],"name":"J81341","engineType":"CE","vin":"WMEEJ3BA5CK573559","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 25 - 340 10 ave SW Stall on 1 Overflow 6","city":"calgary","fuel":24,"exterior":"GOOD","coordinates":[-114.06853,51.04413,0],"name":"J96630","engineType":"CE","vin":"WMEEJ3BA7DK619264","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1A St SW 5531, T2H Calgary","city":"calgary","fuel":30,"exterior":"GOOD","coordinates":[-114.06712,51.00514,0],"name":"J96634","engineType":"CE","vin":"WMEEJ3BA4DK621764","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"8 Ave SE 673, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.04898,51.0451,0],"name":"K12842","engineType":"CE","vin":"WMEEJ3BA1DK721403","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St N 3675, T2E Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.06268,51.08479,0],"name":"K82467","engineType":"CE","vin":"WMEEJ3BA6EK762174","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Canberra Rd NW 1938, T2L Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.10766,51.08408,0],"name":"K82471","engineType":"CE","vin":"WMEEJ3BA6FK803601","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"20 St SW 3573, T2T Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.10935,51.02247,0],"name":"J99894","engineType":"CE","vin":"WMEEJ3BA2DK643360","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greyhound Way SW, T3C Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.09792,51.04643,0],"name":"J81256","engineType":"CE","vin":"WMEEJ3BA6CK570105","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4 St SW 2045, T2S Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.07147,51.03476,0],"name":"J96649","engineType":"CE","vin":"WMEEJ3BA2DK620709","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"17 St SW 2531, T2T Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.10197,51.03207,0],"name":"J81258","engineType":"CE","vin":"WMEEJ3BA7CK572848","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1213, T2G Calgary","city":"calgary","fuel":93,"exterior":"GOOD","coordinates":[-114.0634,51.04132,0],"name":"J96646","engineType":"CE","vin":"WMEEJ3BA1DK619373","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Rosery Dr NW 38, T2K Calgary","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.08686,51.07737,0],"name":"K61671","engineType":"CE","vin":"WMEEJ3BA9EK763402","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 349, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07006,51.03622,0],"name":"L37236","engineType":"CE","vin":"WMEEJ3BA3EK762861","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"36 Ave SW 673, T2S Calgary","city":"calgary","fuel":42,"exterior":"GOOD","coordinates":[-114.08034,51.02168,0],"name":"K12806","engineType":"CE","vin":"WMEEJ3BA8DK722211","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Greenview Dr NE 4432, T2E Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05599,51.09156,0],"name":"K61678","engineType":"CE","vin":"WMEEJ3BAXEK766437","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"28 Ave NW 756, T2M Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.07844,51.07783,0],"name":"J81357","engineType":"CE","vin":"WMEEJ3BA6CK574011","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"15 Ave SE 115, T2G Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.06314,51.03851,0],"name":"K12843","engineType":"CE","vin":"WMEEJ3BA6DK721297","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"7 Ave SW 320, T2P Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.06835,51.04676,0],"name":"J81337","engineType":"CE","vin":"WMEEJ3BA4CK574704","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"45 St SW 843, T3C Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.1526,51.04562,0],"name":"K61612","engineType":"CE","vin":"WMEEJ3BA0EK764714","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Radford Rd NE 1267, T2E Calgary","city":"calgary","fuel":63,"exterior":"UNACCEPTABLE","coordinates":[-114.03428,51.06216,0],"name":"J81349","engineType":"CE","vin":"WMEEJ3BA5CK575280","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"1 St NW 3646, T2K Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06523,51.08453,0],"name":"J81268","engineType":"CE","vin":"WMEEJ3BA0CK573940","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"18 Ave SW 393, T2S Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.07129,51.03715,0],"name":"J96606","engineType":"CE","vin":"WMEEJ3BA6DK621703","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"11 Ave SE 685, T2G Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.04878,51.04188,0],"name":"J96637","engineType":"CE","vin":"WMEEJ3BA8DK619497","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"5 St SW 6036, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07477,50.99867,0],"name":"J81309","engineType":"CE","vin":"WMEEJ3BA2CK575771","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 Ave SE 573, T2G Calgary","city":"calgary","fuel":54,"exterior":"GOOD","coordinates":[-114.05122,51.0471,0],"name":"J28110","engineType":"CE","vin":"WMEEJ3BA6DK620776","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"23 Ave SW 2928, T3E Calgary","city":"calgary","fuel":96,"exterior":"UNACCEPTABLE","coordinates":[-114.12848,51.0331,0],"name":"K12791","engineType":"CE","vin":"WMEEJ3BA6DK701213","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cameron Ave SW 1217, T2T Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.08948,51.03638,0],"name":"J81262","engineType":"CE","vin":"WMEEJ3BA8CK570526","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"50 Ave SW 749, T2S Calgary","city":"calgary","fuel":96,"exterior":"GOOD","coordinates":[-114.07988,51.00866,0],"name":"J81295","engineType":"CE","vin":"WMEEJ3BA2CK573910","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 217, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06631,51.03616,0],"name":"L37249","engineType":"CE","vin":"WMEEJ3BA6FK803484","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Bowness Rd NW 2230, T2N Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.11118,51.0512,0],"name":"K30424","engineType":"CE","vin":"WMEEJ3BA9EK730383","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Aloft Hotel - 2 Stalls","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.1152,51.0691,0],"name":"J81399","engineType":"CE","vin":"WMEEJ3BAXCK575887","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave SW, T2T Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.09756,51.03212,0],"name":"K12751","engineType":"CE","vin":"WMEEJ3BA9DK705188","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St S 1317, T2G Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06348,51.04031,0],"name":"K61607","engineType":"CE","vin":"WMEEJ3BA7EK763219","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Cedar Cres SW 403, T3C Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.13355,51.05021,0],"name":"J81417","engineType":"CE","vin":"WMEEJ3BA1DK618580","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 40-112 5 Ave SW Stalls on 1st-Overflow 1-3","city":"calgary","fuel":57,"exterior":"GOOD","coordinates":[-114.06407,51.04893,0],"name":"J28127","engineType":"CE","vin":"WMEEJ3BA5DK618761","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Dalton Dr NW 5527, T3A Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.14822,51.10184,0],"name":"K61644","engineType":"CE","vin":"WMEEJ3BA4EK764800","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Aloft Hotel - 2 Stalls","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.1152,51.0691,0],"name":"K61695","engineType":"CE","vin":"WMEEJ3BA9EK767272","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"29 Ave SW 1683, T2T Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.0991,51.02764,0],"name":"K12835","engineType":"CE","vin":"WMEEJ3BA9DK719804","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"CPA Lot 57 - 1210 Kensington Road NW","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08944,51.05278,0],"name":"K12799","engineType":"CE","vin":"WMEEJ3BA8DK701830","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"10 Ave SW 880, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.08091,51.04385,0],"name":"K12778","engineType":"CE","vin":"WMEEJ3BA4DK704434","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"4A St NW 3222, T2M Calgary","city":"calgary","fuel":72,"exterior":"GOOD","coordinates":[-114.07295,51.08063,0],"name":"K30408","engineType":"CE","vin":"WMEEJ3BA3EK735644","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"29 Ave NW 4629, T3B Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.15379,51.0785,0],"name":"J81351","engineType":"CE","vin":"WMEEJ3BA5CK575750","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Lansdowne Ave SW 1161, T2S Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.08652,51.01643,0],"name":"K82477","engineType":"CE","vin":"WMEEJ3BA5EK761582","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Drury Ave NE 946, T2E Calgary","city":"calgary","fuel":100,"exterior":"UNACCEPTABLE","coordinates":[-114.04077,51.05799,0],"name":"K30413","engineType":"CE","vin":"WMEEJ3BA0EK729087","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"23 St SW 2245, T2T Calgary","city":"calgary","fuel":36,"exterior":"GOOD","coordinates":[-114.11621,51.03426,0],"name":"K61608","engineType":"CE","vin":"WMEEJ3BA7EK764855","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Centre St SW 545, T2G Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.06292,51.04796,0],"name":"K61609","engineType":"CE","vin":"WMEEJ3BA7EK765892","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 St SW 875, T2P Calgary","city":"calgary","fuel":12,"exterior":"GOOD","coordinates":[-114.07639,51.04526,0],"name":"K12830","engineType":"CE","vin":"WMEEJ3BA7DK721261","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 Ave NW 2799, T2N Calgary","city":"calgary","fuel":78,"exterior":"GOOD","coordinates":[-114.12352,51.07503,0],"name":"K12764","engineType":"CE","vin":"WMEEJ3BA0DK705001","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Glenmore Trl SW, T2V Calgary","city":"calgary","fuel":21,"exterior":"GOOD","coordinates":[-114.0751,50.99488,0],"name":"J81314","engineType":"CE","vin":"WMEEJ3BA3CK573673","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"ExecSuite - 702 3rd Ave SW - 2 Stalls in Alley","city":"calgary","fuel":45,"exterior":"GOOD","coordinates":[-114.07664,51.05115,0],"name":"K82453","engineType":"CE","vin":"WMEEJ3BA5FK803394","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"57 Ave SW 499, T2V Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07401,51.00245,0],"name":"J81368","engineType":"CE","vin":"WMEEJ3BA7CK575197","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Moorcroft Rd SW 1402, T2V Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.09123,50.99493,0],"name":"K61699","engineType":"CE","vin":"WMEEJ3BA5EK767382","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Balsam Dr SW, T3C Calgary","city":"calgary","fuel":60,"exterior":"UNACCEPTABLE","coordinates":[-114.13715,51.04299,0],"name":"K30433","engineType":"CE","vin":"WMEEJ3BA3FK803412","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"24 St NW 2503, T2M Calgary","city":"calgary","fuel":66,"exterior":"GOOD","coordinates":[-114.11796,51.07506,0],"name":"J81438","engineType":"CE","vin":"WMEEJ3BA6DK620020","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"23 St NW 55, T2N Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.11545,51.05147,0],"name":"K61688","engineType":"CE","vin":"WMEEJ3BA2EK766898","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"2 St SW, T2S Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.06948,51.03196,0],"name":"K12769","engineType":"CE","vin":"WMEEJ3BA6DK704905","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Riverfront Ave SW 241, T2P Calgary","city":"calgary","fuel":48,"exterior":"GOOD","coordinates":[-114.06591,51.05224,0],"name":"K61642","engineType":"CE","vin":"WMEEJ3BA4EK764358","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"6 St SE 677, T2G Calgary","city":"calgary","fuel":81,"exterior":"GOOD","coordinates":[-114.04843,51.04628,0],"name":"J81380","engineType":"CE","vin":"WMEEJ3BA9CK574553","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"40 Ave NW 1033, T2K Calgary","city":"calgary","fuel":66,"exterior":"UNACCEPTABLE","coordinates":[-114.08417,51.08873,0],"name":"J96639","engineType":"CE","vin":"WMEEJ3BAXDK619274","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"26 St SW 2087, T3E Calgary","city":"calgary","fuel":60,"exterior":"GOOD","coordinates":[-114.12384,51.03564,0],"name":"K61698","engineType":"CE","vin":"WMEEJ3BA6EK767438","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"13 Ave SW 457, T2R Calgary","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.07077,51.04072,0],"name":"K30436","engineType":"CE","vin":"WMEEJ3BA3FK803314","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Toronto Cres NW 2781, T2N Calgary","city":"calgary","fuel":51,"exterior":"GOOD","coordinates":[-114.12712,51.06108,0],"name":"J81299","engineType":"CE","vin":"WMEEJ3BA2CK574474","time":"2015-10-04T22:02:49.121-0400","interior":"UNACCEPTABLE"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"19 Ave SW 920, T2T Calgary","city":"calgary","fuel":84,"exterior":"GOOD","coordinates":[-114.08221,51.03606,0],"name":"J96626","engineType":"CE","vin":"WMEEJ3BA7DK621323","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"Saddledome Parking - North Side of 14 ave SE","city":"calgary","fuel":100,"exterior":"GOOD","coordinates":[-114.05241,51.03924,0],"name":"K12812","engineType":"CE","vin":"WMEEJ3BA6DK721915","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}
+{ "index": { "_index": "car2goworld", "_type": "cars" }}
+{"country":"canada","smartPhoneRequired":false,"address":"33 St SW 2429, T3E Calgary","city":"calgary","fuel":63,"exterior":"GOOD","coordinates":[-114.13559,51.03293,0],"name":"J81376","engineType":"CE","vin":"WMEEJ3BA8CK575838","time":"2015-10-04T22:02:49.121-0400","interior":"GOOD"}

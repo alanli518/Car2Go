@@ -1,0 +1,30 @@
+{
+	"address": "Green P-333 Eglinton Ave W(no double parking)",
+	"coordinates": [
+		-79.409,
+		43.70415,
+		0
+	],
+	"engineType": "CE",
+	"exterior": "GOOD",
+	"fuel": 72,
+	"interior": "GOOD",
+	"name": "BWJC 045",
+	"smartPhoneRequired": true,
+	"vin": "WDDMH4EB5EJ293090"
+},
+{
+	"address": "Green P-151 Hiawatha Rd(No Double Parking)",
+	"coordinates": [
+		-79.32294,
+		43.6726,
+		0
+	],
+	"engineType": "CE",
+	"exterior": "GOOD",
+	"fuel": 100,
+	"interior": "GOOD",
+	"name": "BPNM930",
+	"smartPhoneRequired": false,
+	"vin": "WMEEJ3BA2DK619348"
+}
