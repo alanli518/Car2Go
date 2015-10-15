@@ -2,6 +2,10 @@ package com.alan;
 
 /**
  * Created by alanli on 15-10-03.
+ *
+ * This program takes a 1-time snapshot of all available Car2Go's from around the world.
+ * Date from each city is cleansed (added ES header, city name, country name, timestamp)
+ * and saved separately in a JSON file.
  */
 
 import java.io.FileWriter;
@@ -69,15 +73,15 @@ public class Car2goAnalyzerWorld {
         countries[23] = "us";
 
         Car2goData car2goData = new Car2goData();
-        String strCar2go = "";
+        String strCar2go;
         CurrentTime curTime = new CurrentTime();
         JSONParser parser = new JSONParser();
-        String currentTime = "";
+        String currentTime;
 
         try {
             currentTime = curTime.getCurTime();
             for(int i = 0; i<cities.length; i++) {
-                FileWriter file = new FileWriter("/Users/alanli/Desktop/Car2Go/Output/World/"+cities[i]+currentTime+".json");
+                FileWriter file = new FileWriter("/Users/alanli/Desktop/"+cities[i]+currentTime+".json");
                 strCar2go = car2goData.getData(cities[i]);
                 Object obj = parser.parse(strCar2go);
 
