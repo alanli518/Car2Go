@@ -3,7 +3,7 @@ package com.alan;
 /**
  * Created by alanli on 15-10-03.
  *
- * This program takes a 1-time snapshot of all available Car2Go's from around the world.
+ * This program takes a one-time snapshot of all available Car2Go's from around the world.
  * Date from each city is cleansed (added ES header, city name, country name, timestamp)
  * and saved separately in a JSON file.
  */
@@ -19,7 +19,7 @@ public class Car2goAnalyzerWorld {
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
-
+        //I could use HashMap here instead of two arrays, using city as Key and country as Value
         String[] cities = new String[24];
         String[] countries = new String[24];
         cities[0] = "wien";
