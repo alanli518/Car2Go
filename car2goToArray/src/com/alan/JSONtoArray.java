@@ -7,6 +7,11 @@ import java.util.regex.Pattern;
 
 /**
  * Created by alanli on 2015-10-06.
+ *
+ * This program takes a JSON input as a string and extracts the GPS
+ * coordinates using regex and then returns the coordinates as an ArrayList.
+ *
+ * Coordinates look like [longitude, latitude, 0].
  */
 public class JSONtoArray {
 

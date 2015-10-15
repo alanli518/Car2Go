@@ -5,31 +5,17 @@ package com.alan;
  */
 
 import java.io.*;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
-import java.util.StringTokenizer;
-
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
-
 
 public class car2goToArray {
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
 
-//        Car2goData car2goData = new Car2goData();
-//        CurrentTime curTime = new CurrentTime();
-//        String currentTime = "";
-//        JSONParser parser = new JSONParser();
-
-
         String[] fileName = new String[382];
 
+        //******************************FILE LOCATIONS HAVE CHANGED********************************
         fileName[0]="/Users/alanli/Desktop/Car2Go/Output/Toronto/2015-10-04T11:26:38.543-0400.json";
         fileName[1]="/Users/alanli/Desktop/Car2Go/Output/Toronto/2015-10-04T11:31:40.231-0400.json";
         fileName[2]="/Users/alanli/Desktop/Car2Go/Output/Toronto/2015-10-04T11:36:41.116-0400.json";
@@ -415,16 +401,23 @@ public class car2goToArray {
 
         int fileLength = fileName.length;
         int count = 0;
-        String line = "";
+        String line;
         String car2goData = "";
-        ArrayList out = new ArrayList();
+        ArrayList gpsPoints = new ArrayList();
         JSONtoArray JtoA = new JSONtoArray();
-//        List<Double> xPos = new ArrayList<Double>();
-//        List<Double> yPos = new ArrayList<Double>();
+
+        //360 is max number of available cars, 382 is number of data sets
         Double[][] xPos = new Double[360][382];
         Double[][] yPos = new Double[360][382];
 
         try {
+            /**
+             * This loop will loop through all 382 JSON files and:
+             * 1) parse and extract the coordinates [long, lat, 0]
+             * 2) put them in an array of the format {lat1, long1, 0, lat2, long2, 0, lat3, long3, 0}
+             * 3) output two files: xArray.txt containing all lat coordinates and yArray.txt containing all long coordinates
+             * Each file is an array 360 by 382 large.
+             */
             for(int k = 0; k < fileLength; k++) {
                 FileReader fileReader =
                         new FileReader(fileName[k]);
@@ -433,22 +426,23 @@ public class car2goToArray {
                         new BufferedReader(fileReader);
 
                 while ((line = bufferedReader.readLine()) != null) {
-                car2goData += line;
+                    //car2goData is essentially a string containing the entire JSON file at a given timesnap
+                    car2goData += line;
                 }
-                out = JtoA.getCoordinates(car2goData);
-                //extract data here.
-                Iterator it = out.iterator();
-//                while ( it.hasNext( ) ) {
-//                    yPos.add((Double)it.next());
-//                    xPos.add((Double)it.next());
-//                    it.next();
-//                }
+
+                //gpsPoints is an ArrayList of all gps points (lat, long, and 0) inside a given timesnap JSON file
+                //e.g. gpsPoint contains {lat1, long1, 0, lat2, long2, 0, lat3, long3, 0}
+                gpsPoints = JtoA.getCoordinates(car2goData);
+
+                Iterator it = gpsPoints.iterator();
+
                 for(int j=0; j<360; j++){
                     if(it.hasNext()){
                         yPos[j][k] = (Double)it.next();
                         xPos[j][k] = (Double)it.next();
-                        it.next();
+                        it.next(); //this skips the 0 coordinate that isn't needed
                     } else {
+                        //if the given timesnap JSON file does not have the max number of 360 cars, assign 0 as coordinates
                         yPos[j][k] = 0.0;
                         xPos[j][k] = 0.0;
                     }
@@ -457,12 +451,7 @@ public class car2goToArray {
                 bufferedReader.close();
                 count += 1;
                 System.out.println("LOOP      : " + count);
-//                System.out.print("  ");
-//                System.out.print("xPOS SIZE : " + xPos.size());
-//                System.out.print("  ");
-//                System.out.print("yPOS SIZE : " + yPos.size());
-//                System.out.print("  ");
-//                System.out.println("OUT SIZE: " + out.size());
+
             }
             FileWriter file = new FileWriter("/Users/alanli/Desktop/xArray.txt");
             for(int a = 0; a < 382; a++){
@@ -484,25 +473,6 @@ public class car2goToArray {
             file.flush();
             file.close();
 
-//            FileWriter file = new FileWriter("/Users/alanli/Desktop/xArray.txt");
-//
-//            Iterator it = xPos.iterator();
-//            while ( it.hasNext( ) ) {
-//                file.write(it.next().toString());
-//                file.write("\n");
-//            }
-//            file.flush();
-//            file.close();
-//
-//            file = new FileWriter("/Users/alanli/Desktop/yArray.txt");
-//
-//            it = yPos.iterator();
-//            while ( it.hasNext( ) ) {
-//                file.write(it.next().toString());
-//                file.write("\n");
-//            }
-//            file.flush();
-//            file.close();
         }
         catch(FileNotFoundException ex) {
             System.out.println(
