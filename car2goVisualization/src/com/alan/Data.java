@@ -7,13 +7,19 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
+/**
+ * This program reads in two files, xArray.txt and yArray.txt, each containing 360 x 382
+ * latitude and longitude points, respectively. The data points are stored in two 2D arrays.
+ *
+ * The latitude and longitude points represent the GPS locations of Car2Go's in Toronto.
+ *
+ * 360 is max number of cars available at any given time.
+ * 382 is number of data points, in 5 min intervals between 11:26am and 7:18pm.
+ * Data points starts at 11:26am on 10-04-2015 and ends at 7:18pm on 10-05-2015.
+ * 11:26am is 1443972398000 in UTC milliseconds.
+ */
+
 public class Data {
-    /**
-     Data points starts at 11:26am on 10-04-2015 and ends at 7:18pm on 10-05-2015
-     11:26am is 1443972398000 in UTC milliseconds
-     360 is max number of cars available at any given time
-     382 is number of data points, in 5 min intervals between 11:26am and 7:18pm
-     */
 
     private double[][] xPts = new double[360][382];
     private double[][] yPts = new double[360][382];
@@ -26,7 +32,7 @@ public class Data {
         this.loop = 0;
         this.timeInMS = 1443972398000L;
         try {
-            FileReader fileReader = new FileReader("/Users/alanli/Documents/Car2Go-Project/Visualization/res/xArray.txt");
+            FileReader fileReader = new FileReader("res/xArray.txt");
             BufferedReader bufferedReader = new BufferedReader(fileReader);
 
             for(int a = 0; a < 382; a++){
@@ -41,7 +47,7 @@ public class Data {
                 }
             }
 
-            fileReader = new FileReader("/Users/alanli/Documents/Car2Go-Project/Visualization/res/yArray.txt");
+            fileReader = new FileReader("res/yArray.txt");
             bufferedReader = new BufferedReader(fileReader);
 
             for(int a = 0; a < 382; a++){

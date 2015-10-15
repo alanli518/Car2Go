@@ -2,6 +2,16 @@ package com.alan;
 
 /**
  * Created by alanli on 15-10-03.
+ *
+ * This program scrapes Car2Go data in Toronto from the Car2Go API every 5 minutes and
+ * saves the information in a JSON file.
+ *
+ * Every time data is scraped, an Elasticsearch header is added before each Car object
+ * data point so that it can be bulk uploaded into Elasticsearch. Each file is saved
+ * with a timestamp as an identifier of when the data was captured.
+ *
+ * A timestamp is also inserted into every Car object in each JSON file for visualization
+ * using another program.
  */
 
 import java.io.FileWriter;
@@ -9,12 +19,6 @@ import java.io.IOException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
-
-//import org.omg.CORBA.Current;
-//import java.io.FileReader;
-//import java.io.BufferedReader;
-//import java.io.InputStreamReader;
-//import java.net.URL;
 
 
 public class Car2goAnalyzer {
@@ -25,29 +29,20 @@ public class Car2goAnalyzer {
         Car2goData car2goData = new Car2goData();
         CurrentTime curTime = new CurrentTime();
         JSONParser parser = new JSONParser();
-        String currentTime = "";
-        //--------------------specify OUTPUT path------------------------------------------
-        //FileWriter file = new FileWriter("/Users/alanli/Desktop/Car2Go/Output/test123.json");
-        //---------------------------------------------------------------------------------
+        String currentTime;
 
         try {
-            int counter = 0; //DELETE*********************************************************************************
-            while(counter<10) {  //while(true)************************************************************************
+            while(true) {
                 currentTime = curTime.getCurTime();
-                FileWriter file = new FileWriter("/Users/alanli/Desktop/Car2Go/Output/"+currentTime+".json");
+                //--------------------------SPECIFY output location HERE-----
+                FileWriter file = new FileWriter("/Users/alanli/Desktop/"+currentTime+".json");
                 Object obj = parser.parse(car2goData.getData());
-
-                //            Object obj = parser.parse(new FileReader(
-                //                    "/Users/alanli/Desktop/Car2Go/Data/car2goByHour/Oct3_6_12_pm.json"));
-                //            Object obj = Car2goData.getData();
 
                 JSONObject jsonObject = (JSONObject) obj;
                 JSONArray placemarks = (JSONArray) jsonObject.get("placemarks");
 
                 int count = placemarks.size();
                 System.out.println("NUMBER OF CARS AVAILABLE: " + count);
-
-//                String indexHeader = "";
 
                 for (int i = 0; i < count; i++) {
                     JSONObject car = (JSONObject) placemarks.get(i);

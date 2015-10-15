@@ -7,6 +7,15 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import javax.swing.*;
 
+/**
+ * This program takes the x and y GPS points of Car2Gos from the Data class and plots
+ * it on a map of Toronto. Lat and Long coordinates are converted into x and y and
+ * superimposed on a background image of map of Toronto.
+ *
+ * The map is updated every 100 ms, representing 5 minutes of time has passed and
+ * the time is outputted to console.
+ */
+
 class Surface extends JPanel implements ActionListener{
 
     private Image bgImage;
@@ -34,7 +43,7 @@ class Surface extends JPanel implements ActionListener{
 
     private void loadImage() {
 
-        bgImage = new ImageIcon("/Users/alanli/Documents/Car2Go-Project/Visualization/res/1200800.png").getImage();
+        bgImage = new ImageIcon("res/1200800.png").getImage();
     }
 
     private void setSurfaceSize() {
