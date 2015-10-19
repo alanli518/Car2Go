@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES=/Users/alanli/Desktop/Car2Go/Output/World/*
+FILES=/Users/alanli/Documents/Car2Go-Project/Output/World/*
 echo "*****UPLOAD STARTING*****"
 for file in $FILES
 do
