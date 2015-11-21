@@ -8,7 +8,7 @@ import java.util.Date;
  */
 public class CurrentTime {
 
-    public String getCurTime () {
+    public static String getCurTime () {
         Date now = new Date();
         SimpleDateFormat nowFormatted = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSZ");
         String DateToStr = nowFormatted.format(now);

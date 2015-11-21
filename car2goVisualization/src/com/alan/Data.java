@@ -16,7 +16,8 @@ import java.util.Calendar;
  * 360 is max number of cars available at any given time.
  * 382 is number of data points, in 5 min intervals between 11:26am and 7:18pm.
  * Data points starts at 11:26am on 10-04-2015 and ends at 7:18pm on 10-05-2015.
- * 11:26am is 1443972398000 in UTC milliseconds.
+ * 11:26:38 am UTC-4 is 1443972398000 in UTC milliseconds.
+ * 11:25:00 am UTC-4 is 1443972300000 in UTC milliseconds.
  */
 
 public class Data {
@@ -30,7 +31,7 @@ public class Data {
 
     public Data() {
         this.loop = 0;
-        this.timeInMS = 1443972398000L;
+        this.timeInMS = 1443972300000L;
         try {
             FileReader fileReader = new FileReader("res/xArray.txt");
             BufferedReader bufferedReader = new BufferedReader(fileReader);

@@ -9,7 +9,7 @@ import java.net.URL;
  */
 public class Car2goData {
 
-    public String getData (String city) {
+    public static String getData (String city) {
         try {
 
             URL url = new URL("https://car2go.com/api/v2.1/vehicles?loc="+city+"&oauth_consumer_key=car2gowebsite&format=json");

@@ -19,6 +19,7 @@ import java.io.IOException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
+import org.omg.CORBA.Current;
 
 
 public class Car2goAnalyzer {
@@ -26,17 +27,15 @@ public class Car2goAnalyzer {
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
 
-        Car2goData car2goData = new Car2goData();
-        CurrentTime curTime = new CurrentTime();
         JSONParser parser = new JSONParser();
         String currentTime;
 
         try {
             while(true) {
-                currentTime = curTime.getCurTime();
+                currentTime = CurrentTime.getCurTime();
                 //--------------------------SPECIFY output location HERE-----
                 FileWriter file = new FileWriter("/Users/alanli/Desktop/"+currentTime+".json");
-                Object obj = parser.parse(car2goData.getData());
+                Object obj = parser.parse(Car2goData.getData());
 
                 JSONObject jsonObject = (JSONObject) obj;
                 JSONArray placemarks = (JSONArray) jsonObject.get("placemarks");
@@ -56,7 +55,7 @@ public class Car2goAnalyzer {
                 }
                 file.flush();
                 file.close();
-                Thread.sleep( 300 * 1000);
+                Thread.sleep( 5 * 60 * 1000);
             }
         } catch (Exception e) {
             e.printStackTrace();

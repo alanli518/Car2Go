@@ -72,17 +72,15 @@ public class Car2goAnalyzerWorld {
         countries[22] = "us";
         countries[23] = "us";
 
-        Car2goData car2goData = new Car2goData();
         String strCar2go;
-        CurrentTime curTime = new CurrentTime();
         JSONParser parser = new JSONParser();
         String currentTime;
 
         try {
-            currentTime = curTime.getCurTime();
+            currentTime = CurrentTime.getCurTime();
             for(int i = 0; i<cities.length; i++) {
                 FileWriter file = new FileWriter("/Users/alanli/Desktop/"+cities[i]+currentTime+".json");
-                strCar2go = car2goData.getData(cities[i]);
+                strCar2go = Car2goData.getData(cities[i]);
                 Object obj = parser.parse(strCar2go);
 
                 JSONObject jsonObject = (JSONObject) obj;

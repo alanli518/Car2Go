@@ -11,7 +11,7 @@ import java.net.URL;
  */
 public class Car2goData {
 
-    public String getData () {
+    public static String getData () {
         try {
             URL url = new URL("https://car2go.com/api/v2.1/vehicles?loc=toronto&oauth_consumer_key=car2gowebsite&format=json");
             BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
